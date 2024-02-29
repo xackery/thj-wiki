@@ -30,24 +30,31 @@ languages:
           tag: tags
           series: series
         menu:
-            main:
-                - name: WBC3 TPE
-                  url: posts/wbc3/tpe
-                  weight: 1 
-                - name: 7 Days to Die
-                  url: posts/7daystodie/
+            main: 
+                - name: Server Links
+                  url: server-links
                   weight: 1
-                - name: Archive
-                  url: archives
+                - name: New Players
+                  url: new-players
                   weight: 5
-                - name: Search
-                  url: search/
-                  weight: 10
+                - name: Progression
+                  url: progression
+                  weight: 6
+                - name: Quests
+                  url: quests
+                  weight: 7
+                - name: Classes
+                  url: classes
+                  weight: 8
+                - name: Tradeskills
+                  url: tradeskills
+                  weight: 9
+                - name: Map
+                  url: map
+                  weight: 10                  
                 - name: Tags
                   url: tags/
-                  weight: 10
-                - name: Discord
-                  url: https://discord.gg/WWzGbbyt3e
+                  weight: 11
 outputs:
     home:
         - HTML
@@ -89,8 +96,8 @@ params:
     homeInfoParams:
         Title: "THJ-Wiki"
         Content: >
-            Welcome to THJ-Wiki's website.
-            - Do give a 🌟 on [Github](https://github.com/xackery)!
+            <p>The landing page content is currently inside config.yml in the root of the server.</p>
+            You can check it out in the source code!
     socialIcons:
         - name: github
           url: "https://github.com/xackery/thj-wiki"
