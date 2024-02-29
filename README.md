@@ -1,0 +1,2 @@
+# thj-wiki
+THJ Wiki
