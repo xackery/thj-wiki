@@ -1,7 +1,7 @@
 baseURL: "/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: THJ-Wiki
 paginate: 30
-theme: papermod
+theme: amethyst
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
