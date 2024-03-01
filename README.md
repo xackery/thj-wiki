@@ -1,14 +1,8 @@
 # thj-wiki.web.app
 
-Open source website
-
 Source code to thj-wiki.web.app
 
-Theme is from http://themes.gohugo.io/hugo-icarus/
-
-Self notes about rsync via windows: http://articles.manugarg.com/backup_rsync.html
+Theme is from https://github.com/64bitpandas/amethyst
 
 
-## Adding a theme
-git submodule add git@github.com:adityatelange/hugo-PaperMod.git th
-emes/papermod
+just double click server.bat to start
