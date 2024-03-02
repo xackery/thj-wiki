@@ -8,7 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - run: sudo apt-get update && sudo apt-get install bc make hugo
+      - run: sudo apt-get update && sudo apt-get install bc make
+      - run: sudo dpkg -i https://github.com/gohugoio/hugo/releases/download/v0.123.7/hugo_extended_0.123.7_linux-amd64.deb
       - run: make build
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
