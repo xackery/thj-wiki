@@ -1,0 +1,58 @@
+baseURL = "/"
+languageCode = "en-us"
+disablePathToLower = true
+enableGitInfo = true
+theme = "amethyst"
+
+
+[params]
+title = "THJ-Wiki"
+description = "thj-wiki.web.app"
+enableFooter = false
+enableGitHubEdit = true
+gitHubLink = "https://github.com/xackery/thj-wiki"
+# bookSearchExclude = ?
+# bookServiceWorker = ?
+# bookCollapseSection = ?
+# bookComments = ?
+# bookCommitPath = ?
+# bookDateFormat = ?
+bookEditPath = true
+# bookFlatSection = ?
+# bookHref = ?
+# bookLogo = ?
+# bookMenuBundle = ?
+# bookRepo = ?
+bookSearch = false
+# bookSection = ?
+# bookServiceWorker = ?
+# bookTheme = ?
+# bookToC = ?
+# bookTranslatedOnly = ?
+# class = ?
+# contentDir = "/content"
+enableCallouts = true
+# enableCodeBlockCopy = ?
+# enableCodeBlockTitle = ?
+# enableContextualBacklinks = ?
+enableSemanticSearch = false
+enableLatex = false
+enableLinkPreview = true
+# enableSPA = ?
+# favicon = ?
+# image = ?
+# links = ?
+# name = ?
+# search = ?
+# enableToc = ?
+
+
+[languages]
+  [languages.en]
+    disabled = false
+    languageCode = ''
+    languageDirection = ''
+    languageName = ''
+    title = ''
+    weight = 0
+

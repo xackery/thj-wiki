@@ -23,15 +23,11 @@ menu:
   #   - name: "Sample"
   #     url: "https://google.com"
   #     weight: 10
-  after:
-    - name: "Github"
-      url: "https://github.com/64bitpandas/amethyst"
-      weight: 10
 
 params:
 
-  name: Ben Cuan
-  title: 📓 Amethyst
+  name: Xackery
+  title: The Heroes Journey
 
   # OPTIONAL: custom favicon location
   # favicon: 'location/to/favicon.png'
@@ -41,7 +37,7 @@ params:
 
   # Enable rendering of LaTeX blocks
   # (surrounded by either single or double dollar signs)
-  enableLatex: true
+  enableLatex: false
 
   # whether to render titles for code blocks
   enableCodeBlockTitle: true
@@ -53,7 +49,7 @@ params:
   enableCallouts: true
 
   # Show footer, including backlinks and graph view
-  enableFooter: true
+  enableFooter: false
 
   # whether backlinks of pages should show the context in which
   # they were mentioned
@@ -145,3 +141,4 @@ params:
   BookSearch: false
   BookServiceWorker: false
   BookPortableLinks: false
+

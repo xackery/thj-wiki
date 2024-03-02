@@ -1,7 +1,8 @@
 ---
-title: "Interactive Map"
-layout: "single"
+title: "Map"
+weight: 3
 ---
+![Map](images/map.png)
 
 Insert interactive map here
 
