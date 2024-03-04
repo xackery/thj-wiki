@@ -1,5 +1,6 @@
 ---
 title: Water Sprinkler of the Nem Ankh (Cleric Epic)
+bookHidden: true
 ---
 
 ## Checklist

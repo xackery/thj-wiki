@@ -1,5 +1,6 @@
 ---
 title: Singing Short Sword (Bard Epic)
+bookHidden: true
 ---
 ## Checklist
 

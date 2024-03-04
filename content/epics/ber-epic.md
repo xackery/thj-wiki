@@ -1,5 +1,6 @@
 ---
 title: Kerasian Axe of Rage (Berserker Epic)
+bookHidden: true
 ---
 
 ## Checklist

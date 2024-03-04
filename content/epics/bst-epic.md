@@ -1,5 +1,6 @@
 ---
 title: Claw of the Savage Spirit (Beastlord Epic)
+bookHidden: true
 ---
 ## Checklist
 
