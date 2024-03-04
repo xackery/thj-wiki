@@ -3,7 +3,7 @@ NAME := thj-wiki.web.app
 
 .PHONY: server
 server:
-	@hugo server
+	@hugo server -b http://localhost:1313/
 .PHONY: build
 build: 
 	@#rm -rf public/*

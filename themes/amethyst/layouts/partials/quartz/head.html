@@ -13,6 +13,8 @@
 </title>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+<link rel="stylesheet" href="/css/tpe-scss.css" rel="stylesheet">
+
 <!-- HTML Favicon -->
 {{ $favicon := $data.favicon  | default $.Site.Params.favicon | default (slice (dict "rel" "shortcut icon" "type" "image/png" "href" "favicon.png")) }}
 {{ $type := (printf "%T" $favicon) }}
