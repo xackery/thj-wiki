@@ -8,7 +8,7 @@ Progression is broken into expansions, with key mobs needing to be killed to unl
 # Classic
 
 {{<details title="List of Classic Zones">}}
-Classic Zones
+TODO: list every classic zone available, for quick search/unlock reference
 {{</details>}}
 
 ## Classic Bosses to kill for Kunark Unlock
