@@ -1,5 +1,6 @@
 ---
 title: Teleport Unlocks
+description: Tearel in the bazaar can be used to teleport to various destinations for a fee. This page lists all locations unlockable.
 ---
 
 Tearel in the bazaar can be used to teleport to various destinations for a fee. You unlock them account wide by visiting certain areas within each zone.
@@ -10,50 +11,48 @@ Tearel in the bazaar can be used to teleport to various destinations for a fee. 
 
 The list of zones Tearel can teleport to are:
 
-Name|Notes
----|---
-akanon|
-blackburrow|
-burningwood|Chardok
-cabeast|
-cauldron|The Island
-cauldron|Unrest
-cazicthule|The Maze
-citymist|
-commons|Roadside Inn
-dreadlands|Greater Combine Spires
-dreadlands|The Ruins
-erudnext|
-erudsxing|Crater Rim
-felwithea|
-fieldofbone|
-firiona|
-freportw|
-gfaydark|Kelethin
-grobb|
-halas|
-hateplaneb|
-highpasshold|
-hole|The Ruined City
-hole|The Ruined City
-kaladima|
-lakeofillomen|
-lavastorm|Magmafields
-mistmoore|
-neriakb|
-northkarana|Greater Combine Spires
-oasis|Desert Gypsy Camp
-oggok|
-oot|The Ruined Ring
-overthere|Crossroads
-paineel|
-permafrost|Citadel of the Frost Giants
-permafrost|Citadel of the Frost Giants
-qeynos2|
-qrg|
-rathemtn|Near the Lake
-rivervale|
-soldungb|Lava Crawler Tunnels
-soldungb|Lava Crawler Tunnels
-southkarana|Aviak Village
-trakanon|The Ruins of Old Sebilis
+### Classic
+
+* Ak'Anon (akanon)
+* Blackburrow (blackburrow)
+* East Cabilis (cabeast)
+* Dagnor's Cauldron (cauldron)
+* Cazic Thule (cazicthule)
+* West Commonlands (commons)
+* Erudin (erudnext)
+* Erud's Crossing (erudsxing)
+* Felwithe (felwithea)
+* West Freeport (freportw)
+* Greater Faydark (gfaydark)
+* Grobb (grobb)
+* Halas (halas)
+* Plane of Hate (hateplaneb)
+* Highpass Hold (highpasshold)
+* The Hole (hole)
+* Kaladim (kaladima)
+* Lavastorm (lavastorm)
+* Castle Mistmoore (mistmoore)
+* Neriak Commons (neriakb)
+* North Karana (northkarana)
+* Oasis of Marr (oasis)
+* Oggok (oggok)
+* Ocean of Tears (oot)
+* Paineel (paineel)
+* Permafrost (permafrost)
+* North Qeynos (qeynos2)
+* Surefall Glade (qrg)
+* Rathe Mountains (rathemtn)
+* Rivervale (rivervale)
+* Nagafen's Lair (soldungb)
+* South Karana (southkarana)
+
+### Kunark
+
+* Burning Woods (burningwood)
+* City of Mist (citymist)
+* Dreadlands (dreadlands)
+* Field of Bone (fieldofbone)
+* Firiona Vie (firiona)
+* The Lake of Ill Omen (lakeofillomen)
+* The Overthere (overthere)
+* Trakanon's Tooth (trakanon)
