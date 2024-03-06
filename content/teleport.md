@@ -12,48 +12,48 @@ The list of zones Tearel can teleport to are:
 
 Name|Notes
 ---|---
-erudnext|
-paineel|
-qeynos2|
-freportw|
-halas|
-gfaydark|Kelethin
-felwithea|
-neriakb|
-kaladima|
-grobb|
-oggok|
-rivervale|
 akanon|
-cabeast|
-mistmoore|
-cauldron|Unrest
-cauldron|The Island
-hateplaneb|
-hole|The Ruined City
-erudsxing|Crater Rim
-qrg|
-northkarana|Greater Combine Spires
-permafrost|Citadel of the Frost Giants
 blackburrow|
-southkarana|Aviak Village
-highpasshold|
-commons|Roadside Inn
-oasis|Desert Gypsy Camp
-rathemtn|Near the Lake
-lavastorm|Magmafields
-oot|The Ruined Ring
+burningwood|Chardok
+cabeast|
+cauldron|The Island
+cauldron|Unrest
 cazicthule|The Maze
-trakanon|The Ruins of Old Sebilis
 citymist|
-soldungb|Lava Crawler Tunnels
-fieldofbone|
-firiona|
+commons|Roadside Inn
 dreadlands|Greater Combine Spires
 dreadlands|The Ruins
-lakeofillomen|
-burningwood|Chardok
-overthere|Crossroads
-soldungb|Lava Crawler Tunnels
-permafrost|Citadel of the Frost Giants
+erudnext|
+erudsxing|Crater Rim
+felwithea|
+fieldofbone|
+firiona|
+freportw|
+gfaydark|Kelethin
+grobb|
+halas|
+hateplaneb|
+highpasshold|
 hole|The Ruined City
+hole|The Ruined City
+kaladima|
+lakeofillomen|
+lavastorm|Magmafields
+mistmoore|
+neriakb|
+northkarana|Greater Combine Spires
+oasis|Desert Gypsy Camp
+oggok|
+oot|The Ruined Ring
+overthere|Crossroads
+paineel|
+permafrost|Citadel of the Frost Giants
+permafrost|Citadel of the Frost Giants
+qeynos2|
+qrg|
+rathemtn|Near the Lake
+rivervale|
+soldungb|Lava Crawler Tunnels
+soldungb|Lava Crawler Tunnels
+southkarana|Aviak Village
+trakanon|The Ruins of Old Sebilis
