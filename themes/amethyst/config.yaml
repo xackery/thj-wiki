@@ -26,7 +26,7 @@ menu:
 
 params:
 
-  
+
   title: The Heroes Journey
 
   # OPTIONAL: custom favicon location
@@ -78,13 +78,11 @@ params:
   description:
     Notes, hosted by bencuan
 
-  
+
   # Footer links
   links:
-    - link_name: Website
-      link: https://bencuan.me
-    - link_name: Blog
-      link: https://blog.bencuan.me
+    - link_name: THJ Website
+      link: https://heroesjourneyeq.com/
 
   # (Optional, default true) Controls table of contents visibility on right side of pages.
   # Start and end levels can be controlled with markup.tableOfContents setting.
