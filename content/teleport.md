@@ -17,22 +17,23 @@ The list of zones Tearel can teleport to are:
 
 * Ak'Anon (akanon)
 * Blackburrow (blackburrow)
-* Castle Mistmoore (mistmoore)
+* Castle Mistmoore (mistmoore) - near the Lesser Faydark zone out
 * Cazic Thule (cazicthule)
-* Dagnor's Cauldron (cauldron) - 2 Locations, near the Unrest Zone in, and on the Island (right by the Kedge Keep instance giver)
+* Dagnor's Cauldron (cauldron) - near the Unrest zone in
+* Dagnor's Cauldron (cauldron) - on the island
 * East Cabilis (cabeast)
 * Erud's Crossing (erudsxing)
 * Erudin (erudnext)
 * Felwithe (felwithea)
 * Greater Faydark (gfaydark)
 * Grobb (grobb)
-* Halas (halas)
+* Halas (halas) - near the ferry to Everfrost
 * Highpass Hold (highpasshold)
-* Hole (hole)
-* Kaladim (kaladima)
-* Lavastorm (lavastorm)
-* Nagafen's Lair (soldungb) - Near stone spider named
-* Neriak Commons (neriakb)
+* Hole (hole) - near the drop cliff near entrance
+* Kaladim (kaladima) - near the Butcherblock zone out
+* Lavastorm (lavastorm) - near the pit
+* Nagafen's Lair (soldungb) - in the stone spider den area
+* Neriak Commons (neriakb) - near Neriak Foreign Quarter exit
 * North Karana (northkarana)
 * North Qeynos (qeynos2)
 * Oasis of Marr (oasis)
@@ -46,7 +47,7 @@ The list of zones Tearel can teleport to are:
 * South Karana (southkarana)
 * Surefall Glade (qrg)
 * West Commonlands (commons)
-* West Freeport (freportw)
+* West Freeport (freportw) - near East Freeport zone line
 
 ### Kunark
 
@@ -57,4 +58,4 @@ The list of zones Tearel can teleport to are:
 * Firiona Vie (firiona)
 * Lake of Ill Omen (lakeofillomen)
 * Overthere (overthere)
-* Trakanon's Tooth (trakanon)
+* Trakanon's Tooth (trakanon) - Near the Sebilis zone orb
