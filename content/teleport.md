@@ -34,7 +34,7 @@ The list of locations Tearel can teleport to are:
 * Erudin (erudnext)
 * Felwithe (felwithea)
 * Greater Faydark (gfaydark)
-* Grobb (grobb)
+* Grobb (grobb) - near the warrior guild master
 * Halas (halas) - near the ferry to Everfrost
 * Highpass Hold (highpasshold)
 * Hole (hole) - near the drop cliff near entrance
