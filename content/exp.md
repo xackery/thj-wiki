@@ -1,6 +1,7 @@
 ---
 title: EXP Grouping Level
 description: Group Experience Level Ranges
+images: [images/exp.png]
 ---
 
 ![Experience](images/exp.png)

@@ -1,6 +1,7 @@
 ---
 title: "Progression"
 weight: 6
+images: [images/progression.png]
 ---
 
 ![Progression](images/progression.png)

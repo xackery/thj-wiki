@@ -1,6 +1,8 @@
 ---
 title: Hunting Locations
 bookToc: false
+image: images/hunting.png
+description: A list of hunting locations for various level ranges
 ---
 Based on p99's hunting guide
 <!--more-->
