@@ -1,11 +1,10 @@
 ---
 title: "Zone Guide"
 weight: 3
+description: "Discover how to get from zone A to B."
 ---
 
-Discover how to get from zone A to B.
-
-<!--more-->
+![Zone Guide](images/zone-guide.png)
 
 {{<rawhtml>}}
 <div class="container">

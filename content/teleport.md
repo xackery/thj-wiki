@@ -3,8 +3,9 @@ title: Teleport Unlocks
 description: Tearel in the bazaar can be used to teleport to various destinations for a fee. This page lists all locations unlockable.
 ---
 
+![Teleport](images/teleport.png)
+
 Tearel in the bazaar can be used to teleport to various destinations for a fee. You unlock them account wide by visiting certain areas within each zone.
-<!--more-->
 
 > [!note]
 > Creating a new character that starts in a provided zone will unlock it too!

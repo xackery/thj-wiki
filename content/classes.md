@@ -5,6 +5,9 @@ chapter: true
 description: Classes found in THJ, AAs initially unlocked, and other class-specific information.
 ---
 
+![Classes](images/classes.png)
+
+
 ## Bard
 
 

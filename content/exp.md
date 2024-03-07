@@ -1,8 +1,10 @@
 ---
 title: EXP Grouping Level
+description: Group Experience Level Ranges
 ---
 
-{{<table "table table-striped table-bordered">}}
+![Experience](images/exp.png)
+
 Low|High|Low|High|Low|High|Low|High|Low|High
 ---|---|---|---|---|---|---|---|---|---
 1|6|17|26|33|49|49|75|65|95
@@ -21,4 +23,3 @@ Low|High|Low|High|Low|High|Low|High|Low|High
 14|21|30|45|46|70|62|92|78|108
 15|23|31|47|47|72|63|93|79|109
 16|24|32|48|48|73|64|94|80|110
-{{</table>}}

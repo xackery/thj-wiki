@@ -3,6 +3,8 @@ title: "Progression"
 weight: 6
 ---
 
+![Progression](images/progression.png)
+
 Progression is broken into expansions, with key mobs needing to be killed to unlock the next.
 
 # Classic
