@@ -17,7 +17,7 @@ The list of zones Tearel can teleport to are:
 * Blackburrow (blackburrow)
 * Castle Mistmoore (mistmoore)
 * Cazic Thule (cazicthule)
-* Dagnor's Cauldron (cauldron)
+* Dagnor's Cauldron (cauldron) - 2 Locations, near the Unrest Zone in, and on the Island (right by the Kedge Keep instance giver)
 * East Cabilis (cabeast)
 * Erud's Crossing (erudsxing)
 * Erudin (erudnext)
