@@ -2,6 +2,7 @@
 title: "Progression"
 weight: 6
 images: [images/progression.png]
+description: Progression guide through the heroes journey.
 ---
 
 ![Progression](images/progression.png)
