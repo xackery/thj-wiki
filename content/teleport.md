@@ -29,7 +29,7 @@ The list of zones Tearel can teleport to are:
 * Hole (hole)
 * Kaladim (kaladima)
 * Lavastorm (lavastorm)
-* Nagafen's Lair (soldungb)
+* Nagafen's Lair (soldungb) - Near stone spider named
 * Neriak Commons (neriakb)
 * North Karana (northkarana)
 * North Qeynos (qeynos2)
