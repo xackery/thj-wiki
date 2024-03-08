@@ -763,6 +763,7 @@ w.addBiZoneLine('freportw', 'freportn', 2);
 w.addBiZoneLine('freportw', 'ecommons', 2);
 w.addBiZoneLine('ecommons', 'commons', 2);
 w.addBiZoneLine('ecommons', 'nektulos', 2);
+w.addBiZoneLine('ecommons', 'nro', 2);
 w.addBiZoneLine('nektulos', 'lavastorm', 2);
 w.addBiZoneLine('lavastorm', 'soldungb', 2);
 w.addBiZoneLine('lavastorm', 'soldunga', 2);
