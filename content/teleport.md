@@ -44,7 +44,7 @@ The list of locations Tearel can teleport to are:
 * Neriak Commons (neriakb) - near Neriak Foreign Quarter exit
 * North Karana (northkarana)
 * North Qeynos (qeynos2)
-* Oasis of Marr (oasis)
+* Oasis of Marr (oasis) - near the gypsy merchant
 * Ocean of Tears (oot)
 * Oggok (oggok)
 * Paineel (paineel)
