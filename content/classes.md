@@ -43,6 +43,8 @@ This ability increases the number of mystical effects that can affect you at onc
 
 - Epic: [Singing Short Sword](epics/brd-epic.md)
 
+- [Bard Songs](spells/brd.md)
+
 ## Beastlord
 
 
@@ -78,6 +80,8 @@ This ability increases the number of mystical effects that can affect you at onc
 
 - Epic: [Claw of the Savage Spirit](epics/bst-epic.md)
 
+- [Beastlord Spells](spells/bst.md)
+
 ## Berserker
 
 {{<details title="Rampage (Active)">}}
@@ -108,6 +112,8 @@ This ability increases the number of mystical effects that can affect you at onc
 
 - Epic: [Kerasian Axe of Rage](epics/ber-epic.md)
 
+- [Berserker Spells](spells/ber.md)
+
 ## Cleric
 
 {{<details title="Divine Arbitration (Active)">}}
@@ -137,6 +143,8 @@ This ability increases the number of mystical effects that can affect you at onc
 {{</details>}}
 
 - Epic: [Water Sprinkler of the Nem Ankh](epics/clr-epic.md)
+
+- [Cleric Spells](spells/clr.md)
 
 ## Druid
 
@@ -170,6 +178,8 @@ This ability increases the number of mystical effects that can affect you at onc
 {{</details>}}
 
 - Epic: [Nature Walker's Scimitar](epics/dru-epic.md)
+
+- [Druid Spells](spells/dru.md)
 
 ## Enchanter
 
@@ -212,6 +222,8 @@ This ability increases the number of mystical effects that can affect you at onc
 
 - Epic: [Staff of the Serpent](epics/enc-epic.md)
 
+- [Enchanter Spells](spells/enc.md)
+
 ## Magician
 
 {{<details title="Pet Affinity (Passive)">}}
@@ -247,6 +259,9 @@ This ability increases the number of mystical effects that can affect you at onc
 
 
 - Epic: [Orb of Master](epics/mag-epic.md)
+
+- [Magician Spells](spells/mag.md)
+
 ## Monk
 
 
@@ -271,6 +286,10 @@ This ability increases the number of mystical effects that can affect you at onc
 {{</details>}}
 
 - Epic: [Celestial Fists](epics/mnk-epic.md)
+
+- [Monk Spells](spells/mnk.md)
+
+
 
 ## Necromancer
 
@@ -309,6 +328,8 @@ This ability increases the number of mystical effects that can affect you at onc
 
 - Epic: [Scythe of the Shadowed Soul](epics/nec-epic.md)
 
+- [Necromancer Spells](spells/nec.md)
+
 ## Paladin
 
 {{<details title="Divine Stun (Active)">}}
@@ -332,6 +353,8 @@ This ability increases the number of mystical effects that can affect you at onc
 {{</details>}}
 
 - Epic: [Fiery Defender](epics/pal-epic.md)
+
+- [Paladin Spells](spells/pal.md)
 
 ## Ranger
 
@@ -365,6 +388,8 @@ This ability increases the number of mystical effects that can affect you at onc
 
 - Epic: [Earthcaller, Swiftwind](epics/rng-epic.md)
 
+- [Ranger Spells](spells/rng.md)
+
 ## Rogue
 
 {{<details title="Chaotic Stab (Passive)">}}
@@ -394,6 +419,8 @@ This ability increases the number of mystical effects that can affect you at onc
 
 - Epic: [Ragebringer](epics/rog-epic.md)
 
+- [Rogue Spells](spells/rog.md)
+
 ## Shadow Knight
 
 {{<details title="Explosion of Spite (Active)">}}
@@ -417,6 +444,8 @@ This ability increases the number of mystical effects that can affect you at onc
 {{</details>}}
 
 - Epic: [Innoruuk's Curse](epics/shd-epic.md)
+
+- [Shadow Spells Knight](spells/shd.md)
 
 ## Shaman
 
@@ -448,6 +477,8 @@ This ability increases the number of mystical effects that can affect you at onc
 
 - Epic: [Spear of Fate](epics/shm-epic.md)
 
+- [Shaman Spells](spells/shm.md)
+
 ## Warrior
 
 {{<details title="Vehement Rage (Active)">}}
@@ -478,7 +509,9 @@ This passive ability increases the capacity of your extended target window by on
 This ability increases the number of mystical effects that can affect you at once by 1 per rank.
 {{</details>}}
 
-* Epic: [Jagged Blade of War](epics/war-epic.md)
+- Epic: [Jagged Blade of War](epics/war-epic.md)
+
+- [Warrior Spells](spells/war.md)
 
 ## Wizard
 
@@ -506,4 +539,6 @@ This passive ability increases the capacity of your extended target window by on
 This ability increases the number of mystical effects that can affect you at once by 1 per rank.
 {{</details>}}
 
-* Epic: [Staff of the Four](epics/wiz-epic.md)
+- Epic: [Staff of the Four](epics/wiz-epic.md)
+
+- [Wizard Spells](spells/wiz.md)
