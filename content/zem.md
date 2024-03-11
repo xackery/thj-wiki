@@ -1,6 +1,7 @@
 ---
 title: Zone Experience Modifier
 description: Zone EXP for each zone
+note: select short_name, long_name, zone_exp_multiplier, expansion from zone where expansion = 2 order by zone_exp_multiplier desc;
 ---
 
 Note this is only for the alpha and will change when the DB inject occurs.
@@ -127,3 +128,31 @@ nurga|Mines of Nurga|0.95
 droga|Mines of Droga|0.95
 citymist|The City of Mist|0.85
 lakeofillomen|Lake of Ill Omen|0.80
+
+## Velious
+
+
+short|long|modifier
+---|---|---
+warrens|The Warrens|2.00
+velketor|Velketor's Labyrinth|1.50
+necropolis|Dragon Necropolis|1.50
+templeveeshan|The Temple of Veeshan|1.33
+sleeper|The Sleeper's Tomb|1.20
+crystal|The Crystal Caverns|1.13
+sirens|Siren's Grotto|1.13
+skyshrine|Skyshrine|1.13
+frozenshadow|The Tower of Frozen Shadow|1.13
+growthplane|The Plane of Growth|1.13
+thurgadina|The City of Thurgadin|1.13
+thurgadinb|Icewell Keep|1.13
+kael|Kael Drakkel|1.13
+mischiefplane|The Plane of Mischief|1.13
+westwastes|The Western Wastes|1.06
+cobaltscar|Cobaltscar|1.00
+eastwastes|Eastern Wastes|1.00
+stonebrunt|The Stonebrunt Mountains|1.00
+greatdivide|The Great Divide|1.00
+wakening|The Wakening Land|1.00
+iceclad|The Iceclad Ocean|1.00
+sirens|Siren's Grotto|0.85
