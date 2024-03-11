@@ -2,7 +2,11 @@
 title: Zone Experience Modifier
 description: Zone EXP for each zone
 note: select short_name, long_name, zone_exp_multiplier, expansion from zone where expansion = 2 order by zone_exp_multiplier desc;
+images: [images/zem.png]
 ---
+
+![ZEM](images/zem-banner.png)
+
 
 Note this is only for the alpha and will change when the DB inject occurs.
 
