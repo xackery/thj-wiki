@@ -1,8 +1,11 @@
 ---
 title: Druid Spells
+images: [spells/images/dru.png]
 bookHidden: true
 description: Druid Spells.
 ---
+![Druid Spells](images/dru-banner.png)
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

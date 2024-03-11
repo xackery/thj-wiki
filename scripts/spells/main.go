@@ -104,10 +104,13 @@ func run() error {
 			context = "Songs"
 		}
 		out += "title: " + class + " " + context + "\n"
-
+		out += `images: [spells/images/` + classShortName + `.png]` + "\n"
 		out += "bookHidden: true\n"
 		out += fmt.Sprintf("description: %s %s.\n", class, context)
 		out += "---\n"
+
+		out += fmt.Sprintf("![%s %s](images/%s-banner.png)\n\n", class, context, classShortName)
+
 		out += "This was auto generated and likely buggy. Expect issues!\n"
 		for _, spell := range spells {
 			spell.ZoneLongName = spellZone(strings.ToLower(spell.ZoneShortName), zones)

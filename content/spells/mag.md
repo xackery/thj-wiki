@@ -1,8 +1,11 @@
 ---
 title: Magician Spells
+images: [spells/images/mag.png]
 bookHidden: true
 description: Magician Spells.
 ---
+![Magician Spells](images/mag-banner.png)
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

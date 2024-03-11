@@ -1,8 +1,11 @@
 ---
 title: Monk Disciplines
+images: [spells/images/mnk.png]
 bookHidden: true
 description: Monk Disciplines.
 ---
+![Monk Disciplines](images/mnk-banner.png)
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

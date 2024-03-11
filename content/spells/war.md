@@ -1,8 +1,11 @@
 ---
 title: Warrior Disciplines
+images: [spells/images/war.png]
 bookHidden: true
 description: Warrior Disciplines.
 ---
+![Warrior Disciplines](images/war-banner.png)
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

@@ -1,8 +1,11 @@
 ---
 title: Enchanter Spells
+images: [spells/images/enc.png]
 bookHidden: true
 description: Enchanter Spells.
 ---
+![Enchanter Spells](images/enc-banner.png)
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

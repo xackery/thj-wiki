@@ -1,8 +1,11 @@
 ---
 title: Cleric Spells
+images: [spells/images/clr.png]
 bookHidden: true
 description: Cleric Spells.
 ---
+![Cleric Spells](images/clr-banner.png)
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

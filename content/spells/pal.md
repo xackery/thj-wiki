@@ -1,8 +1,11 @@
 ---
 title: Paladin Spells
+images: [spells/images/pal.png]
 bookHidden: true
 description: Paladin Spells.
 ---
+![Paladin Spells](images/pal-banner.png)
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

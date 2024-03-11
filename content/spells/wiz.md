@@ -1,8 +1,11 @@
 ---
 title: Wizard Spells
+images: [spells/images/wiz.png]
 bookHidden: true
 description: Wizard Spells.
 ---
+![Wizard Spells](images/wiz-banner.png)
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

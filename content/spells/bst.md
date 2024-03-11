@@ -1,8 +1,11 @@
 ---
 title: Beastlord Spells
+images: [spells/images/bst.png]
 bookHidden: true
 description: Beastlord Spells.
 ---
+![Beastlord Spells](images/bst-banner.png)
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---

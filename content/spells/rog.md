@@ -1,8 +1,11 @@
 ---
 title: Rogue Disciplines
+images: [spells/images/rog.png]
 bookHidden: true
 description: Rogue Disciplines.
 ---
+![Rogue Disciplines](images/rog-banner.png)
+
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---
