@@ -1,7 +1,11 @@
 ---
 title: Spells and Disciplines
 weight: 0
+images: [spells/images/spells.png]
 ---
+
+![Spells](images/spells-banner.png)
+
 
 This was auto generated and likely buggy
 
