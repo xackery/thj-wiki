@@ -34,7 +34,7 @@ The list of locations Tearel can teleport to are:
 * Erudin (erudnext)
 * Felwithe (felwithea)
 * Greater Faydark (gfaydark)
-* Grobb (grobb) - near the warrior guild master
+* Grobb (grobb) - near the warrior guild master, hug right wall entering grobb
 * Halas (halas) - near the ferry to Everfrost
 * Highpass Hold (highpasshold)
 * Hole (hole) - near the drop cliff near entrance
@@ -46,11 +46,11 @@ The list of locations Tearel can teleport to are:
 * North Qeynos (qeynos2)
 * Oasis of Marr (oasis) - near the gypsy merchant
 * Ocean of Tears (oot)
-* Oggok (oggok)
+* Oggok (oggok) - near soulbinder
 * Paineel (paineel)
 * Permafrost (permafrost)
 * Plane of Hate (hateplaneb)
-* Rathe Mountains (rathemtn)
+* Rathe Mountains (rathemtn) - near zone line to lake rathe
 * Rivervale (rivervale)
 * South Karana (southkarana)
 * Surefall Glade (qrg)
