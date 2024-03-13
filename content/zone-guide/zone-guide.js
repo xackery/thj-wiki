@@ -171,14 +171,14 @@ w.addZone("steamfont", "Steamfont Mountains"); // Classic
 w.addZone("lfaydark", "The Lesser Faydark"); // Classic
 w.addZone("crushbone", "Clan Crushbone"); // Classic
 w.addZone("mistmoore", "Castle Mistmoore"); // Classic
-w.addZone("kaladima", "Kaladim"); // Classic
+w.addZone("kaladima", "North Kaladim"); // Classic
 w.addZone("felwithea", "Felwithe"); // Classic
 w.addZone("felwitheb", "FelwitheB"); // Classic
 w.addZone("unrest", "Estate of Unrest"); // Classic
 w.addZone("kedge", "Kedge Keep"); // Classic
 w.addZone("guktop", "Upper Guk"); // Classic
 w.addZone("gukbottom", "Lower Guk"); // Classic
-w.addZone("kaladimb", "KaladimB"); // Classic
+w.addZone("kaladimb", "South Kaladim"); // Classic
 w.addZone("butcher", "Butcherblock Mountains"); // Classic
 w.addZone("oot", "Ocean of Tears"); // Classic
 w.addZone("cauldron", "Dagnor's Cauldron"); // Classic
@@ -235,53 +235,54 @@ w.addZone("dragoncrypt", "Lair of the Fallen"); // Classic
 w.addZone("arttest", "Art Testing Domain"); // Classic
 w.addZone("fhalls", "The Forgotten Halls"); // Classic
 w.addZone("apprentice", "Designer Apprentice"); // Classic
-// w.addZone("fieldofbone", "The Field of Bone"); // Kunark
-// w.addZone("warslikswood", "Warsliks Wood"); // Kunark
-// w.addZone("droga", "Temple of Droga"); // Kunark
-// w.addZone("cabwest", "West Cabilis"); // Kunark
-// w.addZone("swampofnohope", "Swamp of No Hope"); // Kunark
-// w.addZone("firiona", "Firiona Vie"); // Kunark
-// w.addZone("lakeofillomen", "Lake of Ill Omen"); // Kunark
-// w.addZone("dreadlands", "Dreadlands"); // Kunark
-// w.addZone("burningwood", "Burning Woods"); // Kunark
-// w.addZone("kaesora", "Kaesora"); // Kunark
-// w.addZone("sebilis", "Old Sebilis"); // Kunark
-// w.addZone("citymist", "City of Mist"); // Kunark
-// w.addZone("skyfire", "Skyfire Mountains"); // Kunark
-// w.addZone("frontiermtns", "Frontier Mountains"); // Kunark
-// w.addZone("overthere", "The Overthere"); // Kunark
-// w.addZone("emeraldjungle", "The Emerald Jungle"); // Kunark
-// w.addZone("trakanon", "Trakanon's Teeth"); // Kunark
-// w.addZone("timorous", "Timorous Deep"); // Kunark
-// w.addZone("kurn", "Kurn's Tower"); // Kunark
-// w.addZone("karnor", "Karnor's Castle"); // Kunark
-// w.addZone("chardok", "Chardok"); // Kunark
-// w.addZone("dalnir", "Dalnir"); // Kunark
-// w.addZone("charasis", "Howling Stones"); // Kunark
+
+w.addZone("fieldofbone", "The Field of Bone"); // Kunark
+w.addZone("warslikswood", "Warsliks Wood"); // Kunark
+w.addZone("droga", "Temple of Droga"); // Kunark
+w.addZone("cabwest", "West Cabilis"); // Kunark
+w.addZone("swampofnohope", "Swamp of No Hope"); // Kunark
+w.addZone("firiona", "Firiona Vie"); // Kunark
+w.addZone("lakeofillomen", "Lake of Ill Omen"); // Kunark
+w.addZone("dreadlands", "Dreadlands"); // Kunark
+w.addZone("burningwood", "Burning Woods"); // Kunark
+w.addZone("kaesora", "Kaesora"); // Kunark
+w.addZone("sebilis", "Old Sebilis"); // Kunark
+w.addZone("citymist", "City of Mist"); // Kunark
+w.addZone("skyfire", "Skyfire Mountains"); // Kunark
+w.addZone("frontiermtns", "Frontier Mountains"); // Kunark
+w.addZone("overthere", "The Overthere"); // Kunark
+w.addZone("emeraldjungle", "The Emerald Jungle"); // Kunark
+w.addZone("trakanon", "Trakanon's Teeth"); // Kunark
+w.addZone("timorous", "Timorous Deep"); // Kunark
+w.addZone("kurn", "Kurn's Tower"); // Kunark
+w.addZone("karnor", "Karnor's Castle"); // Kunark
+w.addZone("chardok", "Chardok"); // Kunark
+w.addZone("dalnir", "Dalnir"); // Kunark
+w.addZone("charasis", "Howling Stones"); // Kunark
 w.addZone("cabeast", "East Cabilis"); // Kunark
-// w.addZone("nurga", "Mines of Nurga"); // Kunark
-// w.addZone("veeshan", "Veeshan's Peak"); // Kunark
-// w.addZone("veksar", "Veksar"); // Kunark
-// w.addZone("chardokb", "The Halls of Betrayal"); // Kunark
-// w.addZone("iceclad", "Iceclad Ocean"); // Scars of Velious
-// w.addZone("frozenshadow", "Tower of Frozen Shadow"); // Scars of Velious
-// w.addZone("velketor", "Velketor's Labyrinth"); // Scars of Velious
-// w.addZone("kael", "Kael Drakkal"); // Scars of Velious
-// w.addZone("skyshrine", "Skyshrine"); // Scars of Velious
-// w.addZone("thurgadina", "Thurgadin"); // Scars of Velious
-// w.addZone("eastwastes", "Eastern Wastes"); // Scars of Velious
-// w.addZone("cobaltscar", "Cobalt Scar"); // Scars of Velious
-// w.addZone("greatdivide", "Great Divide"); // Scars of Velious
-// w.addZone("wakening", "The Wakening Land"); // Scars of Velious
-// w.addZone("westwastes", "Western Wastes"); // Scars of Velious
-// w.addZone("crystal", "Crystal Caverns"); // Scars of Velious
-// w.addZone("necropolis", "Dragon Necropolis"); // Scars of Velious
-// w.addZone("templeveeshan", "Temple of Veeshan"); // Scars of Velious
-// w.addZone("sirens", "Siren's Grotto"); // Scars of Velious
-// w.addZone("mischiefplane", "Plane of Mischief"); // Scars of Velious
-// w.addZone("growthplane", "Plane of Growth"); // Scars of Velious
-// w.addZone("sleeper", "Sleeper's Tomb"); // Scars of Velious
-// w.addZone("thurgadinb", "Icewell Keep"); // Scars of Velious
+w.addZone("nurga", "Mines of Nurga"); // Kunark
+w.addZone("veeshan", "Veeshan's Peak"); // Kunark
+w.addZone("veksar", "Veksar"); // Kunark
+w.addZone("chardokb", "The Halls of Betrayal"); // Kunark
+w.addZone("iceclad", "Iceclad Ocean"); // Scars of Velious
+w.addZone("frozenshadow", "Tower of Frozen Shadow"); // Scars of Velious
+w.addZone("velketor", "Velketor's Labyrinth"); // Scars of Velious
+w.addZone("kael", "Kael Drakkal"); // Scars of Velious
+w.addZone("skyshrine", "Skyshrine"); // Scars of Velious
+w.addZone("thurgadina", "Thurgadin"); // Scars of Velious
+w.addZone("eastwastes", "Eastern Wastes"); // Scars of Velious
+w.addZone("cobaltscar", "Cobalt Scar"); // Scars of Velious
+w.addZone("greatdivide", "Great Divide"); // Scars of Velious
+w.addZone("wakening", "The Wakening Land"); // Scars of Velious
+w.addZone("westwastes", "Western Wastes"); // Scars of Velious
+w.addZone("crystal", "Crystal Caverns"); // Scars of Velious
+w.addZone("necropolis", "Dragon Necropolis"); // Scars of Velious
+w.addZone("templeveeshan", "Temple of Veeshan"); // Scars of Velious
+w.addZone("sirens", "Siren's Grotto"); // Scars of Velious
+w.addZone("mischiefplane", "Plane of Mischief"); // Scars of Velious
+w.addZone("growthplane", "Plane of Growth"); // Scars of Velious
+w.addZone("sleeper", "Sleeper's Tomb"); // Scars of Velious
+w.addZone("thurgadinb", "Icewell Keep"); // Scars of Velious
 // w.addZone("shadowhaven", "Shadow Haven"); // Luclin
 // w.addZone("nexus", "The Nexus"); // Luclin
 // w.addZone("echo", "Echo Caverns"); // Luclin
@@ -769,6 +770,44 @@ w.addBiZoneLine('lavastorm', 'soldungb', 2);
 w.addBiZoneLine('lavastorm', 'soldunga', 2);
 w.addBiZoneLine('lavastorm', 'soltemple', 2);
 w.addBiZoneLine('lavastorm', 'najena', 2);
+w.addBiZoneLine('freporte', 'oot', 2);
+w.addBiZoneLine('oot', 'butcher', 2);
+w.addBiZoneLine('butcher', 'kaladimb', 2);
+w.addBiZoneLine('kaladimb', 'kaladima', 2);
+w.addBiZoneLine('butcher', 'cauldron', 2);
+w.addBiZoneLine('butcher', 'gfaydark', 2);
+w.addBiZoneLine('gfaydark', 'crushbone', 2);
+w.addBiZoneLine('cauldron', 'unrest', 2);
+w.addBiZoneLine('gfaydark', 'felwithea', 2);
+w.addBiZoneLine('felwithea', 'felwitheb', 2);
+w.addBiZoneLine('oasis', 'timorous');
+
+w.addBiZoneLine('timorous', 'overthere');
+w.addBiZoneLine('overthere', 'skyfire');
+w.addBiZoneLine('skyfire', 'veeshan');
+w.addBiZoneLine('skyfire', 'burningwood');
+w.addBiZoneLine('burningwood', 'chardoka');
+w.addBiZoneLine('chardoka', 'chardokb');
+w.addBiZoneLine('burningwood', 'dreadlands');
+
+w.addBiZoneLine('oasis', 'iceclad');
+w.addBiZoneLine('iceclad', 'frozenshadow');
+w.addBiZoneLine('iceclad', 'eastwastes');
+w.addBiZoneLine('eastwastes', 'greatdivide');
+w.addBiZoneLine('greatdivide', 'thurgadina');
+w.addBiZoneLine('thurgadina', 'thurgadinb');
+w.addBiZoneLine('greatdivide', 'velketor');
+w.addBiZoneLine('greatdivide', 'mischiefplane');
+w.addBiZoneLine('eastwastes', 'kael');
+w.addBiZoneLine('kael', 'wakening');
+w.addBiZoneLine('wakening', 'growthplane');
+w.addBiZoneLine('wakening', 'skyshrine');
+w.addBiZoneLine('skyshrine', 'cobaltscar');
+w.addBiZoneLine('cobaltscar', 'sirens');
+w.addBiZoneLine('sirens', 'westwastes');
+w.addBiZoneLine('westwastes', 'necropolis');
+w.addBiZoneLine('westwastes', 'templeveeshan');
+w.addBiZoneLine('eastwastes', 'crystalcaverns');
 
 
 w.addZoneLine('airplane', 'ecommons', 2, 'jump off island to');
