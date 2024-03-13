@@ -786,8 +786,8 @@ w.addBiZoneLine('timorous', 'overthere');
 w.addBiZoneLine('overthere', 'skyfire');
 w.addBiZoneLine('skyfire', 'veeshan');
 w.addBiZoneLine('skyfire', 'burningwood');
-w.addBiZoneLine('burningwood', 'chardoka');
-w.addBiZoneLine('chardoka', 'chardokb');
+w.addBiZoneLine('burningwood', 'chardok');
+w.addBiZoneLine('chardok', 'chardokb');
 w.addBiZoneLine('burningwood', 'dreadlands');
 
 w.addBiZoneLine('oasis', 'iceclad');
@@ -807,7 +807,7 @@ w.addBiZoneLine('cobaltscar', 'sirens');
 w.addBiZoneLine('sirens', 'westwastes');
 w.addBiZoneLine('westwastes', 'necropolis');
 w.addBiZoneLine('westwastes', 'templeveeshan');
-w.addBiZoneLine('eastwastes', 'crystalcaverns');
+w.addBiZoneLine('eastwastes', 'crystal');
 
 
 w.addZoneLine('airplane', 'ecommons', 2, 'jump off island to');
@@ -843,6 +843,7 @@ searchForm.addEventListener("submit", (e) => {
       document.getElementById("results").innerHTML = "You are already in <b>"+w.fullNames[from.value]+"</b>!";
       return;
     }
+
 
     let nav = w.findShortestPath(from.value, to.value);
     let out = ""
