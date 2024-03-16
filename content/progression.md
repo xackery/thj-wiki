@@ -40,6 +40,19 @@ To unlock Velious, you must kill:
 
 To unlock Luclin, you must kill:
 
+- Wuoshi
+- Zlandicar
+- Klandicar
+- Lord Yelinak
+- Hraasha the Warder
+- Nanzata the Warder
+- Tukaarak the Warder
+- Ventani the Warder
+  
+## Luclin
+
+To unlock PoP, you must kill:
+
 - Thought Horror Fiend
 - Grief Veneficus
 - Insanity Crawler
