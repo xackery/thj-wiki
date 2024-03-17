@@ -36,7 +36,7 @@ Set|Scarlet Desert|a sun revenant (5%), a sun reaver (5%)
 This is obtained in Akheva Ruins.
 
 1. Kill Sacrificed Remains until a shimmering presence spawns
-1. Give an Summoned: Wip Stone to a shimmering presence. The Spirit of Akelha'Ra will spawn
+1. Give a Summoned: Wisp Stone to a shimmering presence. The Spirit of Akelha'Ra will spawn
 1. Give an Essence Emerald to the Spirit of Akelha'Ra. Receive Shadowed Scepter Frame
 
 ## Sceptre of Shadows
