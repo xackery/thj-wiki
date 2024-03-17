@@ -67,3 +67,13 @@ The list of locations Tearel can teleport to are:
 * Lake of Ill Omen (lakeofillomen)
 * Overthere (overthere)
 * Trakanon's Tooth (trakanon) - Near the Sebilis zone orb
+
+### Velious
+
+* Eastern Wastes (Near Ry'Gorr Fort zone to Crystal)
+* Eastern Wastes (Near Kael entrance)
+
+
+### Luclin
+
+* Dawnshroud Peaks (Near Maiden's Eye in a hut)
