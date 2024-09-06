@@ -361,7 +361,7 @@ Alternatively in {{Era|Classic}} you can wait on the <code>/list</code> for [[Dr
   |era=Classic
   |image=[[File:Npc_mistrana_two_notes.png|60px]] [[File:Npc_junth_mcmannus.png| 60px]]
   |for=NEC, evil
-  |notes=Pull to the hill next to village to avoid adds. The Barbarians respawn faster than Mistrana, and you can use <code>/target</code> to pull them out of their houses without going in. Avoid the higher level [[Ulrich McMannus]] and [[Guard Donlan]] (the latter rarely paths through). Avoid [[Sera McMannus]] and [[Misla McMannus]] (neither gives XP). Some of the mobs are yellow to a 24, but are doable by a Necromancer of that level.  You can sell to [[Analya]] (also in village), as she is on [[Beta Neutral]] faction. Lowers [[:Category:Halas Factions|Halas Factions]].
+  |notes=Pull to the hill next to village to avoid adds. The Barbarians respawn faster than Mistrana, and you can use <code>/target</code> to pull them out of their houses without going in. Avoid the higher level [[Ulrich McMannus]] and [[Guard Donlan]] (the latter rarely paths through). Avoid [[Sera McMannus]] and [[Misla McMannus]] (neither gives XP). Some of the mobs are yellow to a 24, but are doable by a Necromancer of that level.  You can sell to [[Analya]] (also in village), as she is on [[Beta Neutral]] faction. Lowers [[Category:Halas Factions|Halas Factions]].
 }}
 {{HuntingGuideSpot
   |soloLevel= 24-30
@@ -426,7 +426,7 @@ Alternatively in {{Era|Classic}} you can wait on the <code>/list</code> for [[Dr
   |soloLevel= 26-32
   |groupLevel= -
   |zone=Everfrost
-  |area= [[:File:Mammiespawns.jpg |Everfrost plains]]
+  |area= [[File:Mammiespawns.jpg |Everfrost plains]]
   |monsters= [[A Wooly Mammoth]]
   |xpModifier= 133%
   |image=[[File:Mammiespawns.jpg|150px]]
@@ -547,7 +547,7 @@ can spawn [[a large undead gnoll]] when they die, so be careful. If you move awa
   |xpModifier= 133%
   |for=AFK, NEC, evil
   |image=[[File:NPC_Ulrich_McMannus.jpg|75px]] [[File:Npc_mistrana_two_notes.png|75px]]
-  |notes=Necromancers can do Ulrich starting at level 27 or 28 (even though he's yellow and it's a bit risky) by fear kiting him.  [[Spirit of the Wolf]] or [[Journeyman's Boots]] are *highly* recommended in case of a string of [[Fear]] resists though.  Such Necros can also kill Mistrana (who will be a blue con at that level).  Ulrich becomes a blue con (and becomes soloable by non-Necros) at 31.  [[Guard Donlan]] also paths through village and you can kill him (but he lowers Corrupt Qeynos Guard faction). You can AFK away from village, and sell to [[Analya]] (also in village), as she is on Beta Neutral faction. Good for evil characters as Ulrich lowers [[:Category:Halas Factions|Halas Factions]] and Mistrana lowers [[Guards of Qeynos]], [[Knights of Truth]], [[League of Antonican Bards]].
+  |notes=Necromancers can do Ulrich starting at level 27 or 28 (even though he's yellow and it's a bit risky) by fear kiting him.  [[Spirit of the Wolf]] or [[Journeyman's Boots]] are *highly* recommended in case of a string of [[Fear]] resists though.  Such Necros can also kill Mistrana (who will be a blue con at that level).  Ulrich becomes a blue con (and becomes soloable by non-Necros) at 31.  [[Guard Donlan]] also paths through village and you can kill him (but he lowers Corrupt Qeynos Guard faction). You can AFK away from village, and sell to [[Analya]] (also in village), as she is on Beta Neutral faction. Good for evil characters as Ulrich lowers [[Category:Halas Factions|Halas Factions]] and Mistrana lowers [[Guards of Qeynos]], [[Knights of Truth]], [[League of Antonican Bards]].
 }}
 {{HuntingGuideSpot
   |soloLevel= 28-35
@@ -1028,7 +1028,7 @@ s= Lots of animals, which would normally be good for Druids, except that they ha
   |xpModifier= 150%
   |image=[[File:Npc ganduladian.png|125px|center]]
   |for=
-  |notes= There are 7 snakes, approximately level 30-32, non-aggro but social ([[:File:TwoNonSoloSnake.jpg|all but these two can be pulled solo]] NOTE: This is incorrect. There are multiple spawns that might aggro upon pulling one, but there are a couple that can be single pulled), 22 min respawn. They hit for a max of 70 and occasionally proc a weak poison DoT.  [[:File:Pillar Island.jpg|Pull up to the pillar to get them out of the water]]. No traffic, trains, or loot ... except for [[:File:glitchGnoll.jpg|one buggy low-level gnoll that glitches through the bridge]], but if you don't sit on that side of the pillar he shouldn't agro.
+  |notes= There are 7 snakes, approximately level 30-32, non-aggro but social ([[File:TwoNonSoloSnake.jpg|all but these two can be pulled solo]] NOTE: This is incorrect. There are multiple spawns that might aggro upon pulling one, but there are a couple that can be single pulled), 22 min respawn. They hit for a max of 70 and occasionally proc a weak poison DoT.  [[File:Pillar Island.jpg|Pull up to the pillar to get them out of the water]]. No traffic, trains, or loot ... except for [[File:glitchGnoll.jpg|one buggy low-level gnoll that glitches through the bridge]], but if you don't sit on that side of the pillar he shouldn't agro.
 }}
 {{HuntingGuideSpot
   |soloLevel= 36-39
@@ -2337,7 +2337,7 @@ Start along west wall (either by the boulder south of fort, or even further sout
   |xpModifier= 140%
   |era=Velious
   |for=
-  |notes= (Extremely rare) chance of [[:Category:Plane of Mischief Cards|squires or knights]]; mobs single agro and summon, so bring a pet or a slower.
+  |notes= (Extremely rare) chance of [[Category:Plane of Mischief Cards|squires or knights]]; mobs single agro and summon, so bring a pet or a slower.
 }}
 {{HuntingGuideSpot
   |soloLevel= 56-59
