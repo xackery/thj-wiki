@@ -8,7 +8,7 @@ description: Bard Songs.
 
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC|Note
----|---|---|---|---|Note
+---|---|---|---|---|---
 Chant of Battle|1|Classic|Bazaar|Inisis Trimpet|AC 22 STR 22 DEX 22
 Chords of Dissonance|2|Classic|Bazaar|Inisis Trimpet|19 AE DoT
 Lyssa's Locating Lyric|4|Classic|Bazaar|Altrusan Belstince|Locate Corpse
