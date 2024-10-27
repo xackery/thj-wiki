@@ -11,9 +11,13 @@
             {{ if not .IsHome }}
             <li><a href="{{ $.Site.BaseURL}}">{{ i18n "home" }}</a></li>
             {{end}}
+            {{ if $.Site.Params.enableGitHubEdit }}
+            <li><a href="{{$.Site.Params.GitHubLink}}/edit/main/content/{{ replace .File.Path "\\" "/" }}" target="_blank" rel="noopener">{{ i18n "edit_source" }}</a></li>
+            {{end}}
             {{- range $data.links | default $.Site.Params.links -}}
             <li><a href="{{.link}}">{{.link_name}}</a></li>
             {{- end -}}
         </ul>
+
     </footer>
 </div>
