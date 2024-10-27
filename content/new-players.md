@@ -38,7 +38,7 @@ To start The Heroes Journey (THJ):
 
   * After your three classes have been determined and assigned, go to the"Fading Memory" in the bazaar, and hand in your "Faded Writ". This will result in a weapon and piece of armor for each of your classes, as well as bags, and a Summoner's SynchroSatchel. The Summoner's SynchroSatchel can be put in your bank, and your pet will still utilize it.
 
-  * The Summoner's SynchroSatchel will work like your pet's inventory. Anything you put in there will be utilized by your pet (Armor/Weapons).  In can also be stored in the bank instead of on your character
+  * At Level 50 as Mage, you gain an AA that summons a Dimensional Armory bag. Anything you put in there will be utilized by your pet (Armor/Weapons). It can also be stored in the bank instead of on your character
 
   * Tearel will be able to port you to fast travel points you have identified. Usually this will only consist of major towns you have been to, during character creation.  At early levels, it's free!
 
