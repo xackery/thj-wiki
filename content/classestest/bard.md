@@ -66,7 +66,7 @@ Parry|25|180
 Riposte|30|155
 Double Attack|51|50
 Triple Attack|60|5
----
+
 **Class Specific**
 Class Skill Descriptions|Level Attained|Cap at 60
 ---|---|---
@@ -75,7 +75,7 @@ Brass Instruments|5|285
 Percussion Instruments|5|285
 Stringed Instruments|5|285
 Wind Instruments|5|285
----
+
 **Ancillary Specific**
 Class Skill Descriptions|Level Attained|Cap at 60
 ---|---|---
