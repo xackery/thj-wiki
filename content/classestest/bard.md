@@ -56,25 +56,25 @@ Class Skill Descriptions|Level Attained|Cap at 60
 1H Slash|1|280
 Bind Wound|1|325
 Defense|1|260
-Dodge|1|255
 Hand to Hand|1|225
 Offense|1|252
 Throwing|1|280
+Dodge|10|255
 Intimidation|16|225
-Double Attack|17|50
 Dual Wield|17|245
-Parry|20|180
-Riposte|22|155
-Triple Attack|50|5
+Parry|25|180
+Riposte|30|155
+Double Attack|51|50
+Triple Attack|60|5
 ---
 **Class Specific**
 Class Skill Descriptions|Level Attained|Cap at 60
 ---|---|---
-Brass Instruments|1|285
-Percussion Instruments|1|285
 Singing|1|285
-Stringed Instruments|1|285
-Wind Instruments|1|285
+Brass Instruments|5|285
+Percussion Instruments|5|285
+Stringed Instruments|5|285
+Wind Instruments|5|285
 ---
 **Ancillary Specific**
 Class Skill Descriptions|Level Attained|Cap at 60
@@ -84,12 +84,13 @@ Begging|1|300
 Bind Wound|1|325
 Fishing|1|200
 Swimming|1|300
-Hide|8|50
-Sneak|8|75
 Meditate|10|1
-Safe Fall|10|270
-Disarm Traps|16|120
-Forage|16|55
-Research|16|200
-Tracking|18|100
-Pick Lock|25|245
+Pick Lock|10|245
+Forage|12|55
+Sense Traps|15|120
+Sneak|17|75
+Disarm Traps|20|120
+Research|20|200
+Safe Fall|20|270
+Hide|25|50
+Tracking|35|100
