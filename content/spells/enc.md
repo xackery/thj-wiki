@@ -7,6 +7,7 @@ description: Enchanter Spells.
 ![Enchanter Spells](images/enc-banner.png)
 
 This was auto generated and likely buggy. Expect issues!
+
 Name|Lvl|Era|Zone|NPC
 ---|---|---|---|---
 Charm|1|Classic|Bazaar|Danilla Delucic
@@ -191,7 +192,7 @@ Focus Mass Modest Spellcaster's Empowering Essence|39|Classic|Bazaar|Channeler L
 Immobilize|39|Classic|Bazaar|Selint Chency
 Mass Distill Mana|39|Classic|Bazaar|Palik Agrolm
 Arch Shielding|40|Classic|Bazaar|Telor Beteria
-Boltran's Agacerie|40|Kunark|Firiona Vie, Overthere|Nertith Gracon
+Boltran's Agacerie|40|Bazaar|Illusionist Sevat
 Boon of the Garou|40|Classic|Bazaar|Illusionist Sevat
 Incapacitate|40|Classic|Bazaar|Tizzy C`Luzz
 Ordinance|40|Classic|Bazaar|Uyennli V`Drimw
