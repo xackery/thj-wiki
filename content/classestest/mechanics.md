@@ -9,4 +9,5 @@ There are a lot of interesting, custom, and unique things in The Heroes' Journey
 
 > [!tip] Hint You can mix 3 of any 16 unique classes
 >
-> Overview: In the Bazaar there are Guildmasters that will allow you to pick two classes in addition to your base class that you chose at character creation. You start this process by hailing the GM for the class you're interested in.
+Overview: In the Bazaar, Guildmasters will allow you to pick two classes in addition to your chosen base class at character creation. You start this process by hailing the GM for the class you're interested in.
+>
