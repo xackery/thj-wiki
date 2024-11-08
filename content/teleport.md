@@ -20,8 +20,7 @@ The list of locations Tearel can teleport to are:
 
 * Ak'Anon (akanon) - Starting Portal
 > [!abstract] Lake Rathetear (lakerathe)
-> > [!tip]-
-> > (Discoverable) near zoneline to Arena
+> > [!hint]- (Discoverable) near zoneline to Arena
 * Lake Rathetear (lakerathe) - (Discoverable) near zoneline to Arena.
 * Blackburrow (blackburrow) - (Discoverable) across the waterfall from QHills zoneline.
 * Castle Mistmoore (mistmoore) - (Discoverable) near the Lesser Faydark zone out.
