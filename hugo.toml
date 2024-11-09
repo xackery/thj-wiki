@@ -7,6 +7,7 @@ theme = "amethyst"
 
 [params]
 title = "THJ-Wiki"
+logo = "thj-logo.png"
 description = "thj-wiki.web.app"
 enableFooter = false
 enableGitHubEdit = true

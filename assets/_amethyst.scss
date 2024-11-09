@@ -5,7 +5,8 @@ header {
     width: 100%;
     padding: 0px 80px;
     z-index: 9999;
-    background-color: var(--header);
+    background: linear-gradient(to left, rgb(128, 128, 128), rgb(0,0,0));
+    // background-color: var(--header);
     margin: 0 !important;
     height: $header-height;
 }

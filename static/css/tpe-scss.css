@@ -880,6 +880,9 @@ div#datatable-buttons_info {
   speak: none;
   text-transform: none; }
 
+#logo {
+  background-image: linear-gradient(to left, gray, black); }
+
 /* FONT PATH
  * -------------------------- */
 @font-face {
@@ -899,6 +902,9 @@ div#datatable-buttons_info {
   line-height: 1;
   speak: none;
   text-transform: none; }
+
+#logo {
+  background-image: linear-gradient(to left, gray, black); }
 
 /* makes the font 33% larger relative to the icon container */
 .xa-lg {
