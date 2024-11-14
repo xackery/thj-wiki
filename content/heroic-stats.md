@@ -93,10 +93,10 @@ Heroic Stats are special stats you'll find on gear, in orange with a + sign afte
 - 100 HINT increases **detrimental spells values** by 1%
 
 # HCHA
-- 1 HCHA changes **resist modifier** by -1
-    - resist modifier can be treated the equivalent of casting a chromatic (all resists) tash on the mob based on your HCHA value, but just affecting your spells
 - 1 HCHA increases **CHA cap** by 1
 - 1 HCHA increases **CHA** by 1
+- 1 HCHA changes **resist modifier** by -1
+    - resist modifier can be treated the equivalent of casting a chromatic (all resists) tash on the mob based on your HCHA value, but just affecting your spells
 - 25 HCHA increases **faction de-aggression** by 1
     - if a mob is scowls, this value is calculated and can decrease it down to glares threatening aggro radius if enough faction impact
 - 5 HCHA increases **faction mod** by 1%
