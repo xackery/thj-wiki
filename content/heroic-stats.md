@@ -10,6 +10,8 @@ Heroic Stats are special stats you'll find on gear, in orange with a + sign afte
 
 # HSTR
 
+- 1 HSTR increases **STR cap** by 1
+- 1 HSTR increases **STR** by 1
 - 1 HSTR increases **maximum endurance** by 2.5
 - 10 HSTR increases **hard AC** by 1
     - hard AC bypasses soft cap
@@ -19,6 +21,8 @@ Heroic Stats are special stats you'll find on gear, in orange with a + sign afte
 
 # HSTA
 
+- 1 HSTA increases **STA cap** by 1
+- 1 HSTA increases **STA** by 1
 - 1 HSTA increases **maximum hitpoints** by 10
 - 1 HSTA increases **maximum endurance** by 2.5
 - 20 HSTA increases **hitpoint regeneration** by 1
@@ -28,6 +32,8 @@ Heroic Stats are special stats you'll find on gear, in orange with a + sign afte
 
 # HAGI
 
+- 1 HAGI increases **AGI cap** by 2.5
+- 1 HAGI increases **AGI** by 1
 - 1 HAGI increases **maximum endurance** by 2.5
 - 10 HAGI increases **avoidance** by 1
     - this stat is rolled against accuracy, impacts ToHit chance, a different roll to dodge
@@ -40,6 +46,8 @@ Heroic Stats are special stats you'll find on gear, in orange with a + sign afte
 
 # HDEX
 
+- 1 HDEX increases **DEX cap** by 1
+- 1 HDEX increases **DEX** by 1
 - 1 HDEX increases **maximum endurance** by 2.5
 - 1 HDEX increases **assasination** by 1%
 - 10 HDEX increases **minimum archery and throwing damage** by 1
@@ -62,7 +70,10 @@ Heroic Stats are special stats you'll find on gear, in orange with a + sign afte
 
 # HWIS
 
+- 1 HWIS increases **WIS cap** by 1
+- 1 HWIS increases **WIS** by 1
 - 1 HWIS increases **heal amount** by 1
+    - disabled on THJ
 - 1 HWIS increases **maximum mana** by 10
     - must be CLR/DRU/SHM/PAL/BST/RNG
 - 25 HWIS increases **mana regen** by 1
@@ -71,7 +82,10 @@ Heroic Stats are special stats you'll find on gear, in orange with a + sign afte
 
 # HINT
 
+- 1 HINT increases **INT cap** by 1
+- 1 HINT increases **INT** by 1
 - 1 HINT increases **spell damage** by 1
+    - disabled on THJ
 - 1 HINT increases **maximum mana** by 10
     - must be NEC/WIZ/MAG/ENC/SHD
 - 25 HINT increases **mana regen** by 1
@@ -81,6 +95,8 @@ Heroic Stats are special stats you'll find on gear, in orange with a + sign afte
 # HCHA
 - 1 HCHA changes **resist modifier** by -1
     - resist modifier can be treated the equivalent of casting a chromatic (all resists) tash on the mob based on your HCHA value, but just affecting your spells
+- 1 HCHA increases **CHA cap** by 1
+- 1 HCHA increases **CHA** by 1
 - 25 HCHA increases **faction de-aggression** by 1
     - if a mob is scowls, this value is calculated and can decrease it down to glares threatening aggro radius if enough faction impact
 - 5 HCHA increases **faction mod** by 1%
