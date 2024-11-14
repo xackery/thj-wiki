@@ -5,3 +5,5 @@ public/
 resources
 static/tpe/raw
 notes/
+dbstr_us.txt
+.env

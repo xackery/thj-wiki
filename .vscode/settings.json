@@ -1,3 +1,7 @@
 {
     "files.trimTrailingWhitespace": true,
+    "go.testEnvFile": "${workspaceFolder}/.env",
+    "go.testEnvVars": {
+        "SINGLE_TEST": "1"
+    },
 }
