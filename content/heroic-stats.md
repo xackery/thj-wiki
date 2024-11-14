@@ -32,7 +32,7 @@ Heroic Stats are special stats you'll find on gear, in orange with a + sign afte
 
 # HAGI
 
-- 1 HAGI increases **AGI cap** by 2.5
+- 1 HAGI increases **AGI cap** by 1
 - 1 HAGI increases **AGI** by 1
 - 1 HAGI increases **maximum endurance** by 2.5
 - 10 HAGI increases **avoidance** by 1
