@@ -61,7 +61,7 @@ Heroic Stats are special stats you'll find on gear, in orange with a + sign afte
     - must be facing mob
     - strikethrough negates this parry bonus
 - 25 HDEX increases **block** by 1%
-    - must have 1 skill point of block
+    - must have 1 skill point of block (shield block from AA or skill falls into this category)
     - must be facing mob
     - some AAs/items let you have a chance to block from behind
     - strikethrough negates this block bonus
