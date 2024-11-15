@@ -19,6 +19,10 @@ The list of locations Tearel can teleport to are:
 ### Classic
 
 * Ak'Anon (akanon) - Starting Portal
+* {{< expand "Lake Rathetear (lakerathe)" "..." >}}
+## Lake Rathetear (lakerathe)
+(Discoverable) near zoneline to Arena
+{{< /expand >}}
 > [!abstract] Lake Rathetear (lakerathe)
 > > [!info]- (Discoverable) near zoneline to Arena
 * Lake Rathetear (lakerathe) - (Discoverable) near zoneline to Arena.
