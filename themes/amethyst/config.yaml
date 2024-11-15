@@ -1,4 +1,4 @@
-baseURL: https://amethyst.bencuan.me
+baseURL: https://thj-wiki.web.app/
 
 # Book configuration
 disablePathToLower: true
@@ -66,7 +66,7 @@ params:
   enableMermaid: true
 
   # Link to your Github repo
-  GitHubLink: https://github.com/64bitpandas/amethyst
+  GitHubLink: https://github.com/xackery/thj-wiki
 
   # Search (WIP)
   search:
@@ -76,8 +76,7 @@ params:
 
   # Site description and title
   description:
-    Notes, hosted by bencuan
-
+    The official wiki for The Heroes Journey Emu, maintained with love
 
   # Footer links
   links:
