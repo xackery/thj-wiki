@@ -102,3 +102,28 @@ Heroic Stats are special stats you'll find on gear, in orange with a + sign afte
 - 5 HCHA increases **faction mod** by 1%
     - if the % value plus faction hit is divisible by 0, you'll get a static increase in faction hits both positive and negative
     - if the % value plus faction hit is not divisible by 0, you'll get a random d100 roll vs your % and if you win roll, doubles faction hit
+
+# HCR
+
+- 1 HCR increases **Cold Resist cap** by 1
+- 1 HCR increases **Cold Resist** by 1
+
+# HFR
+
+- 1 HFR increases **Fire Resist cap** by 1
+- 1 HFR increases **Fire Resist** by 1
+
+# HMR
+
+- 1 HMR increases **Magic Resist cap** by 1
+- 1 HMR increases **Magic Resist** by 1
+
+# HPR
+
+- 1 HPR increases **Poison Resist cap** by 1
+- 1 HPR increases **Poison Resist** by 1
+
+# HDR
+
+- 1 HDR increases **Disease Resist cap** by 1
+- 1 HDR increases **Disease Resist** by 1
