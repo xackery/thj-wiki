@@ -7,11 +7,11 @@ weight: 0
 
 Welcome to the Heroes' Journey Wiki
 
-[![Logo](images/logo.png)](https://heroesjourneyeq.com/)
+[![Logo](images/logo.png)
 
 
 > [!note]
-> This shit is still being worked on
+> The site is a work in progress, stay tuned
 
 - [Discord](https://discord.gg/VZJBmC9ycw)
 - [Getting Started](/new-players)
