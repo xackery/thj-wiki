@@ -2,6 +2,7 @@
 title: Spells and Disciplines
 weight: 0
 images: [spells/images/spells.png]
+bookCollapseSection: true
 ---
 
 ![Spells](images/spells-banner.png)

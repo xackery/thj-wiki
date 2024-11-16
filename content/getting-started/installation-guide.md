@@ -1,5 +1,5 @@
 ---
-title: "Getting Started"
+title: "Installation Guide"
 summary: "New Players, start here!"
 weight: 1
 ---
@@ -15,7 +15,7 @@ weight: 1
 To start The Heroes Journey (THJ):
 
 
-  * You will first need an [EQ Emulator account](http://www.eqemulator.org/) 
+  * You will first need an [EQ Emulator account](http://www.eqemulator.org/)
 
   * Once that is complete, [create a login server account](http://www.eqemulator.org/account/?CreateLS)
 
@@ -23,7 +23,7 @@ To start The Heroes Journey (THJ):
 
   * Right click the zipped download, go to properties, and check Unblock in the lower right. Then click OK.  Then extract the files to wherever you want EQ to be installed. Do not run the patcher in the same folder as another PEQ server install unless you are done playing on that server.
 
-  * After extraction, find and run heroesjourneyeq.exe. This is the file you will run to patch and play. 
+  * After extraction, find and run heroesjourneyeq.exe. This is the file you will run to patch and play.
 
   * Click "Patch" if it is Red (THIS MAY TAKE SOME TIME)
 
@@ -32,7 +32,7 @@ To start The Heroes Journey (THJ):
 
 ##  GETTING STARTED / FIRST STEPS
 
-  * **Remember, you were invited to help test the early alpha version of the server.  Please use the bug report discord channel to report any bugs that you encounter!** 
+  * **Remember, you were invited to help test the early alpha version of the server.  Please use the bug report discord channel to report any bugs that you encounter!**
 
   * This is a Multiclass server.  After you choose your initial class during character creation, you need to find a GM for the corresponding second and third classes. Use your "Bazaar Portal" AA, and all of the classes have a GM on the Northwest side of the zone.
 
@@ -42,7 +42,7 @@ To start The Heroes Journey (THJ):
 
   * Tearel will be able to port you to fast travel points you have identified. Usually this will only consist of major towns you have been to, during character creation.  At early levels, it's free!
 
-  * The "Bazaar Portal" when used will return you to the bazaar. Make sure to put this on your hotbar right away.  When you zone out of the bazaar, it will return you to wherever you were when you casted it. Some situations exist where this is not the case (Druid/Wizard Ports and Tearel). If you end up in the bazaar with no valid return destination, you will port to your bind point instead. 
+  * The "Bazaar Portal" when used will return you to the bazaar. Make sure to put this on your hotbar right away.  When you zone out of the bazaar, it will return you to wherever you were when you casted it. Some situations exist where this is not the case (Druid/Wizard Ports and Tearel). If you end up in the bazaar with no valid return destination, you will port to your bind point instead.
 
   * Once you selected your classes, get out there and kill some monsters!
 

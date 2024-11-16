@@ -10,6 +10,7 @@ Heroic Stats are special stats you'll find on gear, in orange with a + sign afte
 
 # HSTR
 
+
 - 1 HSTR increases **STR cap** by 1
 - 1 HSTR increases **STR** by 1
 - 1 HSTR increases **maximum endurance** by 2.5

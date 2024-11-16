@@ -4,6 +4,7 @@ weight: 5
 chapter: true
 description: Classes found in THJ, AAs initially unlocked, and other class-specific information.
 images: [images/classes.png]
+bookCollapseSection: true
 ---
 
 ![Classes](images/classes.png)
