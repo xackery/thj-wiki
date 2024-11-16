@@ -4,6 +4,7 @@ weight: 5
 chapter: true
 description: AA Breakdown
 images: [images/aa.png]
+aliases: [/aa]
 ---
 
 ![AAs](images/aa.png)
@@ -39,7 +40,7 @@ Select which classes to include on AA list
 (SHM)
 This ability reduces your chances of failing alchemy combinations by 10, 25, and 50 percent.
 
-Ability ID: 49 has 3 ranks and costs 18 total 
+Ability ID: 49 has 3 ranks and costs 18 total
 - Rank 1 (ID 150) costs 3 AAs with effect: ReduceTradeskillFail 10 59 (3.33 ratio)
 - Rank 2 (ID 151) costs 6 AAs with effect: ReduceTradeskillFail 25 59 (2.50 ratio)
 - Rank 3 (ID 152) costs 9 AAs with effect: ReduceTradeskillFail 50 59 (2.78 ratio)
@@ -48,7 +49,7 @@ Ability ID: 49 has 3 ranks and costs 18 total
 (ALL)
 This ability reduces the chance of failing baking combinations by 10, 25, and 50 percent.
 
-Ability ID: 325 has 3 ranks and costs 18 total 
+Ability ID: 325 has 3 ranks and costs 18 total
 - Rank 1 (ID 982) costs 3 AAs with effect: ReduceTradeskillFail 10 60 (3.33 ratio)
 - Rank 2 (ID 983) costs 6 AAs with effect: ReduceTradeskillFail 25 60 (2.50 ratio)
 - Rank 3 (ID 984) costs 9 AAs with effect: ReduceTradeskillFail 50 60 (2.78 ratio)
@@ -57,7 +58,7 @@ Ability ID: 325 has 3 ranks and costs 18 total
 (CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST)
 Each rank in this ability increases the amount of healing provided by a single bandage.
 
-Ability ID: 497 has 5 ranks and costs 15 total 
+Ability ID: 497 has 5 ranks and costs 15 total
 - Rank 1 (ID 1420) costs 3 AAs with effect: ImprovedBindWound 20 (6.67 ratio)
 - Rank 2 (ID 1421) costs 3 AAs with effect: ImprovedBindWound 40 (6.67 ratio)
 - Rank 3 (ID 1422) costs 3 AAs with effect: ImprovedBindWound 60 (6.67 ratio)
@@ -68,7 +69,7 @@ Ability ID: 497 has 5 ranks and costs 15 total
 (ALL)
 Battle Ready expands the bandolier by one additional save slot per rank.
 
-Ability ID: 582 has 4 ranks and costs 20 total 
+Ability ID: 582 has 4 ranks and costs 20 total
 - Rank 1 (ID 4699) costs 5 AAs with effect: BandolierSlots 1 (0.20 ratio)
 - Rank 2 (ID 6540) costs 5 AAs with effect: BandolierSlots 2 (0.20 ratio)
 - Rank 3 (ID 7500) costs 5 AAs with effect: BandolierSlots 3 (0.20 ratio)
@@ -78,7 +79,7 @@ Ability ID: 582 has 4 ranks and costs 20 total
 (ALL)
 This ability reduces the chance of failing blacksmith combinations by 10, 25, and 50 percent.
 
-Ability ID: 324 has 3 ranks and costs 18 total 
+Ability ID: 324 has 3 ranks and costs 18 total
 - Rank 1 (ID 979) costs 3 AAs with effect: ReduceTradeskillFail 10 63 (3.33 ratio)
 - Rank 2 (ID 980) costs 6 AAs with effect: ReduceTradeskillFail 25 63 (2.50 ratio)
 - Rank 3 (ID 981) costs 9 AAs with effect: ReduceTradeskillFail 50 63 (2.78 ratio)
@@ -87,7 +88,7 @@ Ability ID: 324 has 3 ranks and costs 18 total
 (ALL)
 This ability reduces the chance of failing brewing combinations by 10, 25, and 50 percent.
 
-Ability ID: 326 has 3 ranks and costs 18 total 
+Ability ID: 326 has 3 ranks and costs 18 total
 - Rank 1 (ID 985) costs 3 AAs with effect: ReduceTradeskillFail 10 65 (3.33 ratio)
 - Rank 2 (ID 986) costs 6 AAs with effect: ReduceTradeskillFail 25 65 (2.50 ratio)
 - Rank 3 (ID 987) costs 9 AAs with effect: ReduceTradeskillFail 50 65 (2.78 ratio)
@@ -96,7 +97,7 @@ Ability ID: 326 has 3 ranks and costs 18 total
 (ALL)
 The first three ranks of this ability increase your melee damage avoidance by 2, 5 and 10 percent.  Additional ranks further increase this effect.
 
-Ability ID: 34 has 18 ranks and costs 77 total 
+Ability ID: 34 has 18 ranks and costs 77 total
 - Rank 1 (ID 125) costs 2 AAs with effect: AvoidMeleeChance 2 (1.00 ratio)
 - Rank 2 (ID 126) costs 4 AAs with effect: AvoidMeleeChance 5 (0.75 ratio)
 - Rank 3 (ID 127) costs 6 AAs with effect: AvoidMeleeChance 10 (0.83 ratio)
@@ -120,7 +121,7 @@ Ability ID: 34 has 18 ranks and costs 77 total
 (CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST)
 Increases the amount of healing provided by a single bandage.
 
-Ability ID: 579 has 5 ranks and costs 15 total 
+Ability ID: 579 has 5 ranks and costs 15 total
 - Rank 1 (ID 4688) costs 3 AAs with effect: ImprovedBindWound 20 (6.67 ratio)
 - Rank 2 (ID 4689) costs 3 AAs with effect: ImprovedBindWound 40 (6.67 ratio)
 - Rank 3 (ID 4690) costs 3 AAs with effect: ImprovedBindWound 60 (6.67 ratio)
@@ -131,7 +132,7 @@ Ability ID: 579 has 5 ranks and costs 15 total
 (ALL)
 The first three ranks of this ability increase melee damage mitigation by 2, 5, and 10 percent.  Additional ranks further increase this effect.
 
-Ability ID: 33 has 18 ranks and costs 77 total 
+Ability ID: 33 has 18 ranks and costs 77 total
 - Rank 1 (ID 122) costs 2 AAs with effect: CombatStability 2 (1.00 ratio)
 - Rank 2 (ID 123) costs 4 AAs with effect: CombatStability 5 (0.75 ratio)
 - Rank 3 (ID 124) costs 6 AAs with effect: CombatStability 10 (0.83 ratio)
@@ -155,7 +156,7 @@ Ability ID: 33 has 18 ranks and costs 77 total
 (ALL)
 This ability increases how far below zero your hit points can fall before you die by 50 hit points per rank up to rank 30, and 100 hit points for ranks 31 and up. You will still fall unconscious when you reach zero hit points.
 
-Ability ID: 335 has 15 ranks and costs 65 total 
+Ability ID: 335 has 15 ranks and costs 65 total
 - Rank 1 (ID 1026) costs 3 AAs with effect: DelayDeath 50 (16.67 ratio)
 - Rank 2 (ID 1027) costs 3 AAs with effect: DelayDeath 100 (16.67 ratio)
 - Rank 3 (ID 1028) costs 3 AAs with effect: DelayDeath 150 (16.67 ratio)
@@ -176,7 +177,7 @@ Ability ID: 335 has 15 ranks and costs 65 total
 (ALL)
 This ability raises the maximum that your resistances can be increased to with items and spells by 5 points per rank.
 
-Ability ID: 333 has 5 ranks and costs 25 total 
+Ability ID: 333 has 5 ranks and costs 25 total
 - Rank 1 (ID 1006) costs 5 AAs with effect:
     - Effect 1: RaiseStatCap 5 5 (1.00 ratio)
 
@@ -237,7 +238,7 @@ Ability ID: 333 has 5 ranks and costs 25 total
 (ALL)
 Energetic Attunement enhances your receptivity to the potential healing power of your magical gear.  Each rank of this ability increases the maximum by which your hit point regeneration can be raised with items by 1 point.
 
-Ability ID: 783 has 5 ranks and costs 25 total 
+Ability ID: 783 has 5 ranks and costs 25 total
 - Rank 1 (ID 1056) costs 5 AAs with effect: ItemHPRegenCapIncrease 1 (0.20 ratio)
 - Rank 2 (ID 1057) costs 5 AAs with effect: ItemHPRegenCapIncrease 2 (0.20 ratio)
 - Rank 3 (ID 1058) costs 5 AAs with effect: ItemHPRegenCapIncrease 3 (0.20 ratio)
@@ -248,7 +249,7 @@ Ability ID: 783 has 5 ranks and costs 25 total
 (ALL)
 This ability increases the maximum that you can bind wound by 10 percent for each ability level.
 
-Ability ID: 17 has 3 ranks and costs 3 total 
+Ability ID: 17 has 3 ranks and costs 3 total
 - Rank 1 (ID 74) costs 1 AA with effect: MaxBindWound 10 (10.00 ratio)
 - Rank 2 (ID 75) costs 1 AA with effect: MaxBindWound 20 (10.00 ratio)
 - Rank 3 (ID 76) costs 1 AA with effect: MaxBindWound 30 (10.00 ratio)
@@ -257,7 +258,7 @@ Ability ID: 17 has 3 ranks and costs 3 total
 (ALL)
 This ability reduces the chance of failing fletching combinations by 10, 25, and 50 percent.
 
-Ability ID: 327 has 3 ranks and costs 18 total 
+Ability ID: 327 has 3 ranks and costs 18 total
 - Rank 1 (ID 988) costs 3 AAs with effect: ReduceTradeskillFail 10 64 (3.33 ratio)
 - Rank 2 (ID 989) costs 6 AAs with effect: ReduceTradeskillFail 25 64 (2.50 ratio)
 - Rank 3 (ID 990) costs 9 AAs with effect: ReduceTradeskillFail 50 64 (2.78 ratio)
@@ -266,14 +267,14 @@ Ability ID: 327 has 3 ranks and costs 18 total
 (ALL)
 Grants an increase of 50 points to the Forage skill of anyone who purchases it. Will increase the skill cap for those that have the Forage skill and grant the skill and raise the cap to those that do not.
 
-Ability ID: 5005 has 1 ranks and costs 3 total 
+Ability ID: 5005 has 1 ranks and costs 3 total
 - Rank 1 (ID 7062) costs 3 AAs with effect: ForageSkill 50 (16.67 ratio)
 {{</details>}}
 {{<details title="Innate Agility (ALL)">}}
 (ALL)
 This ability raises your base Agility by 2 points for each ability level.
 
-Ability ID: 3 has 15 ranks and costs 15 total 
+Ability ID: 3 has 15 ranks and costs 15 total
 - Rank 1 (ID 12) costs 1 AA with effect: AGI 2 (2.00 ratio)
 - Rank 2 (ID 13) costs 1 AA with effect: AGI 4 (2.00 ratio)
 - Rank 3 (ID 14) costs 1 AA with effect: AGI 6 (2.00 ratio)
@@ -294,7 +295,7 @@ Ability ID: 3 has 15 ranks and costs 15 total
 (ALL)
 This ability raises your base Charisma by 2 points for each ability level.
 
-Ability ID: 7 has 15 ranks and costs 15 total 
+Ability ID: 7 has 15 ranks and costs 15 total
 - Rank 1 (ID 32) costs 1 AA with effect: CHA 2 (2.00 ratio)
 - Rank 2 (ID 33) costs 1 AA with effect: CHA 4 (2.00 ratio)
 - Rank 3 (ID 34) costs 1 AA with effect: CHA 6 (2.00 ratio)
@@ -315,7 +316,7 @@ Ability ID: 7 has 15 ranks and costs 15 total
 (ALL)
 This ability raises your base Save Vs Cold by 2 points for each ability level.
 
-Ability ID: 9 has 15 ranks and costs 15 total 
+Ability ID: 9 has 15 ranks and costs 15 total
 - Rank 1 (ID 42) costs 1 AA with effect: ResistCold 2 (2.00 ratio)
 - Rank 2 (ID 43) costs 1 AA with effect: ResistCold 4 (2.00 ratio)
 - Rank 3 (ID 44) costs 1 AA with effect: ResistCold 6 (2.00 ratio)
@@ -336,7 +337,7 @@ Ability ID: 9 has 15 ranks and costs 15 total
 (ALL)
 This ability raises your base Dexterity by 2 points for each ability level.
 
-Ability ID: 4 has 15 ranks and costs 15 total 
+Ability ID: 4 has 15 ranks and costs 15 total
 - Rank 1 (ID 17) costs 1 AA with effect: DEX 2 (2.00 ratio)
 - Rank 2 (ID 18) costs 1 AA with effect: DEX 4 (2.00 ratio)
 - Rank 3 (ID 19) costs 1 AA with effect: DEX 6 (2.00 ratio)
@@ -357,7 +358,7 @@ Ability ID: 4 has 15 ranks and costs 15 total
 (ALL)
 This ability raises your base Save Vs Disease by 2 points for each ability level.
 
-Ability ID: 12 has 15 ranks and costs 15 total 
+Ability ID: 12 has 15 ranks and costs 15 total
 - Rank 1 (ID 57) costs 1 AA with effect: ResistDisease 2 (2.00 ratio)
 - Rank 2 (ID 58) costs 1 AA with effect: ResistDisease 4 (2.00 ratio)
 - Rank 3 (ID 59) costs 1 AA with effect: ResistDisease 6 (2.00 ratio)
@@ -378,7 +379,7 @@ Ability ID: 12 has 15 ranks and costs 15 total
 (ALL)
 This ability raises your base Save Vs Fire by 2 points for each ability level.
 
-Ability ID: 8 has 15 ranks and costs 15 total 
+Ability ID: 8 has 15 ranks and costs 15 total
 - Rank 1 (ID 37) costs 1 AA with effect: ResistFire 2 (2.00 ratio)
 - Rank 2 (ID 38) costs 1 AA with effect: ResistFire 4 (2.00 ratio)
 - Rank 3 (ID 39) costs 1 AA with effect: ResistFire 6 (2.00 ratio)
@@ -399,7 +400,7 @@ Ability ID: 8 has 15 ranks and costs 15 total
 (ALL)
 This ability raises your base Intelligence by 2 points for each ability level.
 
-Ability ID: 5 has 15 ranks and costs 15 total 
+Ability ID: 5 has 15 ranks and costs 15 total
 - Rank 1 (ID 22) costs 1 AA with effect: INT 2 (2.00 ratio)
 - Rank 2 (ID 23) costs 1 AA with effect: INT 4 (2.00 ratio)
 - Rank 3 (ID 24) costs 1 AA with effect: INT 6 (2.00 ratio)
@@ -420,7 +421,7 @@ Ability ID: 5 has 15 ranks and costs 15 total
 (ALL)
 This ability increases the amount of air you can hold in your lungs 10, 25, 50, 75, and 100% percent.  Rank 6 grants you the permanent ability to breathe underwater and in airless environment.
 
-Ability ID: 16 has 6 ranks and costs 13 total 
+Ability ID: 16 has 6 ranks and costs 13 total
 - Rank 1 (ID 71) costs 1 AA with effect: SetBreathLevel 110 (110.00 ratio)
 - Rank 2 (ID 72) costs 1 AA with effect: SetBreathLevel 125 (15.00 ratio)
 - Rank 3 (ID 73) costs 1 AA with effect: SetBreathLevel 150 (25.00 ratio)
@@ -436,7 +437,7 @@ Ability ID: 16 has 6 ranks and costs 13 total
 (ALL)
 This ability raises your base Save Vs Magic by 2 points for each ability level.
 
-Ability ID: 10 has 15 ranks and costs 15 total 
+Ability ID: 10 has 15 ranks and costs 15 total
 - Rank 1 (ID 47) costs 1 AA with effect: ResistMagic 2 (2.00 ratio)
 - Rank 2 (ID 48) costs 1 AA with effect: ResistMagic 4 (2.00 ratio)
 - Rank 3 (ID 49) costs 1 AA with effect: ResistMagic 6 (2.00 ratio)
@@ -457,7 +458,7 @@ Ability ID: 10 has 15 ranks and costs 15 total
 (ALL)
 This ability decreases your food consumption by 10, 25 and 50 percent.
 
-Ability ID: 15 has 3 ranks and costs 3 total 
+Ability ID: 15 has 3 ranks and costs 3 total
 - Rank 1 (ID 68) costs 1 AA with effect: Metabolism 110 (110.00 ratio)
 - Rank 2 (ID 69) costs 1 AA with effect: Metabolism 125 (15.00 ratio)
 - Rank 3 (ID 70) costs 1 AA with effect: Metabolism 150 (25.00 ratio)
@@ -466,7 +467,7 @@ Ability ID: 15 has 3 ranks and costs 3 total
 (ALL)
 This ability raises your base Save Vs Poison by 2 points for each ability level.
 
-Ability ID: 11 has 15 ranks and costs 15 total 
+Ability ID: 11 has 15 ranks and costs 15 total
 - Rank 1 (ID 52) costs 1 AA with effect: ResistPoison 2 (2.00 ratio)
 - Rank 2 (ID 53) costs 1 AA with effect: ResistPoison 4 (2.00 ratio)
 - Rank 3 (ID 54) costs 1 AA with effect: ResistPoison 6 (2.00 ratio)
@@ -487,7 +488,7 @@ Ability ID: 11 has 15 ranks and costs 15 total
 (ALL)
 This ability raises your regeneration ability by 1 point per ability level up to rank 30, and 5 points per level for ranks 31 and up.
 
-Ability ID: 225 has 15 ranks and costs 39 total 
+Ability ID: 225 has 15 ranks and costs 39 total
 - Rank 1 (ID 661) costs 1 AA with effect: CurrentHP 1 (1.00 ratio)
 - Rank 2 (ID 662) costs 1 AA with effect: CurrentHP 2 (1.00 ratio)
 - Rank 3 (ID 663) costs 1 AA with effect: CurrentHP 3 (1.00 ratio)
@@ -508,7 +509,7 @@ Ability ID: 225 has 15 ranks and costs 39 total
 (ALL)
 This ability will slightly modify your base run speed. This modification does NOT stack with movement rate spell effects.
 
-Ability ID: 13 has 5 ranks and costs 13 total 
+Ability ID: 13 has 5 ranks and costs 13 total
 - Rank 1 (ID 62) costs 1 AA with effect: BaseMovementSpeed 8 (8.00 ratio)
 - Rank 2 (ID 63) costs 1 AA with effect: BaseMovementSpeed 14 (6.00 ratio)
 - Rank 3 (ID 64) costs 1 AA with effect: BaseMovementSpeed 21 (7.00 ratio)
@@ -519,14 +520,14 @@ Ability ID: 13 has 5 ranks and costs 13 total
 (ALL)
 This ability permanently enhances your vision allowing you to see the invisible.
 
-Ability ID: 322 has 1 ranks and costs 9 total 
+Ability ID: 322 has 1 ranks and costs 9 total
 - Rank 1 (ID 1388) costs 9 AAs with effect: SeeInvis 1 (0.11 ratio)
 {{</details>}}
 {{<details title="Innate Stamina (ALL)">}}
 (ALL)
 This ability raises your base Stamina by 2 points for each ability level.
 
-Ability ID: 2 has 15 ranks and costs 15 total 
+Ability ID: 2 has 15 ranks and costs 15 total
 - Rank 1 (ID 7) costs 1 AA with effect: STA 2 (2.00 ratio)
 - Rank 2 (ID 8) costs 1 AA with effect: STA 4 (2.00 ratio)
 - Rank 3 (ID 9) costs 1 AA with effect: STA 6 (2.00 ratio)
@@ -547,7 +548,7 @@ Ability ID: 2 has 15 ranks and costs 15 total
 (ALL)
 This ability raises your base Strength by 2 points for each ability level.
 
-Ability ID: 1 has 15 ranks and costs 15 total 
+Ability ID: 1 has 15 ranks and costs 15 total
 - Rank 1 (ID 2) costs 1 AA with effect: STR 2 (2.00 ratio)
 - Rank 2 (ID 3) costs 1 AA with effect: STR 4 (2.00 ratio)
 - Rank 3 (ID 4) costs 1 AA with effect: STR 6 (2.00 ratio)
@@ -568,7 +569,7 @@ Ability ID: 1 has 15 ranks and costs 15 total
 (ALL)
 This ability raises your base Wisdom by 2 points for each ability level.
 
-Ability ID: 6 has 15 ranks and costs 15 total 
+Ability ID: 6 has 15 ranks and costs 15 total
 - Rank 1 (ID 27) costs 1 AA with effect: WIS 2 (2.00 ratio)
 - Rank 2 (ID 28) costs 1 AA with effect: WIS 4 (2.00 ratio)
 - Rank 3 (ID 29) costs 1 AA with effect: WIS 6 (2.00 ratio)
@@ -589,7 +590,7 @@ Ability ID: 6 has 15 ranks and costs 15 total
 (ENC)
 This ability reduces your chance of failing jewelcraft combinations by 10, 25, and 50 percent.
 
-Ability ID: 56 has 3 ranks and costs 12 total 
+Ability ID: 56 has 3 ranks and costs 12 total
 - Rank 1 (ID 159) costs 2 AAs with effect: ReduceTradeskillFail 10 68 (5.00 ratio)
 - Rank 2 (ID 160) costs 4 AAs with effect: ReduceTradeskillFail 25 68 (3.75 ratio)
 - Rank 3 (ID 161) costs 6 AAs with effect: ReduceTradeskillFail 50 68 (4.17 ratio)
@@ -598,7 +599,7 @@ Ability ID: 56 has 3 ranks and costs 12 total
 (WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG BST BER)
 Decreases failure chance of jewel crafting combines by 10, 25 and 50%
 
-Ability ID: 576 has 3 ranks and costs 18 total 
+Ability ID: 576 has 3 ranks and costs 18 total
 - Rank 1 (ID 4675) costs 3 AAs with effect: ReduceTradeskillFail 10 68 (3.33 ratio)
 - Rank 2 (ID 4676) costs 6 AAs with effect: ReduceTradeskillFail 25 68 (2.50 ratio)
 - Rank 3 (ID 4677) costs 9 AAs with effect: ReduceTradeskillFail 50 68 (2.78 ratio)
@@ -607,7 +608,7 @@ Ability ID: 576 has 3 ranks and costs 18 total
 (ALL)
 This ability increases the number of mystical effects that can affect you at once by 1 per rank.
 
-Ability ID: 334 has 13 ranks and costs 40 total 
+Ability ID: 334 has 13 ranks and costs 40 total
 - Rank 1 (ID 1021) costs 0 AAs with effect: MysticalAttune 1 (+Inf ratio)
 - Rank 2 (ID 1022) costs 0 AAs with effect: MysticalAttune 2 (+Inf ratio)
 - Rank 3 (ID 1023) costs 0 AAs with effect: MysticalAttune 3 (+Inf ratio)
@@ -626,7 +627,7 @@ Ability ID: 334 has 13 ranks and costs 40 total
 (ALL)
 This ability increases your maximum hitpoints by 2, 5, and 10 percent for the first three ranks, and one additional percent for each rank after that.  (The percentages are based off of your base hitpoints, which include stamina and stamina effects.)
 
-Ability ID: 28 has 3 ranks and costs 12 total 
+Ability ID: 28 has 3 ranks and costs 12 total
 - Rank 1 (ID 107) costs 2 AAs with effect: MaxHPChange 200 (100.00 ratio)
 - Rank 2 (ID 108) costs 4 AAs with effect: MaxHPChange 500 (75.00 ratio)
 - Rank 3 (ID 109) costs 6 AAs with effect: MaxHPChange 1000 (83.33 ratio)
@@ -635,7 +636,7 @@ Ability ID: 28 has 3 ranks and costs 12 total
 (ALL)
 Training with the sages and merchants of New Tanaan gives adventurers the chance to hone their crafting skills.  For each rank of this ability that you purchase, you are able to raise an additional trade skill past its Specialization level (200).  (This ability applies to Baking, Blacksmithing, Brewing, Fletching, Jewelcraft, Pottery, and Tailoring.)
 
-Ability ID: 141 has 6 ranks and costs 18 total 
+Ability ID: 141 has 6 ranks and costs 18 total
 - Rank 1 (ID 412) costs 3 AAs with effect: TradeSkillMastery 1 (0.33 ratio)
 - Rank 2 (ID 413) costs 3 AAs with effect: TradeSkillMastery 2 (0.33 ratio)
 - Rank 3 (ID 414) costs 3 AAs with effect: TradeSkillMastery 3 (0.33 ratio)
@@ -647,7 +648,7 @@ Ability ID: 141 has 6 ranks and costs 18 total
 (ALL)
 Each rank in this ability improves the efficiency with which you store your gear, effectively reducing your overall weight.
 
-Ability ID: 233 has 5 ranks and costs 15 total 
+Ability ID: 233 has 5 ranks and costs 15 total
 - Rank 1 (ID 678) costs 3 AAs with effect: Packrat 3 (1.00 ratio)
 - Rank 2 (ID 679) costs 3 AAs with effect: Packrat 6 (1.00 ratio)
 - Rank 3 (ID 680) costs 3 AAs with effect: Packrat 9 (1.00 ratio)
@@ -658,7 +659,7 @@ Ability ID: 233 has 5 ranks and costs 15 total
 (ALL)
 This ability raises the maximum that your statistics can be raised to, with items or spells, by 5 points per rank.
 
-Ability ID: 142 has 15 ranks and costs 60 total 
+Ability ID: 142 has 15 ranks and costs 60 total
 - Rank 1 (ID 418) costs 2 AAs with effect:
     - Effect 1: RaiseStatCap 5 (2.50 ratio)
 
@@ -889,7 +890,7 @@ Ability ID: 142 has 15 ranks and costs 60 total
 (ROG)
 This ability reduces your chance of failing on a poison combination by 10, 25, and 50 percent. It also reduces the time to apply poison by 2.5 seconds per ability level. Once one point is applied to this ability, you will never again fail in poison application.
 
-Ability ID: 103 has 4 ranks and costs 30 total 
+Ability ID: 103 has 4 ranks and costs 30 total
 - Rank 1 (ID 244) costs 3 AAs with effect:
     - Effect 1: ReduceTradeskillFail 10 10 (3.33 ratio)
 
@@ -915,7 +916,7 @@ Ability ID: 103 has 4 ranks and costs 30 total
 (ALL)
 This ability reduces the chance of failing pottery combinations by 10, 25, and 50 percent.
 
-Ability ID: 328 has 3 ranks and costs 18 total 
+Ability ID: 328 has 3 ranks and costs 18 total
 - Rank 1 (ID 991) costs 3 AAs with effect: ReduceTradeskillFail 10 69 (3.33 ratio)
 - Rank 2 (ID 992) costs 6 AAs with effect: ReduceTradeskillFail 25 69 (2.50 ratio)
 - Rank 3 (ID 993) costs 9 AAs with effect: ReduceTradeskillFail 50 69 (2.78 ratio)
@@ -924,14 +925,14 @@ Ability ID: 328 has 3 ranks and costs 18 total
 (ALL)
 Quick Draw expands the potion belt by one additional available item slot per rank.
 
-Ability ID: 581 has 1 ranks and costs 5 total 
+Ability ID: 581 has 1 ranks and costs 5 total
 - Rank 1 (ID 4698) costs 5 AAs with effect: PotionBeltSlots 1 (0.20 ratio)
 {{</details>}}
 {{<details title="Salvage (ALL)">}}
 (ALL)
 This ability gives you the chance to automatically recover an item that would otherwise be lost on a failed tradeskill combine.
 
-Ability ID: 330 has 3 ranks and costs 15 total 
+Ability ID: 330 has 3 ranks and costs 15 total
 - Rank 1 (ID 997) costs 5 AAs with effect: Salvage 5 (1.00 ratio)
 - Rank 2 (ID 998) costs 5 AAs with effect: Salvage 15 (2.00 ratio)
 - Rank 3 (ID 999) costs 5 AAs with effect: Salvage 25 (2.00 ratio)
@@ -940,7 +941,7 @@ Ability ID: 330 has 3 ranks and costs 15 total
 (ALL)
 Increase your Tracking skill by 10 points per rank.
 
-Ability ID: 17786 has 5 ranks and costs 25 total 
+Ability ID: 17786 has 5 ranks and costs 25 total
 - Rank 1 (ID 18973) costs 5 AAs with effect: RaiseSkillCap 10 53 (2.00 ratio)
 - Rank 2 (ID 18974) costs 5 AAs with effect: RaiseSkillCap 20 53 (2.00 ratio)
 - Rank 3 (ID 18975) costs 5 AAs with effect: RaiseSkillCap 30 53 (2.00 ratio)
@@ -951,7 +952,7 @@ Ability ID: 17786 has 5 ranks and costs 25 total
 (ALL)
 This ability reduces the chance of failing tailoring combinations by 10, 25, and 50 percent.
 
-Ability ID: 329 has 3 ranks and costs 18 total 
+Ability ID: 329 has 3 ranks and costs 18 total
 - Rank 1 (ID 994) costs 3 AAs with effect: ReduceTradeskillFail 10 61 (3.33 ratio)
 - Rank 2 (ID 995) costs 6 AAs with effect: ReduceTradeskillFail 25 61 (2.50 ratio)
 - Rank 3 (ID 996) costs 9 AAs with effect: ReduceTradeskillFail 50 61 (2.78 ratio)
@@ -960,7 +961,7 @@ Ability ID: 329 has 3 ranks and costs 18 total
 (WAR CLR PAL SHD ROG NEC WIZ MAG ENC)
 Decreases failure chance of tinkering combines by 10, 25 and 50%
 
-Ability ID: 575 has 3 ranks and costs 18 total 
+Ability ID: 575 has 3 ranks and costs 18 total
 - Rank 1 (ID 4672) costs 3 AAs with effect: ReduceTradeskillFail 10 57 (3.33 ratio)
 - Rank 2 (ID 4673) costs 6 AAs with effect: ReduceTradeskillFail 25 57 (2.50 ratio)
 - Rank 3 (ID 4674) costs 9 AAs with effect: ReduceTradeskillFail 50 57 (2.78 ratio)
@@ -970,7 +971,7 @@ Ability ID: 575 has 3 ranks and costs 18 total
 (CLR DRU SHM)
 Whenever you cast a level direct healing spell, there is a chance that your target will continue to be healed over the next 30 seconds.  Additional ranks increase the effectiveness of the ability and the chance for it to occur.
 
-Ability ID: 516 has 5 ranks and costs 25 total 
+Ability ID: 516 has 5 ranks and costs 25 total
 - Rank 1 (ID 1486) costs 5 AAs with effect:
     - Effect 1: TriggerOnCast 1 1 (0.20 ratio)
 
@@ -1141,7 +1142,7 @@ Ability ID: 516 has 5 ranks and costs 25 total
 (NEC WIZ MAG ENC)
 This ability reduces the chance of failing research combinations by 10, 25, and 50 percent.
 
-Ability ID: 352 has 3 ranks and costs 18 total 
+Ability ID: 352 has 3 ranks and costs 18 total
 - Rank 1 (ID 1089) costs 3 AAs with effect: ReduceTradeskillFail 10 58 (3.33 ratio)
 - Rank 2 (ID 1090) costs 6 AAs with effect: ReduceTradeskillFail 25 58 (2.50 ratio)
 - Rank 3 (ID 1091) costs 9 AAs with effect: ReduceTradeskillFail 50 58 (2.78 ratio)
@@ -1150,7 +1151,7 @@ Ability ID: 352 has 3 ranks and costs 18 total
 (BRD BST)
 Each rank will increase your max skill cap for triple attack by 5 points.
 
-Ability ID: 3837 has 2 ranks and costs 16 total 
+Ability ID: 3837 has 2 ranks and costs 16 total
 - Rank 1 (ID 6060) costs 8 AAs with effect: RaiseSkillCap 5 76 (0.62 ratio)
 - Rank 2 (ID 6061) costs 8 AAs with effect: RaiseSkillCap 10 76 (0.62 ratio)
 {{</details>}}
@@ -1158,7 +1159,7 @@ Ability ID: 3837 has 2 ranks and costs 16 total
 (WAR PAL RNG SHD MNK BRD ROG BST BER)
 This ability increases your chance to land a critical hit.  Non-Warriors will nearly match the original critical hit abilities of Warriors, while Warriors will remain significantly ahead of other classes. further increases your chance to score a critical blow against your opponent.
 
-Ability ID: 309 has 6 ranks and costs 21 total 
+Ability ID: 309 has 6 ranks and costs 21 total
 - Rank 1 (ID 934) costs 2 AAs with effect: CriticalHitChance 15 -1 (7.50 ratio)
 - Rank 2 (ID 935) costs 4 AAs with effect: CriticalHitChance 30 -1 (3.75 ratio)
 - Rank 3 (ID 936) costs 6 AAs with effect: CriticalHitChance 60 -1 (5.00 ratio)
@@ -1170,7 +1171,7 @@ Ability ID: 309 has 6 ranks and costs 21 total
 (SHD DRU SHM NEC MAG ENC BST)
 This passive ability will increase the chance that your companion has to execute a flurry of attacks when in combat. Additional ranks increase the chance that your companion will flurry.
 
-Ability ID: 1200 has 3 ranks and costs 21 total 
+Ability ID: 1200 has 3 ranks and costs 21 total
 - Rank 1 (ID 8190) costs 7 AAs with effect: PetFlurry 3 (0.43 ratio)
 - Rank 2 (ID 8191) costs 7 AAs with effect: PetFlurry 6 (0.43 ratio)
 - Rank 3 (ID 8192) costs 7 AAs with effect: PetFlurry 9 (0.43 ratio)
@@ -1179,7 +1180,7 @@ Ability ID: 1200 has 3 ranks and costs 21 total
 (SHD DRU SHM NEC MAG ENC BST)
 Increases the hitpoints of your companion by 1, 3 and 5 percent for the first three ranks. Each additional rank increases your pet's health by 2 percent.
 
-Ability ID: 3512 has 3 ranks and costs 9 total 
+Ability ID: 3512 has 3 ranks and costs 9 total
 - Rank 1 (ID 6051) costs 3 AAs with effect: PetMaxHP 1 (0.33 ratio)
 - Rank 2 (ID 6052) costs 3 AAs with effect: PetMaxHP 3 (0.67 ratio)
 - Rank 3 (ID 6053) costs 3 AAs with effect: PetMaxHP 5 (0.67 ratio)
@@ -1188,7 +1189,7 @@ Ability ID: 3512 has 3 ranks and costs 9 total
 (SHD SHM NEC MAG ENC BST)
 This passive ability will grant a chance for your companion to score a critical hit when attacking via melee. Additional ranks increase the chance of a critical hit.
 
-Ability ID: 1205 has 4 ranks and costs 21 total 
+Ability ID: 1205 has 4 ranks and costs 21 total
 - Rank 1 (ID 8201) costs 3 AAs with effect: PetCriticalHit 1 (0.33 ratio)
 - Rank 2 (ID 8202) costs 3 AAs with effect: PetCriticalHit 2 (0.33 ratio)
 - Rank 3 (ID 8203) costs 6 AAs with effect: PetCriticalHit 3 (0.17 ratio)
@@ -1198,7 +1199,7 @@ Ability ID: 1205 has 4 ranks and costs 21 total
 (WAR MNK ROG BER)
 Each rank in this ability increases your chance to not have item effects interrupted when you take damage.
 
-Ability ID: 563 has 3 ranks and costs 18 total 
+Ability ID: 563 has 3 ranks and costs 18 total
 - Rank 1 (ID 1588) costs 3 AAs with effect: ChannelChanceItems 50 (16.67 ratio)
 - Rank 2 (ID 1589) costs 6 AAs with effect: ChannelChanceItems 100 (8.33 ratio)
 - Rank 3 (ID 1590) costs 9 AAs with effect: ChannelChanceItems 150 (5.56 ratio)
@@ -1207,7 +1208,7 @@ Ability ID: 563 has 3 ranks and costs 18 total
 (RNG SHD DRU BRD SHM NEC ENC BST)
 This ability grants damage-over-time spells the chance to have a critical effect each tick they are active.  Additional ranks improve this chance.
 
-Ability ID: 259 has 6 ranks and costs 36 total 
+Ability ID: 259 has 6 ranks and costs 36 total
 - Rank 1 (ID 767) costs 3 AAs with effect: CriticalDoTChance 5 (1.67 ratio)
 - Rank 2 (ID 768) costs 6 AAs with effect: CriticalDoTChance 10 (0.83 ratio)
 - Rank 3 (ID 769) costs 9 AAs with effect: CriticalDoTChance 15 (0.56 ratio)
@@ -1219,7 +1220,7 @@ Ability ID: 259 has 6 ranks and costs 36 total
 (CLR DRU SHM NEC MAG ENC BST)
 Each rank of this ability increases the strength of your critical spell hits, causing them to do more damage.
 
-Ability ID: 398 has 6 ranks and costs 36 total 
+Ability ID: 398 has 6 ranks and costs 36 total
 - Rank 1 (ID 1213) costs 3 AAs with effect: CriticalSpellChance 0 107 (35.67 ratio)
 - Rank 2 (ID 1214) costs 6 AAs with effect: CriticalSpellChance 0 115 (1.33 ratio)
 - Rank 3 (ID 1215) costs 9 AAs with effect: CriticalSpellChance 0 125 (1.11 ratio)
@@ -1231,7 +1232,7 @@ Ability ID: 398 has 6 ranks and costs 36 total
 (WIZ)
 Each rank of this ability increases the strength of your critical spell hits, causing them to do more damage.
 
-Ability ID: 397 has 9 ranks and costs 60 total 
+Ability ID: 397 has 9 ranks and costs 60 total
 - Rank 1 (ID 1210) costs 3 AAs with effect: CriticalSpellChance 0 107 (35.67 ratio)
 - Rank 2 (ID 1211) costs 6 AAs with effect: CriticalSpellChance 0 115 (1.33 ratio)
 - Rank 3 (ID 1212) costs 9 AAs with effect: CriticalSpellChance 0 125 (1.11 ratio)
@@ -1246,7 +1247,7 @@ Ability ID: 397 has 9 ranks and costs 60 total
 (WAR PAL RNG SHD MNK ROG BST BER)
 The first three ranks of this ability will give you an increased chance to execute a double riposte 15, 35, and 50 percent of the time.  Additional ranks further increase this effect.
 
-Ability ID: 104 has 6 ranks and costs 27 total 
+Ability ID: 104 has 6 ranks and costs 27 total
 - Rank 1 (ID 247) costs 3 AAs with effect:  15 (5.00 ratio)
 - Rank 2 (ID 248) costs 6 AAs with effect:  30 (2.50 ratio)
 - Rank 3 (ID 249) costs 9 AAs with effect:  50 (2.22 ratio)
@@ -1258,7 +1259,7 @@ Ability ID: 104 has 6 ranks and costs 27 total
 (WAR PAL RNG SHD MNK BRD ROG BST BER)
 Each rank of this ability increases the maximum amount of attack you can gain from items.
 
-Ability ID: 498 has 10 ranks and costs 50 total 
+Ability ID: 498 has 10 ranks and costs 50 total
 - Rank 1 (ID 1592) costs 5 AAs with effect: ItemAttackCapIncrease 10 (2.00 ratio)
 - Rank 2 (ID 1593) costs 5 AAs with effect: ItemAttackCapIncrease 20 (2.00 ratio)
 - Rank 3 (ID 1594) costs 5 AAs with effect: ItemAttackCapIncrease 30 (2.00 ratio)
@@ -1274,7 +1275,7 @@ Ability ID: 498 has 10 ranks and costs 50 total
 (CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST)
 This ability raises the maximum that your mana regeneration can be increased with items by 1 point per rank.
 
-Ability ID: 348 has 10 ranks and costs 50 total 
+Ability ID: 348 has 10 ranks and costs 50 total
 - Rank 1 (ID 1072) costs 5 AAs with effect: ItemManaRegenCapIncrease 1 (0.20 ratio)
 - Rank 2 (ID 1073) costs 5 AAs with effect: ItemManaRegenCapIncrease 2 (0.20 ratio)
 - Rank 3 (ID 1074) costs 5 AAs with effect: ItemManaRegenCapIncrease 3 (0.20 ratio)
@@ -1290,7 +1291,7 @@ Ability ID: 348 has 10 ranks and costs 50 total
 (WAR MNK ROG BER)
 This passive ability will allow item effects to last longer for you when you use them. Additional ranks further increase the duration increase.
 
-Ability ID: 1433 has 1 ranks and costs 4 total 
+Ability ID: 1433 has 1 ranks and costs 4 total
 - Rank 1 (ID 8232) costs 4 AAs with effect:
     - Effect 1: IncreaseSpellDuration 5 5 (1.25 ratio)
 
@@ -1309,7 +1310,7 @@ Ability ID: 1433 has 1 ranks and costs 4 total
 (BRD)
 This passive ability will allow item effects to last longer for you when you use them. Additional ranks further increase the duration increase.
 
-Ability ID: 1218 has 1 ranks and costs 4 total 
+Ability ID: 1218 has 1 ranks and costs 4 total
 - Rank 1 (ID 8040) costs 4 AAs with effect:
     - Effect 1: IncreaseSpellDuration 5 5 (1.25 ratio)
 
@@ -1330,7 +1331,7 @@ Ability ID: 1218 has 1 ranks and costs 4 total
 (WAR PAL RNG SHD MNK BRD ROG BST BER)
 This ability grants you a resistance bonus to fear type spells of 5, 10, and 25 percent. It also increases the chance of breaking fear earlier.
 
-Ability ID: 31 has 3 ranks and costs 12 total 
+Ability ID: 31 has 3 ranks and costs 12 total
 - Rank 1 (ID 116) costs 2 AAs with effect: ResistFearChance 5 (2.50 ratio)
 - Rank 2 (ID 117) costs 4 AAs with effect: ResistFearChance 10 (1.25 ratio)
 - Rank 3 (ID 118) costs 6 AAs with effect: ResistFearChance 25 (2.50 ratio)
@@ -1339,7 +1340,7 @@ Ability ID: 31 has 3 ranks and costs 12 total
 (WAR RNG MNK ROG BER)
 Each rank of this ability grants you an increased chance of performing a double attack in any given combat round.
 
-Ability ID: 189 has 6 ranks and costs 30 total 
+Ability ID: 189 has 6 ranks and costs 30 total
 - Rank 1 (ID 564) costs 3 AAs with effect: DoubleAttackChance 3 -1 (1.00 ratio)
 - Rank 2 (ID 565) costs 3 AAs with effect: DoubleAttackChance 6 -1 (1.00 ratio)
 - Rank 3 (ID 566) costs 3 AAs with effect: DoubleAttackChance 9 -1 (1.00 ratio)
@@ -1351,7 +1352,7 @@ Ability ID: 189 has 6 ranks and costs 30 total
 (WAR PAL RNG SHD MNK BRD ROG BST BER)
 This ability gives you a chance to finish off an NPC that is below 10 percent health and fleeing with a single blow.  Additional ranks increase the maximum level of affected NPC.  Rank 1: level 50, Rank 2: level 52, Rank 3: level 54, Rank 4: level 56, Rank 5: level 58, Rank 6: level 60, Rank 7: level 61, Rank 8: level 63, Rank 9: Level 65, Rank 10: level 66, Rank 11: level 68, Rank 12: level 70, Rank 13: Level 71, Rank 14: Level 73, Rank 15: Level 75. Rank 16: Level 76. Rank 17: 78. Rank 18: 80. Rank 19: 82. Rank 20: 84. Rank 21: 86. Additional ranks increase this limit by 1 level per rank. (Non-Warriors must first train one level of Combat Fury to use this ability.)
 
-Ability ID: 32 has 12 ranks and costs 36 total 
+Ability ID: 32 has 12 ranks and costs 36 total
 - Rank 1 (ID 119) costs 2 AAs with effect:
     - Effect 1:  500 500 (250.00 ratio)
 
@@ -1417,7 +1418,7 @@ Ability ID: 32 has 12 ranks and costs 36 total
 (PAL RNG SHD BRD BST)
 This ability further increases your chance to score a critical hit with your direct damage spells.
 
-Ability ID: 358 has 6 ranks and costs 36 total 
+Ability ID: 358 has 6 ranks and costs 36 total
 - Rank 1 (ID 1107) costs 3 AAs with effect: CriticalSpellChance 2 100 (0.67 ratio)
 - Rank 2 (ID 1108) costs 6 AAs with effect: CriticalSpellChance 4 100 (0.33 ratio)
 - Rank 3 (ID 1109) costs 9 AAs with effect: CriticalSpellChance 6 100 (0.22 ratio)
@@ -1429,7 +1430,7 @@ Ability ID: 358 has 6 ranks and costs 36 total
 (CLR DRU SHM NEC MAG ENC)
 Each rank in this ability increases your chance to score a critical hit with your direct damage spells.
 
-Ability ID: 215 has 9 ranks and costs 54 total 
+Ability ID: 215 has 9 ranks and costs 54 total
 - Rank 1 (ID 637) costs 3 AAs with effect: CriticalSpellChance 2 100 (0.67 ratio)
 - Rank 2 (ID 638) costs 6 AAs with effect: CriticalSpellChance 4 100 (0.33 ratio)
 - Rank 3 (ID 639) costs 9 AAs with effect: CriticalSpellChance 6 100 (0.22 ratio)
@@ -1444,7 +1445,7 @@ Ability ID: 215 has 9 ranks and costs 54 total
 (CLR DRU SHM NEC WIZ MAG ENC)
 Whenever you cast a level 30 to 70 spell that heals or harms someone, this ability grants you an innate chance for the next level 70 or lower spell you cast after that to only cost a single point of mana.  Additional ranks increase the chance of this occurring.  Note that you only have a brief time to make use of the benefits of this ability before it fades away.
 
-Ability ID: 495 has 4 ranks and costs 27 total 
+Ability ID: 495 has 4 ranks and costs 27 total
 - Rank 1 (ID 1435) costs 3 AAs with effect:
     - Effect 1: TriggerOnCast 3 3 (1.00 ratio)
 
@@ -1694,7 +1695,7 @@ Ability ID: 495 has 4 ranks and costs 27 total
 (CLR DRU SHM)
 This ability decreases the reuse time of Radiant Cure by 10 percent per rank.
 
-Ability ID: 256 has 3 ranks and costs 18 total 
+Ability ID: 256 has 3 ranks and costs 18 total
 - Rank 1 (ID 754) costs 3 AAs with effect: HastenedAASkill 18 153 (6.00 ratio)
 - Rank 2 (ID 755) costs 6 AAs with effect: HastenedAASkill 36 153 (3.00 ratio)
 - Rank 3 (ID 756) costs 9 AAs with effect: HastenedAASkill 54 153 (2.00 ratio)
@@ -1703,7 +1704,7 @@ Ability ID: 256 has 3 ranks and costs 18 total
 (CLR PAL RNG DRU SHM BST)
 The first three ranks of this ability increase the maximum effectiveness of your healing spells by 2, 5, and 10 percent.  Additional ranks increase the maximum effectiveness of your healing by an additional 3 percent per rank.
 
-Ability ID: 18 has 9 ranks and costs 42 total 
+Ability ID: 18 has 9 ranks and costs 42 total
 - Rank 1 (ID 77) costs 2 AAs with effect:
     - Effect 1: ImprovedHeal 2 2 (1.00 ratio)
 
@@ -1862,7 +1863,7 @@ Ability ID: 18 has 9 ranks and costs 42 total
 (CLR PAL SHM)
 This ability grants heal-over-time spells the chance to have a critical effect each tick they are active. An exceptional heal doubles the healing value of the spell for that tick.
 
-Ability ID: 389 has 6 ranks and costs 36 total 
+Ability ID: 389 has 6 ranks and costs 36 total
 - Rank 1 (ID 1186) costs 3 AAs with effect: CriticalHealOverTime 3 (1.00 ratio)
 - Rank 2 (ID 1187) costs 6 AAs with effect: CriticalHealOverTime 6 (0.50 ratio)
 - Rank 3 (ID 1188) costs 9 AAs with effect: CriticalHealOverTime 10 (0.44 ratio)
@@ -1874,7 +1875,7 @@ Ability ID: 389 has 6 ranks and costs 36 total
 (CLR PAL RNG DRU SHM BST)
 The first three ranks of this ability grant you a chance to score an exceptional heal at 3, 6, and 10 percent. Additional ranks up to rank 15 further increase the chance by 2 percent per rank. Rank 16+ increase this chance by 1 percent per rank. An exceptional heal doubles the healing value of the spell.
 
-Ability ID: 19 has 12 ranks and costs 57 total 
+Ability ID: 19 has 12 ranks and costs 57 total
 - Rank 1 (ID 80) costs 2 AAs with effect: CriticalHealChance 3 (1.50 ratio)
 - Rank 2 (ID 81) costs 4 AAs with effect: CriticalHealChance 6 (0.75 ratio)
 - Rank 3 (ID 82) costs 6 AAs with effect: CriticalHealChance 10 (0.67 ratio)
@@ -1892,7 +1893,7 @@ Ability ID: 19 has 12 ranks and costs 57 total
 (WAR MNK ROG BER)
 This ability raises your natural endurance regeneration by 1 point per ability level.
 
-Ability ID: 234 has 11 ranks and costs 58 total 
+Ability ID: 234 has 11 ranks and costs 58 total
 - Rank 1 (ID 683) costs 3 AAs with effect: CurrentEndurance 2 (0.67 ratio)
 - Rank 2 (ID 684) costs 6 AAs with effect: CurrentEndurance 4 (0.33 ratio)
 - Rank 3 (ID 685) costs 9 AAs with effect: CurrentEndurance 6 (0.22 ratio)
@@ -1909,7 +1910,7 @@ Ability ID: 234 has 11 ranks and costs 58 total
 (WAR MNK BRD ROG BER)
 Years of experimentation have led to the discovery of how to gain additional performance (in the form of critical spell hits) from weapons and other items. Each rank in this ability will increase your critical hit chance with such items.
 
-Ability ID: 210 has 6 ranks and costs 15 total 
+Ability ID: 210 has 6 ranks and costs 15 total
 - Rank 1 (ID 625) costs 1 AA with effect: CriticalSpellChance 3 100 (3.00 ratio)
 - Rank 2 (ID 626) costs 2 AAs with effect: CriticalSpellChance 6 100 (1.50 ratio)
 - Rank 3 (ID 627) costs 3 AAs with effect: CriticalSpellChance 9 100 (1.00 ratio)
@@ -1921,7 +1922,7 @@ Ability ID: 210 has 6 ranks and costs 15 total
 (CLR DRU SHM)
 Those who have meditated on the Plane of Tranquility find themselves able to expand their capacity of both Insight and Intellect.  Each rank of this ability raises the maximum that you may raise your Intelligence and Wisdom by ten points.  You may train in this ability once each level, beginning at level 61.
 
-Ability ID: 316 has 5 ranks and costs 15 total 
+Ability ID: 316 has 5 ranks and costs 15 total
 - Rank 1 (ID 955) costs 3 AAs with effect:
     - Effect 1: RaiseStatCap 10 10 (3.33 ratio)
 
@@ -1952,7 +1953,7 @@ Ability ID: 316 has 5 ranks and costs 15 total
 (NEC WIZ MAG ENC)
 Those who have meditated on the Plane of Tranquility find themselves able to expand their capacity of both Insight and Intellect.  Each rank of this ability raises the maximum that you may raise your Intelligence and Wisdom by ten points.  You may train in this ability once each level, beginning at level 61.
 
-Ability ID: 144 has 5 ranks and costs 15 total 
+Ability ID: 144 has 5 ranks and costs 15 total
 - Rank 1 (ID 426) costs 3 AAs with effect:
     - Effect 1: RaiseStatCap 10 10 (3.33 ratio)
 
@@ -1983,7 +1984,7 @@ Ability ID: 144 has 5 ranks and costs 15 total
 (WAR MNK ROG BER)
 After slaying a non-trivial con enemy, you have a 10% chance per rank to enter a battle frenzy that instantly boosts your endurance slightly as well as increases your offensive damage for the next 30 seconds.
 
-Ability ID: 733 has 3 ranks and costs 15 total 
+Ability ID: 733 has 3 ranks and costs 15 total
 - Rank 1 (ID 4739) costs 0 AAs with effect: ProcOnKillShot 50 11023 (+Inf ratio)
 - Rank 2 (ID 4740) costs 6 AAs with effect: ProcOnKillShot 60 11023 (1.67 ratio)
 - Rank 3 (ID 4741) costs 9 AAs with effect: ProcOnKillShot 70 11023 (1.11 ratio)
@@ -1992,7 +1993,7 @@ Ability ID: 733 has 3 ranks and costs 15 total
 ()
 This ability makes it impossible for you to fizzle spells up to a certain level.  Rank 1 - level 54.  Rank 2 - level 56.  Rank 3 - level 58.  Rank 4 - level 62.  Rank 5 - level 64.  Rank 6 - level 66.  Rank 7 - level 67.  Rank 8 - level 69.  Rank 9 - level 71.  Rank 10 - level 72.  Rank 11 - level 74.  Rank 12 - level 76. Rank 13 - 79. Rank 14 - 80. Rank 15 - 81. Rank 16 - 82. Rank 17 - 83. Rank 18 - 84. Rank 19 - 85. Rank 20 - 86. Rank 21 - 87. Rank 22 - 88. Rank 23 - 89. Rank 24 - 90. Rank 25 - 91. Rank 26 - 92. Rank 27 - 93. Rank 28 - 94. Rank 29 - 95. Rank 30 - 96.
 
-Ability ID: 251 has 6 ranks and costs 24 total 
+Ability ID: 251 has 6 ranks and costs 24 total
 - Rank 1 (ID 735) costs 3 AAs with effect: MasteryofPast 54 (18.00 ratio)
 - Rank 2 (ID 736) costs 3 AAs with effect: MasteryofPast 56 (0.67 ratio)
 - Rank 3 (ID 737) costs 3 AAs with effect: MasteryofPast 58 (0.67 ratio)
@@ -2004,7 +2005,7 @@ Ability ID: 251 has 6 ranks and costs 24 total
 (CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST)
 This ability increases your natural mana regeneration by 1 point per ability level.
 
-Ability ID: 224 has 8 ranks and costs 37 total 
+Ability ID: 224 has 8 ranks and costs 37 total
 - Rank 1 (ID 658) costs 2 AAs with effect: CurrentMana 1 (0.50 ratio)
 - Rank 2 (ID 659) costs 4 AAs with effect: CurrentMana 2 (0.25 ratio)
 - Rank 3 (ID 660) costs 6 AAs with effect: CurrentMana 3 (0.17 ratio)
@@ -2018,7 +2019,7 @@ Ability ID: 224 has 8 ranks and costs 37 total
 (CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST)
 This ability gives you an additional spell slot so you can memorize an additional spell.
 
-Ability ID: 347 has 4 ranks and costs 21 total 
+Ability ID: 347 has 4 ranks and costs 21 total
 - Rank 1 (ID 1071) costs 3 AAs with effect: SpellSlotIncrease 1 (0.33 ratio)
 - Rank 2 (ID 4764) costs 6 AAs with effect: SpellSlotIncrease 2 (0.17 ratio)
 - Rank 3 (ID 7553) costs 6 AAs with effect: SpellSlotIncrease 3 (0.17 ratio)
@@ -2028,7 +2029,7 @@ Ability ID: 347 has 4 ranks and costs 21 total
 (WAR PAL RNG SHD MNK BRD ROG BST BER)
 This ability raises your natural regeneration by one point per ability level.
 
-Ability ID: 29 has 3 ranks and costs 12 total 
+Ability ID: 29 has 3 ranks and costs 12 total
 - Rank 1 (ID 110) costs 2 AAs with effect: CurrentHP 1 (0.50 ratio)
 - Rank 2 (ID 111) costs 4 AAs with effect: CurrentHP 2 (0.25 ratio)
 - Rank 3 (ID 112) costs 6 AAs with effect: CurrentHP 3 (0.17 ratio)
@@ -2037,7 +2038,7 @@ Ability ID: 29 has 3 ranks and costs 12 total
 (CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST)
 Your highly developed concentration creates the possibility of continuing to cast spells while stunned.  Increased ranks in this ability increase the chance that your spells will not be interrupted by stuns.
 
-Ability ID: 237 has 3 ranks and costs 18 total 
+Ability ID: 237 has 3 ranks and costs 18 total
 - Rank 1 (ID 692) costs 3 AAs with effect: PersistantCasting 5 (1.67 ratio)
 - Rank 2 (ID 693) costs 6 AAs with effect: PersistantCasting 10 (0.83 ratio)
 - Rank 3 (ID 694) costs 9 AAs with effect: PersistantCasting 15 (0.56 ratio)
@@ -2046,14 +2047,14 @@ Ability ID: 237 has 3 ranks and costs 18 total
 (SHD DRU SHM NEC MAG ENC BST)
 This ability upgrades your Suspended Minion ability to allow pets to remain suspended across zone lines.  Also, if you camp with a suspended pet and have this ability, the pet will be available to you when you return.
 
-Ability ID: 364 has 1 ranks and costs 7 total 
+Ability ID: 364 has 1 ranks and costs 7 total
 - Rank 1 (ID 1122) costs 7 AAs with effect: ZoneSuspendMinion 1 (0.14 ratio)
 {{</details>}}
 {{<details title="Punishing Blade (WAR RNG MNK BER)">}}
 (WAR RNG MNK BER)
 This ability increases the chance of scoring an extra hit with all two-handed weapons. Each rank in this ability increases the chance of scoring an extra hit with all two-handed weapons that you wield.
 
-Ability ID: 202 has 6 ranks and costs 30 total 
+Ability ID: 202 has 6 ranks and costs 30 total
 - Rank 1 (ID 599) costs 2 AAs with effect: ExtraAttackChance 2 (1.00 ratio)
 - Rank 2 (ID 600) costs 4 AAs with effect: ExtraAttackChance 5 (0.75 ratio)
 - Rank 3 (ID 601) costs 6 AAs with effect: ExtraAttackChance 8 (0.50 ratio)
@@ -2065,7 +2066,7 @@ Ability ID: 202 has 6 ranks and costs 30 total
 (CLR PAL RNG DRU SHM ENC BST)
 This ability reduces the casting time of many beneficial spells that have a duration by 10, 25, and 50 percent.
 
-Ability ID: 48 has 3 ranks and costs 18 total 
+Ability ID: 48 has 3 ranks and costs 18 total
 - Rank 1 (ID 147) costs 3 AAs with effect:
     - Effect 1: IncreaseSpellHaste 10 10 (3.33 ratio)
 
@@ -2117,19 +2118,19 @@ Ability ID: 285 has 6 ranks and costs 36 total  with a recast time of 180 second
     - Effect 2: PoisonCounter base -16
     - Effect 3: DiseaseCounter base -16
     - Effect 4: DispelDetrimental base 950
-- Rank 4 (ID 5130) costs 6 AAs with effect: [Spell 5860](https://retributioneq.com/allaclone/?a=spell&id=5860) range 100: 
+- Rank 4 (ID 5130) costs 6 AAs with effect: [Spell 5860](https://retributioneq.com/allaclone/?a=spell&id=5860) range 100:
 
     - Effect 1: CurseCounter base -19
     - Effect 2: PoisonCounter base -19
     - Effect 3: DiseaseCounter base -19
     - Effect 4: DispelDetrimental base 950
-- Rank 5 (ID 5131) costs 6 AAs with effect: [Spell 5861](https://retributioneq.com/allaclone/?a=spell&id=5861) range 100: 
+- Rank 5 (ID 5131) costs 6 AAs with effect: [Spell 5861](https://retributioneq.com/allaclone/?a=spell&id=5861) range 100:
 
     - Effect 1: CurseCounter base -22
     - Effect 2: PoisonCounter base -22
     - Effect 3: DiseaseCounter base -22
     - Effect 4: DispelDetrimental base 950
-- Rank 6 (ID 5132) costs 6 AAs with effect: [Spell 5862](https://retributioneq.com/allaclone/?a=spell&id=5862) range 100: 
+- Rank 6 (ID 5132) costs 6 AAs with effect: [Spell 5862](https://retributioneq.com/allaclone/?a=spell&id=5862) range 100:
 
     - Effect 1: CurseCounter base -25
     - Effect 2: PoisonCounter base -25
@@ -2159,37 +2160,37 @@ Ability ID: 153 has 9 ranks and costs 48 total  with a recast time of 180 second
     - Effect 2: PoisonCounter base -16
     - Effect 3: DiseaseCounter base -16
     - Effect 4: DispelDetrimental base 950
-- Rank 4 (ID 1189) costs 3 AAs with effect: [Spell 5860](https://retributioneq.com/allaclone/?a=spell&id=5860) range 100: 
+- Rank 4 (ID 1189) costs 3 AAs with effect: [Spell 5860](https://retributioneq.com/allaclone/?a=spell&id=5860) range 100:
 
     - Effect 1: CurseCounter base -19
     - Effect 2: PoisonCounter base -19
     - Effect 3: DiseaseCounter base -19
     - Effect 4: DispelDetrimental base 950
-- Rank 5 (ID 1190) costs 6 AAs with effect: [Spell 5861](https://retributioneq.com/allaclone/?a=spell&id=5861) range 100: 
+- Rank 5 (ID 1190) costs 6 AAs with effect: [Spell 5861](https://retributioneq.com/allaclone/?a=spell&id=5861) range 100:
 
     - Effect 1: CurseCounter base -22
     - Effect 2: PoisonCounter base -22
     - Effect 3: DiseaseCounter base -22
     - Effect 4: DispelDetrimental base 950
-- Rank 6 (ID 1191) costs 9 AAs with effect: [Spell 5862](https://retributioneq.com/allaclone/?a=spell&id=5862) range 100: 
+- Rank 6 (ID 1191) costs 9 AAs with effect: [Spell 5862](https://retributioneq.com/allaclone/?a=spell&id=5862) range 100:
 
     - Effect 1: CurseCounter base -25
     - Effect 2: PoisonCounter base -25
     - Effect 3: DiseaseCounter base -25
     - Effect 4: DispelDetrimental base 950
-- Rank 7 (ID 5062) costs 6 AAs with effect: [Spell 11272](https://retributioneq.com/allaclone/?a=spell&id=11272) range 100: 
+- Rank 7 (ID 5062) costs 6 AAs with effect: [Spell 11272](https://retributioneq.com/allaclone/?a=spell&id=11272) range 100:
 
     - Effect 1: CurseCounter base -27
     - Effect 2: PoisonCounter base -27
     - Effect 3: DiseaseCounter base -27
     - Effect 4: DispelDetrimental base 950
-- Rank 8 (ID 5063) costs 6 AAs with effect: [Spell 11273](https://retributioneq.com/allaclone/?a=spell&id=11273) range 100: 
+- Rank 8 (ID 5063) costs 6 AAs with effect: [Spell 11273](https://retributioneq.com/allaclone/?a=spell&id=11273) range 100:
 
     - Effect 1: CurseCounter base -29
     - Effect 2: PoisonCounter base -29
     - Effect 3: DiseaseCounter base -29
     - Effect 4: DispelDetrimental base 950
-- Rank 9 (ID 5064) costs 6 AAs with effect: [Spell 11274](https://retributioneq.com/allaclone/?a=spell&id=11274) range 100: 
+- Rank 9 (ID 5064) costs 6 AAs with effect: [Spell 11274](https://retributioneq.com/allaclone/?a=spell&id=11274) range 100:
 
     - Effect 1: CurseCounter base -31
     - Effect 2: PoisonCounter base -31
@@ -2200,14 +2201,14 @@ Ability ID: 153 has 9 ranks and costs 48 total  with a recast time of 180 second
 (CLR DRU SHM NEC WIZ MAG ENC)
 This ability allows you to advance a second arcane specialization by 50 points.  After acquiring this ability, the next specialization to go over your current cap becomes your secondary forte.
 
-Ability ID: 236 has 1 ranks and costs 9 total 
+Ability ID: 236 has 1 ranks and costs 9 total
 - Rank 1 (ID 691) costs 9 AAs with effect: SecondaryForte 100 (11.11 ratio)
 {{</details>}}
 {{<details title="Shield Block (WAR CLR PAL RNG SHD DRU BRD SHM)">}}
 (WAR CLR PAL RNG SHD DRU BRD SHM)
 This ability grants you the chance to fully block an attack when using a shield.  Increased ranks improve the chance to block attacks.
 
-Ability ID: 435 has 3 ranks and costs 18 total 
+Ability ID: 435 has 3 ranks and costs 18 total
 - Rank 1 (ID 1287) costs 3 AAs with effect: ShieldBlock 1 (0.33 ratio)
 - Rank 2 (ID 1288) costs 6 AAs with effect: ShieldBlock 3 (0.33 ratio)
 - Rank 3 (ID 1289) costs 9 AAs with effect: ShieldBlock 5 (0.22 ratio)
@@ -2216,7 +2217,7 @@ Ability ID: 435 has 3 ranks and costs 18 total
 (WAR RNG MNK BRD ROG BST)
 This ability decreases the amount of damage you take when your offhand attacks encounter a damage shield.
 
-Ability ID: 388 has 5 ranks and costs 15 total 
+Ability ID: 388 has 5 ranks and costs 15 total
 - Rank 1 (ID 1181) costs 3 AAs with effect: MitigateDamageShield -20
 - Rank 2 (ID 1182) costs 3 AAs with effect: MitigateDamageShield -40
 - Rank 3 (ID 1183) costs 3 AAs with effect: MitigateDamageShield -60
@@ -2228,23 +2229,23 @@ Ability ID: 388 has 5 ranks and costs 15 total
 While active, this ability will reduce the amount of hate you generate when casting spells by up to 20%.  Each additional rank increases the maximum that this ability can reduce your hate by an additional 20%.
 
 Ability ID: 494 has 5 ranks and costs 25 total  with a recast time of 2160 seconds
-- Rank 1 (ID 1409) costs 5 AAs with effect: [Spell 8054](https://retributioneq.com/allaclone/?a=spell&id=8054) 60s: 
+- Rank 1 (ID 1409) costs 5 AAs with effect: [Spell 8054](https://retributioneq.com/allaclone/?a=spell&id=8054) 60s:
 
     - Effect 1: SpellHateMod base -20 limit -20
     - Effect 2: LimitCombatSkills
-- Rank 2 (ID 1410) costs 5 AAs with effect: [Spell 8055](https://retributioneq.com/allaclone/?a=spell&id=8055) 60s: 
+- Rank 2 (ID 1410) costs 5 AAs with effect: [Spell 8055](https://retributioneq.com/allaclone/?a=spell&id=8055) 60s:
 
     - Effect 1: SpellHateMod base -40 limit -40
     - Effect 2: LimitCombatSkills
-- Rank 3 (ID 1411) costs 5 AAs with effect: [Spell 8056](https://retributioneq.com/allaclone/?a=spell&id=8056) 60s: 
+- Rank 3 (ID 1411) costs 5 AAs with effect: [Spell 8056](https://retributioneq.com/allaclone/?a=spell&id=8056) 60s:
 
     - Effect 1: SpellHateMod base -60 limit -60
     - Effect 2: LimitCombatSkills
-- Rank 4 (ID 1412) costs 5 AAs with effect: [Spell 8057](https://retributioneq.com/allaclone/?a=spell&id=8057) 60s: 
+- Rank 4 (ID 1412) costs 5 AAs with effect: [Spell 8057](https://retributioneq.com/allaclone/?a=spell&id=8057) 60s:
 
     - Effect 1: SpellHateMod base -80 limit -80
     - Effect 2: LimitCombatSkills
-- Rank 5 (ID 1413) costs 5 AAs with effect: [Spell 8058](https://retributioneq.com/allaclone/?a=spell&id=8058) 60s: 
+- Rank 5 (ID 1413) costs 5 AAs with effect: [Spell 8058](https://retributioneq.com/allaclone/?a=spell&id=8058) 60s:
 
     - Effect 1: SpellHateMod base -100 limit -100
     - Effect 2: LimitCombatSkills
@@ -2254,23 +2255,23 @@ Ability ID: 494 has 5 ranks and costs 25 total  with a recast time of 2160 secon
 While active, this ability will reduce the amount of hate you generate when casting spells by up to 20%.  Each additional rank increases the maximum that this ability can reduce your hate by an additional 20%.
 
 Ability ID: 500 has 5 ranks and costs 25 total  with a recast time of 2160 seconds
-- Rank 1 (ID 1404) costs 5 AAs with effect: [Spell 8054](https://retributioneq.com/allaclone/?a=spell&id=8054) 60s: 
+- Rank 1 (ID 1404) costs 5 AAs with effect: [Spell 8054](https://retributioneq.com/allaclone/?a=spell&id=8054) 60s:
 
     - Effect 1: SpellHateMod base -20 limit -20
     - Effect 2: LimitCombatSkills
-- Rank 2 (ID 1405) costs 5 AAs with effect: [Spell 8055](https://retributioneq.com/allaclone/?a=spell&id=8055) 60s: 
+- Rank 2 (ID 1405) costs 5 AAs with effect: [Spell 8055](https://retributioneq.com/allaclone/?a=spell&id=8055) 60s:
 
     - Effect 1: SpellHateMod base -40 limit -40
     - Effect 2: LimitCombatSkills
-- Rank 3 (ID 1406) costs 5 AAs with effect: [Spell 8056](https://retributioneq.com/allaclone/?a=spell&id=8056) 60s: 
+- Rank 3 (ID 1406) costs 5 AAs with effect: [Spell 8056](https://retributioneq.com/allaclone/?a=spell&id=8056) 60s:
 
     - Effect 1: SpellHateMod base -60 limit -60
     - Effect 2: LimitCombatSkills
-- Rank 4 (ID 1407) costs 5 AAs with effect: [Spell 8057](https://retributioneq.com/allaclone/?a=spell&id=8057) 60s: 
+- Rank 4 (ID 1407) costs 5 AAs with effect: [Spell 8057](https://retributioneq.com/allaclone/?a=spell&id=8057) 60s:
 
     - Effect 1: SpellHateMod base -80 limit -80
     - Effect 2: LimitCombatSkills
-- Rank 5 (ID 1408) costs 5 AAs with effect: [Spell 8058](https://retributioneq.com/allaclone/?a=spell&id=8058) 60s: 
+- Rank 5 (ID 1408) costs 5 AAs with effect: [Spell 8058](https://retributioneq.com/allaclone/?a=spell&id=8058) 60s:
 
     - Effect 1: SpellHateMod base -100 limit -100
     - Effect 2: LimitCombatSkills
@@ -2279,7 +2280,7 @@ Ability ID: 500 has 5 ranks and costs 25 total  with a recast time of 2160 secon
 (WAR RNG MNK BRD ROG BST)
 This ability makes it more difficult for opponents to riposte your offhand attacks.  Each rank increases the chance that your opponent will fail to riposte by 20%.
 
-Ability ID: 354 has 5 ranks and costs 15 total 
+Ability ID: 354 has 5 ranks and costs 15 total
 - Rank 1 (ID 1093) costs 3 AAs with effect: OffhandRiposteFail -20
 - Rank 2 (ID 1094) costs 3 AAs with effect: OffhandRiposteFail -40
 - Rank 3 (ID 1095) costs 3 AAs with effect: OffhandRiposteFail -60
@@ -2290,7 +2291,7 @@ Ability ID: 354 has 5 ranks and costs 15 total
 (SHD NEC WIZ MAG)
 This ability reduces the casting time of beneficial spells that have a duration longer than instant and a cast time greater than three seconds.  The ability levels reduce these casting times by 10, 25, and 50 percent.
 
-Ability ID: 27 has 3 ranks and costs 12 total 
+Ability ID: 27 has 3 ranks and costs 12 total
 - Rank 1 (ID 104) costs 2 AAs with effect:
     - Effect 1: IncreaseSpellHaste 10 10 (5.00 ratio)
 
@@ -2323,7 +2324,7 @@ Ability ID: 27 has 3 ranks and costs 12 total
 (CLR PAL RNG SHD DRU BRD SHM NEC WIZ MAG ENC BST)
 The three ranks of this ability give you a 2, 4, and 7 percent chance to land critical hits with your direct damage spells.
 
-Ability ID: 23 has 3 ranks and costs 12 total 
+Ability ID: 23 has 3 ranks and costs 12 total
 - Rank 1 (ID 92) costs 2 AAs with effect: CriticalSpellChance 2 100 (1.00 ratio)
 - Rank 2 (ID 93) costs 4 AAs with effect: CriticalSpellChance 4 100 (0.50 ratio)
 - Rank 3 (ID 94) costs 6 AAs with effect: CriticalSpellChance 7 100 (0.50 ratio)
@@ -2332,7 +2333,7 @@ Ability ID: 23 has 3 ranks and costs 12 total
 (CLR DRU SHM NEC WIZ MAG ENC)
 This ability lowers the mana cost of spells by 2, 5, 10, and 15 percent.
 
-Ability ID: 20 has 4 ranks and costs 21 total 
+Ability ID: 20 has 4 ranks and costs 21 total
 - Rank 1 (ID 83) costs 2 AAs with effect: ReduceManaCost 5 2 (2.50 ratio)
 - Rank 2 (ID 84) costs 4 AAs with effect: ReduceManaCost 10 5 (1.25 ratio)
 - Rank 3 (ID 85) costs 6 AAs with effect: ReduceManaCost 15 10 (0.83 ratio)
@@ -2342,7 +2343,7 @@ Ability ID: 20 has 4 ranks and costs 21 total
 (CLR PAL RNG SHD DRU SHM ENC BST)
 This ability increases the duration of beneficial spells that you cast. Ranks 1, 2, and 3 increase the duration by 5, 15, and 30 percent respectively. Each additional rank increases this duration by 20 percent.
 
-Ability ID: 21 has 4 ranks and costs 20 total 
+Ability ID: 21 has 4 ranks and costs 20 total
 - Rank 1 (ID 86) costs 2 AAs with effect:
     - Effect 1: IncreaseSpellDuration 5 5 (2.50 ratio)
 
@@ -2416,7 +2417,7 @@ Ability ID: 21 has 4 ranks and costs 20 total
 (CLR DRU SHM NEC WIZ MAG ENC)
 The first three ranks of this ability make NPCs notice your magical activities 5, 10, and 20 percent less.  Additional ranks further enhance this effect.
 
-Ability ID: 25 has 6 ranks and costs 24 total 
+Ability ID: 25 has 6 ranks and costs 24 total
 - Rank 1 (ID 98) costs 2 AAs with effect: ChangeAggro -5
 - Rank 2 (ID 99) costs 4 AAs with effect: ChangeAggro -10
 - Rank 3 (ID 100) costs 6 AAs with effect: ChangeAggro -20
@@ -2429,18 +2430,18 @@ Ability ID: 25 has 6 ranks and costs 24 total
 This ability grants you a faster casting version of your Summon Companion spell.
 
 Ability ID: 1215 has 4 ranks and costs 21 total  with a recast time of 4 to 10 seconds
-- Rank 1 (ID 8227) costs 0 AAs with effect: [Spell 16233](https://retributioneq.com/allaclone/?a=spell&id=16233): 
+- Rank 1 (ID 8227) costs 0 AAs with effect: [Spell 16233](https://retributioneq.com/allaclone/?a=spell&id=16233):
 
     - Effect 1: CallPet base 1
-- Rank 2 (ID 12810) costs 5 AAs with effect: [Spell 27402](https://retributioneq.com/allaclone/?a=spell&id=27402) range 200: 
+- Rank 2 (ID 12810) costs 5 AAs with effect: [Spell 27402](https://retributioneq.com/allaclone/?a=spell&id=27402) range 200:
 
     - Effect 1: SpellTrigger 60% chance [Spell 27405](https://retributioneq.com/allaclone/?a=spell&id=27405) [Spell 27405](https://retributioneq.com/allaclone/?a=aa&id=27405)
     - Effect 2: CallPet base 1
-- Rank 3 (ID 12811) costs 7 AAs with effect: [Spell 27403](https://retributioneq.com/allaclone/?a=spell&id=27403) range 200: 
+- Rank 3 (ID 12811) costs 7 AAs with effect: [Spell 27403](https://retributioneq.com/allaclone/?a=spell&id=27403) range 200:
 
     - Effect 1: SpellTrigger 75% chance [Spell 27405](https://retributioneq.com/allaclone/?a=spell&id=27405) [Spell 27405](https://retributioneq.com/allaclone/?a=aa&id=27405)
     - Effect 2: CallPet base 1
-- Rank 4 (ID 12812) costs 9 AAs with effect: [Spell 27404](https://retributioneq.com/allaclone/?a=spell&id=27404) range 200: 
+- Rank 4 (ID 12812) costs 9 AAs with effect: [Spell 27404](https://retributioneq.com/allaclone/?a=spell&id=27404) range 200:
 
     - Effect 1: SpellTrigger 97% chance [Spell 27405](https://retributioneq.com/allaclone/?a=spell&id=27405) [Spell 27405](https://retributioneq.com/allaclone/?a=aa&id=27405)
     - Effect 2: CallPet base 1
@@ -2461,7 +2462,7 @@ Ability ID: 176 has 2 ranks and costs 8 total  with a recast time of 1 seconds
 (CLR PAL RNG DRU SHM BST)
 This passive ability will give you a small innate chance to perform a twincast each time you cast a healing spell. Each rank gives you a 1 percent chance to twincast. This will not affect healing over time spells.
 
-Ability ID: 385 has 1 ranks and costs 9 total 
+Ability ID: 385 has 1 ranks and costs 9 total
 - Rank 1 (ID 12652) costs 9 AAs with effect:
     - Effect 1: FcTwincast 1 (0.11 ratio)
 
@@ -2484,7 +2485,7 @@ Ability ID: 385 has 1 ranks and costs 9 total
 (WAR PAL RNG SHD MNK BRD ROG BST BER)
 Through years of practice, you develop a close bond with your weapons.  This affinity enhances the performance of your weapons by increasing the rate that they trigger effects.
 
-Ability ID: 235 has 5 ranks and costs 25 total 
+Ability ID: 235 has 5 ranks and costs 25 total
 - Rank 1 (ID 686) costs 5 AAs with effect: ProcChance 10 (2.00 ratio)
 - Rank 2 (ID 687) costs 5 AAs with effect: ProcChance 20 (2.00 ratio)
 - Rank 3 (ID 688) costs 5 AAs with effect: ProcChance 30 (2.00 ratio)
@@ -2496,7 +2497,7 @@ Ability ID: 235 has 5 ranks and costs 25 total
 (PAL SHD)
 This ability will allow you to use your Bash skill while wielding any 2-handed weapon.
 
-Ability ID: 79 has 1 ranks and costs 6 total 
+Ability ID: 79 has 1 ranks and costs 6 total
 - Rank 1 (ID 196) costs 6 AAs with effect: TwoHandBash 1 (0.17 ratio)
 {{</details>}}
 {{<details title="Abyssal Steed (SHD)">}}
@@ -2504,7 +2505,7 @@ Ability ID: 79 has 1 ranks and costs 6 total
 This ability provides you with the power to call a savage nightmare to your side.
 
 Ability ID: 571 has 1 ranks and costs 9 total  with a recast time of 1 seconds
-- Rank 1 (ID 1646) costs 9 AAs with effect: [Spell 8978](https://retributioneq.com/allaclone/?a=spell&id=8978) 21600s: 
+- Rank 1 (ID 1646) costs 9 AAs with effect: [Spell 8978](https://retributioneq.com/allaclone/?a=spell&id=8978) 21600s:
 
     - Effect 1:  base 1
 {{</details>}}
@@ -2512,7 +2513,7 @@ Ability ID: 571 has 1 ranks and costs 9 total  with a recast time of 1 seconds
 (MNK BRD ROG)
 This ability will reduce the damage that you take from falling.
 
-Ability ID: 122 has 3 ranks and costs 18 total 
+Ability ID: 122 has 3 ranks and costs 18 total
 - Rank 1 (ID 283) costs 3 AAs with effect: ReduceFallDamage 10 (3.33 ratio)
 - Rank 2 (ID 284) costs 6 AAs with effect: ReduceFallDamage 20 (1.67 ratio)
 - Rank 3 (ID 285) costs 9 AAs with effect: ReduceFallDamage 30 (1.11 ratio)
@@ -2530,7 +2531,7 @@ Ability ID: 76 has 1 ranks and costs 3 total  with a recast time of 900 seconds
 (BRD ROG)
 This ability will reduce the reuse time on your sense and disarm trap skills.
 
-Ability ID: 121 has 3 ranks and costs 18 total 
+Ability ID: 121 has 3 ranks and costs 18 total
 - Rank 1 (ID 280) costs 3 AAs with effect:
     - Effect 1: ReduceSkillTimer 1 1 (0.33 ratio)
 
@@ -2551,7 +2552,7 @@ Ability ID: 121 has 3 ranks and costs 18 total
 (SHD SHM NEC MAG BST)
 The first rank of this ability allows you to give your pet a "focus" command. While focused, your pet will ignore all other opponents until its current opponent is defeated. The second rank allows you to tell your pet to not cast any spells. Usage: /pet focus, /pet spellhold, or hotkeys can be created using the pet control window.
 
-Ability ID: 366 has 2 ranks and costs 8 total 
+Ability ID: 366 has 2 ranks and costs 8 total
 - Rank 1 (ID 1129) costs 5 AAs with effect:
     - Effect 1: AddPetCommand 1 1 (0.20 ratio)
 
@@ -2583,7 +2584,7 @@ Ability ID: 366 has 2 ranks and costs 8 total
 (DRU)
 Each rank in this ability increases your tracking skill cap by 10.
 
-Ability ID: 258 has 5 ranks and costs 20 total 
+Ability ID: 258 has 5 ranks and costs 20 total
 - Rank 1 (ID 762) costs 4 AAs with effect: RaiseSkillCap 10 53 (2.50 ratio)
 - Rank 2 (ID 763) costs 4 AAs with effect: RaiseSkillCap 20 53 (2.50 ratio)
 - Rank 3 (ID 764) costs 4 AAs with effect: RaiseSkillCap 30 53 (2.50 ratio)
@@ -2594,7 +2595,7 @@ Ability ID: 258 has 5 ranks and costs 20 total
 (DRU SHM NEC)
 This ability improves the chance that damage-over-time spells will have a critical effect each tick they are active. Additional ranks increase the chance that your damage over time spells will land for critical effect.
 
-Ability ID: 526 has 3 ranks and costs 21 total 
+Ability ID: 526 has 3 ranks and costs 21 total
 - Rank 1 (ID 1514) costs 7 AAs with effect: CriticalDoTChance 2 (0.29 ratio)
 - Rank 2 (ID 1515) costs 7 AAs with effect: CriticalDoTChance 4 (0.29 ratio)
 - Rank 3 (ID 1516) costs 7 AAs with effect: CriticalDoTChance 6 (0.29 ratio)
@@ -2603,14 +2604,14 @@ Ability ID: 526 has 3 ranks and costs 21 total
 (WAR RNG MNK BRD ROG BST)
 This ability increases your chance to use dual wield successfully.
 
-Ability ID: 81 has 1 ranks and costs 9 total 
+Ability ID: 81 has 1 ranks and costs 9 total
 - Rank 1 (ID 198) costs 9 AAs with effect: Ambidexterity 32 (3.56 ratio)
 {{</details>}}
 {{<details title="Anatomy (ROG)">}}
 (ROG)
 This ability increases the maximum level of humanoid that can be affected by your assassination ability by 2 levels per rank.
 
-Ability ID: 555 has 20 ranks and costs 166 total 
+Ability ID: 555 has 20 ranks and costs 166 total
 - Rank 1 (ID 1604) costs 5 AAs with effect:
     - Effect 1: Assassinate 0 (6400.00 ratio)
 
@@ -2717,7 +2718,7 @@ Ability ID: 555 has 20 ranks and costs 166 total
 Through use of this ability, the shaman can call upon their ancestors to fill their group with strength and healing. Additional ranks increase the strength and healing granted to the group members.
 
 Ability ID: 447 has 6 ranks and costs 25 total  with a recast time of 900 seconds
-- Rank 1 (ID 1327) costs 0 AAs with effect: [Spell 5933](https://retributioneq.com/allaclone/?a=spell&id=5933) 30s range 200: 
+- Rank 1 (ID 1327) costs 0 AAs with effect: [Spell 5933](https://retributioneq.com/allaclone/?a=spell&id=5933) 30s range 200:
 
     - Effect 1: RaiseStatCap base 30
     - Effect 2: RaiseStatCap base 30 limit 2
@@ -2726,7 +2727,7 @@ Ability ID: 447 has 6 ranks and costs 25 total  with a recast time of 900 second
     - Effect 8: STR base 30
     - Effect 9: HealOverTime base 278
     - Effect 10: DEX base 30
-- Rank 2 (ID 1328) costs 5 AAs with effect: [Spell 5934](https://retributioneq.com/allaclone/?a=spell&id=5934) 30s range 200: 
+- Rank 2 (ID 1328) costs 5 AAs with effect: [Spell 5934](https://retributioneq.com/allaclone/?a=spell&id=5934) 30s range 200:
 
     - Effect 1: RaiseStatCap base 60
     - Effect 2: RaiseStatCap base 60 limit 2
@@ -2735,7 +2736,7 @@ Ability ID: 447 has 6 ranks and costs 25 total  with a recast time of 900 second
     - Effect 8: STR base 60
     - Effect 9: HealOverTime base 305
     - Effect 10: DEX base 60
-- Rank 3 (ID 1329) costs 5 AAs with effect: [Spell 5935](https://retributioneq.com/allaclone/?a=spell&id=5935) 30s range 200: 
+- Rank 3 (ID 1329) costs 5 AAs with effect: [Spell 5935](https://retributioneq.com/allaclone/?a=spell&id=5935) 30s range 200:
 
     - Effect 1: RaiseStatCap base 90
     - Effect 2: RaiseStatCap base 90 limit 2
@@ -2744,7 +2745,7 @@ Ability ID: 447 has 6 ranks and costs 25 total  with a recast time of 900 second
     - Effect 8: STR base 90
     - Effect 9: HealOverTime base 333
     - Effect 10: DEX base 90
-- Rank 4 (ID 5314) costs 5 AAs with effect: [Spell 11642](https://retributioneq.com/allaclone/?a=spell&id=11642) 30s range 200: 
+- Rank 4 (ID 5314) costs 5 AAs with effect: [Spell 11642](https://retributioneq.com/allaclone/?a=spell&id=11642) 30s range 200:
 
     - Effect 1: RaiseStatCap base 95
     - Effect 2: RaiseStatCap base 95 limit 2
@@ -2753,7 +2754,7 @@ Ability ID: 447 has 6 ranks and costs 25 total  with a recast time of 900 second
     - Effect 8: STR base 95
     - Effect 9: HealOverTime base 388
     - Effect 10: DEX base 95
-- Rank 5 (ID 5315) costs 5 AAs with effect: [Spell 11643](https://retributioneq.com/allaclone/?a=spell&id=11643) 30s range 200: 
+- Rank 5 (ID 5315) costs 5 AAs with effect: [Spell 11643](https://retributioneq.com/allaclone/?a=spell&id=11643) 30s range 200:
 
     - Effect 1: RaiseStatCap base 100
     - Effect 2: RaiseStatCap base 100 limit 2
@@ -2762,7 +2763,7 @@ Ability ID: 447 has 6 ranks and costs 25 total  with a recast time of 900 second
     - Effect 8: STR base 100
     - Effect 9: HealOverTime base 444
     - Effect 10: DEX base 100
-- Rank 6 (ID 5316) costs 5 AAs with effect: [Spell 11644](https://retributioneq.com/allaclone/?a=spell&id=11644) 30s range 200: 
+- Rank 6 (ID 5316) costs 5 AAs with effect: [Spell 11644](https://retributioneq.com/allaclone/?a=spell&id=11644) 30s range 200:
 
     - Effect 1: RaiseStatCap base 105
     - Effect 2: RaiseStatCap base 105 limit 2
@@ -2777,10 +2778,10 @@ Ability ID: 447 has 6 ranks and costs 25 total  with a recast time of 900 second
 Through the use of this ability, you can call upon ancestral spirits to protect you from harm for a brief period.  The spirits will absorb a portion of the damage you would normally take.  Additional ranks increase the percent of damage that the spirits take instead of you.
 
 Ability ID: 528 has 3 ranks and costs 18 total  with a recast time of 900 seconds
-- Rank 1 (ID 1520) costs 3 AAs with effect: [Spell 8218](https://retributioneq.com/allaclone/?a=spell&id=8218) 18s range 200: 
+- Rank 1 (ID 1520) costs 3 AAs with effect: [Spell 8218](https://retributioneq.com/allaclone/?a=spell&id=8218) 18s range 200:
 
     - Effect 1: MitigateMeleeDamage base 25 max 5000
-- Rank 2 (ID 1521) costs 6 AAs with effect: [Spell 8219](https://retributioneq.com/allaclone/?a=spell&id=8219) 18s range 200: 
+- Rank 2 (ID 1521) costs 6 AAs with effect: [Spell 8219](https://retributioneq.com/allaclone/?a=spell&id=8219) 18s range 200:
 
     - Effect 1: MitigateMeleeDamage base 50 max 5000
 - Rank 3 (ID 1522) costs 9 AAs with effect: [Spell 8220](https://retributioneq.com/allaclone/?a=spell&id=8220) 18s range 200: An invisibility that will not fade over time than you can share with your group.
@@ -2792,7 +2793,7 @@ Ability ID: 528 has 3 ranks and costs 18 total  with a recast time of 900 second
 This ability allows you to estimate the selling price of an item you are holding on your cursor.
 
 Ability ID: 536 has 1 ranks and costs 3 total  with a recast time of 1 seconds
-- Rank 1 (ID 1542) costs 3 AAs with effect: [Spell 8240](https://retributioneq.com/allaclone/?a=spell&id=8240): 
+- Rank 1 (ID 1542) costs 3 AAs with effect: [Spell 8240](https://retributioneq.com/allaclone/?a=spell&id=8240):
 
     - Effect 1: Appraisal base 1
 {{</details>}}
@@ -2800,7 +2801,7 @@ Ability ID: 536 has 1 ranks and costs 3 total  with a recast time of 1 seconds
 (WIZ)
 Arcane Overkill adds a chance for you to gain mana back when you score a killing strike with a spell. Ranks one through six increase your chance by 10% each rank while additional ranks increase the amount of mana returned by an Arcane Overkill. Ranks 16, 17, and 18 add a small increase to critical spell damage for 2 minutes. Ranks 19, 20, and 21 increase the chance to proc, mana returned, and damage inflicted slightly.
 
-Ability ID: 776 has 3 ranks and costs 15 total 
+Ability ID: 776 has 3 ranks and costs 15 total
 - Rank 1 (ID 5295) costs 0 AAs with effect: ProcOnKillShot 10 11629 (+Inf ratio)
 - Rank 2 (ID 5296) costs 6 AAs with effect: ProcOnKillShot 20 11629 (1.67 ratio)
 - Rank 3 (ID 5297) costs 9 AAs with effect: ProcOnKillShot 30 11629 (1.11 ratio)
@@ -2810,7 +2811,7 @@ Ability ID: 776 has 3 ranks and costs 15 total
 Arcane Whisper reduces hate on a single target slightly over time. Additional ranks further reduce hate on your target.
 
 Ability ID: 636 has 1 ranks and costs 9 total  with a recast time of 900 seconds
-- Rank 1 (ID 4938) costs 9 AAs with effect: [Spell 11092](https://retributioneq.com/allaclone/?a=spell&id=11092) 60s range 200: 
+- Rank 1 (ID 4938) costs 9 AAs with effect: [Spell 11092](https://retributioneq.com/allaclone/?a=spell&id=11092) 60s range 200:
 
     - Effect 2: Hate base -500
 {{</details>}}
@@ -2818,7 +2819,7 @@ Ability ID: 636 has 1 ranks and costs 9 total  with a recast time of 900 seconds
 (RNG)
 This ability increases your archery damage 30, 60, 100, and 120 percent.
 
-Ability ID: 82 has 3 ranks and costs 5 total 
+Ability ID: 82 has 3 ranks and costs 5 total
 - Rank 1 (ID 199) costs 0 AAs with effect: ArcheryDamageModifier 30 (+Inf ratio)
 - Rank 2 (ID 200) costs 0 AAs with effect: ArcheryDamageModifier 60 (+Inf ratio)
 - Rank 3 (ID 201) costs 5 AAs with effect: ArcheryDamageModifier 100 (8.00 ratio)
@@ -2837,15 +2838,15 @@ Ability ID: 110 has 1 ranks and costs 5 total  with a recast time of 240 seconds
 Armor of the Inquisitor grants the paladin an improvement to his armor class and increases the benefit he gains from healing spells that land on him.  Additional ranks of the ability increase the effects and the duration of the ethereal armor.
 
 Ability ID: 701 has 3 ranks and costs 18 total  with a recast time of 600 to 800 seconds
-- Rank 1 (ID 5095) costs 3 AAs with effect: [Spell 11307](https://retributioneq.com/allaclone/?a=spell&id=11307) 60s: 
+- Rank 1 (ID 5095) costs 3 AAs with effect: [Spell 11307](https://retributioneq.com/allaclone/?a=spell&id=11307) 60s:
 
     - Effect 3: HealRate base 15
     - Effect 7: ArmorClass base 175
-- Rank 2 (ID 5096) costs 6 AAs with effect: [Spell 11308](https://retributioneq.com/allaclone/?a=spell&id=11308) 90s: 
+- Rank 2 (ID 5096) costs 6 AAs with effect: [Spell 11308](https://retributioneq.com/allaclone/?a=spell&id=11308) 90s:
 
     - Effect 3: HealRate base 20
     - Effect 7: ArmorClass base 350
-- Rank 3 (ID 5097) costs 9 AAs with effect: [Spell 11309](https://retributioneq.com/allaclone/?a=spell&id=11309) 120s: 
+- Rank 3 (ID 5097) costs 9 AAs with effect: [Spell 11309](https://retributioneq.com/allaclone/?a=spell&id=11309) 120s:
 
     - Effect 3: HealRate base 25
     - Effect 7: ArmorClass base 525
@@ -2855,22 +2856,22 @@ Ability ID: 701 has 3 ranks and costs 18 total  with a recast time of 600 to 800
 This ability calls up to five shades of nearby corpses back to life to serve the necromancer.  The soulless abominations will mindlessly fight the target until called back to the afterlife some time later.  The first rank summons up to three shades that serve for 60 seconds.  The second rank summons up to four shades that serve for 75 seconds.  The third and onward rank summons up to five shades that serve for up to 90 seconds.  Additional ranks increase the power of the shades.
 
 Ability ID: 792 has 6 ranks and costs 36 total  with a recast time of 540 seconds
-- Rank 1 (ID 1274) costs 3 AAs with effect: [Spell 5921](https://retributioneq.com/allaclone/?a=spell&id=5921) range 150: 
+- Rank 1 (ID 1274) costs 3 AAs with effect: [Spell 5921](https://retributioneq.com/allaclone/?a=spell&id=5921) range 150:
 
     - Effect 1: ArmyOfTheDead base 3 max 90
-- Rank 2 (ID 1275) costs 6 AAs with effect: [Spell 5922](https://retributioneq.com/allaclone/?a=spell&id=5922) range 150: 
+- Rank 2 (ID 1275) costs 6 AAs with effect: [Spell 5922](https://retributioneq.com/allaclone/?a=spell&id=5922) range 150:
 
     - Effect 1: ArmyOfTheDead base 4 max 90
-- Rank 3 (ID 1276) costs 9 AAs with effect: [Spell 5923](https://retributioneq.com/allaclone/?a=spell&id=5923) range 150: 
+- Rank 3 (ID 1276) costs 9 AAs with effect: [Spell 5923](https://retributioneq.com/allaclone/?a=spell&id=5923) range 150:
 
     - Effect 1: ArmyOfTheDead base 5 max 90
-- Rank 4 (ID 4864) costs 6 AAs with effect: [Spell 11053](https://retributioneq.com/allaclone/?a=spell&id=11053) range 150: 
+- Rank 4 (ID 4864) costs 6 AAs with effect: [Spell 11053](https://retributioneq.com/allaclone/?a=spell&id=11053) range 150:
 
     - Effect 1: ArmyOfTheDead base 5 max 90
-- Rank 5 (ID 4865) costs 6 AAs with effect: [Spell 11054](https://retributioneq.com/allaclone/?a=spell&id=11054) range 150: 
+- Rank 5 (ID 4865) costs 6 AAs with effect: [Spell 11054](https://retributioneq.com/allaclone/?a=spell&id=11054) range 150:
 
     - Effect 1: ArmyOfTheDead base 5 max 90
-- Rank 6 (ID 4866) costs 6 AAs with effect: [Spell 11055](https://retributioneq.com/allaclone/?a=spell&id=11055) range 150: 
+- Rank 6 (ID 4866) costs 6 AAs with effect: [Spell 11055](https://retributioneq.com/allaclone/?a=spell&id=11055) range 150:
 
     - Effect 1: ArmyOfTheDead base 5 max 90
 {{</details>}}
@@ -2878,7 +2879,7 @@ Ability ID: 792 has 6 ranks and costs 36 total  with a recast time of 540 second
 (ROG)
 This passive ability increases the critical damage from your backstab attacks. Each rank increases the critical damage slightly.
 
-Ability ID: 1272 has 1 ranks and costs 9 total 
+Ability ID: 1272 has 1 ranks and costs 9 total
 - Rank 1 (ID 15625) costs 9 AAs with effect: CriticalDamageMob 10 8 (1.11 ratio)
 {{</details>}}
 {{<details title="Auspice of the Hunter (RNG)">}}
@@ -2886,42 +2887,42 @@ Ability ID: 1272 has 1 ranks and costs 9 total
 This ability allows you to share your natural affinity for the hunt with your party in the form of greater accuracy, more critical hits, and increased offensive power. Additional ranks further improve this effect.
 
 Ability ID: 462 has 6 ranks and costs 25 total  with a recast time of 900 seconds
-- Rank 1 (ID 1345) costs 0 AAs with effect: [Spell 6132](https://retributioneq.com/allaclone/?a=spell&id=6132) 36s range 50: 
+- Rank 1 (ID 1345) costs 0 AAs with effect: [Spell 6132](https://retributioneq.com/allaclone/?a=spell&id=6132) 36s range 50:
 
     - Effect 1: CriticalSpellChance base 4
     - Effect 2: Accuracy base 15 limit -1
     - Effect 3: CriticalHealChance base 4
     - Effect 4: CriticalHitChance base 30 limit -1
     - Effect 10: ATK base 25
-- Rank 2 (ID 1346) costs 5 AAs with effect: [Spell 6133](https://retributioneq.com/allaclone/?a=spell&id=6133) 36s range 50: 
+- Rank 2 (ID 1346) costs 5 AAs with effect: [Spell 6133](https://retributioneq.com/allaclone/?a=spell&id=6133) 36s range 50:
 
     - Effect 1: CriticalSpellChance base 8
     - Effect 2: Accuracy base 30 limit -1
     - Effect 3: CriticalHealChance base 8
     - Effect 4: CriticalHitChance base 60 limit -1
     - Effect 10: ATK base 50
-- Rank 3 (ID 1347) costs 5 AAs with effect: [Spell 6134](https://retributioneq.com/allaclone/?a=spell&id=6134) 36s range 50: 
+- Rank 3 (ID 1347) costs 5 AAs with effect: [Spell 6134](https://retributioneq.com/allaclone/?a=spell&id=6134) 36s range 50:
 
     - Effect 1: CriticalSpellChance base 12
     - Effect 2: Accuracy base 45 limit -1
     - Effect 3: CriticalHealChance base 12
     - Effect 4: CriticalHitChance base 90 limit -1
     - Effect 10: ATK base 75
-- Rank 4 (ID 5003) costs 5 AAs with effect: [Spell 11229](https://retributioneq.com/allaclone/?a=spell&id=11229) 36s range 50: 
+- Rank 4 (ID 5003) costs 5 AAs with effect: [Spell 11229](https://retributioneq.com/allaclone/?a=spell&id=11229) 36s range 50:
 
     - Effect 1: CriticalSpellChance base 13
     - Effect 2: Accuracy base 60 limit -1
     - Effect 3: CriticalHealChance base 13
     - Effect 4: CriticalHitChance base 100 limit -1
     - Effect 10: ATK base 85
-- Rank 5 (ID 5004) costs 5 AAs with effect: [Spell 11230](https://retributioneq.com/allaclone/?a=spell&id=11230) 36s range 50: 
+- Rank 5 (ID 5004) costs 5 AAs with effect: [Spell 11230](https://retributioneq.com/allaclone/?a=spell&id=11230) 36s range 50:
 
     - Effect 1: CriticalSpellChance base 14
     - Effect 2: Accuracy base 75 limit -1
     - Effect 3: CriticalHealChance base 14
     - Effect 4: CriticalHitChance base 110 limit -1
     - Effect 10: ATK base 95
-- Rank 6 (ID 5005) costs 5 AAs with effect: [Spell 11231](https://retributioneq.com/allaclone/?a=spell&id=11231) 36s range 50: 
+- Rank 6 (ID 5005) costs 5 AAs with effect: [Spell 11231](https://retributioneq.com/allaclone/?a=spell&id=11231) 36s range 50:
 
     - Effect 1: CriticalSpellChance base 15
     - Effect 2: Accuracy base 95 limit -1
@@ -2931,7 +2932,7 @@ Ability ID: 462 has 6 ranks and costs 25 total  with a recast time of 900 second
 {{</details>}}
 {{<details title="Azure Mind Crystal (ENC)">}}
 (ENC)
-Through this ability, an enchanter learns to channel and congeal his mana into sapphire crystals. These crystals can later be harvested to recover lost mana. 
+Through this ability, an enchanter learns to channel and congeal his mana into sapphire crystals. These crystals can later be harvested to recover lost mana.
 
 Ability ID: 633 has 1 ranks and costs 7 total  with a recast time of 300 seconds
 - Rank 1 (ID 4935) costs 7 AAs with effect: [Spell 11087](https://retributioneq.com/allaclone/?a=spell&id=11087) range 300
@@ -2942,7 +2943,7 @@ Ability ID: 633 has 1 ranks and costs 7 total  with a recast time of 300 seconds
 (WAR BER)
 This ability will give you increased healing ability per bandage by 10, 25, and 50 percent.
 
-Ability ID: 112 has 3 ranks and costs 18 total 
+Ability ID: 112 has 3 ranks and costs 18 total
 - Rank 1 (ID 263) costs 3 AAs with effect: ImprovedBindWound 10 (3.33 ratio)
 - Rank 2 (ID 264) costs 6 AAs with effect: ImprovedBindWound 25 (2.50 ratio)
 - Rank 3 (ID 265) costs 9 AAs with effect: ImprovedBindWound 50 (2.78 ratio)
@@ -2964,7 +2965,7 @@ Ability ID: 611 has 1 ranks and costs 9 total  with a recast time of 60 seconds
 This ability bathes you in beacon of pure light, causing hatred and jealousy in all enemies around you. Additional ranks improve the amount of hate generated.
 
 Ability ID: 10394 has 1 ranks and costs 12 total  with a recast time of 60 seconds
-- Rank 1 (ID 10394) costs 12 AAs with effect: [Spell 21821](https://retributioneq.com/allaclone/?a=spell&id=21821) 24s range 100: 
+- Rank 1 (ID 10394) costs 12 AAs with effect: [Spell 21821](https://retributioneq.com/allaclone/?a=spell&id=21821) 24s range 100:
 
     - Effect 1: InstantHate base 1200
     - Effect 3: Hate base 2000
@@ -2975,17 +2976,17 @@ Ability ID: 10394 has 1 ranks and costs 12 total  with a recast time of 60 secon
 Transforms beastlords into the likeness of their warders, greatly increasing their destructive power.
 
 Ability ID: 245 has 3 ranks and costs 18 total  with a recast time of 360 seconds
-- Rank 1 (ID 718) costs 3 AAs with effect: [Spell 4521](https://retributioneq.com/allaclone/?a=spell&id=4521) 30s range 100: 
+- Rank 1 (ID 718) costs 3 AAs with effect: [Spell 4521](https://retributioneq.com/allaclone/?a=spell&id=4521) 30s range 100:
 
     - Effect 1: ApplyEffect base 100 [Spell 30738](https://retributioneq.com/allaclone/?a=spell&id=30738) [Spell 30738](https://retributioneq.com/allaclone/?a=aa&id=30738)
     - Effect 3: DamageModifier base 50 limit -1
     - Effect 4: ResistSpellChance base 20
-- Rank 2 (ID 719) costs 6 AAs with effect: [Spell 4522](https://retributioneq.com/allaclone/?a=spell&id=4522) 30s range 100: 
+- Rank 2 (ID 719) costs 6 AAs with effect: [Spell 4522](https://retributioneq.com/allaclone/?a=spell&id=4522) 30s range 100:
 
     - Effect 1: ApplyEffect base 100 [Spell 30738](https://retributioneq.com/allaclone/?a=spell&id=30738) [Spell 30738](https://retributioneq.com/allaclone/?a=aa&id=30738)
     - Effect 3: DamageModifier base 75 limit -1
     - Effect 4: ResistSpellChance base 20
-- Rank 3 (ID 720) costs 9 AAs with effect: [Spell 4523](https://retributioneq.com/allaclone/?a=spell&id=4523) 30s range 100: 
+- Rank 3 (ID 720) costs 9 AAs with effect: [Spell 4523](https://retributioneq.com/allaclone/?a=spell&id=4523) 30s range 100:
 
     - Effect 1: ApplyEffect base 100 [Spell 30738](https://retributioneq.com/allaclone/?a=spell&id=30738) [Spell 30738](https://retributioneq.com/allaclone/?a=aa&id=30738)
     - Effect 3: DamageModifier base 100 limit -1
@@ -2995,7 +2996,7 @@ Ability ID: 245 has 3 ranks and costs 18 total  with a recast time of 360 second
 (BST)
 Each rank in this ability improves your chance of performing a double attack in any given combat round.
 
-Ability ID: 186 has 10 ranks and costs 35 total 
+Ability ID: 186 has 10 ranks and costs 35 total
 - Rank 1 (ID 551) costs 2 AAs with effect: GiveDoubleAttack 3 (1.50 ratio)
 - Rank 2 (ID 552) costs 2 AAs with effect: GiveDoubleAttack 6 (1.50 ratio)
 - Rank 3 (ID 553) costs 2 AAs with effect: GiveDoubleAttack 9 (1.50 ratio)
@@ -3021,7 +3022,7 @@ Ability ID: 39 has 1 ranks and costs 6 total  with a recast time of 600 seconds
 This ability, when activated, has a chance to make any enemy hit by this ability less resistant to magical attacks until the effect fades.
 
 Ability ID: 1125 has 1 ranks and costs 6 total  with a recast time of 7 seconds
-- Rank 1 (ID 8039) costs 6 AAs with effect: [Spell 16211](https://retributioneq.com/allaclone/?a=spell&id=16211) 840s: 
+- Rank 1 (ID 8039) costs 6 AAs with effect: [Spell 16211](https://retributioneq.com/allaclone/?a=spell&id=16211) 840s:
 
     - Effect 1: PoisonCounter base 1
     - Effect 2: ResistMagic base -30 max 105
@@ -3031,15 +3032,15 @@ Ability ID: 1125 has 1 ranks and costs 6 total  with a recast time of 7 seconds
 This ability allows you to imitate the bite of an asp and poison your target with a short but powerful venom.
 
 Ability ID: 986 has 3 ranks and costs 12 total  with a recast time of 60 seconds
-- Rank 1 (ID 6984) costs 0 AAs with effect: [Spell 16172](https://retributioneq.com/allaclone/?a=spell&id=16172) 24s range 100: 
+- Rank 1 (ID 6984) costs 0 AAs with effect: [Spell 16172](https://retributioneq.com/allaclone/?a=spell&id=16172) 24s range 100:
 
     - Effect 1: CurrentHP base -25 max 150
     - Effect 6: InstantHate base -3000
-- Rank 2 (ID 10294) costs 6 AAs with effect: [Spell 16765](https://retributioneq.com/allaclone/?a=spell&id=16765) 24s range 100: 
+- Rank 2 (ID 10294) costs 6 AAs with effect: [Spell 16765](https://retributioneq.com/allaclone/?a=spell&id=16765) 24s range 100:
 
     - Effect 1: CurrentHP base -150 max 300
     - Effect 6: InstantHate base -3500
-- Rank 3 (ID 13177) costs 6 AAs with effect: [Spell 27568](https://retributioneq.com/allaclone/?a=spell&id=27568) 24s range 100: 
+- Rank 3 (ID 13177) costs 6 AAs with effect: [Spell 27568](https://retributioneq.com/allaclone/?a=spell&id=27568) 24s range 100:
 
     - Effect 1: CurrentHP base -300 limit -500
     - Effect 6: InstantHate base -4250
@@ -3049,7 +3050,7 @@ Ability ID: 986 has 3 ranks and costs 12 total  with a recast time of 60 seconds
 This ability, when activated places a buff upon yourself for 5 minutes. When your health drops below 40 percent, this buff increases your ability to parry incoming attacks, increases proc chance, and adds lifesteal for up to 18 seconds. Each rank increases the parry chance. This is a guardian spirit. Only 1 guardian spirit may be active on you at any time.
 
 Ability ID: 967 has 1 ranks and costs 12 total  with a recast time of 300 seconds
-- Rank 1 (ID 13444) costs 12 AAs with effect: [Spell 30699](https://retributioneq.com/allaclone/?a=spell&id=30699) 300s range 200: 
+- Rank 1 (ID 13444) costs 12 AAs with effect: [Spell 30699](https://retributioneq.com/allaclone/?a=spell&id=30699) 300s range 200:
 
     - Effect 1: TriggerOnReqTarget base 30700 limit 508
     - Effect 5: Lycanthropy base 10 max 10
@@ -3059,7 +3060,7 @@ Ability ID: 967 has 1 ranks and costs 12 total  with a recast time of 300 second
 Bladed Song causes your opponent to take damage every time they attack.
 
 Ability ID: 669 has 1 ranks and costs 9 total  with a recast time of 300 seconds
-- Rank 1 (ID 5020) costs 9 AAs with effect: [Spell 11246](https://retributioneq.com/allaclone/?a=spell&id=11246) 60s range 100: 
+- Rank 1 (ID 5020) costs 9 AAs with effect: [Spell 11246](https://retributioneq.com/allaclone/?a=spell&id=11246) 60s range 100:
 
     - Effect 3: ReverseDS base -250
 {{</details>}}
@@ -3077,7 +3078,7 @@ Ability ID: 3646 has 1 ranks and costs 10 total  with a recast time of 180 secon
 (PAL)
 This ability gives you increased damage off of the imbued weapon procs that result from your self buffs. Additional ranks increase the damage inflicted by your procs.
 
-Ability ID: 3500 has 2 ranks and costs 8 total 
+Ability ID: 3500 has 2 ranks and costs 8 total
 - Rank 1 (ID 10355) costs 0 AAs with effect:
     - Effect 1: ImprovedDamage 50 50 (+Inf ratio)
 
@@ -3110,7 +3111,7 @@ Ability ID: 3500 has 2 ranks and costs 8 total
 Blinding Fury sends you into a battle rage that increases your melee ability. This rage is so intense that you have a chance of temporarily losing your sight.  While blinded by fury, you will attack even faster and unleash a series of double attacks.
 
 Ability ID: 610 has 3 ranks and costs 18 total  with a recast time of 600 seconds
-- Rank 1 (ID 4857) costs 3 AAs with effect: [Spell 11049](https://retributioneq.com/allaclone/?a=spell&id=11049) 60s: 
+- Rank 1 (ID 4857) costs 3 AAs with effect: [Spell 11049](https://retributioneq.com/allaclone/?a=spell&id=11049) 60s:
 
     - Effect 4: AddMeleeProc base 11345 limit 100
     - Effect 9: ATK base 25
@@ -3118,7 +3119,7 @@ Ability ID: 610 has 3 ranks and costs 18 total  with a recast time of 600 second
 
     - Effect 4: AddMeleeProc base 11346 limit 100
     - Effect 9: ATK base 50
-- Rank 3 (ID 4859) costs 9 AAs with effect: [Spell 11051](https://retributioneq.com/allaclone/?a=spell&id=11051) 60s: 
+- Rank 3 (ID 4859) costs 9 AAs with effect: [Spell 11051](https://retributioneq.com/allaclone/?a=spell&id=11051) 60s:
 
     - Effect 4: AddMeleeProc base 11347 limit 100
     - Effect 9: ATK base 75
@@ -3128,7 +3129,7 @@ Ability ID: 610 has 3 ranks and costs 18 total  with a recast time of 600 second
 This ability allows you to fuel your spells directly from your health instead of from your mana.  Blood magic is dangerous, though.  Spells will drain more health than they would use mana and the longer Blood Magic is in effect, the penalty will grow.  Once you have started using Blood Magic, you cannot stop until it wears off by itself or you die. Additional ranks increase the duration of each stage of the effect.
 
 Ability ID: 524 has 1 ranks and costs 12 total  with a recast time of 600 seconds
-- Rank 1 (ID 1510) costs 12 AAs with effect: [Spell 8205](https://retributioneq.com/allaclone/?a=spell&id=8205) 18s: 
+- Rank 1 (ID 1510) costs 12 AAs with effect: [Spell 8205](https://retributioneq.com/allaclone/?a=spell&id=8205) 18s:
 
     - Effect 1: CastOnFadeEffectAlways base 8206
     - Effect 3: HPToMana base 200
@@ -3138,16 +3139,16 @@ Ability ID: 524 has 1 ranks and costs 12 total  with a recast time of 600 second
 While this ability is active, the berserker will push themselves beyond their limits.  The berserker's damage output will increase, but they will take a portion of the damage they dole out themselves. Each additional rank increases the damage inflicted upon your enemy.
 
 Ability ID: 387 has 4 ranks and costs 25 total  with a recast time of 300 to 600 seconds
-- Rank 1 (ID 1178) costs 3 AAs with effect: [Spell 5857](https://retributioneq.com/allaclone/?a=spell&id=5857) 90s: 
+- Rank 1 (ID 1178) costs 3 AAs with effect: [Spell 5857](https://retributioneq.com/allaclone/?a=spell&id=5857) 90s:
 
     - Effect 1: WeaponProc [Spell 5981](https://retributioneq.com/allaclone/?a=spell&id=5981) limit 300
-- Rank 2 (ID 1179) costs 6 AAs with effect: [Spell 5858](https://retributioneq.com/allaclone/?a=spell&id=5858) 90s: 
+- Rank 2 (ID 1179) costs 6 AAs with effect: [Spell 5858](https://retributioneq.com/allaclone/?a=spell&id=5858) 90s:
 
     - Effect 1: WeaponProc [Spell 5982](https://retributioneq.com/allaclone/?a=spell&id=5982) limit 300
-- Rank 3 (ID 1180) costs 9 AAs with effect: [Spell 5859](https://retributioneq.com/allaclone/?a=spell&id=5859) 90s: 
+- Rank 3 (ID 1180) costs 9 AAs with effect: [Spell 5859](https://retributioneq.com/allaclone/?a=spell&id=5859) 90s:
 
     - Effect 1: WeaponProc [Spell 5983](https://retributioneq.com/allaclone/?a=spell&id=5983) limit 300
-- Rank 4 (ID 5779) costs 7 AAs with effect: [Spell 12546](https://retributioneq.com/allaclone/?a=spell&id=12546) 90s: 
+- Rank 4 (ID 5779) costs 7 AAs with effect: [Spell 12546](https://retributioneq.com/allaclone/?a=spell&id=12546) 90s:
 
     - Effect 1: WeaponProc [Spell 12704](https://retributioneq.com/allaclone/?a=spell&id=12704) limit 300
 {{</details>}}
@@ -3155,7 +3156,7 @@ Ability ID: 387 has 4 ranks and costs 25 total  with a recast time of 300 to 600
 (DRU SHM NEC)
 Each rank in this ability further increases your chance to get a critical hit with your damage over time spells.
 
-Ability ID: 740 has 3 ranks and costs 21 total 
+Ability ID: 740 has 3 ranks and costs 21 total
 - Rank 1 (ID 4761) costs 7 AAs with effect: CriticalDoTChance 2 (0.29 ratio)
 - Rank 2 (ID 4762) costs 7 AAs with effect: CriticalDoTChance 3 (0.14 ratio)
 - Rank 3 (ID 4763) costs 7 AAs with effect: CriticalDoTChance 4 (0.14 ratio)
@@ -3165,7 +3166,7 @@ Ability ID: 740 has 3 ranks and costs 21 total
 This ability, when activated, allows your weapons to proc with every swing for up to 12 seconds.
 
 Ability ID: 241 has 1 ranks and costs 12 total  with a recast time of 60 seconds
-- Rank 1 (ID 13484) costs 12 AAs with effect: [Spell 30736](https://retributioneq.com/allaclone/?a=spell&id=30736) 12s range 200: 
+- Rank 1 (ID 13484) costs 12 AAs with effect: [Spell 30736](https://retributioneq.com/allaclone/?a=spell&id=30736) 12s range 200:
 
     - Effect 1: ProcChance base 10000 max 10000
 {{</details>}}
@@ -3173,7 +3174,7 @@ Ability ID: 241 has 1 ranks and costs 12 total  with a recast time of 60 seconds
 (BER)
 Each rank of this ability increases the damage that is done by Frenzy.
 
-Ability ID: 368 has 13 ranks and costs 57 total 
+Ability ID: 368 has 13 ranks and costs 57 total
 - Rank 1 (ID 1134) costs 3 AAs with effect: SkillDamageAmount 75 74 (25.00 ratio)
 - Rank 2 (ID 1135) costs 4 AAs with effect: SkillDamageAmount 100 74 (6.25 ratio)
 - Rank 3 (ID 1136) costs 5 AAs with effect: SkillDamageAmount 125 74 (5.00 ratio)
@@ -3193,15 +3194,15 @@ Ability ID: 368 has 13 ranks and costs 57 total
 This ability allows you to bellow with a force that causes physical harm to your enemies as well as potentially interfering with their spell casting.  Additional ranks increase the highest level of NPC that you can stun with your Boastful Bellows, and starting at rank five of this line your bellow will have the additional effect of reducing your target's resistance to fire, cold and magic. Subsequent ranks will increase this debuff at five rank intervals. Beginning with rank 33, each rank will increase the spell resistances applied.
 
 Ability ID: 199 has 16 ranks and costs 51 total  with a recast time of 18 seconds
-- Rank 1 (ID 592) costs 6 AAs with effect: [Spell 3282](https://retributioneq.com/allaclone/?a=spell&id=3282) range 250: 
+- Rank 1 (ID 592) costs 6 AAs with effect: [Spell 3282](https://retributioneq.com/allaclone/?a=spell&id=3282) range 250:
 
     - Effect 1: CurrentHP base -100 max 400
     - Effect 2: Stun base 1000 limit 500 max 60
-- Rank 2 (ID 702) costs 3 AAs with effect: [Spell 4842](https://retributioneq.com/allaclone/?a=spell&id=4842) range 250: 
+- Rank 2 (ID 702) costs 3 AAs with effect: [Spell 4842](https://retributioneq.com/allaclone/?a=spell&id=4842) range 250:
 
     - Effect 1: CurrentHP base -150 max 450
     - Effect 2: Stun base 1000 limit 500 max 61
-- Rank 3 (ID 703) costs 3 AAs with effect: [Spell 4843](https://retributioneq.com/allaclone/?a=spell&id=4843) range 250: 
+- Rank 3 (ID 703) costs 3 AAs with effect: [Spell 4843](https://retributioneq.com/allaclone/?a=spell&id=4843) range 250:
 
     - Effect 1: CurrentHP base -200 max 500
     - Effect 2: Stun base 1000 limit 500 max 62
@@ -3210,84 +3211,84 @@ As long as a shield is equipped, each rank in Shield Specialist confers a damage
 
     - Effect 1: CurrentHP base -250 max 550
     - Effect 2: Stun base 1000 limit 500 max 63
-- Rank 5 (ID 705) costs 3 AAs with effect: [Spell 4845](https://retributioneq.com/allaclone/?a=spell&id=4845) 18s range 250: 
+- Rank 5 (ID 705) costs 3 AAs with effect: [Spell 4845](https://retributioneq.com/allaclone/?a=spell&id=4845) 18s range 250:
 
     - Effect 1: CurrentHPOnce base -300 max 600
     - Effect 2: Stun base 1000 limit 500 max 64
     - Effect 7: ResistCold base -2
     - Effect 8: ResistMagic base -2
     - Effect 9: ResistFire base -2
-- Rank 6 (ID 706) costs 3 AAs with effect: [Spell 4846](https://retributioneq.com/allaclone/?a=spell&id=4846) 18s range 250: 
+- Rank 6 (ID 706) costs 3 AAs with effect: [Spell 4846](https://retributioneq.com/allaclone/?a=spell&id=4846) 18s range 250:
 
     - Effect 1: CurrentHPOnce base -350 max 650
     - Effect 2: Stun base 1000 limit 500 max 65
     - Effect 7: ResistCold base -2
     - Effect 8: ResistMagic base -2
     - Effect 9: ResistFire base -2
-- Rank 7 (ID 1102) costs 3 AAs with effect: [Spell 5825](https://retributioneq.com/allaclone/?a=spell&id=5825) 18s range 250: 
+- Rank 7 (ID 1102) costs 3 AAs with effect: [Spell 5825](https://retributioneq.com/allaclone/?a=spell&id=5825) 18s range 250:
 
     - Effect 1: CurrentHPOnce base -400 max 700
     - Effect 2: Stun base 1000 limit 500 max 66
     - Effect 7: ResistCold base -2
     - Effect 8: ResistMagic base -2
     - Effect 9: ResistFire base -2
-- Rank 8 (ID 1103) costs 3 AAs with effect: [Spell 5826](https://retributioneq.com/allaclone/?a=spell&id=5826) 18s range 250: 
+- Rank 8 (ID 1103) costs 3 AAs with effect: [Spell 5826](https://retributioneq.com/allaclone/?a=spell&id=5826) 18s range 250:
 
     - Effect 1: CurrentHPOnce base -450 max 750
     - Effect 2: Stun base 1000 limit 500 max 67
     - Effect 7: ResistCold base -2
     - Effect 8: ResistMagic base -2
     - Effect 9: ResistFire base -2
-- Rank 9 (ID 1104) costs 3 AAs with effect: [Spell 5827](https://retributioneq.com/allaclone/?a=spell&id=5827) 18s range 250: 
+- Rank 9 (ID 1104) costs 3 AAs with effect: [Spell 5827](https://retributioneq.com/allaclone/?a=spell&id=5827) 18s range 250:
 
     - Effect 1: CurrentHPOnce base -500 max 800
     - Effect 2: Stun base 1000 limit 500 max 68
     - Effect 7: ResistCold base -2
     - Effect 8: ResistMagic base -2
     - Effect 9: ResistFire base -2
-- Rank 10 (ID 1105) costs 3 AAs with effect: [Spell 5828](https://retributioneq.com/allaclone/?a=spell&id=5828) 18s range 250: 
+- Rank 10 (ID 1105) costs 3 AAs with effect: [Spell 5828](https://retributioneq.com/allaclone/?a=spell&id=5828) 18s range 250:
 
     - Effect 1: CurrentHPOnce base -550 max 850
     - Effect 2: Stun base 1000 limit 500 max 69
     - Effect 7: ResistCold base -4
     - Effect 8: ResistMagic base -4
     - Effect 9: ResistFire base -4
-- Rank 11 (ID 1106) costs 3 AAs with effect: [Spell 5829](https://retributioneq.com/allaclone/?a=spell&id=5829) 18s range 250: 
+- Rank 11 (ID 1106) costs 3 AAs with effect: [Spell 5829](https://retributioneq.com/allaclone/?a=spell&id=5829) 18s range 250:
 
     - Effect 1: CurrentHPOnce base -600 max 900
     - Effect 2: Stun base 1000 limit 500 max 70
     - Effect 7: ResistCold base -4
     - Effect 8: ResistMagic base -4
     - Effect 9: ResistFire base -4
-- Rank 12 (ID 4975) costs 3 AAs with effect: [Spell 11218](https://retributioneq.com/allaclone/?a=spell&id=11218) 18s range 250: 
+- Rank 12 (ID 4975) costs 3 AAs with effect: [Spell 11218](https://retributioneq.com/allaclone/?a=spell&id=11218) 18s range 250:
 
     - Effect 1: CurrentHPOnce base -650 max 950
     - Effect 2: Stun base 1000 limit 500 max 71
     - Effect 7: ResistCold base -4
     - Effect 8: ResistMagic base -4
     - Effect 9: ResistFire base -4
-- Rank 13 (ID 4976) costs 3 AAs with effect: [Spell 11219](https://retributioneq.com/allaclone/?a=spell&id=11219) 18s range 250: 
+- Rank 13 (ID 4976) costs 3 AAs with effect: [Spell 11219](https://retributioneq.com/allaclone/?a=spell&id=11219) 18s range 250:
 
     - Effect 1: CurrentHPOnce base -700 max 1000
     - Effect 2: Stun base 1000 limit 500 max 72
     - Effect 7: ResistCold base -4
     - Effect 8: ResistMagic base -4
     - Effect 9: ResistFire base -4
-- Rank 14 (ID 4977) costs 3 AAs with effect: [Spell 11220](https://retributioneq.com/allaclone/?a=spell&id=11220) 18s range 250: 
+- Rank 14 (ID 4977) costs 3 AAs with effect: [Spell 11220](https://retributioneq.com/allaclone/?a=spell&id=11220) 18s range 250:
 
     - Effect 1: CurrentHPOnce base -750 max 1050
     - Effect 2: Stun base 1000 limit 500 max 73
     - Effect 7: ResistCold base -4
     - Effect 8: ResistMagic base -4
     - Effect 9: ResistFire base -4
-- Rank 15 (ID 4978) costs 3 AAs with effect: [Spell 11221](https://retributioneq.com/allaclone/?a=spell&id=11221) 18s range 250: 
+- Rank 15 (ID 4978) costs 3 AAs with effect: [Spell 11221](https://retributioneq.com/allaclone/?a=spell&id=11221) 18s range 250:
 
     - Effect 1: CurrentHPOnce base -800 max 1100
     - Effect 2: Stun base 1000 limit 500 max 74
     - Effect 7: ResistCold base -6
     - Effect 8: ResistMagic base -6
     - Effect 9: ResistFire base -6
-- Rank 16 (ID 4979) costs 3 AAs with effect: [Spell 11222](https://retributioneq.com/allaclone/?a=spell&id=11222) 18s range 250: 
+- Rank 16 (ID 4979) costs 3 AAs with effect: [Spell 11222](https://retributioneq.com/allaclone/?a=spell&id=11222) 18s range 250:
 
     - Effect 1: CurrentHPOnce base -850 max 1200
     - Effect 2: Stun base 1000 limit 500 max 75
@@ -3299,7 +3300,7 @@ As long as a shield is equipped, each rank in Shield Specialist confers a damage
 (PAL RNG SHD BRD BST)
 This ability will give you one additional point of mana and hit point regeneration.
 
-Ability ID: 119 has 1 ranks and costs 5 total 
+Ability ID: 119 has 1 ranks and costs 5 total
 - Rank 1 (ID 278) costs 5 AAs with effect:
     - Effect 1: CurrentHP 1 (0.20 ratio)
 
@@ -3311,7 +3312,7 @@ Ability ID: 119 has 1 ranks and costs 5 total
 This ability engulfs your target in a barrage of discordant noise, causing it to take damage for the duration of the effect.  Every time this effect causes damage, it also has a chance to interrupt any spells being cast.  Additional ranks improve the damage done by this ability.  Ranks two and three also increase the chance for spells to be disrupted.
 
 Ability ID: 553 has 6 ranks and costs 36 total  with a recast time of 900 seconds
-- Rank 1 (ID 1598) costs 3 AAs with effect: [Spell 8272](https://retributioneq.com/allaclone/?a=spell&id=8272) 60s range 200: 
+- Rank 1 (ID 1598) costs 3 AAs with effect: [Spell 8272](https://retributioneq.com/allaclone/?a=spell&id=8272) 60s range 200:
 
     - Effect 1: CurrentHP base -100
     - Effect 2: ApplyEffect base 100 [Spell 22685](https://retributioneq.com/allaclone/?a=spell&id=22685) [Spell 22685](https://retributioneq.com/allaclone/?a=aa&id=22685)
@@ -3319,19 +3320,19 @@ Ability ID: 553 has 6 ranks and costs 36 total  with a recast time of 900 second
 
     - Effect 1: CurrentHP base -200
     - Effect 2: ApplyEffect base 100 [Spell 22686](https://retributioneq.com/allaclone/?a=spell&id=22686) [Spell 22686](https://retributioneq.com/allaclone/?a=aa&id=22686)
-- Rank 3 (ID 1600) costs 9 AAs with effect: [Spell 8274](https://retributioneq.com/allaclone/?a=spell&id=8274) 60s range 200: 
+- Rank 3 (ID 1600) costs 9 AAs with effect: [Spell 8274](https://retributioneq.com/allaclone/?a=spell&id=8274) 60s range 200:
 
     - Effect 1: CurrentHP base -300
     - Effect 2: ApplyEffect base 100 [Spell 22687](https://retributioneq.com/allaclone/?a=spell&id=22687) [Spell 22687](https://retributioneq.com/allaclone/?a=aa&id=22687)
-- Rank 4 (ID 4972) costs 6 AAs with effect: [Spell 11215](https://retributioneq.com/allaclone/?a=spell&id=11215) 60s range 200: 
+- Rank 4 (ID 4972) costs 6 AAs with effect: [Spell 11215](https://retributioneq.com/allaclone/?a=spell&id=11215) 60s range 200:
 
     - Effect 1: CurrentHP base -400
     - Effect 2: ApplyEffect base 100 [Spell 22687](https://retributioneq.com/allaclone/?a=spell&id=22687) [Spell 22687](https://retributioneq.com/allaclone/?a=aa&id=22687)
-- Rank 5 (ID 4973) costs 6 AAs with effect: [Spell 11216](https://retributioneq.com/allaclone/?a=spell&id=11216) 60s range 200: 
+- Rank 5 (ID 4973) costs 6 AAs with effect: [Spell 11216](https://retributioneq.com/allaclone/?a=spell&id=11216) 60s range 200:
 
     - Effect 1: CurrentHP base -500
     - Effect 2: ApplyEffect base 100 [Spell 22687](https://retributioneq.com/allaclone/?a=spell&id=22687) [Spell 22687](https://retributioneq.com/allaclone/?a=aa&id=22687)
-- Rank 6 (ID 4974) costs 6 AAs with effect: [Spell 11217](https://retributioneq.com/allaclone/?a=spell&id=11217) 60s range 200: 
+- Rank 6 (ID 4974) costs 6 AAs with effect: [Spell 11217](https://retributioneq.com/allaclone/?a=spell&id=11217) 60s range 200:
 
     - Effect 1: CurrentHP base -600
     - Effect 2: ApplyEffect base 100 [Spell 22687](https://retributioneq.com/allaclone/?a=spell&id=22687) [Spell 22687](https://retributioneq.com/allaclone/?a=aa&id=22687)
@@ -3356,13 +3357,13 @@ Ability ID: 321 has 8 ranks and costs 40 total  with a recast time of 900 second
 - Rank 5 (ID 974) costs 5 AAs with effect: [Spell 4832](https://retributioneq.com/allaclone/?a=spell&id=4832)
 
     - Effect 1: TemporaryPets base 1 max 300
-- Rank 6 (ID 1324) costs 5 AAs with effect: [Spell 6030](https://retributioneq.com/allaclone/?a=spell&id=6030): 
+- Rank 6 (ID 1324) costs 5 AAs with effect: [Spell 6030](https://retributioneq.com/allaclone/?a=spell&id=6030):
 
     - Effect 1: TemporaryPets base 1 max 300
-- Rank 7 (ID 1325) costs 5 AAs with effect: [Spell 6031](https://retributioneq.com/allaclone/?a=spell&id=6031): 
+- Rank 7 (ID 1325) costs 5 AAs with effect: [Spell 6031](https://retributioneq.com/allaclone/?a=spell&id=6031):
 
     - Effect 1: TemporaryPets base 1 max 300
-- Rank 8 (ID 1326) costs 5 AAs with effect: [Spell 6032](https://retributioneq.com/allaclone/?a=spell&id=6032): 
+- Rank 8 (ID 1326) costs 5 AAs with effect: [Spell 6032](https://retributioneq.com/allaclone/?a=spell&id=6032):
 
     - Effect 1: TemporaryPets base 1 max 300
 {{</details>}}
@@ -3371,7 +3372,7 @@ Ability ID: 321 has 8 ranks and costs 40 total  with a recast time of 900 second
 This ability allows you to call a fallen comrade's spirit back to their corpse.  This does not restore any lost experience, but the player can still get an experience resurrection after being affected by this ability.
 
 Ability ID: 404 has 1 ranks and costs 9 total  with a recast time of 600 seconds
-- Rank 1 (ID 1228) costs 9 AAs with effect: [Spell 5880](https://retributioneq.com/allaclone/?a=spell&id=5880) range 200: 
+- Rank 1 (ID 1228) costs 9 AAs with effect: [Spell 5880](https://retributioneq.com/allaclone/?a=spell&id=5880) range 200:
 
     - Effect 1: SummonToCorpse base 1
 {{</details>}}
@@ -3401,7 +3402,7 @@ Ability ID: 208 has 5 ranks and costs 16 total  with a recast time of 900 second
 This ability allows you to cast a no component summon corpse spell.
 
 Ability ID: 72 has 1 ranks and costs 6 total  with a recast time of 900 seconds
-- Rank 1 (ID 187) costs 6 AAs with effect: [Spell 2764](https://retributioneq.com/allaclone/?a=spell&id=2764) range 10000: 
+- Rank 1 (ID 187) costs 6 AAs with effect: [Spell 2764](https://retributioneq.com/allaclone/?a=spell&id=2764) range 10000:
 
     - Effect 1: SummonCorpse base 100
 {{</details>}}
@@ -3424,7 +3425,7 @@ Ability ID: 47 has 2 ranks and costs 10 total  with a recast time of 180 seconds
 This ability, when activated, grants you a chance to have your damage over time spells hit for additional damage for a short period of time. Each level increases both the chance and amount of damage.
 
 Ability ID: 1259 has 1 ranks and costs 6 total  with a recast time of 30 seconds
-- Rank 1 (ID 15594) costs 6 AAs with effect: [Spell 38197](https://retributioneq.com/allaclone/?a=spell&id=38197) 5400s range 200: 
+- Rank 1 (ID 15594) costs 6 AAs with effect: [Spell 38197](https://retributioneq.com/allaclone/?a=spell&id=38197) 5400s range 200:
 
     - Effect 5: LimitEffect base -18
     - Effect 6: LimitEffect base -31
@@ -3444,7 +3445,7 @@ Ability ID: 499 has 5 ranks and costs 25 total  with a recast time of 2160 secon
     - Effect 2: CurrentHP base -250
     - Effect 4: AttackSpeed3 base 115
     - Effect 6: ATK base 150
-- Rank 2 (ID 1426) costs 5 AAs with effect: [Spell 8061](https://retributioneq.com/allaclone/?a=spell&id=8061) 30s: 
+- Rank 2 (ID 1426) costs 5 AAs with effect: [Spell 8061](https://retributioneq.com/allaclone/?a=spell&id=8061) 30s:
 
     - Effect 1: DoubleAttackChance base 35
     - Effect 2: CurrentHP base -250
@@ -3465,7 +3466,7 @@ Ability ID: 499 has 5 ranks and costs 25 total  with a recast time of 2160 secon
     - Effect 3: WeaponProc [Spell 8067](https://retributioneq.com/allaclone/?a=spell&id=8067) limit 75
     - Effect 4: AttackSpeed3 base 5
     - Effect 6: ATK base 50
-- Rank 5 (ID 1429) costs 5 AAs with effect: [Spell 8070](https://retributioneq.com/allaclone/?a=spell&id=8070) 30s: 
+- Rank 5 (ID 1429) costs 5 AAs with effect: [Spell 8070](https://retributioneq.com/allaclone/?a=spell&id=8070) 30s:
 
     - Effect 1: DoubleAttackChance base 10
     - Effect 2: CurrentHP base -250
@@ -3478,22 +3479,22 @@ Ability ID: 499 has 5 ranks and costs 25 total  with a recast time of 2160 secon
 Use of this ability calls forth a celestial hammer to attack your opponent. Additional ranks increase the strength of the hammer.
 
 Ability ID: 391 has 6 ranks and costs 30 total  with a recast time of 1320 seconds
-- Rank 1 (ID 1192) costs 5 AAs with effect: [Spell 5863](https://retributioneq.com/allaclone/?a=spell&id=5863) range 150: 
+- Rank 1 (ID 1192) costs 5 AAs with effect: [Spell 5863](https://retributioneq.com/allaclone/?a=spell&id=5863) range 150:
 
     - Effect 1: TemporaryPets base 1 max 30
-- Rank 2 (ID 1193) costs 5 AAs with effect: [Spell 5864](https://retributioneq.com/allaclone/?a=spell&id=5864) range 150: 
+- Rank 2 (ID 1193) costs 5 AAs with effect: [Spell 5864](https://retributioneq.com/allaclone/?a=spell&id=5864) range 150:
 
     - Effect 1: TemporaryPets base 1 max 45
-- Rank 3 (ID 1194) costs 5 AAs with effect: [Spell 5865](https://retributioneq.com/allaclone/?a=spell&id=5865) range 150: 
+- Rank 3 (ID 1194) costs 5 AAs with effect: [Spell 5865](https://retributioneq.com/allaclone/?a=spell&id=5865) range 150:
 
     - Effect 1: TemporaryPets base 1 max 60
-- Rank 4 (ID 5076) costs 5 AAs with effect: [Spell 11288](https://retributioneq.com/allaclone/?a=spell&id=11288) range 100: 
+- Rank 4 (ID 5076) costs 5 AAs with effect: [Spell 11288](https://retributioneq.com/allaclone/?a=spell&id=11288) range 100:
 
     - Effect 1: TemporaryPets base 1 max 45
-- Rank 5 (ID 5077) costs 5 AAs with effect: [Spell 11289](https://retributioneq.com/allaclone/?a=spell&id=11289) range 100: 
+- Rank 5 (ID 5077) costs 5 AAs with effect: [Spell 11289](https://retributioneq.com/allaclone/?a=spell&id=11289) range 100:
 
     - Effect 1: TemporaryPets base 1 max 60
-- Rank 6 (ID 5078) costs 5 AAs with effect: [Spell 11290](https://retributioneq.com/allaclone/?a=spell&id=11290) range 100: 
+- Rank 6 (ID 5078) costs 5 AAs with effect: [Spell 11290](https://retributioneq.com/allaclone/?a=spell&id=11290) range 100:
 
     - Effect 1: TemporaryPets base 1 max 75
 {{</details>}}
@@ -3511,13 +3512,13 @@ Ability ID: 38 has 9 ranks and costs 44 total  with a recast time of 900 seconds
 - Rank 3 (ID 532) costs 6 AAs with effect: [Spell 3251](https://retributioneq.com/allaclone/?a=spell&id=3251) 48s range 100
 
     - Effect 1: HealOverTime base 300 max 300
-- Rank 4 (ID 1203) costs 5 AAs with effect: [Spell 5869](https://retributioneq.com/allaclone/?a=spell&id=5869) 48s range 100: 
+- Rank 4 (ID 1203) costs 5 AAs with effect: [Spell 5869](https://retributioneq.com/allaclone/?a=spell&id=5869) 48s range 100:
 
     - Effect 1: HealOverTime base 333 max 333
-- Rank 5 (ID 1204) costs 5 AAs with effect: [Spell 5870](https://retributioneq.com/allaclone/?a=spell&id=5870) 48s range 100: 
+- Rank 5 (ID 1204) costs 5 AAs with effect: [Spell 5870](https://retributioneq.com/allaclone/?a=spell&id=5870) 48s range 100:
 
     - Effect 1: HealOverTime base 366 max 366
-- Rank 6 (ID 1205) costs 5 AAs with effect: [Spell 5988](https://retributioneq.com/allaclone/?a=spell&id=5988) 48s range 100: 
+- Rank 6 (ID 1205) costs 5 AAs with effect: [Spell 5988](https://retributioneq.com/allaclone/?a=spell&id=5988) 48s range 100:
 
     - Effect 1: HealOverTime base 400 max 400
 - Rank 7 (ID 5070) costs 5 AAs with effect: [Spell 11282](https://retributioneq.com/allaclone/?a=spell&id=11282) 48s range 100
@@ -3565,9 +3566,9 @@ Ability ID: 531 has 1 ranks and costs 12 total  with a recast time of 7 seconds
 {{</details>}}
 {{<details title="Coat of Thistles (RNG)">}}
 (RNG)
-This ability intensifies the overall effect of damage shields that are cast on you. Additional ranks increase the effectiveness of this ability. 
+This ability intensifies the overall effect of damage shields that are cast on you. Additional ranks increase the effectiveness of this ability.
 
-Ability ID: 288 has 5 ranks and costs 25 total 
+Ability ID: 288 has 5 ranks and costs 25 total
 - Rank 1 (ID 867) costs 5 AAs with effect: DamageShield -3
 - Rank 2 (ID 868) costs 5 AAs with effect: DamageShield -6
 - Rank 3 (ID 869) costs 5 AAs with effect: DamageShield -9
@@ -3579,7 +3580,7 @@ Ability ID: 288 has 5 ranks and costs 25 total
 While this ability is active, any creature that tries to attack the enchanter has a chance to be stunned in retribution.  This ability does not affect creatures that are immune to stunning. Rank 1 will affect creatures level 73 and below and rank 2 will affect creatures level 83 and below. Rank 3 will affect creatures level 88 and below. Rank 4 will affect up to level 93. Rank 5 affects enemies up to level 98. Rank 6 affects enemies up to level 103.
 
 Ability ID: 412 has 1 ranks and costs 12 total  with a recast time of 600 seconds
-- Rank 1 (ID 1239) costs 12 AAs with effect: [Spell 5903](https://retributioneq.com/allaclone/?a=spell&id=5903) 120s: 
+- Rank 1 (ID 1239) costs 12 AAs with effect: [Spell 5903](https://retributioneq.com/allaclone/?a=spell&id=5903) 120s:
 
     - Effect 2: DefensiveProc base 6033 limit 300
 {{</details>}}
@@ -3587,7 +3588,7 @@ Ability ID: 412 has 1 ranks and costs 12 total  with a recast time of 600 second
 (CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST)
 Increases the amount of healing provided by a single bandage.
 
-Ability ID: 689 has 5 ranks and costs 15 total 
+Ability ID: 689 has 5 ranks and costs 15 total
 - Rank 1 (ID 5136) costs 3 AAs with effect: ImprovedBindWound 20 (6.67 ratio)
 - Rank 2 (ID 5137) costs 3 AAs with effect: ImprovedBindWound 40 (6.67 ratio)
 - Rank 3 (ID 5138) costs 3 AAs with effect: ImprovedBindWound 60 (6.67 ratio)
@@ -3607,7 +3608,7 @@ Ability ID: 3516 has 1 ranks and costs 9 total  with a recast time of 600 second
 (SHD DRU SHM NEC MAG ENC BST)
 The first three ranks of this ability increases your companion's ability to avoid melee damage by 5, 7 and 10%. Each additional rank increases this chance by 2%.
 
-Ability ID: 3818 has 6 ranks and costs 45 total 
+Ability ID: 3818 has 6 ranks and costs 45 total
 - Rank 1 (ID 6383) costs 3 AAs with effect: PetAvoidance 5 (1.67 ratio)
 - Rank 2 (ID 6384) costs 6 AAs with effect: PetAvoidance 7 (0.33 ratio)
 - Rank 3 (ID 6385) costs 9 AAs with effect: PetAvoidance 10 (0.33 ratio)
@@ -3619,7 +3620,7 @@ Ability ID: 3818 has 6 ranks and costs 45 total
 (MAG)
 This ability grants you a chance to score an exceptional heal when healing your pet. An exceptional heal doubles the healing value of the spell. Additional ranks increase the chance to score an exceptional heal.
 
-Ability ID: 546 has 3 ranks and costs 18 total 
+Ability ID: 546 has 3 ranks and costs 18 total
 - Rank 1 (ID 1577) costs 3 AAs with effect: CriticalHealChance 3 (1.00 ratio)
 - Rank 2 (ID 1578) costs 6 AAs with effect: CriticalHealChance 6 (0.50 ratio)
 - Rank 3 (ID 1579) costs 9 AAs with effect: CriticalHealChance 10 (0.44 ratio)
@@ -3628,7 +3629,7 @@ Ability ID: 546 has 3 ranks and costs 18 total
 (BER)
 Each rank of this ability grants you an increasing chance to not use a component when summoning axes.
 
-Ability ID: 504 has 5 ranks and costs 25 total 
+Ability ID: 504 has 5 ranks and costs 25 total
 - Rank 1 (ID 1453) costs 5 AAs with effect:
     - Effect 1: ReduceReagentCost 50 50 (10.00 ratio)
 
@@ -3669,7 +3670,7 @@ Ability ID: 504 has 5 ranks and costs 25 total
 (SHD)
 The most advanced Shadow Knights can further enhance their Leech Touch ability.  Each rank of this ability increases the damage and healing done by Leech Touch.
 
-Ability ID: 198 has 8 ranks and costs 40 total 
+Ability ID: 198 has 8 ranks and costs 40 total
 - Rank 1 (ID 589) costs 3 AAs with effect:
     - Effect 1: FcDamageAmtCrit 600 600 (200.00 ratio)
 
@@ -3716,7 +3717,7 @@ Ability ID: 198 has 8 ranks and costs 40 total
 This ability calls a fallen ally back to their body. Requires an Essence Emerald as an element of energy focus.
 
 Ability ID: 676 has 1 ranks and costs 15 total  with a recast time of 300 seconds
-- Rank 1 (ID 14358) costs 15 AAs with effect: [Spell 32397](https://retributioneq.com/allaclone/?a=spell&id=32397) range 200: 
+- Rank 1 (ID 14358) costs 15 AAs with effect: [Spell 32397](https://retributioneq.com/allaclone/?a=spell&id=32397) range 200:
 
     - Effect 1: Revive base 93
 {{</details>}}
@@ -3732,31 +3733,31 @@ This passive ability will increase the chance that your companion has to execute
     - Effect 4: HealOverTime base 500
     - Effect 8: DamageShield base -60
     - Effect 9: ArmorClass base 180
-- Rank 2 (ID 1496) costs 6 AAs with effect: [Spell 8191](https://retributioneq.com/allaclone/?a=spell&id=8191) 18s range 200: 
+- Rank 2 (ID 1496) costs 6 AAs with effect: [Spell 8191](https://retributioneq.com/allaclone/?a=spell&id=8191) 18s range 200:
 
     - Effect 1: CurrentHPOnce base 1500
     - Effect 4: HealOverTime base 750
     - Effect 8: DamageShield base -65
     - Effect 9: ArmorClass base 200
-- Rank 3 (ID 1497) costs 9 AAs with effect: [Spell 8192](https://retributioneq.com/allaclone/?a=spell&id=8192) 18s range 200: 
+- Rank 3 (ID 1497) costs 9 AAs with effect: [Spell 8192](https://retributioneq.com/allaclone/?a=spell&id=8192) 18s range 200:
 
     - Effect 1: CurrentHPOnce base 2000
     - Effect 4: HealOverTime base 1000
     - Effect 8: DamageShield base -70
     - Effect 9: ArmorClass base 220
-- Rank 4 (ID 5311) costs 5 AAs with effect: [Spell 11639](https://retributioneq.com/allaclone/?a=spell&id=11639) 18s range 200: 
+- Rank 4 (ID 5311) costs 5 AAs with effect: [Spell 11639](https://retributioneq.com/allaclone/?a=spell&id=11639) 18s range 200:
 
     - Effect 1: CurrentHPOnce base 2333
     - Effect 4: HealOverTime base 1166
     - Effect 8: DamageShield base -75
     - Effect 9: ArmorClass base 240
-- Rank 5 (ID 5312) costs 5 AAs with effect: [Spell 11640](https://retributioneq.com/allaclone/?a=spell&id=11640) 18s range 200: 
+- Rank 5 (ID 5312) costs 5 AAs with effect: [Spell 11640](https://retributioneq.com/allaclone/?a=spell&id=11640) 18s range 200:
 
     - Effect 1: CurrentHPOnce base 2666
     - Effect 4: HealOverTime base 1333
     - Effect 8: DamageShield base -80
     - Effect 9: ArmorClass base 260
-- Rank 6 (ID 5313) costs 5 AAs with effect: [Spell 11641](https://retributioneq.com/allaclone/?a=spell&id=11641) 18s range 200: 
+- Rank 6 (ID 5313) costs 5 AAs with effect: [Spell 11641](https://retributioneq.com/allaclone/?a=spell&id=11641) 18s range 200:
 
     - Effect 1: CurrentHPOnce base 3000
     - Effect 4: HealOverTime base 1500
@@ -3768,15 +3769,15 @@ This passive ability will increase the chance that your companion has to execute
 This ability grants you an Eagle Strike attack with a chance to reduce the movement speed of the target. Ranks in this ability can increase the potency of the snare effect, or the damage, or both. This ability can not be used at the same time as Stunning Kick or Eye Gouge.
 
 Ability ID: 468 has 3 ranks and costs 15 total  with a recast time of 30 seconds
-- Rank 1 (ID 1352) costs 0 AAs with effect: [Spell 6067](https://retributioneq.com/allaclone/?a=spell&id=6067) 48s range 50: 
+- Rank 1 (ID 1352) costs 0 AAs with effect: [Spell 6067](https://retributioneq.com/allaclone/?a=spell&id=6067) 48s range 50:
 
     - Effect 1: SkillAttack base 25 limit 10000 max 50
     - Effect 2: MovementSpeed base -25
-- Rank 2 (ID 1353) costs 6 AAs with effect: [Spell 6068](https://retributioneq.com/allaclone/?a=spell&id=6068) 54s range 50: 
+- Rank 2 (ID 1353) costs 6 AAs with effect: [Spell 6068](https://retributioneq.com/allaclone/?a=spell&id=6068) 54s range 50:
 
     - Effect 1: SkillAttack base 50 limit 10000 max 75
     - Effect 2: MovementSpeed base -35
-- Rank 3 (ID 1354) costs 9 AAs with effect: [Spell 6069](https://retributioneq.com/allaclone/?a=spell&id=6069) 60s range 50: 
+- Rank 3 (ID 1354) costs 9 AAs with effect: [Spell 6069](https://retributioneq.com/allaclone/?a=spell&id=6069) 60s range 50:
 
     - Effect 1: SkillAttack base 100 limit 10000 max 125
     - Effect 2: MovementSpeed base -45
@@ -3785,7 +3786,7 @@ Ability ID: 468 has 3 ranks and costs 15 total  with a recast time of 30 seconds
 (MNK)
 Each rank of this ability increases the chance to perform a superior mend.
 
-Ability ID: 97 has 6 ranks and costs 30 total 
+Ability ID: 97 has 6 ranks and costs 30 total
 - Rank 1 (ID 230) costs 3 AAs with effect: CriticalMend 10 (3.33 ratio)
 - Rank 2 (ID 231) costs 6 AAs with effect: CriticalMend 20 (1.67 ratio)
 - Rank 3 (ID 232) costs 9 AAs with effect: CriticalMend 30 (1.11 ratio)
@@ -3807,7 +3808,7 @@ Ability ID: 505 has 1 ranks and costs 12 total  with a recast time of 1800 secon
 While active, the wizard focuses his mastery over ice to cause any ice-based direct damage spell they cast to have a chance to cause the targeted creature to enter a cryogenic stasis, slowing their movement rate and becoming more susceptible to ice-based attacks. Additionally a small amount of damage is done to the creature and additional ranks increase this damage. Ranks 1 through 3 work on spells between level 1 and 75, Ranks 4 through 6 work on spells between level 1 and 80 and Ranks 7 through 12 work on spells between level 1 and 85. Ranks 13 through 15 work on spells between level 1 and 90. Ranks 16, 17, and 18 work on spells up to level 91, 93 and 95 respectively. Ranks 18, 19, and 20 work on levels 96, 98, and 100 respectively while increasing the proc chance as well as the damage inflicted.
 
 Ability ID: 640 has 3 ranks and costs 18 total  with a recast time of 1 seconds
-- Rank 1 (ID 4944) costs 3 AAs with effect: [Spell 11103](https://retributioneq.com/allaclone/?a=spell&id=11103): 
+- Rank 1 (ID 4944) costs 3 AAs with effect: [Spell 11103](https://retributioneq.com/allaclone/?a=spell&id=11103):
 
     - Effect 1: TriggerOnCast base 5 limit 11107
     - Effect 2: LimitSpellType
@@ -3815,7 +3816,7 @@ Ability ID: 640 has 3 ranks and costs 18 total  with a recast time of 1 seconds
     - Effect 6: LimitInstant base 1
     - Effect 7: LimitManaMin base 10
     - Effect 8: LimitTarget base -6
-- Rank 2 (ID 4945) costs 6 AAs with effect: [Spell 11104](https://retributioneq.com/allaclone/?a=spell&id=11104): 
+- Rank 2 (ID 4945) costs 6 AAs with effect: [Spell 11104](https://retributioneq.com/allaclone/?a=spell&id=11104):
 
     - Effect 1: TriggerOnCast base 10 limit 12817
     - Effect 2: LimitSpellType
@@ -3823,7 +3824,7 @@ Ability ID: 640 has 3 ranks and costs 18 total  with a recast time of 1 seconds
     - Effect 6: LimitInstant base 1
     - Effect 7: LimitManaMin base 10
     - Effect 8: LimitTarget base -6
-- Rank 3 (ID 4946) costs 9 AAs with effect: [Spell 11105](https://retributioneq.com/allaclone/?a=spell&id=11105): 
+- Rank 3 (ID 4946) costs 9 AAs with effect: [Spell 11105](https://retributioneq.com/allaclone/?a=spell&id=11105):
 
     - Effect 1: TriggerOnCast base 20 limit 12818
     - Effect 2: LimitSpellType
@@ -3837,17 +3838,17 @@ Ability ID: 640 has 3 ranks and costs 18 total  with a recast time of 1 seconds
 When activated, you begin a dance of whirling blades that greatly increases your chance to make the maximum number of attacks per round. Additionally you will have a chance to perform a bladewhirl attack on your opponent, reducing your opponents combat effectiveness and doing damage to your opponent. This bladewhirl is modified by percussion.
 
 Ability ID: 359 has 3 ranks and costs 15 total  with a recast time of 900 to 1020 seconds
-- Rank 1 (ID 1110) costs 0 AAs with effect: [Spell 5830](https://retributioneq.com/allaclone/?a=spell&id=5830) 60s: 
+- Rank 1 (ID 1110) costs 0 AAs with effect: [Spell 5830](https://retributioneq.com/allaclone/?a=spell&id=5830) 60s:
 
     - Effect 1: DualWieldChance base 100
     - Effect 2: DoubleAttackChance base 500
     - Effect 3: WeaponProc [Spell 13191](https://retributioneq.com/allaclone/?a=spell&id=13191) limit 100
-- Rank 2 (ID 1111) costs 6 AAs with effect: [Spell 5831](https://retributioneq.com/allaclone/?a=spell&id=5831) 60s: 
+- Rank 2 (ID 1111) costs 6 AAs with effect: [Spell 5831](https://retributioneq.com/allaclone/?a=spell&id=5831) 60s:
 
     - Effect 1: DualWieldChance base 100
     - Effect 2: DoubleAttackChance base 500
     - Effect 3: WeaponProc [Spell 13191](https://retributioneq.com/allaclone/?a=spell&id=13191) limit 200
-- Rank 3 (ID 1112) costs 9 AAs with effect: [Spell 5832](https://retributioneq.com/allaclone/?a=spell&id=5832) 60s: 
+- Rank 3 (ID 1112) costs 9 AAs with effect: [Spell 5832](https://retributioneq.com/allaclone/?a=spell&id=5832) 60s:
 
     - Effect 1: DualWieldChance base 100
     - Effect 2: DoubleAttackChance base 500
@@ -3857,14 +3858,14 @@ Ability ID: 359 has 3 ranks and costs 15 total  with a recast time of 900 to 102
 (WAR)
 This ability increases your stalwart endurance, making you always able to endure what would otherwise be a stunning blow, from any angle, without being stunned.
 
-Ability ID: 549 has 1 ranks and costs 12 total 
+Ability ID: 549 has 1 ranks and costs 12 total
 - Rank 1 (ID 1591) costs 12 AAs with effect: FrontalStunResist 25 (2.08 ratio)
 {{</details>}}
 {{<details title="Dead Aim (BER)">}}
 (BER)
 This ability increases the accuracy of your thrown weapons.
 
-Ability ID: 370 has 3 ranks and costs 9 total 
+Ability ID: 370 has 3 ranks and costs 9 total
 - Rank 1 (ID 1140) costs 3 AAs with effect: Accuracy 10 51 (3.33 ratio)
 - Rank 2 (ID 1141) costs 3 AAs with effect: Accuracy 20 51 (3.33 ratio)
 - Rank 3 (ID 1142) costs 3 AAs with effect: Accuracy 30 51 (3.33 ratio)
@@ -3884,7 +3885,7 @@ Ability ID: 69 has 1 ranks and costs 3 total  with a recast time of 900 seconds
 You embrace the spectre of death, trading your life for mana.
 
 Ability ID: 7703 has 1 ranks and costs 12 total  with a recast time of 300 seconds
-- Rank 1 (ID 7703) costs 12 AAs with effect: [Spell 21754](https://retributioneq.com/allaclone/?a=spell&id=21754) 60s range 100: 
+- Rank 1 (ID 7703) costs 12 AAs with effect: [Spell 21754](https://retributioneq.com/allaclone/?a=spell&id=21754) 60s range 100:
 
     - Effect 5: CurrentHP base -1000
     - Effect 6: CurrentMana base 600
@@ -3894,7 +3895,7 @@ Ability ID: 7703 has 1 ranks and costs 12 total  with a recast time of 300 secon
 This ability gives you an additional way to feign death.
 
 Ability ID: 428 has 1 ranks and costs 5 total  with a recast time of 5 seconds
-- Rank 1 (ID 1272) costs 5 AAs with effect: [Spell 5919](https://retributioneq.com/allaclone/?a=spell&id=5919): 
+- Rank 1 (ID 1272) costs 5 AAs with effect: [Spell 5919](https://retributioneq.com/allaclone/?a=spell&id=5919):
 
     - Effect 1: FeignDeath base 98
 {{</details>}}
@@ -3902,7 +3903,7 @@ Ability ID: 428 has 1 ranks and costs 5 total  with a recast time of 5 seconds
 (SHD NEC)
 This ability imbues your pet with the ability to land critical hits.
 
-Ability ID: 278 has 5 ranks and costs 15 total 
+Ability ID: 278 has 5 ranks and costs 15 total
 - Rank 1 (ID 834) costs 3 AAs with effect: PetCriticalHit 1 (0.33 ratio)
 - Rank 2 (ID 835) costs 3 AAs with effect: PetCriticalHit 2 (0.33 ratio)
 - Rank 3 (ID 836) costs 3 AAs with effect: PetCriticalHit 3 (0.33 ratio)
@@ -3913,7 +3914,7 @@ Ability ID: 278 has 5 ranks and costs 15 total
 (NEC)
 Increases the critical hit chance of your pet's melee attacks by 1% per rank.
 
-Ability ID: 665 has 5 ranks and costs 15 total 
+Ability ID: 665 has 5 ranks and costs 15 total
 - Rank 1 (ID 5264) costs 3 AAs with effect: PetCriticalHit 1 (0.33 ratio)
 - Rank 2 (ID 5265) costs 3 AAs with effect: PetCriticalHit 2 (0.33 ratio)
 - Rank 3 (ID 5266) costs 3 AAs with effect: PetCriticalHit 3 (0.33 ratio)
@@ -3924,7 +3925,7 @@ Ability ID: 665 has 5 ranks and costs 15 total
 (ENC)
 This ability gives you an innate chance to put an NPC into a deep sleep when you mesmerize it.  An NPC under the effects of a deep sleep will suffer offensive penalties for 2 minutes after the spell was initially cast.  Additional ranks increase the effectiveness of the ability and the chance for it to occur.
 
-Ability ID: 545 has 5 ranks and costs 25 total 
+Ability ID: 545 has 5 ranks and costs 25 total
 - Rank 1 (ID 1572) costs 5 AAs with effect:
     - Effect 1: TriggerOnCast 200 200 (40.00 ratio)
 
@@ -3976,7 +3977,7 @@ Ability ID: 545 has 5 ranks and costs 25 total
 Use of this ability causes the berserker's attacks to take on a desperate edge.  As the berserker gets closer to death, they will attack faster.
 
 Ability ID: 373 has 1 ranks and costs 12 total  with a recast time of 600 seconds
-- Rank 1 (ID 1149) costs 12 AAs with effect: [Spell 5853](https://retributioneq.com/allaclone/?a=spell&id=5853) 300s: 
+- Rank 1 (ID 1149) costs 12 AAs with effect: [Spell 5853](https://retributioneq.com/allaclone/?a=spell&id=5853) 300s:
 
     - Effect 1: AttackSpeed3 base 50
 {{</details>}}
@@ -3984,7 +3985,7 @@ Ability ID: 373 has 1 ranks and costs 12 total  with a recast time of 600 second
 (DRU SHM NEC ENC)
 This ability increases the power of any critical hits your damage over time spells will do to your enemy. Each rank increases the power of your critical damage.
 
-Ability ID: 3815 has 3 ranks and costs 12 total 
+Ability ID: 3815 has 3 ranks and costs 12 total
 - Rank 1 (ID 6375) costs 0 AAs with effect: DotCritDmgIncrease 120 (+Inf ratio)
 - Rank 2 (ID 6376) costs 6 AAs with effect: DotCritDmgIncrease 130 (1.67 ratio)
 - Rank 3 (ID 6377) costs 6 AAs with effect: DotCritDmgIncrease 140 (1.67 ratio)
@@ -4043,16 +4044,16 @@ Ability ID: 317 has 1 ranks and costs 9 total  with a recast time of 900 seconds
 {{</details>}}
 {{<details title="Dirty Fighting (ROG)">}}
 (ROG)
-While this ability is active, you periodically attempt to throw dirt into your opponent's eyes. If successful, your opponent will be temporarily blinded and will be less able to make accurate attacks. Each rank in this ability increases the chance that you will be able to find an opening to throw dirt in your opponent's eyes. 
+While this ability is active, you periodically attempt to throw dirt into your opponent's eyes. If successful, your opponent will be temporarily blinded and will be less able to make accurate attacks. Each rank in this ability increases the chance that you will be able to find an opening to throw dirt in your opponent's eyes.
 
 Ability ID: 671 has 3 ranks and costs 18 total  with a recast time of 600 seconds
-- Rank 1 (ID 5022) costs 3 AAs with effect: [Spell 11247](https://retributioneq.com/allaclone/?a=spell&id=11247) 60s: 
+- Rank 1 (ID 5022) costs 3 AAs with effect: [Spell 11247](https://retributioneq.com/allaclone/?a=spell&id=11247) 60s:
 
     - Effect 1: WeaponProc [Spell 11250](https://retributioneq.com/allaclone/?a=spell&id=11250) limit 200
-- Rank 2 (ID 5023) costs 6 AAs with effect: [Spell 23986](https://retributioneq.com/allaclone/?a=spell&id=23986) 60s: 
+- Rank 2 (ID 5023) costs 6 AAs with effect: [Spell 23986](https://retributioneq.com/allaclone/?a=spell&id=23986) 60s:
 
     - Effect 1: WeaponProc [Spell 23991](https://retributioneq.com/allaclone/?a=spell&id=23991) limit 200
-- Rank 3 (ID 5024) costs 9 AAs with effect: [Spell 23987](https://retributioneq.com/allaclone/?a=spell&id=23987) 60s: 
+- Rank 3 (ID 5024) costs 9 AAs with effect: [Spell 23987](https://retributioneq.com/allaclone/?a=spell&id=23987) 60s:
 
     - Effect 1: WeaponProc [Spell 23992](https://retributioneq.com/allaclone/?a=spell&id=23992) limit 200
 {{</details>}}
@@ -4061,13 +4062,13 @@ Ability ID: 671 has 3 ranks and costs 18 total  with a recast time of 600 second
 This ability provides you with a chance to do an attack to your opponent that will leave them confused and less angry with you. Additional ranks increase the power of the effect.
 
 Ability ID: 962 has 3 ranks and costs 21 total  with a recast time of 600 seconds
-- Rank 1 (ID 6932) costs 7 AAs with effect: [Spell 16158](https://retributioneq.com/allaclone/?a=spell&id=16158) 120s range 100: 
+- Rank 1 (ID 6932) costs 7 AAs with effect: [Spell 16158](https://retributioneq.com/allaclone/?a=spell&id=16158) 120s range 100:
 
     - Effect 4: WeaponProc [Spell 16161](https://retributioneq.com/allaclone/?a=spell&id=16161)
-- Rank 2 (ID 6933) costs 7 AAs with effect: [Spell 16159](https://retributioneq.com/allaclone/?a=spell&id=16159) 120s range 100: 
+- Rank 2 (ID 6933) costs 7 AAs with effect: [Spell 16159](https://retributioneq.com/allaclone/?a=spell&id=16159) 120s range 100:
 
     - Effect 4: WeaponProc [Spell 16162](https://retributioneq.com/allaclone/?a=spell&id=16162)
-- Rank 3 (ID 6934) costs 7 AAs with effect: [Spell 16160](https://retributioneq.com/allaclone/?a=spell&id=16160) 120s range 100: 
+- Rank 3 (ID 6934) costs 7 AAs with effect: [Spell 16160](https://retributioneq.com/allaclone/?a=spell&id=16160) 120s range 100:
 
     - Effect 4: WeaponProc [Spell 16163](https://retributioneq.com/allaclone/?a=spell&id=16163)
 {{</details>}}
@@ -4109,19 +4110,19 @@ Ability ID: 254 has 6 ranks and costs 33 total  with a recast time of 600 second
     - Effect 3: DamageModifier base 100 limit -1
     - Effect 4: ProcChance base 100
     - Effect 5: HealOverTime base 100
-- Rank 4 (ID 1491) costs 3 AAs with effect: [Spell 8156](https://retributioneq.com/allaclone/?a=spell&id=8156) 180s range 100: 
+- Rank 4 (ID 1491) costs 3 AAs with effect: [Spell 8156](https://retributioneq.com/allaclone/?a=spell&id=8156) 180s range 100:
 
     - Effect 2: HundredHands base -150 limit -1
     - Effect 3: DamageModifier base 125 limit -1
     - Effect 4: ProcChance base 125
     - Effect 5: HealOverTime base 125
-- Rank 5 (ID 1492) costs 6 AAs with effect: [Spell 8157](https://retributioneq.com/allaclone/?a=spell&id=8157) 180s range 100: 
+- Rank 5 (ID 1492) costs 6 AAs with effect: [Spell 8157](https://retributioneq.com/allaclone/?a=spell&id=8157) 180s range 100:
 
     - Effect 2: HundredHands base -175 limit -1
     - Effect 3: DamageModifier base 150 limit -1
     - Effect 4: ProcChance base 150
     - Effect 5: HealOverTime base 150
-- Rank 6 (ID 1493) costs 9 AAs with effect: [Spell 8158](https://retributioneq.com/allaclone/?a=spell&id=8158) 180s range 100: 
+- Rank 6 (ID 1493) costs 9 AAs with effect: [Spell 8158](https://retributioneq.com/allaclone/?a=spell&id=8158) 180s range 100:
 
     - Effect 2: HundredHands base -200 limit -1
     - Effect 3: DamageModifier base 175 limit -1
@@ -4142,10 +4143,10 @@ Ability ID: 36 has 1 ranks and costs 5 total  with a recast time of 3600 seconds
 While this ability is active, any creature attacking the cleric has a chance to be stunned in retribution. The nine ranks affect creatures up to level 70, 75, 83, 88, 88, 93, 99, 101, and 103, respectively. From rank 3, has a chance to bestow a Divine Blessing and Favor on the cleric when a Divine Retribution occurs.  Higher ranks decrease the likelihood of the creature resisting the effect, increase hate reduced, and improve the healing and protective yield of the Divine Blessing and Favor.
 
 Ability ID: 392 has 2 ranks and costs 21 total  with a recast time of 2160 seconds
-- Rank 1 (ID 1195) costs 12 AAs with effect: [Spell 5866](https://retributioneq.com/allaclone/?a=spell&id=5866) 90s: 
+- Rank 1 (ID 1195) costs 12 AAs with effect: [Spell 5866](https://retributioneq.com/allaclone/?a=spell&id=5866) 90s:
 
     - Effect 1: DefensiveProc base 5987 limit 300
-- Rank 2 (ID 5079) costs 9 AAs with effect: [Spell 11291](https://retributioneq.com/allaclone/?a=spell&id=11291) 90s: 
+- Rank 2 (ID 5079) costs 9 AAs with effect: [Spell 11291](https://retributioneq.com/allaclone/?a=spell&id=11291) 90s:
 
     - Effect 1: DefensiveProc base 11292 limit 300
 {{</details>}}
@@ -4157,10 +4158,10 @@ Ability ID: 73 has 3 ranks and costs 18 total  with a recast time of 30 seconds
 - Rank 1 (ID 188) costs 0 AAs with effect: [Spell 2190](https://retributioneq.com/allaclone/?a=spell&id=2190) range 200
 
     - Effect 1: Stun base 2000 limit 1000 max 70
-- Rank 2 (ID 1277) costs 9 AAs with effect: [Spell 5924](https://retributioneq.com/allaclone/?a=spell&id=5924) range 200: 
+- Rank 2 (ID 1277) costs 9 AAs with effect: [Spell 5924](https://retributioneq.com/allaclone/?a=spell&id=5924) range 200:
 
     - Effect 1: Stun base 2000 limit 2000 max 75
-- Rank 3 (ID 5044) costs 9 AAs with effect: [Spell 11258](https://retributioneq.com/allaclone/?a=spell&id=11258) range 200: 
+- Rank 3 (ID 5044) costs 9 AAs with effect: [Spell 11258](https://retributioneq.com/allaclone/?a=spell&id=11258) range 200:
 
     - Effect 1: Stun base 2000 limit 2000 max 80
 {{</details>}}
@@ -4198,7 +4199,7 @@ Ability ID: 261 has 3 ranks and costs 30 total  with a recast time of 1000 to 12
 (ENC)
 Each rank of this ability shortens the reuse timer of your Doppelganger ability by 5 minutes.
 
-Ability ID: 617 has 3 ranks and costs 9 total 
+Ability ID: 617 has 3 ranks and costs 9 total
 - Rank 1 (ID 5127) costs 3 AAs with effect: HastenedAASkill 300 261 (100.00 ratio)
 - Rank 2 (ID 5128) costs 3 AAs with effect: HastenedAASkill 600 261 (100.00 ratio)
 - Rank 3 (ID 5129) costs 3 AAs with effect: HastenedAASkill 900 261 (100.00 ratio)
@@ -4207,7 +4208,7 @@ Ability ID: 617 has 3 ranks and costs 9 total
 (MNK)
 This ability augments Dragon Punch for human and drakkin monks and Tail Rake for iksars with the chance to automatically perform a Knockback.
 
-Ability ID: 116 has 1 ranks and costs 5 total 
+Ability ID: 116 has 1 ranks and costs 5 total
 - Rank 1 (ID 273) costs 5 AAs with effect: [Spell 2767](https://retributioneq.com/allaclone/?a=spell&id=2767) range 200
 
     - Effect 1: CurrentHP base -10
@@ -4230,7 +4231,7 @@ Ability ID: 305 has 3 ranks and costs 33 total  with a recast time of 60 seconds
     - Effect 10: SeeInvis base 1
     - Effect 11: ManaPool base 300
     - Effect 12: LimitCombatSkills
-- Rank 2 (ID 1342) costs 12 AAs with effect: [Spell 5952](https://retributioneq.com/allaclone/?a=spell&id=5952) range 100: 
+- Rank 2 (ID 1342) costs 12 AAs with effect: [Spell 5952](https://retributioneq.com/allaclone/?a=spell&id=5952) range 100:
 
     - Effect 1: ImprovedDamage base 1 limit 25
     - Effect 2: Familiar
@@ -4244,7 +4245,7 @@ Ability ID: 305 has 3 ranks and costs 33 total  with a recast time of 60 seconds
     - Effect 10: LimitCombatSkills
     - Effect 11: ManaPool base 350
     - Effect 12: CurrentMana base 2
-- Rank 3 (ID 5282) costs 9 AAs with effect: [Spell 11627](https://retributioneq.com/allaclone/?a=spell&id=11627) range 100: 
+- Rank 3 (ID 5282) costs 9 AAs with effect: [Spell 11627](https://retributioneq.com/allaclone/?a=spell&id=11627) range 100:
 
     - Effect 1: ImprovedDamage base 1 limit 30
     - Effect 2: Familiar
@@ -4277,7 +4278,7 @@ Ability ID: 304 has 3 ranks and costs 33 total  with a recast time of 60 seconds
     - Effect 10: SeeInvis base 1
     - Effect 11: ManaPool base 300
     - Effect 12: LimitCombatSkills
-- Rank 2 (ID 1341) costs 12 AAs with effect: [Spell 5951](https://retributioneq.com/allaclone/?a=spell&id=5951) range 100: 
+- Rank 2 (ID 1341) costs 12 AAs with effect: [Spell 5951](https://retributioneq.com/allaclone/?a=spell&id=5951) range 100:
 
     - Effect 1: ImprovedDamage base 1 limit 25
     - Effect 2: Familiar
@@ -4291,7 +4292,7 @@ Ability ID: 304 has 3 ranks and costs 33 total  with a recast time of 60 seconds
     - Effect 10: LimitCombatSkills
     - Effect 11: ManaPool base 350
     - Effect 12: CurrentMana base 2
-- Rank 3 (ID 5281) costs 9 AAs with effect: [Spell 11626](https://retributioneq.com/allaclone/?a=spell&id=11626) range 100: 
+- Rank 3 (ID 5281) costs 9 AAs with effect: [Spell 11626](https://retributioneq.com/allaclone/?a=spell&id=11626) range 100:
 
     - Effect 1: ImprovedDamage base 1 limit 30
     - Effect 2: Familiar
@@ -4310,7 +4311,7 @@ Ability ID: 304 has 3 ranks and costs 33 total  with a recast time of 60 seconds
 (BER)
 This ability increases the duration of war cry effects by 25, 50, and 100 percent.
 
-Ability ID: 375 has 3 ranks and costs 18 total 
+Ability ID: 375 has 3 ranks and costs 18 total
 - Rank 1 (ID 1155) costs 3 AAs with effect:
     - Effect 1: IncreaseSpellDuration 25 (8.33 ratio)
 
@@ -4404,10 +4405,10 @@ Ability ID: 375 has 3 ranks and costs 18 total
 This ability will bind an NPC to your will, charming them until the spell wears off.  This ability works on NPCs up to the level you must be before you can purchase each rank.  Rank 1 will keep the NPC charmed for 2 minutes, rank 2 for 4 minutes and rank 3 and beyond for 6 minutes.
 
 Ability ID: 521 has 3 ranks and costs 18 total  with a recast time of 4320 seconds
-- Rank 1 (ID 1501) costs 3 AAs with effect: [Spell 8196](https://retributioneq.com/allaclone/?a=spell&id=8196) 120s range 200: 
+- Rank 1 (ID 1501) costs 3 AAs with effect: [Spell 8196](https://retributioneq.com/allaclone/?a=spell&id=8196) 120s range 200:
 
     - Effect 1: Charm base 16 max 70
-- Rank 2 (ID 1502) costs 6 AAs with effect: [Spell 8197](https://retributioneq.com/allaclone/?a=spell&id=8197) 240s range 200: 
+- Rank 2 (ID 1502) costs 6 AAs with effect: [Spell 8197](https://retributioneq.com/allaclone/?a=spell&id=8197) 240s range 200:
 
     - Effect 1: Charm base 16 max 70
 - Rank 3 (ID 1503) costs 9 AAs with effect: [Spell 8198](https://retributioneq.com/allaclone/?a=spell&id=8198) 360s range 200: This passive ability will allow the critical strikes that you do with weapons to deal additional damage in the form of stronger critical hits. Additional ranks increase the power of your critical hits with items.
@@ -4428,27 +4429,27 @@ Ability ID: 173 has 8 ranks and costs 34 total  with a recast time of 600 second
 - Rank 3 (ID 519) costs 3 AAs with effect: [Spell 3260](https://retributioneq.com/allaclone/?a=spell&id=3260) 2160s range 200
 
     - Effect 3: Rune base 1500 max 1500
-- Rank 4 (ID 1440) costs 5 AAs with effect: [Spell 8109](https://retributioneq.com/allaclone/?a=spell&id=8109) 2160s range 200: 
+- Rank 4 (ID 1440) costs 5 AAs with effect: [Spell 8109](https://retributioneq.com/allaclone/?a=spell&id=8109) 2160s range 200:
 
     - Effect 3: Rune base 1800
-- Rank 5 (ID 1441) costs 5 AAs with effect: [Spell 8110](https://retributioneq.com/allaclone/?a=spell&id=8110) 2160s range 200: 
+- Rank 5 (ID 1441) costs 5 AAs with effect: [Spell 8110](https://retributioneq.com/allaclone/?a=spell&id=8110) 2160s range 200:
 
     - Effect 3: Rune base 2100
-- Rank 6 (ID 1442) costs 5 AAs with effect: [Spell 8111](https://retributioneq.com/allaclone/?a=spell&id=8111) 2160s range 200: 
+- Rank 6 (ID 1442) costs 5 AAs with effect: [Spell 8111](https://retributioneq.com/allaclone/?a=spell&id=8111) 2160s range 200:
 
     - Effect 3: Rune base 2400
-- Rank 7 (ID 1443) costs 5 AAs with effect: [Spell 8112](https://retributioneq.com/allaclone/?a=spell&id=8112) 2160s range 200: 
+- Rank 7 (ID 1443) costs 5 AAs with effect: [Spell 8112](https://retributioneq.com/allaclone/?a=spell&id=8112) 2160s range 200:
 
     - Effect 3: Rune base 2700
-- Rank 8 (ID 1444) costs 5 AAs with effect: [Spell 8113](https://retributioneq.com/allaclone/?a=spell&id=8113) 2160s range 200: 
+- Rank 8 (ID 1444) costs 5 AAs with effect: [Spell 8113](https://retributioneq.com/allaclone/?a=spell&id=8113) 2160s range 200:
 
     - Effect 3: Rune base 3000
 {{</details>}}
 {{<details title="Elemental Agility (MAG)">}}
 (MAG)
-This ability increases your elemental's ability to avoid melee damage. 
+This ability increases your elemental's ability to avoid melee damage.
 
-Ability ID: 268 has 3 ranks and costs 18 total 
+Ability ID: 268 has 3 ranks and costs 18 total
 - Rank 1 (ID 800) costs 3 AAs with effect: PetAvoidance 2 (0.67 ratio)
 - Rank 2 (ID 801) costs 6 AAs with effect: PetAvoidance 5 (0.50 ratio)
 - Rank 3 (ID 802) costs 9 AAs with effect: PetAvoidance 10 (0.56 ratio)
@@ -4457,7 +4458,7 @@ Ability ID: 268 has 3 ranks and costs 18 total
 (MAG)
 This ability imbues summoned elementals with the ability to flurry attacks.  Additional ranks in this ability increase your elemental's chance to flurry.
 
-Ability ID: 267 has 11 ranks and costs 61 total 
+Ability ID: 267 has 11 ranks and costs 61 total
 - Rank 1 (ID 795) costs 5 AAs with effect: PetFlurry 4 (0.80 ratio)
 - Rank 2 (ID 796) costs 5 AAs with effect: PetFlurry 8 (0.80 ratio)
 - Rank 3 (ID 797) costs 5 AAs with effect: PetFlurry 12 (0.80 ratio)
@@ -4474,7 +4475,7 @@ Ability ID: 267 has 11 ranks and costs 61 total
 (MAG)
 This ability increases the maximum hit points of your elementals by 2, 5, and 10 percent. The percentage is based on the elemental's base hit points.
 
-Ability ID: 269 has 3 ranks and costs 18 total 
+Ability ID: 269 has 3 ranks and costs 18 total
 - Rank 1 (ID 803) costs 3 AAs with effect: PetMaxHP 2 (0.67 ratio)
 - Rank 2 (ID 804) costs 6 AAs with effect: PetMaxHP 5 (0.50 ratio)
 - Rank 3 (ID 805) costs 9 AAs with effect: PetMaxHP 10 (0.56 ratio)
@@ -4576,7 +4577,7 @@ Ability ID: 62 has 3 ranks and costs 18 total  with a recast time of 10 seconds
 (MAG)
 Each rank of this ability increases the critical hit chance of your pet's melee attacks.
 
-Ability ID: 266 has 10 ranks and costs 27 total 
+Ability ID: 266 has 10 ranks and costs 27 total
 - Rank 1 (ID 790) costs 0 AAs with effect: PetCriticalHit 1 (+Inf ratio)
 - Rank 2 (ID 791) costs 3 AAs with effect: PetCriticalHit 2 (0.33 ratio)
 - Rank 3 (ID 792) costs 3 AAs with effect: PetCriticalHit 3 (0.33 ratio)
@@ -4592,7 +4593,7 @@ Ability ID: 266 has 10 ranks and costs 27 total
 (MAG)
 This ability will prevent components used in the summoning of pets from being expended.
 
-Ability ID: 67 has 1 ranks and costs 5 total 
+Ability ID: 67 has 1 ranks and costs 5 total
 - Rank 1 (ID 182) costs 5 AAs with effect:
     - Effect 1: ReduceReagentCost 100 (20.00 ratio)
 
@@ -4604,7 +4605,7 @@ Ability ID: 67 has 1 ranks and costs 5 total
 This ability provides a darkness snare ability that does not do damage to your target.
 
 Ability ID: 826 has 1 ranks and costs 6 total  with a recast time of 2 seconds
-- Rank 1 (ID 6646) costs 6 AAs with effect: [Spell 16106](https://retributioneq.com/allaclone/?a=spell&id=16106) 120s range 200: 
+- Rank 1 (ID 6646) costs 6 AAs with effect: [Spell 16106](https://retributioneq.com/allaclone/?a=spell&id=16106) 120s range 200:
 
     - Effect 2: MovementSpeed base -50 limit 1 max 80
 {{</details>}}
@@ -4612,7 +4613,7 @@ Ability ID: 826 has 1 ranks and costs 6 total  with a recast time of 2 seconds
 (ENC)
 This ability increases the chance that you'll be successful with blurring the memories of your enemies.
 
-Ability ID: 262 has 5 ranks and costs 15 total 
+Ability ID: 262 has 5 ranks and costs 15 total
 - Rank 1 (ID 776) costs 3 AAs with effect: IncreaseChanceMemwipe 10 (3.33 ratio)
 - Rank 2 (ID 777) costs 3 AAs with effect: IncreaseChanceMemwipe 20 (3.33 ratio)
 - Rank 3 (ID 778) costs 3 AAs with effect: IncreaseChanceMemwipe 30 (3.33 ratio)
@@ -4623,7 +4624,7 @@ Ability ID: 262 has 5 ranks and costs 15 total
 (DRU)
 This ability reduces the chance that a rooted NPC will be freed by your damage spells by 50 percent.
 
-Ability ID: 45 has 1 ranks and costs 5 total 
+Ability ID: 45 has 1 ranks and costs 5 total
 - Rank 1 (ID 144) costs 5 AAs with effect:  50 (10.00 ratio)
 {{</details>}}
 {{<details title="Envenomed Blades (ROG)">}}
@@ -4648,7 +4649,7 @@ Ability ID: 102 has 1 ranks and costs 9 total  with a recast time of 1440 second
 (BER)
 This passive ability enhances your Frenzy based attacks, increasing their damage. Each rank increases the damage slightly.
 
-Ability ID: 1281 has 1 ranks and costs 9 total 
+Ability ID: 1281 has 1 ranks and costs 9 total
 - Rank 1 (ID 15648) costs 9 AAs with effect: DamageModifier 35 74 (3.89 ratio)
 {{</details>}}
 {{<details title="Exodus (DRU WIZ)">}}
@@ -4656,7 +4657,7 @@ Ability ID: 1281 has 1 ranks and costs 9 total
 This ability gives you the ability to cast an extremely fast-casting, no mana cost evacuation or succor spell.
 
 Ability ID: 43 has 1 ranks and costs 6 total  with a recast time of 1800 seconds
-- Rank 1 (ID 140) costs 6 AAs with effect: [Spell 2771](https://retributioneq.com/allaclone/?a=spell&id=2771): 
+- Rank 1 (ID 140) costs 6 AAs with effect: [Spell 2771](https://retributioneq.com/allaclone/?a=spell&id=2771):
 
     - Effect 2: Succor base -1
 {{</details>}}
@@ -4680,13 +4681,13 @@ Ability ID: 255 has 8 ranks and costs 40 total  with a recast time of 900 second
 - Rank 5 (ID 753) costs 5 AAs with effect: [Spell 4794](https://retributioneq.com/allaclone/?a=spell&id=4794)
 
     - Effect 1: TemporaryPets base 1 max 300
-- Rank 6 (ID 1206) costs 5 AAs with effect: [Spell 5871](https://retributioneq.com/allaclone/?a=spell&id=5871): 
+- Rank 6 (ID 1206) costs 5 AAs with effect: [Spell 5871](https://retributioneq.com/allaclone/?a=spell&id=5871):
 
     - Effect 1: TemporaryPets base 1 max 300
-- Rank 7 (ID 1207) costs 5 AAs with effect: [Spell 5872](https://retributioneq.com/allaclone/?a=spell&id=5872): 
+- Rank 7 (ID 1207) costs 5 AAs with effect: [Spell 5872](https://retributioneq.com/allaclone/?a=spell&id=5872):
 
     - Effect 1: TemporaryPets base 1 max 300
-- Rank 8 (ID 1208) costs 5 AAs with effect: [Spell 5873](https://retributioneq.com/allaclone/?a=spell&id=5873): 
+- Rank 8 (ID 1208) costs 5 AAs with effect: [Spell 5873](https://retributioneq.com/allaclone/?a=spell&id=5873):
 
     - Effect 1: TemporaryPets base 1 max 300
 {{</details>}}
@@ -4694,7 +4695,7 @@ Ability ID: 255 has 8 ranks and costs 40 total  with a recast time of 900 second
 (MAG)
 This ability increases the duration of your Frenzied Burnouts by 12 seconds per rank.
 
-Ability ID: 522 has 3 ranks and costs 15 total 
+Ability ID: 522 has 3 ranks and costs 15 total
 - Rank 1 (ID 1504) costs 5 AAs with effect:
     - Effect 1: SpellDurationIncByTic 2 (0.40 ratio)
 
@@ -4715,7 +4716,7 @@ Ability ID: 522 has 3 ranks and costs 15 total
 (SHM)
 This passive ability extends the duration of your Languid Bite ability by 1 tick per rank.
 
-Ability ID: 8332 has 1 ranks and costs 7 total 
+Ability ID: 8332 has 1 ranks and costs 7 total
 - Rank 1 (ID 8332) costs 7 AAs with effect:
     - Effect 1: SpellDurationIncByTic 1 (0.14 ratio)
 
@@ -4726,7 +4727,7 @@ Ability ID: 8332 has 1 ranks and costs 7 total
 (BRD)
 Each rank of this ability increases the range of your songs.  Rank 1 increases it by 10%, rank 2 by 15%, rank 3 by 25%, rank 4 by 30%, rank 5 by 35%, and rank 6 by 40%.
 
-Ability ID: 227 has 6 ranks and costs 24 total 
+Ability ID: 227 has 6 ranks and costs 24 total
 - Rank 1 (ID 665) costs 3 AAs with effect: BardSongRange 10 (3.33 ratio)
 - Rank 2 (ID 666) costs 6 AAs with effect: BardSongRange 15 (0.83 ratio)
 - Rank 3 (ID 667) costs 9 AAs with effect: BardSongRange 25 (1.11 ratio)
@@ -4738,7 +4739,7 @@ Ability ID: 227 has 6 ranks and costs 24 total
 (WAR)
 Each rank in this ability increases the range of your shielding ability.
 
-Ability ID: 302 has 3 ranks and costs 18 total 
+Ability ID: 302 has 3 ranks and costs 18 total
 - Rank 1 (ID 918) costs 3 AAs with effect: ExtendedShielding 2 (0.67 ratio)
 - Rank 2 (ID 919) costs 6 AAs with effect: ExtendedShielding 4 (0.33 ratio)
 - Rank 3 (ID 920) costs 9 AAs with effect: ExtendedShielding 6 (0.22 ratio)
@@ -4748,15 +4749,15 @@ Ability ID: 302 has 3 ranks and costs 18 total
 This ability grants you a Tiger Claw attack with a chance to gouge the eyes of the target, reducing its ability to attack. Ranks in this ability increase the potency of the blinding. This ability cannot be used at the same time as Crippling Strike or Stunning Kick.
 
 Ability ID: 470 has 3 ranks and costs 18 total  with a recast time of 60 seconds
-- Rank 1 (ID 1358) costs 3 AAs with effect: [Spell 6073](https://retributioneq.com/allaclone/?a=spell&id=6073) 12s range 50: 
+- Rank 1 (ID 1358) costs 3 AAs with effect: [Spell 6073](https://retributioneq.com/allaclone/?a=spell&id=6073) 12s range 50:
 
     - Effect 1: SkillAttack base 11 limit 10000 max 8
     - Effect 6: ATK base -30
-- Rank 2 (ID 1359) costs 6 AAs with effect: [Spell 6074](https://retributioneq.com/allaclone/?a=spell&id=6074) 12s range 50: 
+- Rank 2 (ID 1359) costs 6 AAs with effect: [Spell 6074](https://retributioneq.com/allaclone/?a=spell&id=6074) 12s range 50:
 
     - Effect 1: SkillAttack base 41 limit 10000 max 29
     - Effect 6: ATK base -60
-- Rank 3 (ID 1360) costs 9 AAs with effect: [Spell 6075](https://retributioneq.com/allaclone/?a=spell&id=6075) 12s range 50: 
+- Rank 3 (ID 1360) costs 9 AAs with effect: [Spell 6075](https://retributioneq.com/allaclone/?a=spell&id=6075) 12s range 50:
 
     - Effect 1: SkillAttack base 71 limit 10000 max 50
     - Effect 6: ATK base -90
@@ -4766,7 +4767,7 @@ Ability ID: 470 has 3 ranks and costs 18 total  with a recast time of 60 seconds
 Allows you to cast an AE low resist fear spell.
 
 Ability ID: 70 has 1 ranks and costs 5 total  with a recast time of 900 seconds
-- Rank 1 (ID 185) costs 5 AAs with effect: [Spell 2757](https://retributioneq.com/allaclone/?a=spell&id=2757) 36s range 200: 
+- Rank 1 (ID 185) costs 5 AAs with effect: [Spell 2757](https://retributioneq.com/allaclone/?a=spell&id=2757) 36s range 200:
 
     - Effect 1: Fear base 2 max 52
 {{</details>}}
@@ -4774,14 +4775,14 @@ Ability ID: 70 has 1 ranks and costs 5 total  with a recast time of 900 seconds
 (WAR PAL SHD)
 This ability will make you permanently immune to fear spells.
 
-Ability ID: 78 has 1 ranks and costs 6 total 
+Ability ID: 78 has 1 ranks and costs 6 total
 - Rank 1 (ID 195) costs 6 AAs with effect: ResistFearChance 100 (16.67 ratio)
 {{</details>}}
 {{<details title="Feigned Minion (NEC)">}}
 (NEC)
 This ability allows you to instruct your pet to feign death via the '/pet feign' command.  Three ranks of this skill are available, causing your pet to succeed 25%, 50%, and 75% of the time, respectively.  You gain the ability to train an additional rank at levels 61, 63, and 65.
 
-Ability ID: 193 has 3 ranks and costs 9 total 
+Ability ID: 193 has 3 ranks and costs 9 total
 - Rank 1 (ID 574) costs 3 AAs with effect: FeignedMinion 25 (8.33 ratio)
 - Rank 2 (ID 575) costs 3 AAs with effect: FeignedMinion 50 (8.33 ratio)
 - Rank 3 (ID 576) costs 3 AAs with effect: FeignedMinion 75 (8.33 ratio)
@@ -4802,7 +4803,7 @@ Ability ID: 247 has 2 ranks and costs 9 total  with a recast time of 30 seconds
 (PAL)
 This ability decreases the amount of time required between uses of Lay Hands. Each rank of this ability reduces the time between uses of Lay on Hands by 12 minutes. You gain the ability to train an additional rank at levels 61, 63, 65, and 76.
 
-Ability ID: 200 has 3 ranks and costs 9 total 
+Ability ID: 200 has 3 ranks and costs 9 total
 - Rank 1 (ID 593) costs 3 AAs with effect:
     - Effect 1: HastenedAASkill 720 720 (240.00 ratio)
 
@@ -4823,7 +4824,7 @@ Ability ID: 200 has 3 ranks and costs 9 total
 (WAR BER)
 This ability further increases the amount of healing provided by a single bandage while binding wounds.
 
-Ability ID: 496 has 5 ranks and costs 15 total 
+Ability ID: 496 has 5 ranks and costs 15 total
 - Rank 1 (ID 1611) costs 3 AAs with effect: ImprovedBindWound 20 (6.67 ratio)
 - Rank 2 (ID 1612) costs 3 AAs with effect: ImprovedBindWound 40 (6.67 ratio)
 - Rank 3 (ID 1613) costs 3 AAs with effect: ImprovedBindWound 60 (6.67 ratio)
@@ -4835,7 +4836,7 @@ Ability ID: 496 has 5 ranks and costs 15 total
 This ability allows you to absorb the pure essence of elemental fire into your soul.  While this ability is active, your fire-based spells will benefit from enhanced damage.  The effects of this ability last slightly longer than Heart of Flames. Each rank raises both the minimum and maximum damage bonus granted.
 
 Ability ID: 621 has 1 ranks and costs 9 total  with a recast time of 900 seconds
-- Rank 1 (ID 4903) costs 9 AAs with effect: [Spell 11064](https://retributioneq.com/allaclone/?a=spell&id=11064) 120s: 
+- Rank 1 (ID 4903) costs 9 AAs with effect: [Spell 11064](https://retributioneq.com/allaclone/?a=spell&id=11064) 120s:
 
     - Effect 1: ImprovedDamage base 1 limit 50
     - Effect 2: LimitMaxLevel base 75
@@ -4870,7 +4871,7 @@ Ability ID: 289 has 3 ranks and costs 18 total  with a recast time of 180 second
 (BRD)
 This ability allows Bards to run at previously unheard of speeds.  You may train in this ability at or after levels 62 and 64.
 
-Ability ID: 211 has 2 ranks and costs 6 total 
+Ability ID: 211 has 2 ranks and costs 6 total
 - Rank 1 (ID 628) costs 2 AAs with effect: IncreaseRunSpeedCap 5 (2.50 ratio)
 - Rank 2 (ID 629) costs 4 AAs with effect: IncreaseRunSpeedCap 10 (1.25 ratio)
 {{</details>}}
@@ -4887,7 +4888,7 @@ Ability ID: 71 has 1 ranks and costs 3 total  with a recast time of 7 seconds
 (WAR BER)
 This ability will allow you to perform up to 2 additional attacks from your primary hand. Each rank increases the chance to flurry.
 
-Ability ID: 108 has 12 ranks and costs 60 total 
+Ability ID: 108 has 12 ranks and costs 60 total
 - Rank 1 (ID 255) costs 3 AAs with effect: Flurry 7 (2.33 ratio)
 - Rank 2 (ID 256) costs 6 AAs with effect: Flurry 11 (0.67 ratio)
 - Rank 3 (ID 257) costs 9 AAs with effect: Flurry 15 (0.44 ratio)
@@ -4906,7 +4907,7 @@ Ability ID: 108 has 12 ranks and costs 60 total
 This activated ability will allow you to focus on your mystical arts for a short time, granting you a greater chance that your detrimental spells will strike your target.
 
 Ability ID: 1211 has 1 ranks and costs 9 total  with a recast time of 600 seconds
-- Rank 1 (ID 8221) costs 9 AAs with effect: [Spell 16228](https://retributioneq.com/allaclone/?a=spell&id=16228) 180s range 100: 
+- Rank 1 (ID 8221) costs 9 AAs with effect: [Spell 16228](https://retributioneq.com/allaclone/?a=spell&id=16228) 180s range 100:
 
     - Effect 1: SpellResistReduction base 1 limit 25
     - Effect 2: LimitMaxLevel base 85
@@ -4936,7 +4937,7 @@ Ability ID: 60 has 6 ranks and costs 54 total  with a recast time of 600 seconds
     - Effect 9: ATK base 350
     - Effect 10: HitChance base 20 limit -1
     - Effect 11: DamageModifier base 120 limit -1
-- Rank 3 (ID 7249) costs 9 AAs with effect: [Spell 13703](https://retributioneq.com/allaclone/?a=spell&id=13703) 120s range 100: 
+- Rank 3 (ID 7249) costs 9 AAs with effect: [Spell 13703](https://retributioneq.com/allaclone/?a=spell&id=13703) 120s range 100:
 
     - Effect 2: ArmorClass base 385
     - Effect 4: AttackSpeed3 base 130
@@ -4945,7 +4946,7 @@ Ability ID: 60 has 6 ranks and costs 54 total  with a recast time of 600 seconds
     - Effect 9: ATK base 385
     - Effect 10: HitChance base 30 limit -1
     - Effect 11: DamageModifier base 130 limit -1
-- Rank 4 (ID 8343) costs 12 AAs with effect: [Spell 21837](https://retributioneq.com/allaclone/?a=spell&id=21837) 120s range 100: 
+- Rank 4 (ID 8343) costs 12 AAs with effect: [Spell 21837](https://retributioneq.com/allaclone/?a=spell&id=21837) 120s range 100:
 
     - Effect 2: ArmorClass base 420
     - Effect 4: AttackSpeed3 base 140
@@ -4954,7 +4955,7 @@ Ability ID: 60 has 6 ranks and costs 54 total  with a recast time of 600 seconds
     - Effect 9: ATK base 420
     - Effect 10: HitChance base 40 limit -1
     - Effect 11: DamageModifier base 140 limit -1
-- Rank 5 (ID 12955) costs 12 AAs with effect: [Spell 27457](https://retributioneq.com/allaclone/?a=spell&id=27457) 120s range 100: 
+- Rank 5 (ID 12955) costs 12 AAs with effect: [Spell 27457](https://retributioneq.com/allaclone/?a=spell&id=27457) 120s range 100:
 
     - Effect 2: ArmorClass base 460
     - Effect 4: AttackSpeed3 base 150
@@ -4963,7 +4964,7 @@ Ability ID: 60 has 6 ranks and costs 54 total  with a recast time of 600 seconds
     - Effect 9: ATK base 460
     - Effect 10: HitChance base 50 limit -1
     - Effect 11: DamageModifier base 150 limit -1
-- Rank 6 (ID 13718) costs 12 AAs with effect: [Spell 31589](https://retributioneq.com/allaclone/?a=spell&id=31589) 120s range 100: 
+- Rank 6 (ID 13718) costs 12 AAs with effect: [Spell 31589](https://retributioneq.com/allaclone/?a=spell&id=31589) 120s range 100:
 
     - Effect 2: ArmorClass base 500
     - Effect 4: AttackSpeed3 base 160
@@ -5007,7 +5008,7 @@ Ability ID: 308 has 3 ranks and costs 18 total  with a recast time of 900 second
 (BER)
 This ability gives you a chance to throw an additional axe when using your volley attacks. Each additional rank increases the damage inflicted by a successful attack.
 
-Ability ID: 4002 has 1 ranks and costs 12 total 
+Ability ID: 4002 has 1 ranks and costs 12 total
 - Rank 1 (ID 7818) costs 12 AAs with effect: [Spell 21750](https://retributioneq.com/allaclone/?a=spell&id=21750) range 175
 
     - Effect 1: SkillAttack base 77 limit 10000 max 54
@@ -5017,7 +5018,7 @@ Ability ID: 4002 has 1 ranks and costs 12 total
 This ability gives Beastlords the power to send themselves into an animalistic frenzy, bent only on slaughter, for a brief period of time.
 
 Ability ID: 127 has 1 ranks and costs 4 total  with a recast time of 720 seconds
-- Rank 1 (ID 290) costs 4 AAs with effect: [Spell 3289](https://retributioneq.com/allaclone/?a=spell&id=3289) 60s: 
+- Rank 1 (ID 290) costs 4 AAs with effect: [Spell 3289](https://retributioneq.com/allaclone/?a=spell&id=3289) 60s:
 
     - Effect 6: HundredHands base -200
     - Effect 7: AttackSpeed base 199
@@ -5046,15 +5047,15 @@ Ability ID: 290 has 3 ranks and costs 18 total  with a recast time of 180 second
 By focusing your songs on an enemy, you can weaken their ability to defend themselves, increasing the damage they take from attacks.  After 30 seconds, the song builds to a crescendo causing massive damage to the target.  Additional ranks inflict more damage upon the target at the end of the effect.
 
 Ability ID: 777 has 3 ranks and costs 18 total  with a recast time of 900 to 1100 seconds
-- Rank 1 (ID 5298) costs 3 AAs with effect: [Spell 11630](https://retributioneq.com/allaclone/?a=spell&id=11630) 30s range 200: 
+- Rank 1 (ID 5298) costs 3 AAs with effect: [Spell 11630](https://retributioneq.com/allaclone/?a=spell&id=11630) 30s range 200:
 
     - Effect 2: CastOnFadeEffectNPC base 11634
     - Effect 5: SkillDamageTaken base 1 limit -1
-- Rank 2 (ID 5299) costs 6 AAs with effect: [Spell 11631](https://retributioneq.com/allaclone/?a=spell&id=11631) 30s range 200: 
+- Rank 2 (ID 5299) costs 6 AAs with effect: [Spell 11631](https://retributioneq.com/allaclone/?a=spell&id=11631) 30s range 200:
 
     - Effect 2: CastOnFadeEffectNPC base 11635
     - Effect 5: SkillDamageTaken base 2 limit -1
-- Rank 3 (ID 5300) costs 9 AAs with effect: [Spell 11632](https://retributioneq.com/allaclone/?a=spell&id=11632) 30s range 200: 
+- Rank 3 (ID 5300) costs 9 AAs with effect: [Spell 11632](https://retributioneq.com/allaclone/?a=spell&id=11632) 30s range 200:
 
     - Effect 2: CastOnFadeEffectNPC base 11636
     - Effect 5: SkillDamageTaken base 3 limit -1
@@ -5063,7 +5064,7 @@ Ability ID: 777 has 3 ranks and costs 18 total  with a recast time of 900 to 110
 (BRD)
 This ability gives you the chance to automatically perform a bonus attack when you riposte.
 
-Ability ID: 918 has 3 ranks and costs 9 total 
+Ability ID: 918 has 3 ranks and costs 9 total
 - Rank 1 (ID 10627) costs 3 AAs with effect:
     - Effect 1:  20 20 (6.67 ratio)
 
@@ -5093,8 +5094,8 @@ Ability ID: 57 has 1 ranks and costs 5 total  with a recast time of 3600 seconds
 (BST)
 This passive ability imbues your attacks with the chance to slash your enemy with the Gelid Claw. Each rank increases the chance slightly.
 
-Ability ID: 459 has 1 ranks and costs 7 total 
-- Rank 1 (ID 12846) costs 7 AAs with effect: [Spell 6499](https://retributioneq.com/allaclone/?a=spell&id=6499) 60s range 200: 
+Ability ID: 459 has 1 ranks and costs 7 total
+- Rank 1 (ID 12846) costs 7 AAs with effect: [Spell 6499](https://retributioneq.com/allaclone/?a=spell&id=6499) 60s range 200:
 
     - Effect 1: CurrentHPOnce base -300 max 350
     - Effect 3: ATK base -70 max 80
@@ -5104,7 +5105,7 @@ Ability ID: 459 has 1 ranks and costs 7 total
 This ability, when activated, places a barrier around everyone within range protecting against spell damage.
 
 Ability ID: 578 has 1 ranks and costs 12 total  with a recast time of 1800 seconds
-- Rank 1 (ID 12939) costs 12 AAs with effect: [Spell 27451](https://retributioneq.com/allaclone/?a=spell&id=27451) 2160s range 100: 
+- Rank 1 (ID 12939) costs 12 AAs with effect: [Spell 27451](https://retributioneq.com/allaclone/?a=spell&id=27451) 2160s range 100:
 
     - Effect 3: AbsorbMagicAtt base 20000
 {{</details>}}
@@ -5113,7 +5114,7 @@ Ability ID: 578 has 1 ranks and costs 12 total  with a recast time of 1800 secon
 This ability deals little damage but enables you to pull your enemies towards you in battle.
 
 Ability ID: 601 has 1 ranks and costs 5 total  with a recast time of 30 seconds
-- Rank 1 (ID 4836) costs 5 AAs with effect: [Spell 11033](https://retributioneq.com/allaclone/?a=spell&id=11033) range 50: 
+- Rank 1 (ID 4836) costs 5 AAs with effect: [Spell 11033](https://retributioneq.com/allaclone/?a=spell&id=11033) range 50:
 
     - Effect 1: CurrentHP base -1 max 1
 {{</details>}}
@@ -5121,7 +5122,7 @@ Ability ID: 601 has 1 ranks and costs 5 total  with a recast time of 30 seconds
 (NEC)
 This ability decreases the amount of time required between uses of Wake the Dead or Army of the Dead by one minute per rank.
 
-Ability ID: 525 has 3 ranks and costs 15 total 
+Ability ID: 525 has 3 ranks and costs 15 total
 - Rank 1 (ID 1511) costs 5 AAs with effect:
     - Effect 1: HastenedAASkill 60 60 (12.00 ratio)
 
@@ -5142,7 +5143,7 @@ Ability ID: 525 has 3 ranks and costs 15 total
 (NEC)
 Each rank in this ability further increases your chance to get a critical hit with your damage-over-time spells.
 
-Ability ID: 628 has 3 ranks and costs 15 total 
+Ability ID: 628 has 3 ranks and costs 15 total
 - Rank 1 (ID 4924) costs 5 AAs with effect: CriticalDoTChance 1 (0.20 ratio)
 - Rank 2 (ID 4925) costs 5 AAs with effect: CriticalDoTChance 2 (0.20 ratio)
 - Rank 3 (ID 4926) costs 5 AAs with effect: CriticalDoTChance 3 (0.20 ratio)
@@ -5167,39 +5168,39 @@ Ability ID: 184 has 9 ranks and costs 45 total  with a recast time of 900 second
     - Effect 2: ApplyEffect base 100 [Spell 30741](https://retributioneq.com/allaclone/?a=spell&id=30741) [Spell 30741](https://retributioneq.com/allaclone/?a=aa&id=30741)
     - Effect 4: AttackSpeed3 base 15
     - Effect 8: ATK base 140
-- Rank 4 (ID 1293) costs 3 AAs with effect: [Spell 6079](https://retributioneq.com/allaclone/?a=spell&id=6079) 48s: 
+- Rank 4 (ID 1293) costs 3 AAs with effect: [Spell 6079](https://retributioneq.com/allaclone/?a=spell&id=6079) 48s:
 
     - Effect 2: ApplyEffect base 100 [Spell 30741](https://retributioneq.com/allaclone/?a=spell&id=30741) [Spell 30741](https://retributioneq.com/allaclone/?a=aa&id=30741)
     - Effect 4: AttackSpeed3 base 20
     - Effect 7: HealOverTime base 150
     - Effect 8: ATK base 160
-- Rank 5 (ID 1294) costs 6 AAs with effect: [Spell 6080](https://retributioneq.com/allaclone/?a=spell&id=6080) 48s: 
+- Rank 5 (ID 1294) costs 6 AAs with effect: [Spell 6080](https://retributioneq.com/allaclone/?a=spell&id=6080) 48s:
 
     - Effect 2: ApplyEffect base 100 [Spell 30741](https://retributioneq.com/allaclone/?a=spell&id=30741) [Spell 30741](https://retributioneq.com/allaclone/?a=aa&id=30741)
     - Effect 4: AttackSpeed3 base 23
     - Effect 7: HealOverTime base 200
     - Effect 8: ATK base 180
-- Rank 6 (ID 1295) costs 9 AAs with effect: [Spell 6081](https://retributioneq.com/allaclone/?a=spell&id=6081) 48s: 
+- Rank 6 (ID 1295) costs 9 AAs with effect: [Spell 6081](https://retributioneq.com/allaclone/?a=spell&id=6081) 48s:
 
     - Effect 2: ApplyEffect base 100 [Spell 30741](https://retributioneq.com/allaclone/?a=spell&id=30741) [Spell 30741](https://retributioneq.com/allaclone/?a=aa&id=30741)
     - Effect 4: AttackSpeed3 base 25
     - Effect 7: HealOverTime base 250
     - Effect 8: ATK base 200
-- Rank 7 (ID 4997) costs 6 AAs with effect: [Spell 11226](https://retributioneq.com/allaclone/?a=spell&id=11226) 48s: 
+- Rank 7 (ID 4997) costs 6 AAs with effect: [Spell 11226](https://retributioneq.com/allaclone/?a=spell&id=11226) 48s:
 
     - Effect 2: ApplyEffect base 100 [Spell 30741](https://retributioneq.com/allaclone/?a=spell&id=30741) [Spell 30741](https://retributioneq.com/allaclone/?a=aa&id=30741)
     - Effect 4: AttackSpeed3 base 25
     - Effect 7: HealOverTime base 350
     - Effect 8: ATK base 200
     - Effect 9: DamageModifier base 15 limit -1
-- Rank 8 (ID 4998) costs 6 AAs with effect: [Spell 11227](https://retributioneq.com/allaclone/?a=spell&id=11227) 48s: 
+- Rank 8 (ID 4998) costs 6 AAs with effect: [Spell 11227](https://retributioneq.com/allaclone/?a=spell&id=11227) 48s:
 
     - Effect 2: ApplyEffect base 100 [Spell 30741](https://retributioneq.com/allaclone/?a=spell&id=30741) [Spell 30741](https://retributioneq.com/allaclone/?a=aa&id=30741)
     - Effect 4: AttackSpeed3 base 25
     - Effect 7: HealOverTime base 450
     - Effect 8: ATK base 200
     - Effect 9: DamageModifier base 20 limit -1
-- Rank 9 (ID 4999) costs 6 AAs with effect: [Spell 11228](https://retributioneq.com/allaclone/?a=spell&id=11228) 48s: 
+- Rank 9 (ID 4999) costs 6 AAs with effect: [Spell 11228](https://retributioneq.com/allaclone/?a=spell&id=11228) 48s:
 
     - Effect 2: ApplyEffect base 100 [Spell 30741](https://retributioneq.com/allaclone/?a=spell&id=30741) [Spell 30741](https://retributioneq.com/allaclone/?a=aa&id=30741)
     - Effect 4: AttackSpeed3 base 25
@@ -5222,7 +5223,7 @@ Ability ID: 3732 has 1 ranks and costs 7 total  with a recast time of 30 seconds
 This ability places a ward upon yourself which triggers Death's Grip should your health drop below 80 percent. Each rank increases the minimum damage bonus applied to your damage over time spells.
 
 Ability ID: 1257 has 1 ranks and costs 9 total  with a recast time of 300 seconds
-- Rank 1 (ID 15582) costs 9 AAs with effect: [Spell 38115](https://retributioneq.com/allaclone/?a=spell&id=38115) 300s range 200: 
+- Rank 1 (ID 15582) costs 9 AAs with effect: [Spell 38115](https://retributioneq.com/allaclone/?a=spell&id=38115) 300s range 200:
 
     - Effect 1: TriggerOnReqCaster base 38116 limit 1004
 {{</details>}}
@@ -5258,22 +5259,22 @@ Ability ID: 180 has 12 ranks and costs 57 total  with a recast time of 1620 seco
 - Rank 6 (ID 717) costs 9 AAs with effect: [Spell 5114](https://retributioneq.com/allaclone/?a=spell&id=5114) range 50
 
     - Effect 1: CurrentHP base 3000
-- Rank 7 (ID 1278) costs 5 AAs with effect: [Spell 5927](https://retributioneq.com/allaclone/?a=spell&id=5927) range 50: 
+- Rank 7 (ID 1278) costs 5 AAs with effect: [Spell 5927](https://retributioneq.com/allaclone/?a=spell&id=5927) range 50:
 
     - Effect 1: CurrentHP base 3330
-- Rank 8 (ID 1279) costs 5 AAs with effect: [Spell 5928](https://retributioneq.com/allaclone/?a=spell&id=5928) range 50: 
+- Rank 8 (ID 1279) costs 5 AAs with effect: [Spell 5928](https://retributioneq.com/allaclone/?a=spell&id=5928) range 50:
 
     - Effect 1: CurrentHP base 3660
-- Rank 9 (ID 1280) costs 5 AAs with effect: [Spell 5929](https://retributioneq.com/allaclone/?a=spell&id=5929) range 50: 
+- Rank 9 (ID 1280) costs 5 AAs with effect: [Spell 5929](https://retributioneq.com/allaclone/?a=spell&id=5929) range 50:
 
     - Effect 1: CurrentHP base 4000
-- Rank 10 (ID 5041) costs 5 AAs with effect: [Spell 11255](https://retributioneq.com/allaclone/?a=spell&id=11255) range 50: 
+- Rank 10 (ID 5041) costs 5 AAs with effect: [Spell 11255](https://retributioneq.com/allaclone/?a=spell&id=11255) range 50:
 
     - Effect 1: CurrentHP base 4667
-- Rank 11 (ID 5042) costs 5 AAs with effect: [Spell 11256](https://retributioneq.com/allaclone/?a=spell&id=11256) range 50: 
+- Rank 11 (ID 5042) costs 5 AAs with effect: [Spell 11256](https://retributioneq.com/allaclone/?a=spell&id=11256) range 50:
 
     - Effect 1: CurrentHP base 5334
-- Rank 12 (ID 5043) costs 5 AAs with effect: [Spell 11257](https://retributioneq.com/allaclone/?a=spell&id=11257) range 50: 
+- Rank 12 (ID 5043) costs 5 AAs with effect: [Spell 11257](https://retributioneq.com/allaclone/?a=spell&id=11257) range 50:
 
     - Effect 1: CurrentHP base 6000
 {{</details>}}
@@ -5282,49 +5283,49 @@ Ability ID: 180 has 12 ranks and costs 57 total  with a recast time of 1620 seco
 Grants the Shadow Knight a powerful destructive ability that inflicts terrible pain and damage on their target.
 
 Ability ID: 6000 has 11 ranks and costs 3 total  with a recast time of 4320 seconds
-- Rank 1 (ID 7800) costs 0 AAs with effect: [Spell 13531](https://retributioneq.com/allaclone/?a=spell&id=13531) range 100: 
+- Rank 1 (ID 7800) costs 0 AAs with effect: [Spell 13531](https://retributioneq.com/allaclone/?a=spell&id=13531) range 100:
 
     - Effect 1: CurrentHP base -1 limit 836
     - Effect 2: CurrentHP base -1 limit 837
-- Rank 2 (ID 7801) costs 0 AAs with effect: [Spell 13532](https://retributioneq.com/allaclone/?a=spell&id=13532) range 100: 
+- Rank 2 (ID 7801) costs 0 AAs with effect: [Spell 13532](https://retributioneq.com/allaclone/?a=spell&id=13532) range 100:
 
     - Effect 1: CurrentHP base -1 limit 836
     - Effect 2: CurrentHP base -1 limit 837
-- Rank 3 (ID 7802) costs 0 AAs with effect: [Spell 13533](https://retributioneq.com/allaclone/?a=spell&id=13533) range 100: 
+- Rank 3 (ID 7802) costs 0 AAs with effect: [Spell 13533](https://retributioneq.com/allaclone/?a=spell&id=13533) range 100:
 
     - Effect 1: CurrentHP base -1 limit 836
     - Effect 2: CurrentHP base -1 limit 837
-- Rank 4 (ID 7803) costs 0 AAs with effect: [Spell 13534](https://retributioneq.com/allaclone/?a=spell&id=13534) range 100: 
+- Rank 4 (ID 7803) costs 0 AAs with effect: [Spell 13534](https://retributioneq.com/allaclone/?a=spell&id=13534) range 100:
 
     - Effect 1: CurrentHP base -1 limit 836
     - Effect 2: CurrentHP base -1 limit 837
-- Rank 5 (ID 7804) costs 0 AAs with effect: [Spell 13535](https://retributioneq.com/allaclone/?a=spell&id=13535) range 100: 
+- Rank 5 (ID 7804) costs 0 AAs with effect: [Spell 13535](https://retributioneq.com/allaclone/?a=spell&id=13535) range 100:
 
     - Effect 1: CurrentHP base -1 limit 836
     - Effect 2: CurrentHP base -1 limit 837
-- Rank 6 (ID 7805) costs 0 AAs with effect: [Spell 13536](https://retributioneq.com/allaclone/?a=spell&id=13536) range 100: 
+- Rank 6 (ID 7805) costs 0 AAs with effect: [Spell 13536](https://retributioneq.com/allaclone/?a=spell&id=13536) range 100:
 
     - Effect 1: CurrentHP base -1 limit 836
     - Effect 2: CurrentHP base -1 limit 837
-- Rank 7 (ID 7806) costs 0 AAs with effect: [Spell 13537](https://retributioneq.com/allaclone/?a=spell&id=13537) range 100: 
+- Rank 7 (ID 7806) costs 0 AAs with effect: [Spell 13537](https://retributioneq.com/allaclone/?a=spell&id=13537) range 100:
 
     - Effect 1: CurrentHP base -1 limit 836
     - Effect 2: CurrentHP base -1 limit 837
-- Rank 8 (ID 7807) costs 0 AAs with effect: [Spell 13538](https://retributioneq.com/allaclone/?a=spell&id=13538) range 100: 
+- Rank 8 (ID 7807) costs 0 AAs with effect: [Spell 13538](https://retributioneq.com/allaclone/?a=spell&id=13538) range 100:
 
     - Effect 1: CurrentHP base -1 limit 836
     - Effect 2: CurrentHP base -1 limit 837
-- Rank 9 (ID 7808) costs 0 AAs with effect: [Spell 13539](https://retributioneq.com/allaclone/?a=spell&id=13539) 36s range 100: 
+- Rank 9 (ID 7808) costs 0 AAs with effect: [Spell 13539](https://retributioneq.com/allaclone/?a=spell&id=13539) 36s range 100:
 
     - Effect 1: CurrentHPOnce base -1 limit 836
     - Effect 2: CurrentHPOnce base -1 limit 837
     - Effect 3: CurrentHP base -1 limit 839
-- Rank 10 (ID 7809) costs 0 AAs with effect: [Spell 13540](https://retributioneq.com/allaclone/?a=spell&id=13540) 36s range 100: 
+- Rank 10 (ID 7809) costs 0 AAs with effect: [Spell 13540](https://retributioneq.com/allaclone/?a=spell&id=13540) 36s range 100:
 
     - Effect 1: CurrentHPOnce base -1 limit 836
     - Effect 2: CurrentHPOnce base -1 limit 837
     - Effect 3: CurrentHP base -1 limit 839
-- Rank 11 (ID 7810) costs 3 AAs with effect: [Spell 13541](https://retributioneq.com/allaclone/?a=spell&id=13541) 36s range 100: 
+- Rank 11 (ID 7810) costs 3 AAs with effect: [Spell 13541](https://retributioneq.com/allaclone/?a=spell&id=13541) 36s range 100:
 
     - Effect 1: CurrentHPOnce base -1 limit 836
     - Effect 2: CurrentHPOnce base -1 limit 837
@@ -5334,7 +5335,7 @@ Ability ID: 6000 has 11 ranks and costs 3 total  with a recast time of 4320 seco
 (BRD)
 This ability grants you a chance of performing a double attack in any given combat round.  Additional ranks improve your chance of performing the double attack.
 
-Ability ID: 187 has 10 ranks and costs 25 total 
+Ability ID: 187 has 10 ranks and costs 25 total
 - Rank 1 (ID 556) costs 0 AAs with effect: GiveDoubleAttack 3 (+Inf ratio)
 - Rank 2 (ID 557) costs 0 AAs with effect: GiveDoubleAttack 6 (+Inf ratio)
 - Rank 3 (ID 558) costs 0 AAs with effect: GiveDoubleAttack 9 (+Inf ratio)
@@ -5350,7 +5351,7 @@ Ability ID: 187 has 10 ranks and costs 25 total
 (BRD)
 This ability decreases the amount of time required between uses of Dance of Blades by four minutes per rank.
 
-Ability ID: 541 has 3 ranks and costs 15 total 
+Ability ID: 541 has 3 ranks and costs 15 total
 - Rank 1 (ID 1555) costs 5 AAs with effect: HastenedAASkill 240 359 (48.00 ratio)
 - Rank 2 (ID 1556) costs 5 AAs with effect: HastenedAASkill 480 359 (48.00 ratio)
 - Rank 3 (ID 1557) costs 5 AAs with effect: HastenedAASkill 720 359 (48.00 ratio)
@@ -5359,7 +5360,7 @@ Ability ID: 541 has 3 ranks and costs 15 total
 (MNK)
 This ability decreases the amount of time required between uses of Imitate Death by two minutes per rank.
 
-Ability ID: 538 has 6 ranks and costs 30 total 
+Ability ID: 538 has 6 ranks and costs 30 total
 - Rank 1 (ID 1546) costs 5 AAs with effect: HastenedAASkill 120 420 (24.00 ratio)
 - Rank 2 (ID 1547) costs 5 AAs with effect: HastenedAASkill 240 420 (24.00 ratio)
 - Rank 3 (ID 1548) costs 5 AAs with effect: HastenedAASkill 360 420 (24.00 ratio)
@@ -5371,7 +5372,7 @@ Ability ID: 538 has 6 ranks and costs 30 total
 (MNK)
 This passive ability reduces the reuse timer on your Whirlwind Discipline and Voiddance Discipline by two minute per rank.
 
-Ability ID: 8901 has 4 ranks and costs 33 total 
+Ability ID: 8901 has 4 ranks and costs 33 total
 - Rank 1 (ID 10653) costs 7 AAs with effect:
     - Effect 1: ReduceReuseTimer 120000 (17142.86 ratio)
 
@@ -5405,7 +5406,7 @@ Ability ID: 8901 has 4 ranks and costs 33 total
 (WAR)
 This ability decreases the amount of time required between uses of Warlord's Tenacity and Resolute Defiance by 10 percent per rank.
 
-Ability ID: 548 has 5 ranks and costs 25 total 
+Ability ID: 548 has 5 ranks and costs 25 total
 - Rank 1 (ID 1583) costs 5 AAs with effect: HastenedAASkill 360 300 (72.00 ratio)
 - Rank 2 (ID 1584) costs 5 AAs with effect: HastenedAASkill 720 300 (72.00 ratio)
 - Rank 3 (ID 1585) costs 5 AAs with effect: HastenedAASkill 1080 300 (72.00 ratio)
@@ -5416,7 +5417,7 @@ Ability ID: 548 has 5 ranks and costs 25 total
 (BRD)
 This passive ability reduces the time required between uses of Deftdance by 6 minutes per rank.
 
-Ability ID: 415 has 4 ranks and costs 45 total 
+Ability ID: 415 has 4 ranks and costs 45 total
 - Rank 1 (ID 12710) costs 9 AAs with effect:
     - Effect 1: ReduceReuseTimer 360000 (40000.00 ratio)
 
@@ -5450,7 +5451,7 @@ Ability ID: 415 has 4 ranks and costs 45 total
 (MNK)
 This passive ability reduces the reuse timer on your Destructive Force ability. Each rank further reduces the reuse timer by 3 minutes.
 
-Ability ID: 8903 has 3 ranks and costs 21 total 
+Ability ID: 8903 has 3 ranks and costs 21 total
 - Rank 1 (ID 10657) costs 7 AAs with effect: HastenedAASkill 300 276 (42.86 ratio)
 - Rank 2 (ID 10658) costs 7 AAs with effect: HastenedAASkill 600 276 (42.86 ratio)
 - Rank 3 (ID 10659) costs 7 AAs with effect: HastenedAASkill 900 276 (42.86 ratio)
@@ -5459,7 +5460,7 @@ Ability ID: 8903 has 3 ranks and costs 21 total
 (CLR)
 This ability decreases the amount of time required between uses of Bestow Divine Aura by ten percent per rank. You may train in this ability once each level, upon reaching level 63.
 
-Ability ID: 154 has 3 ranks and costs 6 total 
+Ability ID: 154 has 3 ranks and costs 6 total
 - Rank 1 (ID 462) costs 2 AAs with effect:
     - Effect 1: HastenedAASkill 60 60 (30.00 ratio)
 
@@ -5480,7 +5481,7 @@ Ability ID: 154 has 3 ranks and costs 6 total
 (DRU WIZ)
 This ability decreases the amount of time required between uses of Exodus by ten percent per rank. You may train in this ability once each level, upon reaching level 63.
 
-Ability ID: 159 has 3 ranks and costs 6 total 
+Ability ID: 159 has 3 ranks and costs 6 total
 - Rank 1 (ID 477) costs 2 AAs with effect: HastenedAASkill 432 43 (216.00 ratio)
 - Rank 2 (ID 478) costs 2 AAs with effect: HastenedAASkill 864 43 (216.00 ratio)
 - Rank 3 (ID 479) costs 2 AAs with effect: HastenedAASkill 1296 43 (216.00 ratio)
@@ -5489,7 +5490,7 @@ Ability ID: 159 has 3 ranks and costs 6 total
 (ENC)
 This ability decreases the amount of time required between uses of Gather Mana by ten percent per rank. You may train in this ability once each level, upon reaching level 63.
 
-Ability ID: 157 has 3 ranks and costs 6 total 
+Ability ID: 157 has 3 ranks and costs 6 total
 - Rank 1 (ID 471) costs 2 AAs with effect:
     - Effect 1: HastenedAASkill 864 864 (432.00 ratio)
 
@@ -5510,7 +5511,7 @@ Ability ID: 157 has 3 ranks and costs 6 total
 (WAR)
 This ability decreases the amount of time required between uses of Area Taunt by ten percent per rank. You may train in this ability once each level, upon reaching level 63 three times. Additional ranks begin at level 68.
 
-Ability ID: 163 has 3 ranks and costs 9 total 
+Ability ID: 163 has 3 ranks and costs 9 total
 - Rank 1 (ID 489) costs 3 AAs with effect: HastenedAASkill 60 110 (20.00 ratio)
 - Rank 2 (ID 490) costs 3 AAs with effect: HastenedAASkill 120 110 (20.00 ratio)
 - Rank 3 (ID 491) costs 3 AAs with effect: HastenedAASkill 180 110 (20.00 ratio)
@@ -5519,7 +5520,7 @@ Ability ID: 163 has 3 ranks and costs 9 total
 (MNK)
 This ability decreases the amount of time required between uses of Mend by 30 seconds per rank.
 
-Ability ID: 3805 has 3 ranks and costs 18 total 
+Ability ID: 3805 has 3 ranks and costs 18 total
 - Rank 1 (ID 4801) costs 6 AAs with effect: ReduceSkillTimer 30 32 (5.00 ratio)
 - Rank 2 (ID 4802) costs 6 AAs with effect: ReduceSkillTimer 60 32 (5.00 ratio)
 - Rank 3 (ID 4803) costs 6 AAs with effect: ReduceSkillTimer 90 32 (5.00 ratio)
@@ -5528,7 +5529,7 @@ Ability ID: 3805 has 3 ranks and costs 18 total
 (NEC MAG BST)
 This ability decreases the amount of time required between uses of Mend Companion by ten percent per rank. You may train in this ability once each level, upon reaching level 63.
 
-Ability ID: 161 has 3 ranks and costs 6 total 
+Ability ID: 161 has 3 ranks and costs 6 total
 - Rank 1 (ID 483) costs 2 AAs with effect:
     - Effect 1: HastenedAASkill 540 540 (270.00 ratio)
 
@@ -5549,7 +5550,7 @@ Ability ID: 161 has 3 ranks and costs 6 total
 (WIZ)
 This ability decreases the amount of time required between uses of Mind Crash by ten percent per rank.
 
-Ability ID: 551 has 5 ranks and costs 25 total 
+Ability ID: 551 has 5 ranks and costs 25 total
 - Rank 1 (ID 1414) costs 5 AAs with effect: HastenedAASkill 432 451 (86.40 ratio)
 - Rank 2 (ID 1415) costs 5 AAs with effect: HastenedAASkill 864 451 (86.40 ratio)
 - Rank 3 (ID 1416) costs 5 AAs with effect: HastenedAASkill 1296 451 (86.40 ratio)
@@ -5560,7 +5561,7 @@ Ability ID: 551 has 5 ranks and costs 25 total
 (PAL)
 This ability decreases the reuse time for Hand of Piety by 4 minutes per level.
 
-Ability ID: 282 has 3 ranks and costs 18 total 
+Ability ID: 282 has 3 ranks and costs 18 total
 - Rank 1 (ID 849) costs 3 AAs with effect: HastenedAASkill 240 180 (80.00 ratio)
 - Rank 2 (ID 850) costs 6 AAs with effect: HastenedAASkill 480 180 (40.00 ratio)
 - Rank 3 (ID 851) costs 9 AAs with effect: HastenedAASkill 720 180 (26.67 ratio)
@@ -5569,7 +5570,7 @@ Ability ID: 282 has 3 ranks and costs 18 total
 (ROG)
 This ability decreases the amount of time required between uses of Purge Poison by ten percent per rank. You may train in this ability once each level, upon reaching level 63.
 
-Ability ID: 167 has 3 ranks and costs 6 total 
+Ability ID: 167 has 3 ranks and costs 6 total
 - Rank 1 (ID 501) costs 2 AAs with effect: HastenedAASkill 432 107 (216.00 ratio)
 - Rank 2 (ID 502) costs 2 AAs with effect: HastenedAASkill 864 107 (216.00 ratio)
 - Rank 3 (ID 503) costs 2 AAs with effect: HastenedAASkill 1296 107 (216.00 ratio)
@@ -5578,7 +5579,7 @@ Ability ID: 167 has 3 ranks and costs 6 total
 (MNK)
 Ranks 1, 2, and 3 of this ability decreases the amount of time required between uses of Purify Body by 3 minutes per rank. Additional ranks decrease this time by 2 minutes per rank.
 
-Ability ID: 165 has 3 ranks and costs 6 total 
+Ability ID: 165 has 3 ranks and costs 6 total
 - Rank 1 (ID 495) costs 2 AAs with effect: HastenedAASkill 180 98 (90.00 ratio)
 - Rank 2 (ID 496) costs 2 AAs with effect: HastenedAASkill 360 98 (90.00 ratio)
 - Rank 3 (ID 497) costs 2 AAs with effect: HastenedAASkill 540 98 (90.00 ratio)
@@ -5587,7 +5588,7 @@ Ability ID: 165 has 3 ranks and costs 6 total
 (CLR)
 This ability decreases the amount of time required between uses of Purify Soul by ten percent per rank. You may train in this ability once each level, upon reaching level 63.
 
-Ability ID: 156 has 3 ranks and costs 6 total 
+Ability ID: 156 has 3 ranks and costs 6 total
 - Rank 1 (ID 468) costs 2 AAs with effect: HastenedAASkill 180 41 (90.00 ratio)
 - Rank 2 (ID 469) costs 2 AAs with effect: HastenedAASkill 360 41 (90.00 ratio)
 - Rank 3 (ID 470) costs 2 AAs with effect: HastenedAASkill 540 41 (90.00 ratio)
@@ -5596,7 +5597,7 @@ Ability ID: 156 has 3 ranks and costs 6 total
 (SHM)
 This ability decreases the amount of time required between uses of Rabid Bear by four minutes per rank. You may train in this ability once each level, upon reaching level 63.
 
-Ability ID: 158 has 3 ranks and costs 6 total 
+Ability ID: 158 has 3 ranks and costs 6 total
 - Rank 1 (ID 474) costs 2 AAs with effect: HastenedAASkill 240 50 (120.00 ratio)
 - Rank 2 (ID 475) costs 2 AAs with effect: HastenedAASkill 480 50 (120.00 ratio)
 - Rank 3 (ID 476) costs 2 AAs with effect: HastenedAASkill 720 50 (120.00 ratio)
@@ -5604,7 +5605,7 @@ Ability ID: 158 has 3 ranks and costs 6 total
 {{<details title="Hastened Rampage (WAR BER)">}}
 This ability decreases the amount of time required between uses of Rampage by ten percent per rank.
 
-Ability ID: 164 has 3 ranks and costs 4 total 
+Ability ID: 164 has 3 ranks and costs 4 total
 - Rank 1 (ID 492) costs 2 AAs with effect: HastenedAASkill 60 109 (30.00 ratio)
 - Rank 2 (ID 493) costs 2 AAs with effect: HastenedAASkill 120 109 (30.00 ratio)
 - Rank 3 (ID 494) costs 2 AAs with effect: HastenedAASkill 180 109 (30.00 ratio)
@@ -5613,7 +5614,7 @@ Ability ID: 164 has 3 ranks and costs 4 total
 (WIZ)
 The first three ranks of this ability decrease the amount of time required between uses of Strong Root by ten percent per rank.  Additional ranks further decrease the time required between uses of Strong Root and also increase the strength of your roots making them less likely to break during combat.
 
-Ability ID: 160 has 6 ranks and costs 12 total 
+Ability ID: 160 has 6 ranks and costs 12 total
 - Rank 1 (ID 480) costs 2 AAs with effect: HastenedAASkill 432 117 (216.00 ratio)
 - Rank 2 (ID 481) costs 2 AAs with effect: HastenedAASkill 864 117 (216.00 ratio)
 - Rank 3 (ID 482) costs 2 AAs with effect: HastenedAASkill 1296 117 (216.00 ratio)
@@ -5637,7 +5638,7 @@ Ability ID: 160 has 6 ranks and costs 12 total
 (CLR)
 Reduces the reuse timer on your Sanctuary ability. Each rank further reduces the reuse time of Sanctuary.
 
-Ability ID: 712 has 3 ranks and costs 9 total 
+Ability ID: 712 has 3 ranks and costs 9 total
 - Rank 1 (ID 5118) costs 3 AAs with effect:
     - Effect 1: HastenedAASkill 720 720 (240.00 ratio)
 
@@ -5664,7 +5665,7 @@ Ability ID: 712 has 3 ranks and costs 9 total
 (ROG)
 This ability reduces the time between which you may attempt to hide or evade by one second per rank.  You may train the ranks of this ability at or after levels 61, 62, and 63.
 
-Ability ID: 209 has 3 ranks and costs 9 total 
+Ability ID: 209 has 3 ranks and costs 9 total
 - Rank 1 (ID 622) costs 3 AAs with effect:
     - Effect 1: ReduceSkillTimer 1 1 (0.33 ratio)
 
@@ -5685,7 +5686,7 @@ Ability ID: 209 has 3 ranks and costs 9 total
 (BST)
 This ability decreases the amount of time required between uses of Roar of Thunder by ten percent per rank.
 
-Ability ID: 503 has 5 ranks and costs 25 total 
+Ability ID: 503 has 5 ranks and costs 25 total
 - Rank 1 (ID 1471) costs 5 AAs with effect: HastenedAASkill 90 362 (18.00 ratio)
 - Rank 2 (ID 1472) costs 5 AAs with effect: HastenedAASkill 180 362 (18.00 ratio)
 - Rank 3 (ID 1473) costs 5 AAs with effect: HastenedAASkill 270 362 (18.00 ratio)
@@ -5696,7 +5697,7 @@ Ability ID: 503 has 5 ranks and costs 25 total
 (BER)
 This ability reduces the timer on the various war cry disciplines by 3 minutes per rank.
 
-Ability ID: 369 has 3 ranks and costs 18 total 
+Ability ID: 369 has 3 ranks and costs 18 total
 - Rank 1 (ID 1137) costs 3 AAs with effect:
     - Effect 1: ReduceReuseTimer 180000 (60000.00 ratio)
 
@@ -5789,7 +5790,7 @@ Ability ID: 369 has 3 ranks and costs 18 total
 (ROG)
 This ability decreases the amount of time required between uses of Escape by ten percent per rank.
 
-Ability ID: 166 has 5 ranks and costs 16 total 
+Ability ID: 166 has 5 ranks and costs 16 total
 - Rank 1 (ID 498) costs 2 AAs with effect: HastenedAASkill 144 102 (72.00 ratio)
 - Rank 2 (ID 499) costs 2 AAs with effect: HastenedAASkill 288 102 (72.00 ratio)
 - Rank 3 (ID 500) costs 2 AAs with effect: HastenedAASkill 432 102 (72.00 ratio)
@@ -5800,7 +5801,7 @@ Ability ID: 166 has 5 ranks and costs 16 total
 (RNG)
 This ability provides you the chance of instantly killing an opponent (humanoid only) who is too far below you in level to provide a challenge, when using a bow.  Additional ranks increase the maximum level of humanoid that can be affected by your headshot by 2 levels per rank.
 
-Ability ID: 218 has 7 ranks and costs 34 total 
+Ability ID: 218 has 7 ranks and costs 34 total
 - Rank 1 (ID 644) costs 4 AAs with effect:
     - Effect 1: HeadShot 0 (8000.00 ratio)
 
@@ -5841,7 +5842,7 @@ Ability ID: 218 has 7 ranks and costs 34 total
 (PAL)
 When you cast a stun spell this passive ability gives you a chance to bless your group with healing. Additional ranks improve the amount of healing you do.
 
-Ability ID: 891 has 1 ranks and costs 6 total 
+Ability ID: 891 has 1 ranks and costs 6 total
 - Rank 1 (ID 6791) costs 6 AAs with effect:
     - Effect 1: TriggerOnCast 20 20 (3.33 ratio)
 
@@ -5861,7 +5862,7 @@ Ability ID: 891 has 1 ranks and costs 6 total
 This ability will allow you to absorb the pure essence of elemental fire into your soul, increasing the damage caused by your fire-based spells.
 
 Ability ID: 784 has 1 ranks and costs 9 total  with a recast time of 1320 seconds
-- Rank 1 (ID 1251) costs 9 AAs with effect: [Spell 5915](https://retributioneq.com/allaclone/?a=spell&id=5915) 90s: 
+- Rank 1 (ID 1251) costs 9 AAs with effect: [Spell 5915](https://retributioneq.com/allaclone/?a=spell&id=5915) 90s:
 
     - Effect 1: ImprovedDamage base 1 limit 50
     - Effect 2: LimitMaxLevel base 75
@@ -5879,7 +5880,7 @@ Ability ID: 784 has 1 ranks and costs 9 total  with a recast time of 1320 second
 This ability will allow you to absorb the pure essence of elemental ice into your soul, greatly reducing the damage you take from spells.
 
 Ability ID: 786 has 1 ranks and costs 9 total  with a recast time of 1320 seconds
-- Rank 1 (ID 1253) costs 9 AAs with effect: [Spell 5916](https://retributioneq.com/allaclone/?a=spell&id=5916) 90s: 
+- Rank 1 (ID 1253) costs 9 AAs with effect: [Spell 5916](https://retributioneq.com/allaclone/?a=spell&id=5916) 90s:
 
     - Effect 2: MitigateSpellDamage base 50 max 5000
 {{</details>}}
@@ -5888,7 +5889,7 @@ Ability ID: 786 has 1 ranks and costs 9 total  with a recast time of 1320 second
 This ability will allow you to absorb the pure essence of elemental earth into your soul, greatly reducing the damage you take from melee attacks.
 
 Ability ID: 787 has 1 ranks and costs 9 total  with a recast time of 1320 seconds
-- Rank 1 (ID 1254) costs 9 AAs with effect: [Spell 5914](https://retributioneq.com/allaclone/?a=spell&id=5914) 90s: 
+- Rank 1 (ID 1254) costs 9 AAs with effect: [Spell 5914](https://retributioneq.com/allaclone/?a=spell&id=5914) 90s:
 
     - Effect 2: MitigateMeleeDamage base 50 max 5000
 {{</details>}}
@@ -5897,7 +5898,7 @@ Ability ID: 787 has 1 ranks and costs 9 total  with a recast time of 1320 second
 This ability will allow you to absorb the pure essence of elemental air into your soul, greatly reducing how much creatures hate you for the detrimental spells you cast.
 
 Ability ID: 785 has 1 ranks and costs 9 total  with a recast time of 1320 seconds
-- Rank 1 (ID 1252) costs 9 AAs with effect: [Spell 5913](https://retributioneq.com/allaclone/?a=spell&id=5913) 90s: 
+- Rank 1 (ID 1252) costs 9 AAs with effect: [Spell 5913](https://retributioneq.com/allaclone/?a=spell&id=5913) 90s:
 
     - Effect 1: SpellHateMod base -50
     - Effect 2: LimitMaxLevel base 75
@@ -5908,7 +5909,7 @@ Ability ID: 785 has 1 ranks and costs 9 total  with a recast time of 1320 second
 (MNK)
 This ability gives you the chance to block attacks that originate behind you.  Additional ranks increase the effectiveness.
 
-Ability ID: 275 has 5 ranks and costs 25 total 
+Ability ID: 275 has 5 ranks and costs 25 total
 - Rank 1 (ID 823) costs 5 AAs with effect: BlockBehind 20 (4.00 ratio)
 - Rank 2 (ID 824) costs 5 AAs with effect: BlockBehind 40 (4.00 ratio)
 - Rank 3 (ID 825) costs 5 AAs with effect: BlockBehind 60 (4.00 ratio)
@@ -5934,7 +5935,7 @@ Ability ID: 126 has 2 ranks and costs 14 total  with a recast time of 300 second
 Hold the Line increases the amount of hit points healed by healing spells that land on you but reduces your offensive damage by as well. Rank 1 will increase the healing spells that land on you by 10% and Rank 2 will increase the heals by 15% while your damage done will go down by 25%.
 
 Ability ID: 734 has 1 ranks and costs 9 total  with a recast time of 600 seconds
-- Rank 1 (ID 4742) costs 9 AAs with effect: [Spell 11024](https://retributioneq.com/allaclone/?a=spell&id=11024) 30s: 
+- Rank 1 (ID 4742) costs 9 AAs with effect: [Spell 11024](https://retributioneq.com/allaclone/?a=spell&id=11024) 30s:
 
     - Effect 1: HealRate base 10
     - Effect 2: DamageModifier base -25 limit -1
@@ -5963,13 +5964,13 @@ Ability ID: 207 has 6 ranks and costs 30 total  with a recast time of 120 to 420
 - Rank 3 (ID 618) costs 3 AAs with effect: [Spell 3288](https://retributioneq.com/allaclone/?a=spell&id=3288) range 150
 
     - Effect 1: TemporaryPets base 9 max 30
-- Rank 4 (ID 1248) costs 3 AAs with effect: [Spell 6226](https://retributioneq.com/allaclone/?a=spell&id=6226) range 150: 
+- Rank 4 (ID 1248) costs 3 AAs with effect: [Spell 6226](https://retributioneq.com/allaclone/?a=spell&id=6226) range 150:
 
     - Effect 1: TemporaryPets base 9 max 30
-- Rank 5 (ID 1249) costs 6 AAs with effect: [Spell 6227](https://retributioneq.com/allaclone/?a=spell&id=6227) range 150: 
+- Rank 5 (ID 1249) costs 6 AAs with effect: [Spell 6227](https://retributioneq.com/allaclone/?a=spell&id=6227) range 150:
 
     - Effect 1: TemporaryPets base 9 max 45
-- Rank 6 (ID 1250) costs 9 AAs with effect: [Spell 6228](https://retributioneq.com/allaclone/?a=spell&id=6228) range 150: 
+- Rank 6 (ID 1250) costs 9 AAs with effect: [Spell 6228](https://retributioneq.com/allaclone/?a=spell&id=6228) range 150:
 
     - Effect 1: TemporaryPets base 9 max 60
 {{</details>}}
@@ -5977,7 +5978,7 @@ Ability ID: 207 has 6 ranks and costs 30 total  with a recast time of 120 to 420
 (RNG)
 This ability increases your attack power by 4 each rank. You will gain this ability automatically once each level starting at level 55.
 
-Ability ID: 6002 has 26 ranks and costs 80 total 
+Ability ID: 6002 has 26 ranks and costs 80 total
 - Rank 1 (ID 6546) costs 1 AA with effect: ATK 4 (4.00 ratio)
 - Rank 2 (ID 6547) costs 1 AA with effect: ATK 8 (4.00 ratio)
 - Rank 3 (ID 6548) costs 1 AA with effect: ATK 12 (4.00 ratio)
@@ -6009,7 +6010,7 @@ Ability ID: 6002 has 26 ranks and costs 80 total
 (RNG)
 When you land a killing blow on a non-trivial opponent, you will occasionally draw enough strength from the act to get a instant boost to your endurance as well as increase the damage done by your attacks for the duration of the effect.  Each additional rank increases the chance that this occurs.
 
-Ability ID: 661 has 3 ranks and costs 18 total 
+Ability ID: 661 has 3 ranks and costs 18 total
 - Rank 1 (ID 5248) costs 3 AAs with effect: ProcOnKillShot 10 11232 (3.33 ratio)
 - Rank 2 (ID 5249) costs 6 AAs with effect: ProcOnKillShot 20 11232 (1.67 ratio)
 - Rank 3 (ID 5250) costs 9 AAs with effect: ProcOnKillShot 30 11232 (1.11 ratio)
@@ -6019,17 +6020,17 @@ Ability ID: 661 has 3 ranks and costs 18 total
 Hymn of the Last Stand increases your maximum hit points which then decay slowly over time. Addional ranks in this ability increase the hit points you gain and prolong the duration of time that it takes for the hit points to decay.
 
 Ability ID: 668 has 3 ranks and costs 18 total  with a recast time of 600 seconds
-- Rank 1 (ID 5017) costs 3 AAs with effect: [Spell 11243](https://retributioneq.com/allaclone/?a=spell&id=11243) 30s: 
+- Rank 1 (ID 5017) costs 3 AAs with effect: [Spell 11243](https://retributioneq.com/allaclone/?a=spell&id=11243) 30s:
 
     - Effect 1: CurrentHPOnce base 1000
     - Effect 5: TotalHP base 1000
     - Effect 7: CurrentHP base -300
-- Rank 2 (ID 5018) costs 6 AAs with effect: [Spell 11244](https://retributioneq.com/allaclone/?a=spell&id=11244) 60s: 
+- Rank 2 (ID 5018) costs 6 AAs with effect: [Spell 11244](https://retributioneq.com/allaclone/?a=spell&id=11244) 60s:
 
     - Effect 1: CurrentHPOnce base 1500
     - Effect 5: TotalHP base 1500
     - Effect 7: CurrentHP base -150
-- Rank 3 (ID 5019) costs 9 AAs with effect: [Spell 11245](https://retributioneq.com/allaclone/?a=spell&id=11245) 90s: 
+- Rank 3 (ID 5019) costs 9 AAs with effect: [Spell 11245](https://retributioneq.com/allaclone/?a=spell&id=11245) 90s:
 
     - Effect 1: CurrentHPOnce base 2000
     - Effect 5: TotalHP base 2000
@@ -6040,7 +6041,7 @@ Ability ID: 668 has 3 ranks and costs 18 total  with a recast time of 600 second
 This ability allows you to absorb the pure essence of elemental ice into your soul.  While this ability is active, you will take less damage from spells.  This ability lasts slightly longer than Heart of Ice (assuming it is not stripped by excess damage) and can absorb more total damage from incoming spells. Additional ranks increase the maximum amount of damage that can be absorbed before the effect fades.
 
 Ability ID: 623 has 1 ranks and costs 9 total  with a recast time of 900 seconds
-- Rank 1 (ID 4909) costs 9 AAs with effect: [Spell 11066](https://retributioneq.com/allaclone/?a=spell&id=11066) 120s: 
+- Rank 1 (ID 4909) costs 9 AAs with effect: [Spell 11066](https://retributioneq.com/allaclone/?a=spell&id=11066) 120s:
 
     - Effect 2: MitigateSpellDamage base 50 max 7000
 {{</details>}}
@@ -6049,7 +6050,7 @@ Ability ID: 623 has 1 ranks and costs 9 total  with a recast time of 900 seconds
 When activated, this ability increases your group's chance to land critical hits with direct damage and DoT spells, while also increasing the damage they do.
 
 Ability ID: 2202 has 1 ranks and costs 18 total  with a recast time of 600 seconds
-- Rank 1 (ID 15481) costs 18 AAs with effect: [Spell 38603](https://retributioneq.com/allaclone/?a=spell&id=38603) 120s range 200: 
+- Rank 1 (ID 15481) costs 18 AAs with effect: [Spell 38603](https://retributioneq.com/allaclone/?a=spell&id=38603) 120s range 200:
 
     - Effect 2: CriticalDoTChance base 10
     - Effect 3: DotCritDmgIncrease base 200
@@ -6060,7 +6061,7 @@ Ability ID: 2202 has 1 ranks and costs 18 total  with a recast time of 600 secon
 This ability allows the monk to execute a perfect feign death that causes every creature to forget about them immediately.  Upon feigning, the monk will automatically hide themselves as well.
 
 Ability ID: 420 has 1 ranks and costs 9 total  with a recast time of 720 seconds
-- Rank 1 (ID 1255) costs 9 AAs with effect: [Spell 5918](https://retributioneq.com/allaclone/?a=spell&id=5918): 
+- Rank 1 (ID 1255) costs 9 AAs with effect: [Spell 5918](https://retributioneq.com/allaclone/?a=spell&id=5918):
 
     - Effect 1: FadingMemories base 100 limit 75
     - Effect 2: FeignDeath base 100
@@ -6069,7 +6070,7 @@ Ability ID: 420 has 1 ranks and costs 9 total  with a recast time of 720 seconds
 (PAL SHD)
 This ability increases the chance that your bashes will stun the enemy. Additional ranks increase the chance to stun your enemy.
 
-Ability ID: 283 has 3 ranks and costs 15 total 
+Ability ID: 283 has 3 ranks and costs 15 total
 - Rank 1 (ID 852) costs 5 AAs with effect: StunBashChance 1 (0.20 ratio)
 - Rank 2 (ID 853) costs 5 AAs with effect: StunBashChance 2 (0.20 ratio)
 - Rank 3 (ID 854) costs 5 AAs with effect: StunBashChance 3 (0.20 ratio)
@@ -6097,7 +6098,7 @@ Ability ID: 52 has 4 ranks and costs 30 total  with a recast time of 60 seconds
     - Effect 10: SeeInvis base 1
     - Effect 11: ManaPool base 300
     - Effect 12: CurrentMana base 8
-- Rank 3 (ID 1344) costs 12 AAs with effect: [Spell 5949](https://retributioneq.com/allaclone/?a=spell&id=5949): 
+- Rank 3 (ID 1344) costs 12 AAs with effect: [Spell 5949](https://retributioneq.com/allaclone/?a=spell&id=5949):
 
     - Effect 1: Familiar
     - Effect 2: ResistAll base 30
@@ -6106,7 +6107,7 @@ Ability ID: 52 has 4 ranks and costs 30 total  with a recast time of 60 seconds
     - Effect 10: SeeInvis base 1
     - Effect 11: ManaPool base 500
     - Effect 12: CurrentMana base 10
-- Rank 4 (ID 5279) costs 12 AAs with effect: [Spell 11624](https://retributioneq.com/allaclone/?a=spell&id=11624): 
+- Rank 4 (ID 5279) costs 12 AAs with effect: [Spell 11624](https://retributioneq.com/allaclone/?a=spell&id=11624):
 
     - Effect 1: Familiar
     - Effect 2: ResistAll base 40 max 40
@@ -6120,7 +6121,7 @@ Ability ID: 52 has 4 ranks and costs 30 total  with a recast time of 60 seconds
 (MAG)
 This ability will increase the amount of mana returned to you when reclaiming your pet.
 
-Ability ID: 229 has 1 ranks and costs 3 total 
+Ability ID: 229 has 1 ranks and costs 3 total
 - Rank 1 (ID 671) costs 3 AAs with effect: ImprovedReclaimEnergy 95 (31.67 ratio)
 {{</details>}}
 {{<details title="Improved Twincast (CLR DRU WIZ MAG ENC)">}}
@@ -6128,7 +6129,7 @@ Ability ID: 229 has 1 ranks and costs 3 total
 This ability, when activated, provides you with an improved version of your Twincast spell with greater duration, but limited uses. Each additional rank also increases the amount of times your spells can be twincast.
 
 Ability ID: 515 has 1 ranks and costs 12 total  with a recast time of 600 seconds
-- Rank 1 (ID 12893) costs 12 AAs with effect: [Spell 27436](https://retributioneq.com/allaclone/?a=spell&id=27436) 120s: 
+- Rank 1 (ID 12893) costs 12 AAs with effect: [Spell 27436](https://retributioneq.com/allaclone/?a=spell&id=27436) 120s:
 
     - Effect 1: FcTwincast base 100
     - Effect 2: LimitEffect
@@ -6151,7 +6152,7 @@ Ability ID: 80 has 1 ranks and costs 5 total  with a recast time of 7 seconds
 This ability allows you to become invisible to the undead, nearly at will, without the need to memorize a spell.
 
 Ability ID: 37 has 1 ranks and costs 3 total  with a recast time of 7 seconds
-- Rank 1 (ID 130) costs 3 AAs with effect: [Spell 2739](https://retributioneq.com/allaclone/?a=spell&id=2739) 1620s range 100: 
+- Rank 1 (ID 130) costs 3 AAs with effect: [Spell 2739](https://retributioneq.com/allaclone/?a=spell&id=2739) 1620s range 100:
 
     - Effect 1: InvisVsUndead2 base 1
 {{</details>}}
@@ -6159,7 +6160,7 @@ Ability ID: 37 has 1 ranks and costs 3 total  with a recast time of 7 seconds
 (BRD)
 This ability allows for improved use of all instrument types.
 
-Ability ID: 90 has 4 ranks and costs 27 total 
+Ability ID: 90 has 4 ranks and costs 27 total
 - Rank 1 (ID 213) costs 3 AAs with effect:
     - Effect 1: AddSingingMod 2 2 (0.67 ratio)
 
@@ -6199,9 +6200,9 @@ Ability ID: 90 has 4 ranks and costs 27 total
 {{</details>}}
 {{<details title="Intense Hatred (SHD)">}}
 (SHD)
-This ability intensifies the overall effect of damage shields that are cast on you. Additional ranks increase the effectiveness of this ability. 
+This ability intensifies the overall effect of damage shields that are cast on you. Additional ranks increase the effectiveness of this ability.
 
-Ability ID: 296 has 5 ranks and costs 25 total 
+Ability ID: 296 has 5 ranks and costs 25 total
 - Rank 1 (ID 895) costs 5 AAs with effect: DamageShield -3
 - Rank 2 (ID 896) costs 5 AAs with effect: DamageShield -6
 - Rank 3 (ID 897) costs 5 AAs with effect: DamageShield -9
@@ -6212,7 +6213,7 @@ Ability ID: 296 has 5 ranks and costs 25 total
 (BRD)
 This ability allows you to sing your songs at a higher apparent level.  Note: This does not allow you to sing songs that are actually higher than your level.
 
-Ability ID: 94 has 3 ranks and costs 15 total 
+Ability ID: 94 has 3 ranks and costs 15 total
 - Rank 1 (ID 225) costs 0 AAs with effect: CastingLevel2 2 (+Inf ratio)
 - Rank 2 (ID 226) costs 6 AAs with effect: CastingLevel2 4 (0.33 ratio)
 - Rank 3 (ID 227) costs 9 AAs with effect: CastingLevel2 6 (0.22 ratio)
@@ -6221,7 +6222,7 @@ Ability ID: 94 has 3 ranks and costs 15 total
 (MNK)
 Each rank in this ability increases the damage done by your Flying Kicks, Round Kicks and Kick attacks.
 
-Ability ID: 274 has 9 ranks and costs 48 total 
+Ability ID: 274 has 9 ranks and costs 48 total
 - Rank 1 (ID 820) costs 3 AAs with effect:
     - Effect 1: SkillDamageAmount 10 10 (3.33 ratio)
 
@@ -6290,7 +6291,7 @@ Ability ID: 274 has 9 ranks and costs 48 total
 (ROG)
 This ability grants you a chance to backstab your opponent upon a successful riposte of a melee attack. Additional ranks increase the chance of a riposte with a backstab.
 
-Ability ID: 3727 has 1 ranks and costs 6 total 
+Ability ID: 3727 has 1 ranks and costs 6 total
 - Rank 1 (ID 6275) costs 6 AAs with effect:
     - Effect 1:  20 20 (3.33 ratio)
 
@@ -6301,7 +6302,7 @@ Ability ID: 3727 has 1 ranks and costs 6 total
 (PAL SHD)
 This ability grants you an increased chance of performing a double attack in any given combat round.  You gain the ability to train an additional rank at levels 61, 63, and 65 and an additional three ranks at level 70.
 
-Ability ID: 188 has 6 ranks and costs 33 total 
+Ability ID: 188 has 6 ranks and costs 33 total
 - Rank 1 (ID 561) costs 2 AAs with effect: DoubleAttackChance 3 -1 (1.50 ratio)
 - Rank 2 (ID 562) costs 4 AAs with effect: DoubleAttackChance 6 -1 (0.75 ratio)
 - Rank 3 (ID 563) costs 6 AAs with effect: DoubleAttackChance 9 -1 (0.50 ratio)
@@ -6314,7 +6315,7 @@ Ability ID: 188 has 6 ranks and costs 33 total
 This activated ability grants you a chance, when active, for your slow spells to have a secondary damage over time effect accompany them. Additional ranks increase the power of this effect.
 
 Ability ID: 861 has 1 ranks and costs 7 total  with a recast time of 600 seconds
-- Rank 1 (ID 6706) costs 7 AAs with effect: [Spell 16121](https://retributioneq.com/allaclone/?a=spell&id=16121) 180s range 100: 
+- Rank 1 (ID 6706) costs 7 AAs with effect: [Spell 16121](https://retributioneq.com/allaclone/?a=spell&id=16121) 180s range 100:
 
     - Effect 2: LimitEffect base 11
     - Effect 3: LimitSpellType
@@ -6349,15 +6350,15 @@ Ability ID: 68 has 1 ranks and costs 9 total  with a recast time of 660 seconds
 Ligament Slice cripples your opponent, decreasing their movement rate and ability to defend themselves.  Additional ranks in this ability intensify the effect.
 
 Ability ID: 672 has 3 ranks and costs 18 total  with a recast time of 180 seconds
-- Rank 1 (ID 5025) costs 3 AAs with effect: [Spell 11251](https://retributioneq.com/allaclone/?a=spell&id=11251) 60s range 50: 
+- Rank 1 (ID 5025) costs 3 AAs with effect: [Spell 11251](https://retributioneq.com/allaclone/?a=spell&id=11251) 60s range 50:
 
     - Effect 1: MovementSpeed base -40
     - Effect 2: ArmorClass base -10
-- Rank 2 (ID 5026) costs 6 AAs with effect: [Spell 11252](https://retributioneq.com/allaclone/?a=spell&id=11252) 60s range 50: 
+- Rank 2 (ID 5026) costs 6 AAs with effect: [Spell 11252](https://retributioneq.com/allaclone/?a=spell&id=11252) 60s range 50:
 
     - Effect 1: MovementSpeed base -50
     - Effect 2: ArmorClass base -20
-- Rank 3 (ID 5027) costs 9 AAs with effect: [Spell 11253](https://retributioneq.com/allaclone/?a=spell&id=11253) 60s range 50: 
+- Rank 3 (ID 5027) costs 9 AAs with effect: [Spell 11253](https://retributioneq.com/allaclone/?a=spell&id=11253) 60s range 50:
 
     - Effect 1: MovementSpeed base -60
     - Effect 2: ArmorClass base -30
@@ -6366,7 +6367,7 @@ Ability ID: 672 has 3 ranks and costs 18 total  with a recast time of 180 second
 (RNG)
 This ability gives you the chance to perform up to two additional attacks with your primary hand.  Additional ranks increase the chance you'll perform these additional attacks.
 
-Ability ID: 562 has 10 ranks and costs 50 total 
+Ability ID: 562 has 10 ranks and costs 50 total
 - Rank 1 (ID 1616) costs 5 AAs with effect: Flurry 7 (1.40 ratio)
 - Rank 2 (ID 1617) costs 5 AAs with effect: Flurry 11 (0.80 ratio)
 - Rank 3 (ID 1618) costs 5 AAs with effect: Flurry 15 (0.80 ratio)
@@ -6382,7 +6383,7 @@ Ability ID: 562 has 10 ranks and costs 50 total
 (WAR)
 This extends your capacity to act as a living shield,   This ability adds twelve seconds per rank to the duration of your /shield.  You may train the ranks of this ability at or after levels 61, 63, and 65.
 
-Ability ID: 197 has 3 ranks and costs 12 total 
+Ability ID: 197 has 3 ranks and costs 12 total
 - Rank 1 (ID 586) costs 2 AAs with effect: ShieldDuration 12 (6.00 ratio)
 - Rank 2 (ID 587) costs 4 AAs with effect: ShieldDuration 24 (3.00 ratio)
 - Rank 3 (ID 588) costs 6 AAs with effect: ShieldDuration 36 (2.00 ratio)
@@ -6392,13 +6393,13 @@ Ability ID: 197 has 3 ranks and costs 12 total
 This ability gives you a version of your Malo line of spells that is slightly more reliable than other versions. Additional ranks strengthen the debuff.
 
 Ability ID: 1041 has 2 ranks and costs 12 total  with a recast time of 15 seconds
-- Rank 1 (ID 7903) costs 6 AAs with effect: [Spell 16188](https://retributioneq.com/allaclone/?a=spell&id=16188) 600s range 200: 
+- Rank 1 (ID 7903) costs 6 AAs with effect: [Spell 16188](https://retributioneq.com/allaclone/?a=spell&id=16188) 600s range 200:
 
     - Effect 2: ResistCold base -75
     - Effect 3: ResistMagic base -75
     - Effect 4: ResistPoison base -75
     - Effect 5: ResistFire base -75
-- Rank 2 (ID 12976) costs 6 AAs with effect: [Spell 27476](https://retributioneq.com/allaclone/?a=spell&id=27476) 600s range 200: 
+- Rank 2 (ID 12976) costs 6 AAs with effect: [Spell 27476](https://retributioneq.com/allaclone/?a=spell&id=27476) 600s range 200:
 
     - Effect 2: ResistCold base -100
     - Effect 3: ResistMagic base -100
@@ -6450,7 +6451,7 @@ Ability ID: 616 has 1 ranks and costs 9 total  with a recast time of 1800 second
 When activated, Mark of the Mage Hunter reduces the damage of incoming spells. Each additional rank increases both the amount of damage absorbed per spell, as well as the total amount of damage that may be absorbed before fading.
 
 Ability ID: 606 has 1 ranks and costs 9 total  with a recast time of 1800 seconds
-- Rank 1 (ID 4849) costs 9 AAs with effect: [Spell 11041](https://retributioneq.com/allaclone/?a=spell&id=11041) 180s: 
+- Rank 1 (ID 4849) costs 9 AAs with effect: [Spell 11041](https://retributioneq.com/allaclone/?a=spell&id=11041) 180s:
 
     - Effect 1: MitigateSpellDamage base 25 limit 1000 max 5000
 {{</details>}}
@@ -6467,7 +6468,7 @@ Ability ID: 35 has 1 ranks and costs 9 total  with a recast time of 1800 seconds
 (ROG)
 This passive ability grants you a small chance to score a massive second backstab after you backstab an opponent. Additional ranks increase the power of this strike.
 
-Ability ID: 9300 has 2 ranks and costs 12 total 
+Ability ID: 9300 has 2 ranks and costs 12 total
 - Rank 1 (ID 10850) costs 6 AAs with effect: [Spell 16864](https://retributioneq.com/allaclone/?a=spell&id=16864) range 100
 
     - Effect 1: SkillAttack base 35 limit 10000 max 40
@@ -6479,7 +6480,7 @@ Ability ID: 9300 has 2 ranks and costs 12 total
 (BRD ROG)
 This ability lends persistence to your illusionary disguises, causing them to last until you die or the illusion is forcibly removed.
 
-Ability ID: 353 has 1 ranks and costs 7 total 
+Ability ID: 353 has 1 ranks and costs 7 total
 - Rank 1 (ID 1092) costs 7 AAs with effect: IllusionPersistence 1 (0.14 ratio)
 {{</details>}}
 {{<details title="Mend Companion (NEC MAG BST)">}}
@@ -6496,13 +6497,13 @@ Ability ID: 58 has 1 ranks and costs 5 total  with a recast time of 2160 seconds
 This ability, when activated, causes your target's mind to twist inflicting intense pain and damage, while reducing their ability to do damage to you.
 
 Ability ID: 602 has 1 ranks and costs 12 total  with a recast time of 600 seconds
-- Rank 1 (ID 12938) costs 12 AAs with effect: [Spell 27450](https://retributioneq.com/allaclone/?a=spell&id=27450) 180s range 200: 
+- Rank 1 (ID 12938) costs 12 AAs with effect: [Spell 27450](https://retributioneq.com/allaclone/?a=spell&id=27450) 180s range 200:
 
     - Effect 1: DamageModifier base -10 limit -1
     - Effect 4: CurrentHP base -350 max 350
     - Effect 6: HitChance base -15 limit -1
 	- Recourse:
- [Spell 18654](https://retributioneq.com/allaclone/?a=spell&id=18654) 180s range 125: 
+ [Spell 18654](https://retributioneq.com/allaclone/?a=spell&id=18654) 180s range 125:
 
     - Effect 6: CastingLevel base 10
     - Effect 7: CurrentMana base 82
@@ -6511,7 +6512,7 @@ Ability ID: 602 has 1 ranks and costs 12 total  with a recast time of 600 second
 (ENC)
 This ability increases the duration of all of your single-target mesmerization spells. Area of Effect spells will not be extended.
 
-Ability ID: 263 has 1 ranks and costs 12 total 
+Ability ID: 263 has 1 ranks and costs 12 total
 - Rank 1 (ID 781) costs 12 AAs with effect:
     - Effect 1: SpellDurationIncByTic 1 1
 
@@ -6525,13 +6526,13 @@ Ability ID: 263 has 1 ranks and costs 12 total
 When used, this ability will cause the targeted creature to become considerably less angry with you.
 
 Ability ID: 451 has 3 ranks and costs 18 total  with a recast time of 4320 seconds
-- Rank 1 (ID 1334) costs 3 AAs with effect: [Spell 5943](https://retributioneq.com/allaclone/?a=spell&id=5943) range 200: 
+- Rank 1 (ID 1334) costs 3 AAs with effect: [Spell 5943](https://retributioneq.com/allaclone/?a=spell&id=5943) range 200:
 
     - Effect 1: InstantHate base -2500
-- Rank 2 (ID 1335) costs 6 AAs with effect: [Spell 5944](https://retributioneq.com/allaclone/?a=spell&id=5944) range 200: 
+- Rank 2 (ID 1335) costs 6 AAs with effect: [Spell 5944](https://retributioneq.com/allaclone/?a=spell&id=5944) range 200:
 
     - Effect 1: InstantHate base -5000
-- Rank 3 (ID 1336) costs 9 AAs with effect: [Spell 5945](https://retributioneq.com/allaclone/?a=spell&id=5945) range 200: 
+- Rank 3 (ID 1336) costs 9 AAs with effect: [Spell 5945](https://retributioneq.com/allaclone/?a=spell&id=5945) range 200:
 
     - Effect 1: InstantHate base -7500
 {{</details>}}
@@ -6540,15 +6541,15 @@ Ability ID: 451 has 3 ranks and costs 18 total  with a recast time of 4320 secon
 While active, a portion of the damage you sustain is taken out of your mana rather than your hit points.  Any damage that cannot be absorbed by your mana comes off your hit points instead.  The first rank of this ability will absorb 10 hits from spell or melee attacks before fading, the second rank will absorb 20, and the third will absorb 30, the fourth rank will absorb 40 hits, the fifth by 50, the sixth rank 60 hits. Additional ranks beyond rank 6 further increase the amount of damage that is mitigated by converting your mana. Each rank starting from rank 10 also increases the number of hits the ability absorbs.
 
 Ability ID: 413 has 3 ranks and costs 18 total  with a recast time of 1320 seconds
-- Rank 1 (ID 1242) costs 3 AAs with effect: [Spell 5906](https://retributioneq.com/allaclone/?a=spell&id=5906) 900s: 
+- Rank 1 (ID 1242) costs 3 AAs with effect: [Spell 5906](https://retributioneq.com/allaclone/?a=spell&id=5906) 900s:
 
     - Effect 1: ManaAbsorbPercentDamage base 50
     - Effect 12: CastingLevel base 3
-- Rank 2 (ID 1243) costs 6 AAs with effect: [Spell 5907](https://retributioneq.com/allaclone/?a=spell&id=5907) 900s: 
+- Rank 2 (ID 1243) costs 6 AAs with effect: [Spell 5907](https://retributioneq.com/allaclone/?a=spell&id=5907) 900s:
 
     - Effect 1: ManaAbsorbPercentDamage base 50
     - Effect 12: CastingLevel base 6
-- Rank 3 (ID 1244) costs 9 AAs with effect: [Spell 5908](https://retributioneq.com/allaclone/?a=spell&id=5908) 900s: 
+- Rank 3 (ID 1244) costs 9 AAs with effect: [Spell 5908](https://retributioneq.com/allaclone/?a=spell&id=5908) 900s:
 
     - Effect 1: ManaAbsorbPercentDamage base 50
     - Effect 12: CastingLevel base 9
@@ -6557,7 +6558,7 @@ Ability ID: 413 has 3 ranks and costs 18 total  with a recast time of 1320 secon
 (WAR BER)
 This ability further increases the amount of healing provided by a single bandage while binding wounds.  The two ranks of this ability may be trained at or after levels 63 and 64.
 
-Ability ID: 181 has 2 ranks and costs 6 total 
+Ability ID: 181 has 2 ranks and costs 6 total
 - Rank 1 (ID 537) costs 3 AAs with effect: ImprovedBindWound 60 (20.00 ratio)
 - Rank 2 (ID 538) costs 3 AAs with effect: ImprovedBindWound 75 (5.00 ratio)
 {{</details>}}
@@ -6565,7 +6566,7 @@ Ability ID: 181 has 2 ranks and costs 6 total
 (SHD)
 When the Shadow Knight gets credit for a successful kill, Mortal Coil grants a 25% chance to harvest the energy of his victim's departing essence. This energy improves the Shadow Knight's AC and grants him the ability to draw hit points from his enemies as he attacks them. Each rank in this ability increases the amount of energy harvested.
 
-Ability ID: 697 has 3 ranks and costs 15 total 
+Ability ID: 697 has 3 ranks and costs 15 total
 - Rank 1 (ID 5085) costs 0 AAs with effect: ProcOnKillShot 25 11297 (+Inf ratio)
 - Rank 2 (ID 5086) costs 6 AAs with effect: ProcOnKillShot 25 11298 (0.17 ratio)
 - Rank 3 (ID 5087) costs 9 AAs with effect: ProcOnKillShot 25 11299 (0.11 ratio)
@@ -6590,22 +6591,22 @@ Ability ID: 257 has 11 ranks and costs 55 total  with a recast time of 900 secon
 - Rank 5 (ID 761) costs 5 AAs with effect: [Spell 4800](https://retributioneq.com/allaclone/?a=spell&id=4800)
 
     - Effect 1: TemporaryPets base 1 max 300
-- Rank 6 (ID 1222) costs 5 AAs with effect: [Spell 5877](https://retributioneq.com/allaclone/?a=spell&id=5877): 
+- Rank 6 (ID 1222) costs 5 AAs with effect: [Spell 5877](https://retributioneq.com/allaclone/?a=spell&id=5877):
 
     - Effect 1: TemporaryPets base 1 max 300
-- Rank 7 (ID 1223) costs 5 AAs with effect: [Spell 5878](https://retributioneq.com/allaclone/?a=spell&id=5878): 
+- Rank 7 (ID 1223) costs 5 AAs with effect: [Spell 5878](https://retributioneq.com/allaclone/?a=spell&id=5878):
 
     - Effect 1: TemporaryPets base 1 max 300
-- Rank 8 (ID 1224) costs 5 AAs with effect: [Spell 5879](https://retributioneq.com/allaclone/?a=spell&id=5879): 
+- Rank 8 (ID 1224) costs 5 AAs with effect: [Spell 5879](https://retributioneq.com/allaclone/?a=spell&id=5879):
 
     - Effect 1: TemporaryPets base 1 max 300
-- Rank 9 (ID 5051) costs 5 AAs with effect: [Spell 11262](https://retributioneq.com/allaclone/?a=spell&id=11262): 
+- Rank 9 (ID 5051) costs 5 AAs with effect: [Spell 11262](https://retributioneq.com/allaclone/?a=spell&id=11262):
 
     - Effect 1: TemporaryPets base 1 max 300
-- Rank 10 (ID 5052) costs 5 AAs with effect: [Spell 11263](https://retributioneq.com/allaclone/?a=spell&id=11263): 
+- Rank 10 (ID 5052) costs 5 AAs with effect: [Spell 11263](https://retributioneq.com/allaclone/?a=spell&id=11263):
 
     - Effect 1: TemporaryPets base 1 max 300
-- Rank 11 (ID 5053) costs 5 AAs with effect: [Spell 11264](https://retributioneq.com/allaclone/?a=spell&id=11264): 
+- Rank 11 (ID 5053) costs 5 AAs with effect: [Spell 11264](https://retributioneq.com/allaclone/?a=spell&id=11264):
 
     - Effect 1: TemporaryPets base 1 max 300
 {{</details>}}
@@ -6613,7 +6614,7 @@ Ability ID: 257 has 11 ranks and costs 55 total  with a recast time of 900 secon
 (RNG DRU)
 This ability gives you an innate chance to forage more than one item at a time.  Additional ranks increase the chance to forage a second item.
 
-Ability ID: 406 has 6 ranks and costs 12 total 
+Ability ID: 406 has 6 ranks and costs 12 total
 - Rank 1 (ID 1230) costs 1 AA with effect: ForageAdditionalItems 25 (25.00 ratio)
 - Rank 2 (ID 1231) costs 2 AAs with effect: ForageAdditionalItems 50 (12.50 ratio)
 - Rank 3 (ID 1232) costs 3 AAs with effect: ForageAdditionalItems 75 (8.33 ratio)
@@ -6649,7 +6650,7 @@ Ability ID: 520 has 6 ranks and costs 36 total  with a recast time of 720 to 132
 (ROG)
 Each rank in this ability gives rogues an increasing chance to remain hidden when they are an indirect target of an Area-of-Effect spell.  At the highest rank, a resisted AoE spell will never break Hide and there is a good chance that the rogue will remain hidden even when a spell successfully hits them.  Nerves of Steel does not help when the rogue is the direct target of an AoE spell (if they are the direct target, then they've already been spotted). All ranks beyond rank 5 further increase the chance of remaining sneaking even if you do not resist the AoE spell.
 
-Ability ID: 440 has 5 ranks and costs 25 total 
+Ability ID: 440 has 5 ranks and costs 25 total
 - Rank 1 (ID 1307) costs 5 AAs with effect: NoBreakAESneak 10 (2.00 ratio)
 - Rank 2 (ID 1308) costs 5 AAs with effect: NoBreakAESneak 20 (2.00 ratio)
 - Rank 3 (ID 1309) costs 5 AAs with effect: NoBreakAESneak 30 (2.00 ratio)
@@ -6661,7 +6662,7 @@ Ability ID: 440 has 5 ranks and costs 25 total
 This ability gives you an instant-cast self gate spell to the Nexus.
 
 Ability ID: 53 has 1 ranks and costs 6 total  with a recast time of 4320 seconds
-- Rank 1 (ID 156) costs 6 AAs with effect: [Spell 2734](https://retributioneq.com/allaclone/?a=spell&id=2734): 
+- Rank 1 (ID 156) costs 6 AAs with effect: [Spell 2734](https://retributioneq.com/allaclone/?a=spell&id=2734):
 
     - Effect 1: Teleport
 {{</details>}}
@@ -6682,7 +6683,7 @@ Ability ID: 748 has 3 ranks and costs 18 total  with a recast time of 2160 secon
     - Effect 2: WipeHateList base 40
     - Effect 3: CastOnFadeEffectAlways base 11330
     - Effect 4: Rune base 1
-- Rank 3 (ID 4896) costs 6 AAs with effect: [Spell 11059](https://retributioneq.com/allaclone/?a=spell&id=11059) 180s range 200: 
+- Rank 3 (ID 4896) costs 6 AAs with effect: [Spell 11059](https://retributioneq.com/allaclone/?a=spell&id=11059) 180s range 200:
 
     - Effect 1: Mez base 2 max 78
     - Effect 2: WipeHateList base 40
@@ -6693,7 +6694,7 @@ Ability ID: 748 has 3 ranks and costs 18 total  with a recast time of 2160 secon
 (ROG)
 This ability grants you a chance to hide or evade while moving.  Each rank provides an increasing chance. You may train in this ability once each level after reaching level 61.
 
-Ability ID: 205 has 5 ranks and costs 5 total 
+Ability ID: 205 has 5 ranks and costs 5 total
 - Rank 1 (ID 606) costs 1 AA with effect: NimbleEvasion 20 (20.00 ratio)
 - Rank 2 (ID 607) costs 1 AA with effect: NimbleEvasion 40 (20.00 ratio)
 - Rank 3 (ID 608) costs 1 AA with effect: NimbleEvasion 60 (20.00 ratio)
@@ -6705,7 +6706,7 @@ Ability ID: 205 has 5 ranks and costs 5 total
 Through this ability you are able to channel a black werewolf. While in this form, you will benefit from improved vision and quickened attack speeds. Additional ranks of this ability will add more health and mana to you.
 
 Ability ID: 707 has 1 ranks and costs 9 total  with a recast time of 1 seconds
-- Rank 1 (ID 5109) costs 9 AAs with effect: [Spell 11321](https://retributioneq.com/allaclone/?a=spell&id=11321) range 200: 
+- Rank 1 (ID 5109) costs 9 AAs with effect: [Spell 11321](https://retributioneq.com/allaclone/?a=spell&id=11321) range 200:
 
     - Effect 1: SeeInvis base 1
     - Effect 2: AttackSpeed base 160
@@ -6721,27 +6722,27 @@ Ability ID: 128 has 7 ranks and costs 36 total  with a recast time of 900 second
 
     - Effect 9: CurrentHP base 200
     - Effect 10: CurrentMana base 80
-- Rank 2 (ID 1123) costs 5 AAs with effect: [Spell 5854](https://retributioneq.com/allaclone/?a=spell&id=5854) 36s: 
+- Rank 2 (ID 1123) costs 5 AAs with effect: [Spell 5854](https://retributioneq.com/allaclone/?a=spell&id=5854) 36s:
 
     - Effect 9: CurrentHP base 222
     - Effect 10: CurrentMana base 90
-- Rank 3 (ID 1124) costs 5 AAs with effect: [Spell 5855](https://retributioneq.com/allaclone/?a=spell&id=5855) 36s: 
+- Rank 3 (ID 1124) costs 5 AAs with effect: [Spell 5855](https://retributioneq.com/allaclone/?a=spell&id=5855) 36s:
 
     - Effect 9: CurrentHP base 244
     - Effect 10: CurrentMana base 100
-- Rank 4 (ID 1125) costs 5 AAs with effect: [Spell 5856](https://retributioneq.com/allaclone/?a=spell&id=5856) 36s: 
+- Rank 4 (ID 1125) costs 5 AAs with effect: [Spell 5856](https://retributioneq.com/allaclone/?a=spell&id=5856) 36s:
 
     - Effect 9: CurrentHP base 267
     - Effect 10: CurrentMana base 110
-- Rank 5 (ID 4969) costs 5 AAs with effect: [Spell 11212](https://retributioneq.com/allaclone/?a=spell&id=11212) 36s: 
+- Rank 5 (ID 4969) costs 5 AAs with effect: [Spell 11212](https://retributioneq.com/allaclone/?a=spell&id=11212) 36s:
 
     - Effect 9: CurrentHP base 311
     - Effect 10: CurrentMana base 120
-- Rank 6 (ID 4970) costs 5 AAs with effect: [Spell 11213](https://retributioneq.com/allaclone/?a=spell&id=11213) 36s: 
+- Rank 6 (ID 4970) costs 5 AAs with effect: [Spell 11213](https://retributioneq.com/allaclone/?a=spell&id=11213) 36s:
 
     - Effect 9: CurrentHP base 356
     - Effect 10: CurrentMana base 130
-- Rank 7 (ID 4971) costs 5 AAs with effect: [Spell 11214](https://retributioneq.com/allaclone/?a=spell&id=11214) 36s: 
+- Rank 7 (ID 4971) costs 5 AAs with effect: [Spell 11214](https://retributioneq.com/allaclone/?a=spell&id=11214) 36s:
 
     - Effect 9: CurrentHP base 400
     - Effect 10: CurrentMana base 140
@@ -6751,7 +6752,7 @@ Ability ID: 128 has 7 ranks and costs 36 total  with a recast time of 900 second
 This ability causes your target to succumb to a sudden, violent attack, after which they are frequently unable to move for a time. Additonal ranks increase the duration of the ability.
 
 Ability ID: 403 has 1 ranks and costs 12 total  with a recast time of 120 seconds
-- Rank 1 (ID 14264) costs 12 AAs with effect: [Spell 32358](https://retributioneq.com/allaclone/?a=spell&id=32358) 192s range 200: 
+- Rank 1 (ID 14264) costs 12 AAs with effect: [Spell 32358](https://retributioneq.com/allaclone/?a=spell&id=32358) 192s range 200:
 
     - Effect 1: DiseaseCounter base 16
     - Effect 2: Root base -10000
@@ -6760,7 +6761,7 @@ Ability ID: 403 has 1 ranks and costs 12 total  with a recast time of 120 second
 (WAR PAL RNG SHD MNK BRD ROG BST BER)
 This ability will give you additional improvements in your Natural Durability, Avoidance Boost, and Mitigation Boost.
 
-Ability ID: 120 has 1 ranks and costs 5 total 
+Ability ID: 120 has 1 ranks and costs 5 total
 - Rank 1 (ID 279) costs 5 AAs with effect:
     - Effect 1: MaxHPChange 200 (40.00 ratio)
 
@@ -6773,7 +6774,7 @@ Ability ID: 120 has 1 ranks and costs 5 total
 (PAL SHD BER)
 The planes demand a certain hardiness of those who adventure within.  Each rank of this ability adds an additional 1.25% to your maximum hit points.  You gain the ability to train an additional rank at levels 61, 63, and 65.
 
-Ability ID: 315 has 3 ranks and costs 9 total 
+Ability ID: 315 has 3 ranks and costs 9 total
 - Rank 1 (ID 952) costs 3 AAs with effect: MaxHPChange 125 (41.67 ratio)
 - Rank 2 (ID 953) costs 3 AAs with effect: MaxHPChange 250 (41.67 ratio)
 - Rank 3 (ID 954) costs 3 AAs with effect: MaxHPChange 375 (41.67 ratio)
@@ -6782,7 +6783,7 @@ Ability ID: 315 has 3 ranks and costs 9 total
 (WAR)
 The planes demand a certain hardiness of those who adventure within.  Each rank of this ability adds an additional 1.5% to your maximum hit points.  You gain the ability to train an additional rank at levels 61, 63, and 65.
 
-Ability ID: 143 has 3 ranks and costs 9 total 
+Ability ID: 143 has 3 ranks and costs 9 total
 - Rank 1 (ID 423) costs 3 AAs with effect: MaxHPChange 150 (50.00 ratio)
 - Rank 2 (ID 424) costs 3 AAs with effect: MaxHPChange 300 (50.00 ratio)
 - Rank 3 (ID 425) costs 3 AAs with effect: MaxHPChange 450 (50.00 ratio)
@@ -6791,7 +6792,7 @@ Ability ID: 143 has 3 ranks and costs 9 total
 (ROG)
 Each rank in this ability increases the minimum damage you will do on any backstab.
 
-Ability ID: 537 has 6 ranks and costs 30 total 
+Ability ID: 537 has 6 ranks and costs 30 total
 - Rank 1 (ID 1543) costs 5 AAs with effect: SkillDamageAmount 10 8 (2.00 ratio)
 - Rank 2 (ID 1544) costs 5 AAs with effect: SkillDamageAmount 20 8 (2.00 ratio)
 - Rank 3 (ID 1545) costs 5 AAs with effect: SkillDamageAmount 30 8 (2.00 ratio)
@@ -6803,7 +6804,7 @@ Ability ID: 537 has 6 ranks and costs 30 total
 (ROG)
 Each rank in this ability increases the chance of successfully landing a backstab.
 
-Ability ID: 439 has 3 ranks and costs 18 total 
+Ability ID: 439 has 3 ranks and costs 18 total
 - Rank 1 (ID 1304) costs 3 AAs with effect: Accuracy 50 8 (16.67 ratio)
 - Rank 2 (ID 1305) costs 6 AAs with effect: Accuracy 100 8 (8.33 ratio)
 - Rank 3 (ID 1306) costs 9 AAs with effect: Accuracy 150 8 (5.56 ratio)
@@ -6812,7 +6813,7 @@ Ability ID: 439 has 3 ranks and costs 18 total
 (BER)
 This ability refines your accuracy when you enter a Frenzy. Each additional rank increases your accuracy further.
 
-Ability ID: 7060 has 3 ranks and costs 15 total 
+Ability ID: 7060 has 3 ranks and costs 15 total
 - Rank 1 (ID 4809) costs 5 AAs with effect: Accuracy 40 74 (8.00 ratio)
 - Rank 2 (ID 4810) costs 5 AAs with effect: Accuracy 80 74 (8.00 ratio)
 - Rank 3 (ID 4811) costs 5 AAs with effect: Accuracy 120 74 (8.00 ratio)
@@ -6821,7 +6822,7 @@ Ability ID: 7060 has 3 ranks and costs 15 total
 (RNG)
 Ranks in this ability increase the accuracy of your melee attacks.
 
-Ability ID: 287 has 9 ranks and costs 54 total 
+Ability ID: 287 has 9 ranks and costs 54 total
 - Rank 1 (ID 864) costs 3 AAs with effect:
     - Effect 1: Accuracy 10 (3.33 ratio)
 
@@ -6999,7 +7000,7 @@ Ability ID: 287 has 9 ranks and costs 54 total
 This ability allows you to pressure your opponent, causing him to stumble away from you. The second rank adds a small stun component to the ability which is also present in the third rank.
 
 Ability ID: 467 has 1 ranks and costs 5 total  with a recast time of 30 seconds
-- Rank 1 (ID 1351) costs 5 AAs with effect: [Spell 5939](https://retributioneq.com/allaclone/?a=spell&id=5939) range 50: 
+- Rank 1 (ID 1351) costs 5 AAs with effect: [Spell 5939](https://retributioneq.com/allaclone/?a=spell&id=5939) range 50:
 
     - Effect 1: CurrentHP base -1 max 1
 {{</details>}}
@@ -7038,20 +7039,20 @@ Ability ID: 452 has 3 ranks and costs 15 total  with a recast time of 1800 secon
 {{</details>}}
 {{<details title="Protection of the Spirit Wolf (RNG)">}}
 (RNG)
-When activated, Protection of the Spirit Wolf summons a spirit wolf which will protect you from danger. Each rank in this ability increases the amount of damage that can be averted by the spirit wolf. 
+When activated, Protection of the Spirit Wolf summons a spirit wolf which will protect you from danger. Each rank in this ability increases the amount of damage that can be averted by the spirit wolf.
 
 Ability ID: 778 has 3 ranks and costs 18 total  with a recast time of 900 seconds
-- Rank 1 (ID 5007) costs 3 AAs with effect: [Spell 11233](https://retributioneq.com/allaclone/?a=spell&id=11233) 60s: 
+- Rank 1 (ID 5007) costs 3 AAs with effect: [Spell 11233](https://retributioneq.com/allaclone/?a=spell&id=11233) 60s:
 
     - Effect 2: MitigateMeleeDamage base 25 max 2000
     - Effect 3: MitigateSpellDamage base 25 max 2000
     - Effect 4: ResistMagic base 20
-- Rank 2 (ID 5008) costs 6 AAs with effect: [Spell 11234](https://retributioneq.com/allaclone/?a=spell&id=11234) 60s: 
+- Rank 2 (ID 5008) costs 6 AAs with effect: [Spell 11234](https://retributioneq.com/allaclone/?a=spell&id=11234) 60s:
 
     - Effect 2: MitigateMeleeDamage base 27 max 4000
     - Effect 3: MitigateSpellDamage base 27 max 4000
     - Effect 4: ResistMagic base 40
-- Rank 3 (ID 5009) costs 9 AAs with effect: [Spell 11235](https://retributioneq.com/allaclone/?a=spell&id=11235) 60s: 
+- Rank 3 (ID 5009) costs 9 AAs with effect: [Spell 11235](https://retributioneq.com/allaclone/?a=spell&id=11235) 60s:
 
     - Effect 2: MitigateMeleeDamage base 29 max 6000
     - Effect 3: MitigateSpellDamage base 29 max 6000
@@ -7129,7 +7130,7 @@ Ability ID: 514 has 3 ranks and costs 18 total  with a recast time of 1 seconds
 (DRU WIZ MAG)
 This ability reduces the casting time on your damage spells that have a casting time greater than three seconds by 2, 5, 10, 15, and 20 percent.
 
-Ability ID: 44 has 3 ranks and costs 18 total 
+Ability ID: 44 has 3 ranks and costs 18 total
 - Rank 1 (ID 141) costs 3 AAs with effect:
     - Effect 1: IncreaseSpellHaste 2 2 (0.67 ratio)
 
@@ -7186,7 +7187,7 @@ Ability ID: 44 has 3 ranks and costs 18 total
 (DRU WIZ)
 This ability reduces the casting time on your evacuation and succor spells by 10, 25, and 50 percent.
 
-Ability ID: 42 has 3 ranks and costs 18 total 
+Ability ID: 42 has 3 ranks and costs 18 total
 - Rank 1 (ID 137) costs 3 AAs with effect:
     - Effect 1: IncreaseSpellHaste 10 10 (3.33 ratio)
 
@@ -7207,7 +7208,7 @@ Ability ID: 42 has 3 ranks and costs 18 total
 (ENC)
 This ability decreases the reuse time on Mass Group Buff by 10 percent per rank.
 
-Ability ID: 264 has 3 ranks and costs 18 total 
+Ability ID: 264 has 3 ranks and costs 18 total
 - Rank 1 (ID 782) costs 3 AAs with effect: HastenedAASkill 432 35 (144.00 ratio)
 - Rank 2 (ID 783) costs 6 AAs with effect: HastenedAASkill 864 35 (72.00 ratio)
 - Rank 3 (ID 784) costs 9 AAs with effect: HastenedAASkill 1296 35 (48.00 ratio)
@@ -7216,7 +7217,7 @@ Ability ID: 264 has 3 ranks and costs 18 total
 (MAG)
 This ability reduces the casting time of your summoning spells by 10, 25, and 50 percent.
 
-Ability ID: 223 has 3 ranks and costs 18 total 
+Ability ID: 223 has 3 ranks and costs 18 total
 - Rank 1 (ID 655) costs 3 AAs with effect:
     - Effect 1: IncreaseSpellHaste 10 10 (3.33 ratio)
 
@@ -7279,7 +7280,7 @@ Ability ID: 223 has 3 ranks and costs 18 total
 (NEC)
 This ability imbues your pet with the ability to flurry attacks.
 
-Ability ID: 279 has 5 ranks and costs 25 total 
+Ability ID: 279 has 5 ranks and costs 25 total
 - Rank 1 (ID 839) costs 5 AAs with effect: PetFlurry 4 (0.80 ratio)
 - Rank 2 (ID 840) costs 5 AAs with effect: PetFlurry 8 (0.80 ratio)
 - Rank 3 (ID 841) costs 5 AAs with effect: PetFlurry 12 (0.80 ratio)
@@ -7303,7 +7304,7 @@ Ability ID: 50 has 3 ranks and costs 23 total  with a recast time of 1200 second
     - Effect 8: ATK base 50
     - Effect 9: HealOverTime base 50
     - Effect 10: GiveDoubleAttack base 15
-- Rank 2 (ID 1519) costs 9 AAs with effect: [Spell 8216](https://retributioneq.com/allaclone/?a=spell&id=8216): 
+- Rank 2 (ID 1519) costs 9 AAs with effect: [Spell 8216](https://retributioneq.com/allaclone/?a=spell&id=8216):
 
     - Effect 1: WeaponProc [Spell 8217](https://retributioneq.com/allaclone/?a=spell&id=8217) limit 100
     - Effect 2: ApplyEffect base 100 [Spell 30709](https://retributioneq.com/allaclone/?a=spell&id=30709) [Spell 30709](https://retributioneq.com/allaclone/?a=aa&id=30709) max 3
@@ -7314,7 +7315,7 @@ Ability ID: 50 has 3 ranks and costs 23 total  with a recast time of 1200 second
     - Effect 7: ATK base 100
     - Effect 8: HealOverTime base 100
     - Effect 9: GiveDoubleAttack base 30
-- Rank 3 (ID 5068) costs 9 AAs with effect: [Spell 11279](https://retributioneq.com/allaclone/?a=spell&id=11279): 
+- Rank 3 (ID 5068) costs 9 AAs with effect: [Spell 11279](https://retributioneq.com/allaclone/?a=spell&id=11279):
 
     - Effect 1: WeaponProc [Spell 11614](https://retributioneq.com/allaclone/?a=spell&id=11614) limit 100
     - Effect 2: ApplyEffect base 100 [Spell 30709](https://retributioneq.com/allaclone/?a=spell&id=30709) [Spell 30709](https://retributioneq.com/allaclone/?a=aa&id=30709) max 3
@@ -7332,7 +7333,7 @@ Ability ID: 50 has 3 ranks and costs 23 total  with a recast time of 1200 second
 This ability allows you to proc every swing for up to 12 seconds.
 
 Ability ID: 131 has 1 ranks and costs 12 total  with a recast time of 60 seconds
-- Rank 1 (ID 8303) costs 12 AAs with effect: [Spell 21773](https://retributioneq.com/allaclone/?a=spell&id=21773) 6s range 100: 
+- Rank 1 (ID 8303) costs 12 AAs with effect: [Spell 21773](https://retributioneq.com/allaclone/?a=spell&id=21773) 6s range 100:
 
     - Effect 1: ProcChance base 10000
 {{</details>}}
@@ -7340,21 +7341,21 @@ Ability ID: 131 has 1 ranks and costs 12 total  with a recast time of 60 seconds
 (RNG)
 This passive ability will increase the amount of damage you do when you score a critical hit with your archery attacks. Additional ranks increase the critical damage further.
 
-Ability ID: 877 has 1 ranks and costs 10 total 
+Ability ID: 877 has 1 ranks and costs 10 total
 - Rank 1 (ID 6765) costs 10 AAs with effect: CriticalDamageMob 20 7 (2.00 ratio)
 {{</details>}}
 {{<details title="Rapid Defiance (WAR)">}}
 (WAR)
 This ability reduces the reuse time of Warlord's Tenacity.
 
-Ability ID: 3600 has 1 ranks and costs 7 total 
+Ability ID: 3600 has 1 ranks and costs 7 total
 - Rank 1 (ID 6136) costs 7 AAs with effect: HastenedAASkill 360 300 (51.43 ratio)
 {{</details>}}
 {{<details title="Rapid Feign (MNK)">}}
 (MNK)
 This ability reduces your reuse time on feign death by 10, 25, and 50 percent.
 
-Ability ID: 100 has 3 ranks and costs 18 total 
+Ability ID: 100 has 3 ranks and costs 18 total
 - Rank 1 (ID 237) costs 3 AAs with effect: ReduceSkillTimer 1 25 (0.33 ratio)
 - Rank 2 (ID 238) costs 6 AAs with effect: ReduceSkillTimer 3 25 (0.33 ratio)
 - Rank 3 (ID 239) costs 9 AAs with effect: ReduceSkillTimer 5 25 (0.22 ratio)
@@ -7363,7 +7364,7 @@ Ability ID: 100 has 3 ranks and costs 18 total
 (MNK)
 Each rank in this ability increases your chance to perform up to two additional attacks with your primary hand.
 
-Ability ID: 273 has 10 ranks and costs 45 total 
+Ability ID: 273 has 10 ranks and costs 45 total
 - Rank 1 (ID 815) costs 4 AAs with effect: Flurry 7 (1.75 ratio)
 - Rank 2 (ID 816) costs 4 AAs with effect: Flurry 11 (1.00 ratio)
 - Rank 3 (ID 817) costs 4 AAs with effect: Flurry 15 (1.00 ratio)
@@ -7380,13 +7381,13 @@ Ability ID: 273 has 10 ranks and costs 45 total
 This ability grants you an enhanced version of the Mend Companion ability.  Each additional rank increases the healing power of the ability further.
 
 Ability ID: 418 has 3 ranks and costs 18 total  with a recast time of 2160 seconds
-- Rank 1 (ID 1126) costs 3 AAs with effect: [Spell 5845](https://retributioneq.com/allaclone/?a=spell&id=5845) range 150: 
+- Rank 1 (ID 1126) costs 3 AAs with effect: [Spell 5845](https://retributioneq.com/allaclone/?a=spell&id=5845) range 150:
 
     - Effect 1: CurrentHP base 4500
-- Rank 2 (ID 1127) costs 6 AAs with effect: [Spell 5846](https://retributioneq.com/allaclone/?a=spell&id=5846) range 150: 
+- Rank 2 (ID 1127) costs 6 AAs with effect: [Spell 5846](https://retributioneq.com/allaclone/?a=spell&id=5846) range 150:
 
     - Effect 1: CurrentHP base 7500
-- Rank 3 (ID 1128) costs 9 AAs with effect: [Spell 5847](https://retributioneq.com/allaclone/?a=spell&id=5847) range 150: 
+- Rank 3 (ID 1128) costs 9 AAs with effect: [Spell 5847](https://retributioneq.com/allaclone/?a=spell&id=5847) range 150:
 
     - Effect 1: CurrentHP base 10500
 {{</details>}}
@@ -7394,7 +7395,7 @@ Ability ID: 418 has 3 ranks and costs 18 total  with a recast time of 2160 secon
 (MNK)
 This ability gives you the chance to automatically perform a bonus flying kick on ripostes 25, 35, and 50 percent of the time.
 
-Ability ID: 101 has 3 ranks and costs 18 total 
+Ability ID: 101 has 3 ranks and costs 18 total
 - Rank 1 (ID 240) costs 3 AAs with effect:
     - Effect 1:  20 20 (6.67 ratio)
 
@@ -7429,7 +7430,7 @@ Ability ID: 303 has 3 ranks and costs 33 total  with a recast time of 60 seconds
     - Effect 10: SeeInvis base 1
     - Effect 11: ManaPool base 300
     - Effect 12: LimitCombatSkills
-- Rank 2 (ID 1340) costs 12 AAs with effect: [Spell 5950](https://retributioneq.com/allaclone/?a=spell&id=5950) range 100: 
+- Rank 2 (ID 1340) costs 12 AAs with effect: [Spell 5950](https://retributioneq.com/allaclone/?a=spell&id=5950) range 100:
 
     - Effect 1: ImprovedDamage base 1 limit 25
     - Effect 2: Familiar
@@ -7443,7 +7444,7 @@ Ability ID: 303 has 3 ranks and costs 33 total  with a recast time of 60 seconds
     - Effect 10: LimitCombatSkills
     - Effect 11: ManaPool base 350
     - Effect 12: CurrentMana base 2
-- Rank 3 (ID 5280) costs 9 AAs with effect: [Spell 11625](https://retributioneq.com/allaclone/?a=spell&id=11625) range 100: 
+- Rank 3 (ID 5280) costs 9 AAs with effect: [Spell 11625](https://retributioneq.com/allaclone/?a=spell&id=11625) range 100:
 
     - Effect 1: ImprovedDamage base 1 limit 30
     - Effect 2: Familiar
@@ -7463,42 +7464,42 @@ Ability ID: 303 has 3 ranks and costs 33 total  with a recast time of 60 seconds
 When this ability is activated, the beastlord will unleash a terrible roar that leaves the opponent damaged, shaken, and less willing to attack the beastlord.  Additional ranks cause the ability to deal more damage and make the target even less likely to attack you.
 
 Ability ID: 362 has 6 ranks and costs 36 total  with a recast time of 900 seconds
-- Rank 1 (ID 1119) costs 3 AAs with effect: [Spell 5841](https://retributioneq.com/allaclone/?a=spell&id=5841) 60s range 100: 
+- Rank 1 (ID 1119) costs 3 AAs with effect: [Spell 5841](https://retributioneq.com/allaclone/?a=spell&id=5841) 60s range 100:
 
     - Effect 1: CurrentHPOnce base -500
     - Effect 2: STR base -50
     - Effect 3: DEX base -50
     - Effect 4: AGI base -50
     - Effect 5: InstantHate base -750
-- Rank 2 (ID 1120) costs 6 AAs with effect: [Spell 5842](https://retributioneq.com/allaclone/?a=spell&id=5842) 60s range 100: 
+- Rank 2 (ID 1120) costs 6 AAs with effect: [Spell 5842](https://retributioneq.com/allaclone/?a=spell&id=5842) 60s range 100:
 
     - Effect 1: CurrentHPOnce base -1000
     - Effect 2: STR base -65
     - Effect 3: DEX base -65
     - Effect 4: AGI base -65
     - Effect 5: InstantHate base -1500
-- Rank 3 (ID 1121) costs 9 AAs with effect: [Spell 5843](https://retributioneq.com/allaclone/?a=spell&id=5843) 60s range 100: 
+- Rank 3 (ID 1121) costs 9 AAs with effect: [Spell 5843](https://retributioneq.com/allaclone/?a=spell&id=5843) 60s range 100:
 
     - Effect 1: CurrentHPOnce base -1500
     - Effect 2: STR base -80
     - Effect 3: DEX base -80
     - Effect 4: AGI base -80
     - Effect 5: InstantHate base -2250
-- Rank 4 (ID 4964) costs 6 AAs with effect: [Spell 11206](https://retributioneq.com/allaclone/?a=spell&id=11206) 60s range 100: 
+- Rank 4 (ID 4964) costs 6 AAs with effect: [Spell 11206](https://retributioneq.com/allaclone/?a=spell&id=11206) 60s range 100:
 
     - Effect 1: CurrentHPOnce base -1750
     - Effect 2: STR base -90
     - Effect 3: DEX base -90
     - Effect 4: AGI base -90
     - Effect 5: InstantHate base -2500
-- Rank 5 (ID 4965) costs 6 AAs with effect: [Spell 11207](https://retributioneq.com/allaclone/?a=spell&id=11207) 60s range 100: 
+- Rank 5 (ID 4965) costs 6 AAs with effect: [Spell 11207](https://retributioneq.com/allaclone/?a=spell&id=11207) 60s range 100:
 
     - Effect 1: CurrentHPOnce base -2000
     - Effect 2: STR base -100
     - Effect 3: DEX base -100
     - Effect 4: AGI base -100
     - Effect 5: InstantHate base -2750
-- Rank 6 (ID 4966) costs 6 AAs with effect: [Spell 11208](https://retributioneq.com/allaclone/?a=spell&id=11208) 60s range 100: 
+- Rank 6 (ID 4966) costs 6 AAs with effect: [Spell 11208](https://retributioneq.com/allaclone/?a=spell&id=11208) 60s range 100:
 
     - Effect 1: CurrentHPOnce base -2250
     - Effect 2: STR base -110
@@ -7510,7 +7511,7 @@ Ability ID: 362 has 6 ranks and costs 36 total  with a recast time of 900 second
 (PAL)
 Training in this ability shortens the time between uses of Divine Stun by seven seconds per rank.  The three ranks of this ability may be trained once each level for levels 63 and above.
 
-Ability ID: 196 has 3 ranks and costs 6 total 
+Ability ID: 196 has 3 ranks and costs 6 total
 - Rank 1 (ID 583) costs 2 AAs with effect:
     - Effect 1: HastenedAASkill 7 7 (3.50 ratio)
 
@@ -7544,13 +7545,13 @@ Ability ID: 196 has 3 ranks and costs 6 total
 While you are under the effects of this ability, creatures will always choose to attack someone else before they attack you. You may cast spells upon yourself, but the sanctuary effect immediately ends if you take any hostile action or cast spells on another player.
 
 Ability ID: 396 has 1 ranks and costs 12 total  with a recast time of 4320 seconds
-- Rank 1 (ID 1209) costs 12 AAs with effect: [Spell 5912](https://retributioneq.com/allaclone/?a=spell&id=5912) 180s: 
+- Rank 1 (ID 1209) costs 12 AAs with effect: [Spell 5912](https://retributioneq.com/allaclone/?a=spell&id=5912) 180s:
 
     - Effect 1: Sanctuary base 1
 {{</details>}}
 {{<details title="Sanguine Mind Crystal (ENC)">}}
 (ENC)
-Through this ability, an enchanter learns to channel and congeal his mana into ruby crystals. These crystals can later be harvested to heal the enchanter's wounds. 
+Through this ability, an enchanter learns to channel and congeal his mana into ruby crystals. These crystals can later be harvested to heal the enchanter's wounds.
 
 Ability ID: 632 has 1 ranks and costs 7 total  with a recast time of 300 seconds
 - Rank 1 (ID 4934) costs 7 AAs with effect: [Spell 11086](https://retributioneq.com/allaclone/?a=spell&id=11086) range 300
@@ -7562,21 +7563,21 @@ Ability ID: 632 has 1 ranks and costs 7 total  with a recast time of 300 seconds
 While this ability is active, the berserker is fueled by his rage causing his melee critical hits to land for massive damage.  When the ability wears off, though, it drains a significant portion of the berserker's life force. Each additional rank increases the amount of damage inflicted.
 
 Ability ID: 465 has 3 ranks and costs 18 total  with a recast time of 3600 seconds
-- Rank 1 (ID 1348) costs 3 AAs with effect: [Spell 6090](https://retributioneq.com/allaclone/?a=spell&id=6090) 60s: 
+- Rank 1 (ID 1348) costs 3 AAs with effect: [Spell 6090](https://retributioneq.com/allaclone/?a=spell&id=6090) 60s:
 
     - Effect 1: CriticalDamageMob base 75 limit 2
     - Effect 2: CriticalDamageMob base 75 limit 3
     - Effect 3: CriticalDamageMob base 75 limit 77
     - Effect 4: CriticalDamageMob base 75 limit 74
     - Effect 7: CastOnFadeEffect base 6097
-- Rank 2 (ID 1349) costs 6 AAs with effect: [Spell 6091](https://retributioneq.com/allaclone/?a=spell&id=6091) 60s: 
+- Rank 2 (ID 1349) costs 6 AAs with effect: [Spell 6091](https://retributioneq.com/allaclone/?a=spell&id=6091) 60s:
 
     - Effect 1: CriticalDamageMob base 150 limit 2
     - Effect 2: CriticalDamageMob base 150 limit 3
     - Effect 3: CriticalDamageMob base 150 limit 77
     - Effect 4: CriticalDamageMob base 150 limit 74
     - Effect 7: CastOnFadeEffect base 6098
-- Rank 3 (ID 1350) costs 9 AAs with effect: [Spell 6092](https://retributioneq.com/allaclone/?a=spell&id=6092) 60s: 
+- Rank 3 (ID 1350) costs 9 AAs with effect: [Spell 6092](https://retributioneq.com/allaclone/?a=spell&id=6092) 60s:
 
     - Effect 1: CriticalDamageMob base 225 limit 2
     - Effect 2: CriticalDamageMob base 225 limit 3
@@ -7589,7 +7590,7 @@ Ability ID: 465 has 3 ranks and costs 18 total  with a recast time of 3600 secon
 This ability provides an alternate version of Scent of Terris. Each rank increases the effectiveness of the debuffs.
 
 Ability ID: 751 has 1 ranks and costs 6 total  with a recast time of 4 seconds
-- Rank 1 (ID 13225) costs 6 AAs with effect: [Spell 27592](https://retributioneq.com/allaclone/?a=spell&id=27592) 840s range 200: 
+- Rank 1 (ID 13225) costs 6 AAs with effect: [Spell 27592](https://retributioneq.com/allaclone/?a=spell&id=27592) 840s range 200:
 
     - Effect 1: PoisonCounter base 22
     - Effect 2: ResistFire base -20 max 90
@@ -7600,7 +7601,7 @@ Ability ID: 751 has 1 ranks and costs 6 total  with a recast time of 4 seconds
 (BRD)
 This ability will reduce the amount of time that it takes you to memorize a song.
 
-Ability ID: 123 has 1 ranks and costs 3 total 
+Ability ID: 123 has 1 ranks and costs 3 total
 - Rank 1 (ID 286) costs 3 AAs with effect: CHA
 {{</details>}}
 {{<details title="Second Wind Ward (NEC MAG BST)">}}
@@ -7608,7 +7609,7 @@ Ability ID: 123 has 1 ranks and costs 3 total
 When your pet is low on health, this spell will invigorate your pet, providing a small heal while absorbing some damage for a short period of time. Additional ranks increase the effects of the spell.
 
 Ability ID: 2066 has 1 ranks and costs 5 total  with a recast time of 900 seconds
-- Rank 1 (ID 15214) costs 5 AAs with effect: [Spell 38313](https://retributioneq.com/allaclone/?a=spell&id=38313) 600s range 200: 
+- Rank 1 (ID 15214) costs 5 AAs with effect: [Spell 38313](https://retributioneq.com/allaclone/?a=spell&id=38313) 600s range 200:
 
     - Effect 1: TriggerOnReqTarget base 38316 limit 504
 {{</details>}}
@@ -7617,15 +7618,15 @@ Ability ID: 2066 has 1 ranks and costs 5 total  with a recast time of 900 second
 Use of this ability allows you to quickly gate yourself back to a secondary bind point that has been previously set by use of a Stone of Marking.
 
 Ability ID: 405 has 1 ranks and costs 7 total  with a recast time of 600 seconds
-- Rank 1 (ID 1229) costs 7 AAs with effect: [Spell 6094](https://retributioneq.com/allaclone/?a=spell&id=6094): 
+- Rank 1 (ID 1229) costs 7 AAs with effect: [Spell 6094](https://retributioneq.com/allaclone/?a=spell&id=6094):
 
     - Effect 1: Gate base 98 limit 2
 {{</details>}}
 {{<details title="Seized Opportunity (ROG)">}}
 (ROG)
-Through experience, skilled rogues can take advantage of openings in their opponents' defenses to land deadly strikes even from the front. 
+Through experience, skilled rogues can take advantage of openings in their opponents' defenses to land deadly strikes even from the front.
 
-Ability ID: 790 has 9 ranks and costs 57 total 
+Ability ID: 790 has 9 ranks and costs 57 total
 - Rank 1 (ID 878) costs 0 AAs with effect: FrontalBackstabChance 100 (+Inf ratio)
 - Rank 2 (ID 879) costs 6 AAs with effect: FrontalBackstabChance 100
 - Rank 3 (ID 880) costs 9 AAs with effect: FrontalBackstabChance 100
@@ -7640,7 +7641,7 @@ Ability ID: 790 has 9 ranks and costs 57 total
 (BRD)
 Years of practice allows the bard to innately increase their base movement run. This increase does not stack with movement rate spell effects.
 
-Ability ID: 560 has 3 ranks and costs 18 total 
+Ability ID: 560 has 3 ranks and costs 18 total
 - Rank 1 (ID 1627) costs 3 AAs with effect: BaseMovementSpeed 5 (1.67 ratio)
 - Rank 2 (ID 1628) costs 6 AAs with effect: BaseMovementSpeed 10 (0.83 ratio)
 - Rank 3 (ID 1629) costs 9 AAs with effect: BaseMovementSpeed 15 (0.56 ratio)
@@ -7650,7 +7651,7 @@ Ability ID: 560 has 3 ranks and costs 18 total
 Provides an increase in run speed for the bard and members of the bard's party.
 
 Ability ID: 3704 has 1 ranks and costs 7 total  with a recast time of 5 seconds
-- Rank 1 (ID 6205) costs 7 AAs with effect: [Spell 12712](https://retributioneq.com/allaclone/?a=spell&id=12712) 150s: 
+- Rank 1 (ID 6205) costs 7 AAs with effect: [Spell 12712](https://retributioneq.com/allaclone/?a=spell&id=12712) 150s:
 
     - Effect 1: MovementSpeed base 140 max 150
 {{</details>}}
@@ -7672,10 +7673,10 @@ Ability ID: 174 has 6 ranks and costs 27 total  with a recast time of 540 second
 This passive ability will grant a chance for your companion to score a critical hit when attacking via melee. Additional ranks increase the chance of a critical hit.
 
     - Effect 1: TemporaryPets base 1 max 45
-- Rank 5 (ID 1508) costs 6 AAs with effect: [Spell 8202](https://retributioneq.com/allaclone/?a=spell&id=8202) range 150: 
+- Rank 5 (ID 1508) costs 6 AAs with effect: [Spell 8202](https://retributioneq.com/allaclone/?a=spell&id=8202) range 150:
 
     - Effect 1: TemporaryPets base 1 max 45
-- Rank 6 (ID 1509) costs 9 AAs with effect: [Spell 8203](https://retributioneq.com/allaclone/?a=spell&id=8203) range 150: 
+- Rank 6 (ID 1509) costs 9 AAs with effect: [Spell 8203](https://retributioneq.com/allaclone/?a=spell&id=8203) range 150:
 
     - Effect 1: TemporaryPets base 1 max 45
 {{</details>}}
@@ -7684,7 +7685,7 @@ This passive ability will grant a chance for your companion to score a critical 
 This ability allows you to cloak your entire group in a camouflage nearly at will, causing them to become invisible without the need to memorize a spell.
 
 Ability ID: 518 has 1 ranks and costs 12 total  with a recast time of 7 seconds
-- Rank 1 (ID 1494) costs 12 AAs with effect: [Spell 8170](https://retributioneq.com/allaclone/?a=spell&id=8170) 1200s: 
+- Rank 1 (ID 1494) costs 12 AAs with effect: [Spell 8170](https://retributioneq.com/allaclone/?a=spell&id=8170) 1200s:
 
     - Effect 1: Invisibility2 base 1
 {{</details>}}
@@ -7714,27 +7715,27 @@ Ability ID: 265 has 5 ranks and costs 25 total  with a recast time of 900 second
 When this ability is activated, your music forms a physical barrier about you, decreasing the damage you take from spells and melee attacks.  Increased ranks improve the maximum amount of damage it can absorb before it fails.
 
 Ability ID: 361 has 6 ranks and costs 36 total  with a recast time of 900 seconds
-- Rank 1 (ID 1116) costs 3 AAs with effect: [Spell 5837](https://retributioneq.com/allaclone/?a=spell&id=5837) 60s: 
+- Rank 1 (ID 1116) costs 3 AAs with effect: [Spell 5837](https://retributioneq.com/allaclone/?a=spell&id=5837) 60s:
 
     - Effect 1: MitigateMeleeDamage base 25 max 4000
     - Effect 2: MitigateSpellDamage base 25 max 4000
-- Rank 2 (ID 1117) costs 6 AAs with effect: [Spell 5838](https://retributioneq.com/allaclone/?a=spell&id=5838) 60s: 
+- Rank 2 (ID 1117) costs 6 AAs with effect: [Spell 5838](https://retributioneq.com/allaclone/?a=spell&id=5838) 60s:
 
     - Effect 1: MitigateMeleeDamage base 27 max 6000
     - Effect 2: MitigateSpellDamage base 27 max 6000
-- Rank 3 (ID 1118) costs 9 AAs with effect: [Spell 5839](https://retributioneq.com/allaclone/?a=spell&id=5839) 60s: 
+- Rank 3 (ID 1118) costs 9 AAs with effect: [Spell 5839](https://retributioneq.com/allaclone/?a=spell&id=5839) 60s:
 
     - Effect 1: MitigateMeleeDamage base 29 max 8000
     - Effect 2: MitigateSpellDamage base 29 max 8000
-- Rank 4 (ID 4980) costs 6 AAs with effect: [Spell 11223](https://retributioneq.com/allaclone/?a=spell&id=11223) 60s: 
+- Rank 4 (ID 4980) costs 6 AAs with effect: [Spell 11223](https://retributioneq.com/allaclone/?a=spell&id=11223) 60s:
 
     - Effect 1: MitigateMeleeDamage base 31 max 8500
     - Effect 2: MitigateSpellDamage base 31 max 8500
-- Rank 5 (ID 4981) costs 6 AAs with effect: [Spell 11224](https://retributioneq.com/allaclone/?a=spell&id=11224) 60s: 
+- Rank 5 (ID 4981) costs 6 AAs with effect: [Spell 11224](https://retributioneq.com/allaclone/?a=spell&id=11224) 60s:
 
     - Effect 1: MitigateMeleeDamage base 33 max 9000
     - Effect 2: MitigateSpellDamage base 33 max 9000
-- Rank 6 (ID 4982) costs 6 AAs with effect: [Spell 11225](https://retributioneq.com/allaclone/?a=spell&id=11225) 60s: 
+- Rank 6 (ID 4982) costs 6 AAs with effect: [Spell 11225](https://retributioneq.com/allaclone/?a=spell&id=11225) 60s:
 
     - Effect 1: MitigateMeleeDamage base 35 max 9500
     - Effect 2: MitigateSpellDamage base 35 max 9500
@@ -7743,7 +7744,7 @@ Ability ID: 361 has 6 ranks and costs 36 total  with a recast time of 900 second
 (WAR)
 As long as a shield is equipped, each rank in Shield Specialist confers a damage bonus to attacks made by a weapon held in the primary hand.
 
-Ability ID: 605 has 5 ranks and costs 25 total 
+Ability ID: 605 has 5 ranks and costs 25 total
 - Rank 1 (ID 4844) costs 5 AAs with effect: ShieldEquipDmgMod 5 (1.00 ratio)
 - Rank 2 (ID 4845) costs 5 AAs with effect: ShieldEquipDmgMod 10 (1.00 ratio)
 - Rank 3 (ID 4846) costs 5 AAs with effect: ShieldEquipDmgMod 15 (1.00 ratio)
@@ -7754,7 +7755,7 @@ Ability ID: 605 has 5 ranks and costs 25 total
 (MAG)
 Decreases the reuse timer of your Elemental Heart and Elemental Core abilities by 1 minute per rank.
 
-Ability ID: 757 has 3 ranks and costs 18 total 
+Ability ID: 757 has 3 ranks and costs 18 total
 - Rank 1 (ID 5276) costs 3 AAs with effect:
     - Effect 1: HastenedAASkill 60 60 (20.00 ratio)
 
@@ -7811,7 +7812,7 @@ Ability ID: 757 has 3 ranks and costs 18 total
 (BRD)
 This ability allows for specialization and improved use of your voice.
 
-Ability ID: 118 has 4 ranks and costs 27 total 
+Ability ID: 118 has 4 ranks and costs 27 total
 - Rank 1 (ID 275) costs 3 AAs with effect: AddSingingMod 2 50 (0.67 ratio)
 - Rank 2 (ID 276) costs 6 AAs with effect: AddSingingMod 4 50 (0.33 ratio)
 - Rank 3 (ID 277) costs 9 AAs with effect: AddSingingMod 6 50 (0.22 ratio)
@@ -7819,16 +7820,16 @@ Ability ID: 118 has 4 ranks and costs 27 total
 {{</details>}}
 {{<details title="Sinister Strikes (WAR RNG MNK BRD ROG BST)">}}
 (WAR RNG MNK BRD ROG BST)
-This ability increases the damage you cause when attacking with a weapon in your secondary hand. 
+This ability increases the damage you cause when attacking with a weapon in your secondary hand.
 
-Ability ID: 270 has 1 ranks and costs 12 total 
+Ability ID: 270 has 1 ranks and costs 12 total
 - Rank 1 (ID 806) costs 12 AAs with effect: SecondaryDmgInc 5 (0.42 ratio)
 {{</details>}}
 {{<details title="Slay Undead (PAL)">}}
 (PAL)
 This ability will cause your critical hits to inflict greatly improved damage versus the undead.  Additional ranks increase both the damage you cause and the chance for it to occur.
 
-Ability ID: 75 has 9 ranks and costs 60 total 
+Ability ID: 75 has 9 ranks and costs 60 total
 - Rank 1 (ID 190) costs 3 AAs with effect: SlayUndead 500 1500 (166.67 ratio)
 - Rank 2 (ID 191) costs 6 AAs with effect: SlayUndead 1000 2000 (83.33 ratio)
 - Rank 3 (ID 192) costs 9 AAs with effect: SlayUndead 1500 2500 (55.56 ratio)
@@ -7844,13 +7845,13 @@ Ability ID: 75 has 9 ranks and costs 60 total
 This ability calls a number of stone guardians into existence to attack your target.  The first rank of the ability calls 3 guardians and each additional rank adds an additional guardian, through rank 6. Beyond rank six the duration that your pets last will extend by 5 seconds per rank.
 
 Ability ID: 544 has 3 ranks and costs 18 total  with a recast time of 1800 seconds
-- Rank 1 (ID 1569) costs 3 AAs with effect: [Spell 8256](https://retributioneq.com/allaclone/?a=spell&id=8256) range 150: 
+- Rank 1 (ID 1569) costs 3 AAs with effect: [Spell 8256](https://retributioneq.com/allaclone/?a=spell&id=8256) range 150:
 
     - Effect 1: TemporaryPets base 3 max 30
-- Rank 2 (ID 1570) costs 6 AAs with effect: [Spell 8257](https://retributioneq.com/allaclone/?a=spell&id=8257) range 150: 
+- Rank 2 (ID 1570) costs 6 AAs with effect: [Spell 8257](https://retributioneq.com/allaclone/?a=spell&id=8257) range 150:
 
     - Effect 1: TemporaryPets base 4 max 30
-- Rank 3 (ID 1571) costs 9 AAs with effect: [Spell 8258](https://retributioneq.com/allaclone/?a=spell&id=8258) range 150: 
+- Rank 3 (ID 1571) costs 9 AAs with effect: [Spell 8258](https://retributioneq.com/allaclone/?a=spell&id=8258) range 150:
 
     - Effect 1: TemporaryPets base 5 max 30
 {{</details>}}
@@ -7859,13 +7860,13 @@ Ability ID: 544 has 3 ranks and costs 18 total  with a recast time of 1800 secon
 Through use of this ability, you can soothe an angry creature, greatly reducing how angry it is with its current target.  This ability will only function if the person the creature is most angry with is in your group or raid.
 
 Ability ID: 414 has 3 ranks and costs 18 total  with a recast time of 900 seconds
-- Rank 1 (ID 1245) costs 3 AAs with effect: [Spell 5909](https://retributioneq.com/allaclone/?a=spell&id=5909) range 200: 
+- Rank 1 (ID 1245) costs 3 AAs with effect: [Spell 5909](https://retributioneq.com/allaclone/?a=spell&id=5909) range 200:
 
     - Effect 1: ReduceHate base 1000
-- Rank 2 (ID 1246) costs 6 AAs with effect: [Spell 5910](https://retributioneq.com/allaclone/?a=spell&id=5910) range 200: 
+- Rank 2 (ID 1246) costs 6 AAs with effect: [Spell 5910](https://retributioneq.com/allaclone/?a=spell&id=5910) range 200:
 
     - Effect 1: ReduceHate base 2500
-- Rank 3 (ID 1247) costs 9 AAs with effect: [Spell 5911](https://retributioneq.com/allaclone/?a=spell&id=5911) range 200: 
+- Rank 3 (ID 1247) costs 9 AAs with effect: [Spell 5911](https://retributioneq.com/allaclone/?a=spell&id=5911) range 200:
 
     - Effect 1: ReduceHate base 5000
 {{</details>}}
@@ -7873,7 +7874,7 @@ Ability ID: 414 has 3 ranks and costs 18 total  with a recast time of 900 second
 (SHD)
 Each rank in this ability gives you increased damage off of the lifetap procs that result from your self buffs.
 
-Ability ID: 89 has 6 ranks and costs 33 total 
+Ability ID: 89 has 6 ranks and costs 33 total
 - Rank 1 (ID 210) costs 3 AAs with effect:
     - Effect 1: FcDamagePctCrit 50 50 (16.67 ratio)
 
@@ -7909,7 +7910,7 @@ Ability ID: 89 has 6 ranks and costs 33 total
 (NEC)
 Soul Seeker lowers the reuse timer of your Life Burn by 2 minutes per rank.
 
-Ability ID: 612 has 3 ranks and costs 18 total 
+Ability ID: 612 has 3 ranks and costs 18 total
 - Rank 1 (ID 4861) costs 6 AAs with effect: HastenedAASkill 120 68 (20.00 ratio)
 - Rank 2 (ID 4862) costs 6 AAs with effect: HastenedAASkill 240 68 (20.00 ratio)
 - Rank 3 (ID 4863) costs 6 AAs with effect: HastenedAASkill 360 68 (20.00 ratio)
@@ -7918,7 +7919,7 @@ Ability ID: 612 has 3 ranks and costs 18 total
 (PAL SHD)
 Each rank in this ability increases the chance of scoring an extra hit with all two-handed weapons that you wield.
 
-Ability ID: 203 has 9 ranks and costs 45 total 
+Ability ID: 203 has 9 ranks and costs 45 total
 - Rank 1 (ID 602) costs 3 AAs with effect: ExtraAttackChance 2 (0.67 ratio)
 - Rank 2 (ID 603) costs 3 AAs with effect: ExtraAttackChance 5 (1.00 ratio)
 - Rank 3 (ID 604) costs 3 AAs with effect: ExtraAttackChance 8 (1.00 ratio)
@@ -7933,7 +7934,7 @@ Ability ID: 203 has 9 ranks and costs 45 total
 (WIZ)
 Each rank of this ability gives you an increased chance to score a critical hit with your direct damage spells. Starting with rank 15, you will receive an increase in critical damage as well.
 
-Ability ID: 114 has 11 ranks and costs 58 total 
+Ability ID: 114 has 11 ranks and costs 58 total
 - Rank 1 (ID 267) costs 3 AAs with effect: CriticalSpellChance 2 100 (0.67 ratio)
 - Rank 2 (ID 268) costs 6 AAs with effect: CriticalSpellChance 4 100 (0.33 ratio)
 - Rank 3 (ID 269) costs 9 AAs with effect: CriticalSpellChance 6 100 (0.22 ratio)
@@ -7972,7 +7973,7 @@ Ability ID: 177 has 5 ranks and costs 19 total  with a recast time of 720 second
 This ability places a ward on an ally that will heal them over time when their health drops below 50%.  Each rank will increase the amount of healing. This is a Guardian Spirit. Only 1 guardian spirit may be active on you at any time.
 
 Ability ID: 614 has 1 ranks and costs 12 total  with a recast time of 600 seconds
-- Rank 1 (ID 5369) costs 12 AAs with effect: [Spell 30900](https://retributioneq.com/allaclone/?a=spell&id=30900) 180s range 200: 
+- Rank 1 (ID 5369) costs 12 AAs with effect: [Spell 30900](https://retributioneq.com/allaclone/?a=spell&id=30900) 180s range 200:
 
     - Effect 1: TriggerOnReqTarget base 30897 limit 510
     - Effect 3: Lycanthropy base 10
@@ -7982,7 +7983,7 @@ Ability ID: 614 has 1 ranks and costs 12 total  with a recast time of 600 second
 This ability, when activated, imbues your friendly target with the spirit of the bear, increasing their health, armor, and avoidance for a short time.
 
 Ability ID: 384 has 1 ranks and costs 12 total  with a recast time of 300 seconds
-- Rank 1 (ID 12651) costs 12 AAs with effect: [Spell 23585](https://retributioneq.com/allaclone/?a=spell&id=23585) 30s range 200: 
+- Rank 1 (ID 12651) costs 12 AAs with effect: [Spell 23585](https://retributioneq.com/allaclone/?a=spell&id=23585) 30s range 200:
 
     - Effect 7: ArmorClass base 300 max 300
     - Effect 8: TotalHP base 3000 max 3000
@@ -7994,7 +7995,7 @@ Ability ID: 384 has 1 ranks and costs 12 total  with a recast time of 300 second
 Through this ability you are able to assume the form of a black spirit wolf. While in this form, your direct damage spells will have a higher chance to score a critical hit and you will be resistant to fire based attacks. Additionally your detrimental spell casting will consume less mana for the duration of this effect. Additional ranks increases your resistance to fire, reduces the amount of mana for this effect, and increases the critical chance for direct damage attacks.
 
 Ability ID: 1092 has 1 ranks and costs 9 total  with a recast time of 600 seconds
-- Rank 1 (ID 7986) costs 9 AAs with effect: [Spell 16203](https://retributioneq.com/allaclone/?a=spell&id=16203) 300s: 
+- Rank 1 (ID 7986) costs 9 AAs with effect: [Spell 16203](https://retributioneq.com/allaclone/?a=spell&id=16203) 300s:
 
     - Effect 1: ReduceManaCost base 20 limit 25
     - Effect 2: LimitSpellType
@@ -8011,7 +8012,7 @@ Ability ID: 1092 has 1 ranks and costs 9 total  with a recast time of 600 second
 Through this ability you are able to assume the form of a white spirit wolf. While in this form, your beneficial spells will require less mana and you will be resistant to cold based attacks. Additionally you will have an increased chance to perform critical heals while this effect is active. Additional ranks further reduce the mana used for beneficial spells, increases the resistance to cold based attacks, as well as the critical chance for beneficial spells.
 
 Ability ID: 705 has 1 ranks and costs 9 total  with a recast time of 600 seconds
-- Rank 1 (ID 5105) costs 9 AAs with effect: [Spell 11317](https://retributioneq.com/allaclone/?a=spell&id=11317) 300s: 
+- Rank 1 (ID 5105) costs 9 AAs with effect: [Spell 11317](https://retributioneq.com/allaclone/?a=spell&id=11317) 300s:
 
     - Effect 1: ReduceManaCost base 3 limit 15
     - Effect 2: LimitSpellType base 1
@@ -8043,32 +8044,32 @@ Ability ID: 185 has 9 ranks and costs 35 total  with a recast time of 900 second
     - Effect 4: HealOverTime base 250
     - Effect 8: DamageShield base -55
     - Effect 9: ArmorClass base 160
-- Rank 4 (ID 1225) costs 5 AAs with effect: [Spell 5881](https://retributioneq.com/allaclone/?a=spell&id=5881) 30s range 200: 
+- Rank 4 (ID 1225) costs 5 AAs with effect: [Spell 5881](https://retributioneq.com/allaclone/?a=spell&id=5881) 30s range 200:
 
     - Effect 4: HealOverTime base 278
     - Effect 8: DamageShield base -60
     - Effect 9: ArmorClass base 180
-- Rank 5 (ID 1226) costs 5 AAs with effect: [Spell 5882](https://retributioneq.com/allaclone/?a=spell&id=5882) 30s range 200: 
+- Rank 5 (ID 1226) costs 5 AAs with effect: [Spell 5882](https://retributioneq.com/allaclone/?a=spell&id=5882) 30s range 200:
 
     - Effect 4: HealOverTime base 305
     - Effect 8: DamageShield base -65
     - Effect 9: ArmorClass base 200
-- Rank 6 (ID 1227) costs 5 AAs with effect: [Spell 5883](https://retributioneq.com/allaclone/?a=spell&id=5883) 30s range 200: 
+- Rank 6 (ID 1227) costs 5 AAs with effect: [Spell 5883](https://retributioneq.com/allaclone/?a=spell&id=5883) 30s range 200:
 
     - Effect 4: HealOverTime base 333
     - Effect 8: DamageShield base -70
     - Effect 9: ArmorClass base 220
-- Rank 7 (ID 5054) costs 5 AAs with effect: [Spell 11265](https://retributioneq.com/allaclone/?a=spell&id=11265) 30s range 200: 
+- Rank 7 (ID 5054) costs 5 AAs with effect: [Spell 11265](https://retributioneq.com/allaclone/?a=spell&id=11265) 30s range 200:
 
     - Effect 4: HealOverTime base 388
     - Effect 8: DamageShield base -75
     - Effect 9: ArmorClass base 240
-- Rank 8 (ID 5055) costs 5 AAs with effect: [Spell 11266](https://retributioneq.com/allaclone/?a=spell&id=11266) 30s range 200: 
+- Rank 8 (ID 5055) costs 5 AAs with effect: [Spell 11266](https://retributioneq.com/allaclone/?a=spell&id=11266) 30s range 200:
 
     - Effect 4: HealOverTime base 444
     - Effect 8: DamageShield base -80
     - Effect 9: ArmorClass base 260
-- Rank 9 (ID 5056) costs 5 AAs with effect: [Spell 11267](https://retributioneq.com/allaclone/?a=spell&id=11267) 30s range 200: 
+- Rank 9 (ID 5056) costs 5 AAs with effect: [Spell 11267](https://retributioneq.com/allaclone/?a=spell&id=11267) 30s range 200:
 
     - Effect 4: HealOverTime base 499
     - Effect 8: DamageShield base -85
@@ -8079,7 +8080,7 @@ Ability ID: 185 has 9 ranks and costs 35 total  with a recast time of 900 second
 While this ability is active, all of your spells will be fueled directly by the energy of your body, consuming hit points rather than mana.  The conversion is not efficient, though, and will consume more hit points than the mana requirements of the spell.
 
 Ability ID: 446 has 1 ranks and costs 12 total  with a recast time of 2160 seconds
-- Rank 1 (ID 1323) costs 12 AAs with effect: [Spell 5932](https://retributioneq.com/allaclone/?a=spell&id=5932) 180s: 
+- Rank 1 (ID 1323) costs 12 AAs with effect: [Spell 5932](https://retributioneq.com/allaclone/?a=spell&id=5932) 180s:
 
     - Effect 1: HPToMana base 180
 {{</details>}}
@@ -8087,7 +8088,7 @@ Ability ID: 446 has 1 ranks and costs 12 total  with a recast time of 2160 secon
 (WAR BER)
 This ability grants a chance to endure what would otherwise be a stunning blow, from any angle, without being stunned.  You may train in the ranks of this ability at or after levels 61, 63, and 65.
 
-Ability ID: 222 has 3 ranks and costs 12 total 
+Ability ID: 222 has 3 ranks and costs 12 total
 - Rank 1 (ID 652) costs 2 AAs with effect: FrontalStunResist 50 (25.00 ratio)
 - Rank 2 (ID 653) costs 4 AAs with effect: FrontalStunResist 75 (6.25 ratio)
 - Rank 3 (ID 654) costs 6 AAs with effect: FrontalStunResist 100 (4.17 ratio)
@@ -8097,15 +8098,15 @@ Ability ID: 222 has 3 ranks and costs 12 total
 Use of this ability causes your opponent to immediately fall into a deep sleep.  The effect last for up to one minute per rank.
 
 Ability ID: 409 has 3 ranks and costs 18 total  with a recast time of 900 seconds
-- Rank 1 (ID 1233) costs 3 AAs with effect: [Spell 5887](https://retributioneq.com/allaclone/?a=spell&id=5887) 60s range 200: 
+- Rank 1 (ID 1233) costs 3 AAs with effect: [Spell 5887](https://retributioneq.com/allaclone/?a=spell&id=5887) 60s range 200:
 
     - Effect 1: Mez base 2 max 73
     - Effect 2: WipeHateList base 40
-- Rank 2 (ID 1234) costs 6 AAs with effect: [Spell 5888](https://retributioneq.com/allaclone/?a=spell&id=5888) 120s range 200: 
+- Rank 2 (ID 1234) costs 6 AAs with effect: [Spell 5888](https://retributioneq.com/allaclone/?a=spell&id=5888) 120s range 200:
 
     - Effect 1: Mez base 2 max 73
     - Effect 2: WipeHateList base 40
-- Rank 3 (ID 1235) costs 9 AAs with effect: [Spell 5889](https://retributioneq.com/allaclone/?a=spell&id=5889) 180s range 200: 
+- Rank 3 (ID 1235) costs 9 AAs with effect: [Spell 5889](https://retributioneq.com/allaclone/?a=spell&id=5889) 180s range 200:
 
     - Effect 1: Mez base 2 max 73
     - Effect 2: WipeHateList base 40
@@ -8114,7 +8115,7 @@ Ability ID: 409 has 3 ranks and costs 18 total  with a recast time of 900 second
 (PAL SHD)
 This ability grants a chance to endure what would otherwise be a stunning blow, from any angle, without being stunned.
 
-Ability ID: 434 has 8 ranks and costs 30 total 
+Ability ID: 434 has 8 ranks and costs 30 total
 - Rank 1 (ID 1284) costs 2 AAs with effect: FrontalStunResist 15 (7.50 ratio)
 - Rank 2 (ID 1285) costs 4 AAs with effect: FrontalStunResist 30 (3.75 ratio)
 - Rank 3 (ID 1286) costs 6 AAs with effect: FrontalStunResist 50 (3.33 ratio)
@@ -8129,7 +8130,7 @@ Ability ID: 434 has 8 ranks and costs 30 total
 This ability allows you to quickly retreat from the current situation and arrive at a relatively safe location elsewhere in the zone.  You must be hidden to use this ability.
 
 Ability ID: 789 has 1 ranks and costs 9 total  with a recast time of 4320 seconds
-- Rank 1 (ID 1477) costs 9 AAs with effect: [Spell 8149](https://retributioneq.com/allaclone/?a=spell&id=8149): 
+- Rank 1 (ID 1477) costs 9 AAs with effect: [Spell 8149](https://retributioneq.com/allaclone/?a=spell&id=8149):
 
     - Effect 2: Succor base -1
 {{</details>}}
@@ -8138,7 +8139,7 @@ Ability ID: 789 has 1 ranks and costs 9 total  with a recast time of 4320 second
 This ability allows you to absorb the pure essence of elemental earth into your soul.  While this ability is active, you will take less damage from melee attacks.  This ability lasts slightly longer than Heart of Stone (assuming it is not stripped by excess damage) and can absorb more total damage from incoming melee attacks. Additional ranks increase the amount of damage you can take before the effect fades.
 
 Ability ID: 624 has 1 ranks and costs 9 total  with a recast time of 900 seconds
-- Rank 1 (ID 4912) costs 9 AAs with effect: [Spell 11067](https://retributioneq.com/allaclone/?a=spell&id=11067) 120s: 
+- Rank 1 (ID 4912) costs 9 AAs with effect: [Spell 11067](https://retributioneq.com/allaclone/?a=spell&id=11067) 120s:
 
     - Effect 2: MitigateMeleeDamage base 50 max 7000
 {{</details>}}
@@ -8146,7 +8147,7 @@ Ability ID: 624 has 1 ranks and costs 9 total  with a recast time of 900 seconds
 (MNK)
 Each rank in this ability gives monks an increasing chance for their feigned deaths to not be revealed by spells cast upon them.  At higher ranks, monks become immune to feign breaking on a resisted spell and have a good chance of feigning through a spell that successfully hits them.
 
-Ability ID: 272 has 10 ranks and costs 50 total 
+Ability ID: 272 has 10 ranks and costs 50 total
 - Rank 1 (ID 810) costs 5 AAs with effect: FeignedCastOnChance 10 (2.00 ratio)
 - Rank 2 (ID 811) costs 5 AAs with effect: FeignedCastOnChance 20 (2.00 ratio)
 - Rank 3 (ID 812) costs 5 AAs with effect: FeignedCastOnChance 30 (2.00 ratio)
@@ -8162,7 +8163,7 @@ Ability ID: 272 has 10 ranks and costs 50 total
 (WAR RNG)
 Each rank in this ability increases the damage you do when you kick or slam.
 
-Ability ID: 301 has 3 ranks and costs 18 total 
+Ability ID: 301 has 3 ranks and costs 18 total
 - Rank 1 (ID 915) costs 3 AAs with effect:
     - Effect 1: SkillDamageAmount 5 5 (1.67 ratio)
 
@@ -8183,7 +8184,7 @@ Ability ID: 301 has 3 ranks and costs 18 total
 (MNK)
 This ability gives you a chance to bypass your opponents special defenses such as dodge, block, parry, and riposte.
 
-Ability ID: 271 has 6 ranks and costs 33 total 
+Ability ID: 271 has 6 ranks and costs 33 total
 - Rank 1 (ID 807) costs 3 AAs with effect: StrikeThrough2 5 (1.67 ratio)
 - Rank 2 (ID 808) costs 6 AAs with effect: StrikeThrough2 10 (0.83 ratio)
 - Rank 3 (ID 809) costs 9 AAs with effect: StrikeThrough2 15 (0.56 ratio)
@@ -8195,7 +8196,7 @@ Ability ID: 271 has 6 ranks and costs 33 total
 (ROG)
 This ability gives you a chance to bypass your opponents special defenses such as dodge, block, parry, and riposte.
 
-Ability ID: 9301 has 1 ranks and costs 3 total 
+Ability ID: 9301 has 1 ranks and costs 3 total
 - Rank 1 (ID 10853) costs 3 AAs with effect: StrikeThrough2 50 (16.67 ratio)
 {{</details>}}
 {{<details title="Strong Root (WIZ)">}}
@@ -8212,27 +8213,27 @@ Ability ID: 117 has 1 ranks and costs 5 total  with a recast time of 4320 second
 This ability grants you a Round Kick attack with a chance to stun a target up to level 70. Ranks 2 and 3 increase the duration of the stun while further ranks increase the maximum level of NPC that can be stunned with this effect.  This ability cannot be used at the same time as Crippling Strike or Eye Gouge.
 
 Ability ID: 469 has 6 ranks and costs 36 total  with a recast time of 60 seconds
-- Rank 1 (ID 1355) costs 3 AAs with effect: [Spell 6070](https://retributioneq.com/allaclone/?a=spell&id=6070) range 50: 
+- Rank 1 (ID 1355) costs 3 AAs with effect: [Spell 6070](https://retributioneq.com/allaclone/?a=spell&id=6070) range 50:
 
     - Effect 1: Stun base 1000 limit 1000 max 70
     - Effect 2: SkillAttack base 8 limit 10000 max 6
-- Rank 2 (ID 1356) costs 6 AAs with effect: [Spell 6071](https://retributioneq.com/allaclone/?a=spell&id=6071) range 50: 
+- Rank 2 (ID 1356) costs 6 AAs with effect: [Spell 6071](https://retributioneq.com/allaclone/?a=spell&id=6071) range 50:
 
     - Effect 1: Stun base 2000 limit 2000 max 70
     - Effect 2: SkillAttack base 38 limit 10000 max 27
-- Rank 3 (ID 1357) costs 9 AAs with effect: [Spell 6072](https://retributioneq.com/allaclone/?a=spell&id=6072) range 50: 
+- Rank 3 (ID 1357) costs 9 AAs with effect: [Spell 6072](https://retributioneq.com/allaclone/?a=spell&id=6072) range 50:
 
     - Effect 1: Stun base 3000 limit 3000 max 70
     - Effect 2: SkillAttack base 68 limit 10000 max 48
-- Rank 4 (ID 5240) costs 6 AAs with effect: [Spell 11611](https://retributioneq.com/allaclone/?a=spell&id=11611) range 50: 
+- Rank 4 (ID 5240) costs 6 AAs with effect: [Spell 11611](https://retributioneq.com/allaclone/?a=spell&id=11611) range 50:
 
     - Effect 1: Stun base 3000 limit 3000 max 71
     - Effect 2: SkillAttack base 98 limit 10000 max 69
-- Rank 5 (ID 5241) costs 6 AAs with effect: [Spell 11612](https://retributioneq.com/allaclone/?a=spell&id=11612) range 50: 
+- Rank 5 (ID 5241) costs 6 AAs with effect: [Spell 11612](https://retributioneq.com/allaclone/?a=spell&id=11612) range 50:
 
     - Effect 1: Stun base 3000 limit 3000 max 73
     - Effect 2: SkillAttack base 128 limit 10000 max 90
-- Rank 6 (ID 5242) costs 6 AAs with effect: [Spell 11613](https://retributioneq.com/allaclone/?a=spell&id=11613) range 50: 
+- Rank 6 (ID 5242) costs 6 AAs with effect: [Spell 11613](https://retributioneq.com/allaclone/?a=spell&id=11613) range 50:
 
     - Effect 1: Stun base 3000 limit 3000 max 75
     - Effect 2: SkillAttack base 158 limit 10000 max 111
@@ -8241,7 +8242,7 @@ Ability ID: 469 has 6 ranks and costs 36 total  with a recast time of 60 seconds
 (WAR)
 Each rank of this ability increases your maximum hit points by 100.
 
-Ability ID: 299 has 10 ranks and costs 60 total 
+Ability ID: 299 has 10 ranks and costs 60 total
 - Rank 1 (ID 907) costs 5 AAs with effect: TotalHP 100 (20.00 ratio)
 - Rank 2 (ID 908) costs 5 AAs with effect: TotalHP 200 (20.00 ratio)
 - Rank 3 (ID 909) costs 5 AAs with effect: TotalHP 300 (20.00 ratio)
@@ -8257,7 +8258,7 @@ Ability ID: 299 has 10 ranks and costs 60 total
 (BER)
 This passive ability reduces the amount of hate generated from your attacks. Each rank reduces the amount of hate generated by 3 percent.
 
-Ability ID: 8325 has 4 ranks and costs 34 total 
+Ability ID: 8325 has 4 ranks and costs 34 total
 - Rank 1 (ID 8325) costs 7 AAs with effect: ChangeAggro -5
 - Rank 2 (ID 8326) costs 9 AAs with effect: ChangeAggro -10
 - Rank 3 (ID 8327) costs 11 AAs with effect: ChangeAggro -15
@@ -8267,7 +8268,7 @@ Ability ID: 8325 has 4 ranks and costs 34 total
 (MAG)
 This ability provides a 50% chance to not consume a reagent when casting Call of the Hero or similar spells.
 
-Ability ID: 667 has 1 ranks and costs 3 total 
+Ability ID: 667 has 1 ranks and costs 3 total
 - Rank 1 (ID 5269) costs 3 AAs with effect:
     - Effect 1: ReduceReagentCost 50 50 (16.67 ratio)
 
@@ -8276,9 +8277,9 @@ Ability ID: 667 has 1 ranks and costs 3 total
 {{</details>}}
 {{<details title="Surreality (ENC)">}}
 (ENC)
-Surreality decreases the reuse timer of Mind Over Matter by 2 minutes per rank. 
+Surreality decreases the reuse timer of Mind Over Matter by 2 minutes per rank.
 
-Ability ID: 615 has 3 ranks and costs 18 total 
+Ability ID: 615 has 3 ranks and costs 18 total
 - Rank 1 (ID 4887) costs 6 AAs with effect: HastenedAASkill 120 413 (20.00 ratio)
 - Rank 2 (ID 4888) costs 6 AAs with effect: HastenedAASkill 240 413 (20.00 ratio)
 - Rank 3 (ID 4889) costs 6 AAs with effect: HastenedAASkill 360 413 (20.00 ratio)
@@ -8302,7 +8303,7 @@ Ability ID: 320 has 3 ranks and costs 18 total  with a recast time of 600 second
 (WAR BER)
 Studying one's opponent for weaknesses provides the knowledge and ability to pierce through advanced defenses.  Each rank of this ability grants an increasing chance of bypassing an opponent's special defenses, such as dodge, block, parry, and riposte.  You may train in this ability at or after levels 61, 63, and 65.
 
-Ability ID: 213 has 9 ranks and costs 39 total 
+Ability ID: 213 has 9 ranks and costs 39 total
 - Rank 1 (ID 631) costs 2 AAs with effect: StrikeThrough2 15 (7.50 ratio)
 - Rank 2 (ID 632) costs 3 AAs with effect: StrikeThrough2 30 (5.00 ratio)
 - Rank 3 (ID 633) costs 4 AAs with effect: StrikeThrough2 45 (3.75 ratio)
@@ -8315,10 +8316,10 @@ Ability ID: 213 has 9 ranks and costs 39 total
 {{</details>}}
 {{<details title="Taste of Blood (BST)">}}
 (BST)
-Taste of Blood gives your pet a chance to enter a blood frenzy when it gets credit for a successful kill. Blood frenzy increases your pet's damage and chance to frenzy upon a successful triple attack. 
+Taste of Blood gives your pet a chance to enter a blood frenzy when it gets credit for a successful kill. Blood frenzy increases your pet's damage and chance to frenzy upon a successful triple attack.
 
 Ability ID: 666 has 1 ranks and costs 5 total  with a recast time of 900 seconds
-- Rank 1 (ID 5015) costs 5 AAs with effect: [Spell 11241](https://retributioneq.com/allaclone/?a=spell&id=11241) 720s range 100: 
+- Rank 1 (ID 5015) costs 5 AAs with effect: [Spell 11241](https://retributioneq.com/allaclone/?a=spell&id=11241) 720s range 100:
 
     - Effect 1: ProcOnKillShot base 75 limit 11339
 {{</details>}}
@@ -8326,7 +8327,7 @@ Ability ID: 666 has 1 ranks and costs 5 total  with a recast time of 900 seconds
 (MNK)
 Under the tutelage of Wu, Monks are able to hone their skills to the point of being able to execute a second and sometimes even third strike when scoring a hit with their special attacks.  This ability grants a 20 percent increase in the chance of scoring multiple special attacks, per rank, up to rank 5. Ranks beyond rank 5 increase the chance to perform the third attack in the chain by 5% per rank.
 
-Ability ID: 206 has 6 ranks and costs 8 total 
+Ability ID: 206 has 6 ranks and costs 8 total
 - Rank 1 (ID 611) costs 0 AAs with effect: DoubleSpecialAttack 100 (+Inf ratio)
 - Rank 2 (ID 612) costs 0 AAs with effect: DoubleSpecialAttack 150 (+Inf ratio)
 - Rank 3 (ID 613) costs 2 AAs with effect: DoubleSpecialAttack 200 (25.00 ratio)
@@ -8339,7 +8340,7 @@ Ability ID: 206 has 6 ranks and costs 8 total
 When activated, this ability will teleport the druid's entire group to the druid's bind point.
 
 Ability ID: 7009 has 1 ranks and costs 9 total  with a recast time of 300 seconds
-- Rank 1 (ID 1419) costs 9 AAs with effect: [Spell 16441](https://retributioneq.com/allaclone/?a=spell&id=16441) range 50: 
+- Rank 1 (ID 1419) costs 9 AAs with effect: [Spell 16441](https://retributioneq.com/allaclone/?a=spell&id=16441) range 50:
 
     - Effect 1: GateCastersBindpoint base 1
 {{</details>}}
@@ -8348,7 +8349,7 @@ Ability ID: 7009 has 1 ranks and costs 9 total  with a recast time of 300 second
 When activated, this ability will teleport the wizard's entire group to the wizard's bind point.
 
 Ability ID: 456 has 1 ranks and costs 9 total  with a recast time of 300 seconds
-- Rank 1 (ID 1343) costs 9 AAs with effect: [Spell 5953](https://retributioneq.com/allaclone/?a=spell&id=5953) range 50: 
+- Rank 1 (ID 1343) costs 9 AAs with effect: [Spell 5953](https://retributioneq.com/allaclone/?a=spell&id=5953) range 50:
 
     - Effect 1: GateCastersBindpoint base 1
 {{</details>}}
@@ -8356,7 +8357,7 @@ Ability ID: 456 has 1 ranks and costs 9 total  with a recast time of 300 seconds
 (SHD NEC)
 This ability grants a chance that the healing effect on your lifetaps will provide an exceptional amount of healing.  Additional ranks further increase this effect.
 
-Ability ID: 214 has 11 ranks and costs 46 total 
+Ability ID: 214 has 11 ranks and costs 46 total
 - Rank 1 (ID 634) costs 1 AA with effect: CriticalHealChance 3 (3.00 ratio)
 - Rank 2 (ID 635) costs 2 AAs with effect: CriticalHealChance 6 (1.50 ratio)
 - Rank 3 (ID 636) costs 3 AAs with effect: CriticalHealChance 10 (1.33 ratio)
@@ -8373,21 +8374,21 @@ Ability ID: 214 has 11 ranks and costs 46 total
 (ROG)
 This ability grants you an innate chance to detect traps.  Any time you are near a trap, you will have a chance to detect it.  This chance is considerably lower than if you were actively searching for it.
 
-Ability ID: 568 has 1 ranks and costs 15 total 
+Ability ID: 568 has 1 ranks and costs 15 total
 - Rank 1 (ID 1641) costs 15 AAs with effect: PassiveSenseTrap 100 (6.67 ratio)
 {{</details>}}
 {{<details title="Thief's Intuition (BRD)">}}
 (BRD)
 This ability grants you an innate chance to detect traps.  Any time you are near a trap, you will have a chance to detect it.  This chance is considerably lower than if you were actively searching for it.
 
-Ability ID: 569 has 1 ranks and costs 15 total 
+Ability ID: 569 has 1 ranks and costs 15 total
 - Rank 1 (ID 1642) costs 15 AAs with effect: PassiveSenseTrap 60 (4.00 ratio)
 {{</details>}}
 {{<details title="Throwing Mastery (BER)">}}
 (BER)
 Each rank of this ability increases the damage you do with throwing weapons.
 
-Ability ID: 367 has 3 ranks and costs 18 total 
+Ability ID: 367 has 3 ranks and costs 18 total
 - Rank 1 (ID 1131) costs 3 AAs with effect: DamageModifier 10 51 (3.33 ratio)
 - Rank 2 (ID 1132) costs 6 AAs with effect: DamageModifier 20 51 (1.67 ratio)
 - Rank 3 (ID 1133) costs 9 AAs with effect: DamageModifier 30 51 (1.11 ratio)
@@ -8397,21 +8398,21 @@ Ability ID: 367 has 3 ranks and costs 18 total
 This ability gives you an enhanced form of your Sprint discipline that refresh much more quickly.
 
 Ability ID: 372 has 3 ranks and costs 18 total  with a recast time of 900 to 1500 seconds
-- Rank 1 (ID 1146) costs 3 AAs with effect: [Spell 6040](https://retributioneq.com/allaclone/?a=spell&id=6040) 18s range 200: 
+- Rank 1 (ID 1146) costs 3 AAs with effect: [Spell 6040](https://retributioneq.com/allaclone/?a=spell&id=6040) 18s range 200:
 
     - Effect 1: MovementSpeed base 125
-- Rank 2 (ID 1147) costs 6 AAs with effect: [Spell 6041](https://retributioneq.com/allaclone/?a=spell&id=6041) 18s range 200: 
+- Rank 2 (ID 1147) costs 6 AAs with effect: [Spell 6041](https://retributioneq.com/allaclone/?a=spell&id=6041) 18s range 200:
 
     - Effect 1: MovementSpeed base 135
-- Rank 3 (ID 1148) costs 9 AAs with effect: [Spell 6042](https://retributioneq.com/allaclone/?a=spell&id=6042) 18s range 200: 
+- Rank 3 (ID 1148) costs 9 AAs with effect: [Spell 6042](https://retributioneq.com/allaclone/?a=spell&id=6042) 18s range 200:
 
     - Effect 1: MovementSpeed base 145
 {{</details>}}
 {{<details title="Total Domination (ENC)">}}
 (ENC)
-This ability adds strength to your charm spells.  Victims of your charm spells are less likely to break out of their charms early.  
+This ability adds strength to your charm spells.  Victims of your charm spells are less likely to break out of their charms early.
 
-Ability ID: 221 has 3 ranks and costs 12 total 
+Ability ID: 221 has 3 ranks and costs 12 total
 - Rank 1 (ID 649) costs 2 AAs with effect: CharmBreakChance 15 (7.50 ratio)
 - Rank 2 (ID 650) costs 4 AAs with effect: CharmBreakChance 25 (2.50 ratio)
 - Rank 3 (ID 651) costs 6 AAs with effect: CharmBreakChance 35 (1.67 ratio)
@@ -8420,7 +8421,7 @@ Ability ID: 221 has 3 ranks and costs 12 total
 (SHD)
 This ability grants the Shadow Knight a chance to drain the life of his opponent any time he makes a melee attack.
 
-Ability ID: 442 has 6 ranks and costs 36 total 
+Ability ID: 442 has 6 ranks and costs 36 total
 - Rank 1 (ID 1313) costs 3 AAs with effect: WeaponProc [Spell 6037](https://retributioneq.com/allaclone/?a=spell&id=6037) 10 (2012.33 ratio)
 - Rank 2 (ID 1314) costs 6 AAs with effect: WeaponProc [Spell 6038](https://retributioneq.com/allaclone/?a=spell&id=6038) 20 (0.17 ratio)
 - Rank 3 (ID 1315) costs 9 AAs with effect: WeaponProc [Spell 6039](https://retributioneq.com/allaclone/?a=spell&id=6039) 30 (0.11 ratio)
@@ -8432,7 +8433,7 @@ Ability ID: 442 has 6 ranks and costs 36 total
 (CLR)
 Sometimes when the masters of the divine pass on, they are returned to Norrath to continue their holy work. This ability provides clerics with a chance to return to life when they meet death. Each rank further improves the chance to return to life.
 
-Ability ID: 319 has 5 ranks and costs 25 total 
+Ability ID: 319 has 5 ranks and costs 25 total
 - Rank 1 (ID 962) costs 5 AAs with effect: DivineSave 2 4544 (0.40 ratio)
 - Rank 2 (ID 963) costs 5 AAs with effect: DivineSave 4 4544 (0.40 ratio)
 - Rank 3 (ID 964) costs 5 AAs with effect: DivineSave 6 4544 (0.40 ratio)
@@ -8443,7 +8444,7 @@ Ability ID: 319 has 5 ranks and costs 25 total
 (SHD)
 This ability decreases the amount of time required between uses of Harm Touch and its upgrades. Each rank reduces the reuse time by 12 minutes. You gain the ability to train an additional rank at levels 61, 63, 65 and 76.
 
-Ability ID: 201 has 3 ranks and costs 12 total 
+Ability ID: 201 has 3 ranks and costs 12 total
 - Rank 1 (ID 596) costs 2 AAs with effect:
     - Effect 1: HastenedAASkill 720 720 (360.00 ratio)
 
@@ -8464,7 +8465,7 @@ Ability ID: 201 has 3 ranks and costs 12 total
 (RNG)
 Each rank in this ability increases the maximum you can increase your tracking skill by 20 points.
 
-Ability ID: 437 has 5 ranks and costs 15 total 
+Ability ID: 437 has 5 ranks and costs 15 total
 - Rank 1 (ID 1296) costs 3 AAs with effect: RaiseSkillCap 20 53 (6.67 ratio)
 - Rank 2 (ID 1297) costs 3 AAs with effect: RaiseSkillCap 40 53 (6.67 ratio)
 - Rank 3 (ID 1298) costs 3 AAs with effect: RaiseSkillCap 60 53 (6.67 ratio)
@@ -8485,13 +8486,13 @@ Ability ID: 992 has 1 ranks and costs 5 total  with a recast time of 30 seconds
 While under the effect of this ability, an NPC will not be able to gate away from you.  Additional ranks increase the duration of the effect.
 
 Ability ID: 512 has 3 ranks and costs 18 total  with a recast time of 300 seconds
-- Rank 1 (ID 1630) costs 3 AAs with effect: [Spell 8146](https://retributioneq.com/allaclone/?a=spell&id=8146) 12s range 200: 
+- Rank 1 (ID 1630) costs 3 AAs with effect: [Spell 8146](https://retributioneq.com/allaclone/?a=spell&id=8146) 12s range 200:
 
     - Effect 1: AntiGate base 1
-- Rank 2 (ID 1631) costs 6 AAs with effect: [Spell 8147](https://retributioneq.com/allaclone/?a=spell&id=8147) 18s range 200: 
+- Rank 2 (ID 1631) costs 6 AAs with effect: [Spell 8147](https://retributioneq.com/allaclone/?a=spell&id=8147) 18s range 200:
 
     - Effect 1: AntiGate base 1
-- Rank 3 (ID 1632) costs 9 AAs with effect: [Spell 8148](https://retributioneq.com/allaclone/?a=spell&id=8148) 24s range 200: 
+- Rank 3 (ID 1632) costs 9 AAs with effect: [Spell 8148](https://retributioneq.com/allaclone/?a=spell&id=8148) 24s range 200:
 
     - Effect 1: AntiGate base 1
 {{</details>}}
@@ -8499,7 +8500,7 @@ Ability ID: 512 has 3 ranks and costs 18 total  with a recast time of 300 second
 (ROG)
 Each rank of this ability decreases the chance that you will set off a trap when opening a chest or other similar container.
 
-Ability ID: 292 has 5 ranks and costs 15 total 
+Ability ID: 292 has 5 ranks and costs 15 total
 - Rank 1 (ID 881) costs 3 AAs with effect: TrapCircumvention 10 (3.33 ratio)
 - Rank 2 (ID 882) costs 3 AAs with effect: TrapCircumvention 20 (3.33 ratio)
 - Rank 3 (ID 883) costs 3 AAs with effect: TrapCircumvention 30 (3.33 ratio)
@@ -8510,7 +8511,7 @@ Ability ID: 292 has 5 ranks and costs 15 total
 (RNG)
 Each rank of this ability grants you an increasing chance to make an additional attack upon a successful ranged attack.  This extra attack will consume an additional arrow or fail if one is not available.
 
-Ability ID: 557 has 7 ranks and costs 36 total 
+Ability ID: 557 has 7 ranks and costs 36 total
 - Rank 1 (ID 1608) costs 0 AAs with effect: DoubleRangedAttack 2 (+Inf ratio)
 - Rank 2 (ID 1609) costs 6 AAs with effect: DoubleRangedAttack 4 (0.33 ratio)
 - Rank 3 (ID 1610) costs 9 AAs with effect: DoubleRangedAttack 6 (0.22 ratio)
@@ -8523,7 +8524,7 @@ Ability ID: 557 has 7 ranks and costs 36 total
 (ROG)
 Each rank in this ability grants the rogue an increasing chance to attempt an additional backstab after a successful double backstab.
 
-Ability ID: 281 has 9 ranks and costs 54 total 
+Ability ID: 281 has 9 ranks and costs 54 total
 - Rank 1 (ID 846) costs 3 AAs with effect: TripleBackstab 5 (1.67 ratio)
 - Rank 2 (ID 847) costs 6 AAs with effect: TripleBackstab 10 (0.83 ratio)
 - Rank 3 (ID 848) costs 9 AAs with effect: TripleBackstab 15 (0.56 ratio)
@@ -8539,7 +8540,7 @@ Ability ID: 281 has 9 ranks and costs 54 total
 Tumbling increases your chance to avoid incoming damage and increases your movement speed. While tumbling, your ability to deal damage will be lessened as you devote more energy to acrobatic movements.
 
 Ability ID: 673 has 1 ranks and costs 9 total  with a recast time of 900 seconds
-- Rank 1 (ID 5028) costs 9 AAs with effect: [Spell 11254](https://retributioneq.com/allaclone/?a=spell&id=11254) 18s: 
+- Rank 1 (ID 5028) costs 9 AAs with effect: [Spell 11254](https://retributioneq.com/allaclone/?a=spell&id=11254) 18s:
 
     - Effect 3: Accuracy base -100
     - Effect 4: AvoidMeleeChance base 50
@@ -8549,7 +8550,7 @@ Ability ID: 673 has 1 ranks and costs 9 total  with a recast time of 900 seconds
 (BRD)
 Each rank in this ability increases your tracking skill maximum by 10.
 
-Ability ID: 238 has 5 ranks and costs 20 total 
+Ability ID: 238 has 5 ranks and costs 20 total
 - Rank 1 (ID 695) costs 4 AAs with effect: RaiseSkillCap 10 53 (2.50 ratio)
 - Rank 2 (ID 696) costs 4 AAs with effect: RaiseSkillCap 20 53 (2.50 ratio)
 - Rank 3 (ID 697) costs 4 AAs with effect: RaiseSkillCap 30 53 (2.50 ratio)
@@ -8571,35 +8572,35 @@ Ability ID: 3729 has 1 ranks and costs 9 total  with a recast time of 8 seconds
 This ability infuses a summoned NPC with elemental energy, causing it to continually take damage for the next 30 seconds.  Each additional level of this ability increases the damage done.  Occasionally a summoned NPC will react violently to the infusion of energy, potentially destroying it outright.
 
 Ability ID: 559 has 8 ranks and costs 54 total  with a recast time of 300 seconds
-- Rank 1 (ID 1462) costs 3 AAs with effect: [Spell 8133](https://retributioneq.com/allaclone/?a=spell&id=8133) 24s range 200: 
+- Rank 1 (ID 1462) costs 3 AAs with effect: [Spell 8133](https://retributioneq.com/allaclone/?a=spell&id=8133) 24s range 200:
 
     - Effect 1: CurrentHP base -100
     - Effect 2: SpellTrigger 5% chance [Spell 8136](https://retributioneq.com/allaclone/?a=spell&id=8136) [Spell 8136](https://retributioneq.com/allaclone/?a=aa&id=8136)
-- Rank 2 (ID 1463) costs 6 AAs with effect: [Spell 8134](https://retributioneq.com/allaclone/?a=spell&id=8134) 24s range 200: 
+- Rank 2 (ID 1463) costs 6 AAs with effect: [Spell 8134](https://retributioneq.com/allaclone/?a=spell&id=8134) 24s range 200:
 
     - Effect 1: CurrentHP base -200
     - Effect 2: SpellTrigger 5% chance [Spell 8136](https://retributioneq.com/allaclone/?a=spell&id=8136) [Spell 8136](https://retributioneq.com/allaclone/?a=aa&id=8136)
-- Rank 3 (ID 1464) costs 9 AAs with effect: [Spell 8135](https://retributioneq.com/allaclone/?a=spell&id=8135) 24s range 200: 
+- Rank 3 (ID 1464) costs 9 AAs with effect: [Spell 8135](https://retributioneq.com/allaclone/?a=spell&id=8135) 24s range 200:
 
     - Effect 1: CurrentHP base -300
     - Effect 2: SpellTrigger 5% chance [Spell 8136](https://retributioneq.com/allaclone/?a=spell&id=8136) [Spell 8136](https://retributioneq.com/allaclone/?a=aa&id=8136)
-- Rank 4 (ID 1465) costs 9 AAs with effect: [Spell 8137](https://retributioneq.com/allaclone/?a=spell&id=8137) 24s range 200: 
+- Rank 4 (ID 1465) costs 9 AAs with effect: [Spell 8137](https://retributioneq.com/allaclone/?a=spell&id=8137) 24s range 200:
 
     - Effect 1: CurrentHP base -500
     - Effect 2: SpellTrigger 5% chance [Spell 8051](https://retributioneq.com/allaclone/?a=spell&id=8051) [Spell 8051](https://retributioneq.com/allaclone/?a=aa&id=8051)
-- Rank 5 (ID 1466) costs 9 AAs with effect: [Spell 8138](https://retributioneq.com/allaclone/?a=spell&id=8138) 24s range 200: 
+- Rank 5 (ID 1466) costs 9 AAs with effect: [Spell 8138](https://retributioneq.com/allaclone/?a=spell&id=8138) 24s range 200:
 
     - Effect 1: CurrentHP base -700
     - Effect 2: SpellTrigger 5% chance [Spell 8051](https://retributioneq.com/allaclone/?a=spell&id=8051) [Spell 8051](https://retributioneq.com/allaclone/?a=aa&id=8051)
-- Rank 6 (ID 4900) costs 6 AAs with effect: [Spell 11061](https://retributioneq.com/allaclone/?a=spell&id=11061) 24s range 200: 
+- Rank 6 (ID 4900) costs 6 AAs with effect: [Spell 11061](https://retributioneq.com/allaclone/?a=spell&id=11061) 24s range 200:
 
     - Effect 1: CurrentHP base -800
     - Effect 2: SpellTrigger 5% chance [Spell 8051](https://retributioneq.com/allaclone/?a=spell&id=8051) [Spell 8051](https://retributioneq.com/allaclone/?a=aa&id=8051)
-- Rank 7 (ID 4901) costs 6 AAs with effect: [Spell 11062](https://retributioneq.com/allaclone/?a=spell&id=11062) 24s range 200: 
+- Rank 7 (ID 4901) costs 6 AAs with effect: [Spell 11062](https://retributioneq.com/allaclone/?a=spell&id=11062) 24s range 200:
 
     - Effect 1: CurrentHP base -900
     - Effect 2: SpellTrigger 5% chance [Spell 8051](https://retributioneq.com/allaclone/?a=spell&id=8051) [Spell 8051](https://retributioneq.com/allaclone/?a=aa&id=8051)
-- Rank 8 (ID 4902) costs 6 AAs with effect: [Spell 11063](https://retributioneq.com/allaclone/?a=spell&id=11063) 24s range 200: 
+- Rank 8 (ID 4902) costs 6 AAs with effect: [Spell 11063](https://retributioneq.com/allaclone/?a=spell&id=11063) 24s range 200:
 
     - Effect 1: CurrentHP base -1000
     - Effect 2: SpellTrigger 5% chance [Spell 8051](https://retributioneq.com/allaclone/?a=spell&id=8051) [Spell 8051](https://retributioneq.com/allaclone/?a=aa&id=8051)
@@ -8609,27 +8610,27 @@ Ability ID: 559 has 8 ranks and costs 54 total  with a recast time of 300 second
 This ability infuses an undead NPC with holy energy, causing it to continually take damage for the next 30 seconds.  Each additional level of this ability increases the damage done.  Occasionally an undead NPC will react violently to the infusion of holy energy, potentially destroying it outright.
 
 Ability ID: 558 has 6 ranks and costs 48 total  with a recast time of 300 seconds
-- Rank 1 (ID 1383) costs 3 AAs with effect: [Spell 8048](https://retributioneq.com/allaclone/?a=spell&id=8048) 24s range 200: 
+- Rank 1 (ID 1383) costs 3 AAs with effect: [Spell 8048](https://retributioneq.com/allaclone/?a=spell&id=8048) 24s range 200:
 
     - Effect 1: CurrentHP base -100
     - Effect 2: SpellTrigger 5% chance [Spell 8051](https://retributioneq.com/allaclone/?a=spell&id=8051) [Spell 8051](https://retributioneq.com/allaclone/?a=aa&id=8051)
-- Rank 2 (ID 1384) costs 6 AAs with effect: [Spell 8049](https://retributioneq.com/allaclone/?a=spell&id=8049) 24s range 200: 
+- Rank 2 (ID 1384) costs 6 AAs with effect: [Spell 8049](https://retributioneq.com/allaclone/?a=spell&id=8049) 24s range 200:
 
     - Effect 1: CurrentHP base -200
     - Effect 2: SpellTrigger 5% chance [Spell 8051](https://retributioneq.com/allaclone/?a=spell&id=8051) [Spell 8051](https://retributioneq.com/allaclone/?a=aa&id=8051)
-- Rank 3 (ID 1385) costs 9 AAs with effect: [Spell 8050](https://retributioneq.com/allaclone/?a=spell&id=8050) 24s range 200: 
+- Rank 3 (ID 1385) costs 9 AAs with effect: [Spell 8050](https://retributioneq.com/allaclone/?a=spell&id=8050) 24s range 200:
 
     - Effect 1: CurrentHP base -300
     - Effect 2: SpellTrigger 5% chance [Spell 8051](https://retributioneq.com/allaclone/?a=spell&id=8051) [Spell 8051](https://retributioneq.com/allaclone/?a=aa&id=8051)
-- Rank 4 (ID 1386) costs 9 AAs with effect: [Spell 8052](https://retributioneq.com/allaclone/?a=spell&id=8052) 24s range 200: 
+- Rank 4 (ID 1386) costs 9 AAs with effect: [Spell 8052](https://retributioneq.com/allaclone/?a=spell&id=8052) 24s range 200:
 
     - Effect 1: CurrentHP base -500
     - Effect 2: SpellTrigger 5% chance [Spell 8051](https://retributioneq.com/allaclone/?a=spell&id=8051) [Spell 8051](https://retributioneq.com/allaclone/?a=aa&id=8051)
-- Rank 5 (ID 1387) costs 9 AAs with effect: [Spell 8053](https://retributioneq.com/allaclone/?a=spell&id=8053) 24s range 200: 
+- Rank 5 (ID 1387) costs 9 AAs with effect: [Spell 8053](https://retributioneq.com/allaclone/?a=spell&id=8053) 24s range 200:
 
     - Effect 1: CurrentHP base -700
     - Effect 2: SpellTrigger 5% chance [Spell 8051](https://retributioneq.com/allaclone/?a=spell&id=8051) [Spell 8051](https://retributioneq.com/allaclone/?a=aa&id=8051)
-- Rank 6 (ID 5084) costs 12 AAs with effect: [Spell 11296](https://retributioneq.com/allaclone/?a=spell&id=11296) 24s range 200: 
+- Rank 6 (ID 5084) costs 12 AAs with effect: [Spell 11296](https://retributioneq.com/allaclone/?a=spell&id=11296) 24s range 200:
 
     - Effect 1: CurrentHP base -1000
     - Effect 2: SpellTrigger 15% chance [Spell 8051](https://retributioneq.com/allaclone/?a=spell&id=8051) [Spell 8051](https://retributioneq.com/allaclone/?a=aa&id=8051)
@@ -8638,7 +8639,7 @@ Ability ID: 558 has 6 ranks and costs 48 total  with a recast time of 300 second
 (CLR DRU SHM NEC WIZ MAG ENC BST)
 This passive ability will give you the innate chance to perform a twincast each time you cast a direct damage spell. Each rank will give you a 1% chance to perform a twincast.
 
-Ability ID: 1405 has 5 ranks and costs 35 total 
+Ability ID: 1405 has 5 ranks and costs 35 total
 - Rank 1 (ID 9509) costs 7 AAs with effect:
     - Effect 1: FcTwincast 1 (0.14 ratio)
 
@@ -8739,7 +8740,7 @@ Ability ID: 1405 has 5 ranks and costs 35 total
 (WAR CLR PAL RNG SHD DRU BRD ROG SHM NEC WIZ MAG ENC BST)
 This passive ability will give you the innate chance to perform a twinproc each time you proc a detrimental weapon based spell. Each rank will add a 3% increased chance to perform a twinproc.
 
-Ability ID: 1664 has 1 ranks and costs 7 total 
+Ability ID: 1664 has 1 ranks and costs 7 total
 - Rank 1 (ID 12416) costs 7 AAs with effect:
     - Effect 1: FcTwincast 3 (0.43 ratio)
 
@@ -8775,13 +8776,13 @@ Ability ID: 670 has 1 ranks and costs 9 total  with a recast time of 60 seconds
 Uncanny Resilience reduces the amount of damage sustained by incoming melee attacks. All ranks of this ability will slightly increase the total amount of damage that can be absorbed and the first three ranks will increase the duration.
 
 Ability ID: 609 has 3 ranks and costs 18 total  with a recast time of 600 seconds
-- Rank 1 (ID 4854) costs 3 AAs with effect: [Spell 11046](https://retributioneq.com/allaclone/?a=spell&id=11046) 18s: 
+- Rank 1 (ID 4854) costs 3 AAs with effect: [Spell 11046](https://retributioneq.com/allaclone/?a=spell&id=11046) 18s:
 
     - Effect 1: MitigateMeleeDamage base 20 limit 600 max 4000
-- Rank 2 (ID 4855) costs 6 AAs with effect: [Spell 11047](https://retributioneq.com/allaclone/?a=spell&id=11047) 24s: 
+- Rank 2 (ID 4855) costs 6 AAs with effect: [Spell 11047](https://retributioneq.com/allaclone/?a=spell&id=11047) 24s:
 
     - Effect 1: MitigateMeleeDamage base 30 limit 700 max 6000
-- Rank 3 (ID 4856) costs 9 AAs with effect: [Spell 11048](https://retributioneq.com/allaclone/?a=spell&id=11048) 30s: 
+- Rank 3 (ID 4856) costs 9 AAs with effect: [Spell 11048](https://retributioneq.com/allaclone/?a=spell&id=11048) 30s:
 
     - Effect 1: MitigateMeleeDamage base 40 limit 800 max 8000
 {{</details>}}
@@ -8789,7 +8790,7 @@ Ability ID: 609 has 3 ranks and costs 18 total  with a recast time of 600 second
 (CLR)
 The most devout find that their calls are answered with much greater frequency. This ability grants your Death Pact-type spells a second chance to successfully heal their target.  Additional ranks of this ability cause said spells to do a portion of their healing value even on a complete failure.  You gain the ability to train an additional rank at levels 61, 63, and 65.
 
-Ability ID: 194 has 3 ranks and costs 12 total 
+Ability ID: 194 has 3 ranks and costs 12 total
 - Rank 1 (ID 577) costs 2 AAs with effect: UnfailingDivinity 20 (10.00 ratio)
 - Rank 2 (ID 578) costs 4 AAs with effect: UnfailingDivinity 40 (5.00 ratio)
 - Rank 3 (ID 579) costs 6 AAs with effect: UnfailingDivinity 60 (3.33 ratio)
@@ -8798,7 +8799,7 @@ Ability ID: 194 has 3 ranks and costs 12 total
 (MNK)
 This ability grants a chance to endure what would otherwise be a stunning blow, from any angle, without being stunned.
 
-Ability ID: 539 has 3 ranks and costs 18 total 
+Ability ID: 539 has 3 ranks and costs 18 total
 - Rank 1 (ID 1549) costs 3 AAs with effect: FrontalStunResist 25 (8.33 ratio)
 - Rank 2 (ID 1550) costs 6 AAs with effect: FrontalStunResist 50 (4.17 ratio)
 - Rank 3 (ID 1551) costs 9 AAs with effect: FrontalStunResist 75 (2.78 ratio)
@@ -8817,7 +8818,7 @@ Ability ID: 85 has 1 ranks and costs 5 total  with a recast time of 1 seconds
 This ability channels the energy of the woodland spirits on to a single target.  The concentrated energy provides an exceptionally fast heal and leaves the target with a brief period of regeneration. Additional ranks increase the stat bonus granted, as well as the healing amount.
 
 Ability ID: 662 has 3 ranks and costs 15 total  with a recast time of 900 seconds
-- Rank 1 (ID 5251) costs 5 AAs with effect: [Spell 11615](https://retributioneq.com/allaclone/?a=spell&id=11615) 18s range 200: 
+- Rank 1 (ID 5251) costs 5 AAs with effect: [Spell 11615](https://retributioneq.com/allaclone/?a=spell&id=11615) 18s range 200:
 
     - Effect 1: RaiseStatCap base 95
     - Effect 2: RaiseStatCap base 95 limit 2
@@ -8827,7 +8828,7 @@ Ability ID: 662 has 3 ranks and costs 15 total  with a recast time of 900 second
     - Effect 8: STR base 95
     - Effect 9: HealOverTime base 1166
     - Effect 10: DEX base 95
-- Rank 2 (ID 5252) costs 5 AAs with effect: [Spell 11616](https://retributioneq.com/allaclone/?a=spell&id=11616) 18s range 200: 
+- Rank 2 (ID 5252) costs 5 AAs with effect: [Spell 11616](https://retributioneq.com/allaclone/?a=spell&id=11616) 18s range 200:
 
     - Effect 1: RaiseStatCap base 100
     - Effect 2: RaiseStatCap base 100 limit 2
@@ -8837,7 +8838,7 @@ Ability ID: 662 has 3 ranks and costs 15 total  with a recast time of 900 second
     - Effect 8: STR base 100
     - Effect 9: HealOverTime base 1133
     - Effect 10: DEX base 100
-- Rank 3 (ID 5253) costs 5 AAs with effect: [Spell 11617](https://retributioneq.com/allaclone/?a=spell&id=11617) 18s range 200: 
+- Rank 3 (ID 5253) costs 5 AAs with effect: [Spell 11617](https://retributioneq.com/allaclone/?a=spell&id=11617) 18s range 200:
 
     - Effect 1: RaiseStatCap base 105
     - Effect 2: RaiseStatCap base 105 limit 2
@@ -8853,7 +8854,7 @@ Ability ID: 662 has 3 ranks and costs 15 total  with a recast time of 900 second
 Using this ability causes the berserker to fall into a rage, attacking their opponent with no thought of their own safety.  With each rank, the damage is increased, but the berserker's defenses suffer.  This ability functions as a discipline and does not stack with other disciplines.
 
 Ability ID: 374 has 3 ranks and costs 18 total  with a recast time of 900 seconds
-- Rank 1 (ID 1150) costs 3 AAs with effect: [Spell 5848](https://retributioneq.com/allaclone/?a=spell&id=5848) 30s: 
+- Rank 1 (ID 1150) costs 3 AAs with effect: [Spell 5848](https://retributioneq.com/allaclone/?a=spell&id=5848) 30s:
 
     - Effect 1: DoubleAttackChance base 10
     - Effect 3: ArmorClass base -500
@@ -8865,7 +8866,7 @@ Ability ID: 374 has 3 ranks and costs 18 total  with a recast time of 900 second
     - Effect 3: ArmorClass base -750
     - Effect 4: AttackSpeed3 base 110
     - Effect 6: ATK base 100
-- Rank 3 (ID 1152) costs 9 AAs with effect: [Spell 5850](https://retributioneq.com/allaclone/?a=spell&id=5850) 30s: 
+- Rank 3 (ID 1152) costs 9 AAs with effect: [Spell 5850](https://retributioneq.com/allaclone/?a=spell&id=5850) 30s:
 
     - Effect 1: DoubleAttackChance base 30
     - Effect 3: ArmorClass base -1000
@@ -8886,7 +8887,7 @@ Ability ID: 570 has 1 ranks and costs 9 total  with a recast time of 1 seconds
 This ability allows you to absorb the pure essence of elemental air into your soul.   While this ability is active, enemies will notice your actions less.  This ability lasts slightly longer than Heart of Vapor. Additional ranks decrease the amount of hate generated by your spells. Ranks above 6 also increase crit damage.
 
 Ability ID: 622 has 1 ranks and costs 9 total  with a recast time of 900 seconds
-- Rank 1 (ID 4906) costs 9 AAs with effect: [Spell 11065](https://retributioneq.com/allaclone/?a=spell&id=11065) 120s: 
+- Rank 1 (ID 4906) costs 9 AAs with effect: [Spell 11065](https://retributioneq.com/allaclone/?a=spell&id=11065) 120s:
 
     - Effect 1: SpellHateMod base -50
     - Effect 2: LimitMaxLevel base 75
@@ -8898,10 +8899,10 @@ Ability ID: 622 has 1 ranks and costs 9 total  with a recast time of 900 seconds
 Veil of Mindshadow enables an enchanter to phase themselves partly out of existence. This ability shields them from melee damage. Additional ranks in this ability increase how much damage you can absorb before Veil of Mindshadow fades.
 
 Ability ID: 791 has 3 ranks and costs 18 total  with a recast time of 600 seconds
-- Rank 1 (ID 4931) costs 6 AAs with effect: [Spell 11083](https://retributioneq.com/allaclone/?a=spell&id=11083) 2160s: 
+- Rank 1 (ID 4931) costs 6 AAs with effect: [Spell 11083](https://retributioneq.com/allaclone/?a=spell&id=11083) 2160s:
 
     - Effect 4: MitigateMeleeDamage base 80 max 3500
-- Rank 2 (ID 4932) costs 6 AAs with effect: [Spell 11084](https://retributioneq.com/allaclone/?a=spell&id=11084) 2160s: 
+- Rank 2 (ID 4932) costs 6 AAs with effect: [Spell 11084](https://retributioneq.com/allaclone/?a=spell&id=11084) 2160s:
 
     - Effect 4: MitigateMeleeDamage base 80 max 4000
 - Rank 3 (ID 4933) costs 6 AAs with effect: [Spell 11085](https://retributioneq.com/allaclone/?a=spell&id=11085) 2160s: This passive ability grants you a slight increase in capability when using a 2-handed weapon. Additional ranks increase this benefit.
@@ -8912,7 +8913,7 @@ Ability ID: 791 has 3 ranks and costs 18 total  with a recast time of 600 second
 (WAR PAL RNG SHD MNK BRD ROG BST BER)
 Each rank in this ability increases the damage you cause when you land a critical hit on a melee attack.  This ability does not affect special attacks.
 
-Ability ID: 341 has 6 ranks and costs 36 total 
+Ability ID: 341 has 6 ranks and costs 36 total
 - Rank 1 (ID 1050) costs 3 AAs with effect: CriticalDamageMob 15 -1 (5.00 ratio)
 - Rank 2 (ID 1051) costs 6 AAs with effect: CriticalDamageMob 30 -1 (2.50 ratio)
 - Rank 3 (ID 1052) costs 9 AAs with effect: CriticalDamageMob 50 -1 (2.22 ratio)
@@ -8924,7 +8925,7 @@ Ability ID: 341 has 6 ranks and costs 36 total
 (PAL SHD)
 This ability increases the damage you do with your bashes. Each additional rank increases the damage inflicted.
 
-Ability ID: 284 has 5 ranks and costs 25 total 
+Ability ID: 284 has 5 ranks and costs 25 total
 - Rank 1 (ID 855) costs 5 AAs with effect: SkillDamageAmount 25 10 (5.00 ratio)
 - Rank 2 (ID 856) costs 5 AAs with effect: SkillDamageAmount 50 10 (5.00 ratio)
 - Rank 3 (ID 857) costs 5 AAs with effect: SkillDamageAmount 75 10 (5.00 ratio)
@@ -8953,7 +8954,7 @@ Ability ID: 171 has 3 ranks and costs 9 total  with a recast time of 120 seconds
 (ROG)
 Each rank in this ability increases the chance that your weapon poisons will activate.
 
-Ability ID: 294 has 5 ranks and costs 12 total 
+Ability ID: 294 has 5 ranks and costs 12 total
 - Rank 1 (ID 888) costs 1 AA with effect: SpellProcChance 10 (10.00 ratio)
 - Rank 2 (ID 889) costs 2 AAs with effect: SpellProcChance 20 (5.00 ratio)
 - Rank 3 (ID 890) costs 3 AAs with effect: SpellProcChance 30 (3.33 ratio)
@@ -8964,7 +8965,7 @@ Ability ID: 294 has 5 ranks and costs 12 total
 (DRU)
 Each rank of this ability reduces the chance that a rooted NPC will be freed by your damaging spells. The first rank provides a 12% increases of the protection provided by Enhanced Root, the second increases the protection by 13% and the third rank by 15%.
 
-Ability ID: 190 has 2 ranks and costs 10 total 
+Ability ID: 190 has 2 ranks and costs 10 total
 - Rank 1 (ID 567) costs 5 AAs with effect:  -12
 - Rank 2 (ID 5061) costs 5 AAs with effect:  -25
 {{</details>}}
@@ -9027,7 +9028,7 @@ Ability ID: 307 has 5 ranks and costs 15 total  with a recast time of 900 second
 - Rank 2 (ID 927) costs 3 AAs with effect: [Spell 4837](https://retributioneq.com/allaclone/?a=spell&id=4837)
 
     - Effect 1: TemporaryPets base 1 max 300
-- Rank 3 (ID 928) costs 3 AAs with effect: [Spell 4838](https://retributioneq.com/allaclone/?a=spell&id=4838): 
+- Rank 3 (ID 928) costs 3 AAs with effect: [Spell 4838](https://retributioneq.com/allaclone/?a=spell&id=4838):
 
     - Effect 1: TemporaryPets base 1 max 300
 - Rank 4 (ID 929) costs 3 AAs with effect: [Spell 4839](https://retributioneq.com/allaclone/?a=spell&id=4839)
@@ -9042,22 +9043,22 @@ Ability ID: 307 has 5 ranks and costs 15 total  with a recast time of 900 second
 Use of this ability creates a stationary ward that cleanses poison and disease from every player within its range.  Increased ranks improve the effectiveness of the ward.
 
 Ability ID: 506 has 6 ranks and costs 36 total  with a recast time of 900 seconds
-- Rank 1 (ID 1459) costs 7 AAs with effect: [Spell 8125](https://retributioneq.com/allaclone/?a=spell&id=8125): 
+- Rank 1 (ID 1459) costs 7 AAs with effect: [Spell 8125](https://retributioneq.com/allaclone/?a=spell&id=8125):
 
     - Effect 1: TemporaryPets base 1 max 300
-- Rank 2 (ID 1460) costs 7 AAs with effect: [Spell 8126](https://retributioneq.com/allaclone/?a=spell&id=8126): 
+- Rank 2 (ID 1460) costs 7 AAs with effect: [Spell 8126](https://retributioneq.com/allaclone/?a=spell&id=8126):
 
     - Effect 1: TemporaryPets base 1 max 300
-- Rank 3 (ID 1461) costs 7 AAs with effect: [Spell 8127](https://retributioneq.com/allaclone/?a=spell&id=8127): 
+- Rank 3 (ID 1461) costs 7 AAs with effect: [Spell 8127](https://retributioneq.com/allaclone/?a=spell&id=8127):
 
     - Effect 1: TemporaryPets base 1 max 300
-- Rank 4 (ID 5080) costs 5 AAs with effect: [Spell 11293](https://retributioneq.com/allaclone/?a=spell&id=11293): 
+- Rank 4 (ID 5080) costs 5 AAs with effect: [Spell 11293](https://retributioneq.com/allaclone/?a=spell&id=11293):
 
     - Effect 1: TemporaryPets base 1 max 300
-- Rank 5 (ID 5081) costs 5 AAs with effect: [Spell 11294](https://retributioneq.com/allaclone/?a=spell&id=11294): 
+- Rank 5 (ID 5081) costs 5 AAs with effect: [Spell 11294](https://retributioneq.com/allaclone/?a=spell&id=11294):
 
     - Effect 1: TemporaryPets base 1 max 300
-- Rank 6 (ID 5082) costs 5 AAs with effect: [Spell 11295](https://retributioneq.com/allaclone/?a=spell&id=11295): 
+- Rank 6 (ID 5082) costs 5 AAs with effect: [Spell 11295](https://retributioneq.com/allaclone/?a=spell&id=11295):
 
     - Effect 1: TemporaryPets base 1 max 300
 {{</details>}}
@@ -9065,7 +9066,7 @@ Ability ID: 506 has 6 ranks and costs 36 total  with a recast time of 900 second
 (BST)
 Each rank in this ability increases your warder's chance to flurry attacks.
 
-Ability ID: 249 has 11 ranks and costs 61 total 
+Ability ID: 249 has 11 ranks and costs 61 total
 - Rank 1 (ID 729) costs 5 AAs with effect: PetFlurry 4 (0.80 ratio)
 - Rank 2 (ID 730) costs 5 AAs with effect: PetFlurry 8 (0.80 ratio)
 - Rank 3 (ID 731) costs 5 AAs with effect: PetFlurry 12 (0.80 ratio)
@@ -9082,7 +9083,7 @@ Ability ID: 249 has 11 ranks and costs 61 total
 (BST)
 Each rank of this ability increases the critical hit chance of your pet's melee attacks.
 
-Ability ID: 248 has 10 ranks and costs 30 total 
+Ability ID: 248 has 10 ranks and costs 30 total
 - Rank 1 (ID 724) costs 3 AAs with effect: PetCriticalHit 1 (0.33 ratio)
 - Rank 2 (ID 725) costs 3 AAs with effect: PetCriticalHit 2 (0.33 ratio)
 - Rank 3 (ID 726) costs 3 AAs with effect: PetCriticalHit 3 (0.33 ratio)
@@ -9099,7 +9100,7 @@ Ability ID: 248 has 10 ranks and costs 30 total
 This ability summons regenerative energies to flow through your body increasing healing by 300 hp per tick for up to 1.5 minutes.
 
 Ability ID: 911 has 1 ranks and costs 12 total  with a recast time of 600 seconds
-- Rank 1 (ID 10545) costs 12 AAs with effect: [Spell 23531](https://retributioneq.com/allaclone/?a=spell&id=23531) 120s range 100: 
+- Rank 1 (ID 10545) costs 12 AAs with effect: [Spell 23531](https://retributioneq.com/allaclone/?a=spell&id=23531) 120s range 100:
 
     - Effect 7: CurrentEndurance base 300 max 300
     - Effect 8: CurrentHP base 300 max 300
@@ -9124,17 +9125,17 @@ Ability ID: 300 has 6 ranks and costs 36 total  with a recast time of 2100 to 26
     - Effect 7: TotalHP base 1500
     - Effect 8: CurrentHPOnce base 1700
     - Effect 9: CurrentHP base -200
-- Rank 4 (ID 1330) costs 3 AAs with effect: [Spell 5936](https://retributioneq.com/allaclone/?a=spell&id=5936) 66s range 20: 
+- Rank 4 (ID 1330) costs 3 AAs with effect: [Spell 5936](https://retributioneq.com/allaclone/?a=spell&id=5936) 66s range 20:
 
     - Effect 7: TotalHP base 3000
     - Effect 8: CurrentHPOnce base 3410
     - Effect 9: CurrentHP base -410
-- Rank 5 (ID 1331) costs 6 AAs with effect: [Spell 5937](https://retributioneq.com/allaclone/?a=spell&id=5937) 66s range 20: 
+- Rank 5 (ID 1331) costs 6 AAs with effect: [Spell 5937](https://retributioneq.com/allaclone/?a=spell&id=5937) 66s range 20:
 
     - Effect 7: TotalHP base 4000
     - Effect 8: CurrentHPOnce base 4545
     - Effect 9: CurrentHP base -545
-- Rank 6 (ID 1332) costs 9 AAs with effect: [Spell 5938](https://retributioneq.com/allaclone/?a=spell&id=5938) 66s range 20: 
+- Rank 6 (ID 1332) costs 9 AAs with effect: [Spell 5938](https://retributioneq.com/allaclone/?a=spell&id=5938) 66s range 20:
 
     - Effect 7: TotalHP base 5000
     - Effect 8: CurrentHPOnce base 5680
@@ -9144,7 +9145,7 @@ Ability ID: 300 has 6 ranks and costs 36 total  with a recast time of 2100 to 26
 (MNK)
 This passive ability increases the damage done by hand to hand attacks and has a small chance to proc Fists of Fury. Each rank increases the damage amount as well as the chance to proc.
 
-Ability ID: 410 has 2 ranks and costs 16 total 
+Ability ID: 410 has 2 ranks and costs 16 total
 - Rank 1 (ID 12706) costs 7 AAs with effect:
     - Effect 1: SkillDamageAmount 50 50 (7.14 ratio)
 
@@ -9196,7 +9197,7 @@ Ability ID: 410 has 2 ranks and costs 16 total
 (MNK)
 Years of training allows the monk to increase their base movement run. This increase does not stack with movement rate spell effects.
 
-Ability ID: 540 has 3 ranks and costs 18 total 
+Ability ID: 540 has 3 ranks and costs 18 total
 - Rank 1 (ID 1552) costs 3 AAs with effect: BaseMovementSpeed 5 (1.67 ratio)
 - Rank 2 (ID 1553) costs 6 AAs with effect: BaseMovementSpeed 10 (0.83 ratio)
 - Rank 3 (ID 1554) costs 9 AAs with effect: BaseMovementSpeed 15 (0.56 ratio)
@@ -9205,7 +9206,7 @@ Ability ID: 540 has 3 ranks and costs 18 total
 (SHD NEC)
 Each rank in this ability increases the chance that your feigned deaths will not be revealed by spells that successfully land on you.
 
-Ability ID: 532 has 10 ranks and costs 50 total 
+Ability ID: 532 has 10 ranks and costs 50 total
 - Rank 1 (ID 1528) costs 5 AAs with effect: FeignedCastOnChance 30 (6.00 ratio)
 - Rank 2 (ID 1529) costs 5 AAs with effect: FeignedCastOnChance 35 (1.00 ratio)
 - Rank 3 (ID 1530) costs 5 AAs with effect: FeignedCastOnChance 40 (1.00 ratio)
