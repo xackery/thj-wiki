@@ -4,6 +4,7 @@ weight: 5
 chapter: true
 description: Quick Reference list of Proc Weapons in The Heroes' Journey
 images: [images/proc.png]
+aliases: [/procs]
 ---
 
 
