@@ -1,4 +1,4 @@
-package main
+package generator
 
 import (
 	"database/sql"
@@ -43,23 +43,28 @@ type item struct {
 var w *os.File
 
 func TestProcGenerate(t *testing.T) {
-	err := run()
+	err := runProc()
 	if err != nil {
 		t.Fatalf("Failed: %v", err)
 	}
 }
 
-func run() error {
+func runProc() error {
 	var err error
 	var db *sqlx.DB
 
-	w, err = os.Create("../../content/procs/_index.en.md")
+	err = dbstr.Load()
+	if err != nil {
+		return fmt.Errorf("dbstr.Load: %w", err)
+	}
+
+	w, err = os.Create("../../content/equipment-guide/procs/_index.en.md")
 	if err != nil {
 		return fmt.Errorf("os.Create: %w", err)
 	}
 	defer w.Close()
 
-	w.WriteString(`---
+	w.WriteString(fmt.Sprintf(`---
 title: Proc Weapons
 weight: 5
 chapter: true
@@ -70,6 +75,10 @@ images: [images/proc.png]
 
 ![Procs](images/proc.png)
 
+This page was last updated on %s.
+
+
+Found an error on this page? Check tracked issues and [report new ones in the discord](<https://discord.com/channels/1204418766318862356/1307331696693350501/1307331696693350501>)
 
 Stats are based on regular form. Legendary links are in clicked details.
 
@@ -98,7 +107,7 @@ Select which classes to include on Proc Weapon list
 		<label><input type="checkbox" value="WIZ" class="filter-checkbox"> WIZ</label>
     </div>
 {{</rawhtml>}}
-`)
+`, time.Now().Format("2006-01-02")))
 
 	printWriterf(`
 {{<rawhtml>}}
@@ -123,28 +132,28 @@ Select which classes to include on Proc Weapon list
 
 		switch i {
 		case 0:
-			w.WriteString("# Classic\n")
+			w.WriteString("## Classic\n")
 			fmt.Printf("Classic Zones: %d\n", len(zones))
 		case 1:
-			w.WriteString("# Kunark\n")
+			w.WriteString("## Kunark\n")
 			fmt.Printf("Kunark Zones: %d\n", len(zones))
 		case 2:
-			w.WriteString("# Velious\n")
+			w.WriteString("## Velious\n")
 			fmt.Printf("Velious Zones: %d\n", len(zones))
 		case 3:
-			w.WriteString("# Luclin\n")
+			w.WriteString("## Luclin\n")
 			fmt.Printf("Luclin Zones: %d\n", len(zones))
 		case 4:
-			w.WriteString("# Planes of Power\n")
+			w.WriteString("## Planes of Power\n")
 			fmt.Printf("Planes of Power Zones: %d\n", len(zones))
 		case 5:
-			w.WriteString("# Gates of Discord\n")
+			w.WriteString("## Gates of Discord\n")
 			fmt.Printf("Gates of Discord Zones: %d\n", len(zones))
 		case 6:
-			w.WriteString("# Omens of War\n")
+			w.WriteString("## Omens of War\n")
 			fmt.Printf("Omens of War Zones: %d\n", len(zones))
 		case 7:
-			w.WriteString("# Dragons of Norrath\n")
+			w.WriteString("## Dragons of Norrath\n")
 			fmt.Printf("Dragons of Norrath Zones: %d\n", len(zones))
 		}
 
