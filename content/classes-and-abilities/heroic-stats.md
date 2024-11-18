@@ -2,6 +2,7 @@
 title: "Heroic Stats"
 summary: "Learn about Heroic Stats in The Heroes' Journey"
 weight: 1
+aliases: [/heroic-stats]
 ---
 
 ![Heroic Stats](heroic-stats.png)
