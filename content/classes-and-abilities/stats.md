@@ -24,15 +24,6 @@ weight: 1
     - formula deminishes at 100 STR
     - formula deminishes again at 202 STR
 
-- 1 HSTR increases **STR cap** by 1
-- 1 HSTR increases **STR** by 1
-- 1 HSTR increases **maximum endurance** by 2.5
-- 10 HSTR increases **hard AC** by 1
-    - hard AC bypasses soft cap
-- 10 HSTR increases **minimum melee damage** by 1
-- 25 HSTR increases **endurance regen cap** by 1
-- 200 HSTR increases **endurance regen** by 1
-
 # STA
 
 - 2 STA increases **maximum health** by about 1
