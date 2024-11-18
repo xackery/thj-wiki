@@ -50,7 +50,8 @@ Heroic Stats are special stats you'll find on gear, in orange with a + sign afte
 - 1 HDEX increases **DEX cap** by 1
 - 1 HDEX increases **DEX** by 1
 - 1 HDEX increases **maximum endurance** by 2.5
-- 1 HDEX increases **assasination** by 1%
+- 1 HDEX increases **backstab assasination** by 1%
+    - throwing assasination is not affected by HDEX
 - 10 HDEX increases **minimum archery and throwing damage** by 1
 - 25 HDEX increases **headshot** by 1%
 - 25 HDEX increases **riposte** by 1%
