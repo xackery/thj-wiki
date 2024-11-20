@@ -613,3 +613,15 @@ var spas = map[int]string{
 	525: "Duration_Mana_Pct",
 	526: "Duration_Endurance_Pct",
 }
+
+
+func SpDatDescription(spID int, min, max, base, base2, limit int) string {
+	seName := spas[spID]
+	switch seName {
+	case "ReduceTradeskillFail":
+		return fmt.Sprintf("Reduces the chance of failing a tradeskill combine by %d%%", base)
+	case "MitigateDamageShield":
+		return fmt.Sprintf("Adds %d damage shield", -base)
+	}
+	return ""
+}
