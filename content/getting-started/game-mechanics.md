@@ -63,6 +63,7 @@ These macros can be copy pasted in game by setting the Paste From Clipboard hotk
     - Press ALT+O, Keys, UI, scroll down to Paste From Clipboard, and set it to CTRL+V
 
 - Sell highlighted item to merchant: `/hotbutton Sell /notify MerchantWND MW_Sell_Button leftmouseup`
+    - To add any quantity, add next line: `/notify QuantityWnd QTYW_Accept_Button leftmouseup`
 - Press autobank when bank window is open: `/hotbutton Autobank /notify BigBankWnd AutoButton leftmouseup`
 - Press combine on Tradeskill Window:
     - `/hotbutton Combine /notify TradeskillWnd CombineButton leftmouseup`
@@ -70,3 +71,9 @@ These macros can be copy pasted in game by setting the Paste From Clipboard hotk
     - `/pause 1`
     - `/autoinv`
 - Destroy item on cursor: `/hotbutton Destroy /notify IW_InvPage IW_Destroy leftmouseup`
+    - To bypass confirmation dialog, can add: `/notify ConfirmationDialogBox CD_Yes_Button leftmouseup`
+- Loot active corpse: `/hotbutton Loot /notify LootWnd LW_LootAllButton leftmouseup`
+  - A more complicated version, create a hotkey to target nearest corpse, and also bind it to a hotbutton slot, and in this hotbutton write in:
+    - `/loot`
+    - `/notify LootWnd LW_LootAllButton leftmouseup`
+    - `/notify ConfirmationDialogBox No_Button leftmouseup`
