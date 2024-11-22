@@ -56,3 +56,17 @@ Game Mechanics
 - press ALT+U to open your tribute window
     - Press the activate button to turn on tribute. Press deactive to disable it
 - tribute will consume the Active Cost amount every 10 minutes until turned off. Current Favor shows your remaining tribute points you have to consume
+
+## Macros
+
+These macros can be copy pasted in game by setting the Paste From Clipboard hotkey in game.
+    - Press ALT+O, Keys, UI, scroll down to Paste From Clipboard, and set it to CTRL+V
+
+- Sell highlighted item to merchant: `/hotbutton Sell /notify MerchantWND MW_Sell_Button leftmouseup`
+- Press autobank when bank window is open: `/hotbutton Autobank /notify BigBankWnd AutoButton leftmouseup`
+- Press combine on Tradeskill Window:
+    - `/hotbutton Combine /notify TradeskillWnd CombineButton leftmouseup`
+    - set the hotbutton down to a hot bar, then edit it to add into the button manually (can't paste into the hot button editor):
+    - `/pause 1`
+    - `/autoinv`
+- Destroy item on cursor: `/hotbutton Destroy /notify IW_InvPage IW_Destroy leftmouseup`
