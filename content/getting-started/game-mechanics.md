@@ -47,3 +47,12 @@ Game Mechanics
 - augs and Bags are intentionally flagged to not be able to go into the power slot
 - items not in the power slot are not able to be leveled or use the consume item AA to level them up
 - this was a design decision, to make legendary bags and legendary augs to be more valuable
+
+## Tribute
+
+- in the bazaar at the east bank near a Mischievous Halfling, you'll find Aeyln D`Sai (Tribute Master)
+- many items can be given to this NPC to gain a point system called favor
+- this NPC also let's you set various focus effects and stat bonuses that favor will cost to maintain
+- press ALT+U to open your tribute window
+    - Press the activate button to turn on tribute. Press deactive to disable it
+- tribute will consume the Active Cost amount every 10 minutes until turned off. Current Favor shows your remaining tribute points you have to consume
