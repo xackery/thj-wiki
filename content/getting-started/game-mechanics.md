@@ -73,7 +73,8 @@ These macros can be copy pasted in game by setting the Paste From Clipboard hotk
 - Destroy item on cursor: `/hotbutton Destroy /notify IW_InvPage IW_Destroy leftmouseup`
     - To bypass confirmation dialog, can add: `/notify ConfirmationDialogBox CD_Yes_Button leftmouseup`
 - Loot active corpse: `/hotbutton Loot /notify LootWnd LW_LootAllButton leftmouseup`
-  - A more complicated version, create a hotkey to target nearest corpse, and also bind it to a hotbutton slot, and in this hotbutton write in:
-    - `/loot`
-    - `/notify LootWnd LW_LootAllButton leftmouseup`
-    - `/notify ConfirmationDialogBox No_Button leftmouseup`
+    - Note: if you shift right click a corpse, you will auto loot it without needing any of these macros
+    - A more complicated version, create a hotkey to target nearest corpse, and also bind it to a hotbutton slot, and in this hotbutton write in:
+        - `/loot`
+        - `/notify LootWnd LW_LootAllButton leftmouseup`
+        - `/notify ConfirmationDialogBox No_Button leftmouseup`
