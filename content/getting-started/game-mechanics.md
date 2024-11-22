@@ -57,6 +57,16 @@ Game Mechanics
     - Press the activate button to turn on tribute. Press deactive to disable it
 - tribute will consume the Active Cost amount every 10 minutes until turned off. Current Favor shows your remaining tribute points you have to consume
 
+
+## UI Tips and Tricks
+
+- You can pick up a bag and ctrl+left click another bag to transfer all items in your held bag into the targetted clicked bag
+- Hold shift and right click a corpse to auto loot all contents
+- Hold shift while pressing sell to sell regardless of quantity of the highlighted item
+  - This also applies to buying from a merchant
+- Hold control while pressing sell to sell one quantity of the highlighted item
+  - This also applies to buying from a merchant
+
 ## Macros
 
 These macros can be copy pasted in game by setting the Paste From Clipboard hotkey in game.
