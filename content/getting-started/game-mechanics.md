@@ -25,3 +25,25 @@ Game Mechanics
 - heal amount affects runes, their absorption amount is increased with a 1 to 1 ratio
 - heal amount affects sympethic healing value amount with a 1 to 1 ratio
 
+## Flurry
+
+- Warriors and Berserkers get an AA called flurry
+- You must have the triple attack skill and succeed a roll to trigger flurry
+- You must succeed a roll on: double attack, triple attack.
+    - Two rolls are then executed for flurry, if you succeed each roll, you can attack up to 5 times in a single round
+
+
+## Upgrading Items
+
+- if an item can be placed in your power slot, you will find that mobs that give you experience will also give item experience
+- if you use the Consume Item AA while holding the same item as the one in your power slot of any quality, it will be destroyed to increase the level of the item in your power slot
+- if you do level up an item via the power slot, it immediately becomes NO TRADE
+- to upgrade a regular item to enchanted, it requires 3 regular items to be merged with an existing one (aka 4 total)
+- to upgrade a enchanted item to legendary, it requires 3 enchanted items to be merged with an existing one (aka 4 total)
+-
+
+## Upgrading Bags and Augs
+
+- augs and Bags are intentionally flagged to not be able to go into the power slot
+- items not in the power slot are not able to be leveled or use the consume item AA to level them up
+- this was a design decision, to make legendary bags and legendary augs to be more valuable
