@@ -24,12 +24,13 @@ North East corner of the zone.
 ![akanon](akanon.png)
 {{</expand>}}
 {{< expand "Lake Rathetear (lakerathe)" "..." >}}
-### Lake Rathetear (lakerathe) (Discoverable)
+### Lake Rathetear (lakerathe) (Discoverable) - Antonica
  near zoneline to Arena
+ ![lakerathe](lakerathe.png)
  {{</expand>}}
 {{<expand "Blackburrow (blackburrow) (Discoverable)" "..." >}}
-## Blackburrow (blackburrow) (Discoverable)
- across the waterfall from QHills zoneline.
+Across the waterfall from QHills zoneline.
+ ![blackburrow](blackburrow.png)
  {{</expand>}}
 {{<expand "Castle Mistmoore (mistmoore) (Discoverable)" "..." >}}
 ## Castle Mistmoore (mistmoore) (Discoverable)
@@ -99,9 +100,9 @@ near Neriak Foreign Quarter exit
 ## North Karana (northkarana) (Discoverable)
  at gypsy camp.
  {{</expand>}}
-{{<expand "North Qeynos (qeynos2)" "..." >}}
-## North Qeynos (qeynos2)
-Starting Portal
+{{<expand "North Qeynos (qeynos2) - Starting City - Antonica" "..." >}}
+Near pool to qeynos catacombs
+![qeynos](qeynos2.png)
 {{</expand>}}
 {{<expand "Oasis of Marr (oasis) (Discoverable)" "..." >}}
 ## Oasis of Marr (oasis) (Discoverable)
