@@ -88,3 +88,9 @@ These macros can be copy pasted in game by setting the Paste From Clipboard hotk
         - `/loot`
         - `/notify LootWnd LW_LootAllButton leftmouseup`
         - `/notify ConfirmationDialogBox No_Button leftmouseup`
+- Mass turn in: Idea is to put the stack of items you're turning in to bag 1 slot 1, hold CTRL, and click this hotbutton:
+    - `/hotbutton TurnIn /itemnotify in pack1 1 leftmouseup`
+    - You can repeat the above /itemnotify line multiple times in the hotkey if multiple handins are needed of same item
+    - Next, go into ALT+O, Keys, Commands, and rebind Use centerscreen from 'u' to 'CTRL+Z'
+    - Now, you can automate the give button by: `/hotbutton Give /notify GiveWnd GVW_Give_Button leftmouseup`
+    - So in summary, hold CTRL, left click TurnIn hotbutton, press Z (with ctrl still hand), repeat until give window is full, then press Give hotbutton

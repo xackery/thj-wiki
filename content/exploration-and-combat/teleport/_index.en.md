@@ -17,14 +17,15 @@ Tearel in the bazaar can be used to teleport to various destinations. You unlock
 
 The list of locations Tearel can teleport to are:
 
-### Classic
+## Unlocked At Creation
 
 {{<expand "Ak'Anon (akanon) - Starting City - Antonica" "..." >}}
 North East corner of the zone.
 ![akanon](akanon.png)
 {{</expand>}}
-{{< expand "Lake Rathetear (lakerathe)" "..." >}}
-### Lake Rathetear (lakerathe) (Discoverable) - Antonica
+
+### Classic
+{{< expand "Lake Rathetear (lakerathe) - Antonica" "..." >}}
  near zoneline to Arena
  ![lakerathe](lakerathe.png)
  {{</expand>}}
