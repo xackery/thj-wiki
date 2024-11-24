@@ -94,3 +94,37 @@ These macros can be copy pasted in game by setting the Paste From Clipboard hotk
     - Next, go into ALT+O, Keys, Commands, and rebind Use centerscreen from 'u' to 'CTRL+Z'
     - Now, you can automate the give button by: `/hotbutton Give /notify GiveWnd GVW_Give_Button leftmouseup`
     - So in summary, hold CTRL, left click TurnIn hotbutton, press Z (with ctrl still hand), repeat until give window is full, then press Give hotbutton
+
+## Pet Mechanics
+
+> [!tip]- Pet bonds are very strong in this world
+>
+> In The Heroes Journey universe, pets are much more strongly tied to their owners. So much so that NPC's will sometimes be able to detect this connection. For example, if you command your pet to attack, your enemies may very well ignore the pet and come for its owner, YOU!  You may need to instruct your pets to taunt these enemies. Beware, if a pet dies, the severed connection will most likely disrupt the stasis state known as Feign Death.
+
+> [!tip]- Pet specific spells affect all summoned pets
+>
+> You may attune yourself to up to three pets so long as your class selections support this (one pet per class). Because of the strong ties to your pets, many of the pet-specific magicks will affect all of them. While worldy charmed pets will benefit from many spells that specialize on pets, they do not share the same Pet Affinity that summoned pets share in order to receive the benefits of general group spells.
+
+> [!tip]- You can issue commands to all pets simultaneously or to a single pet
+>
+> By default, your pets will operate in harmony: attacking as a group, holding as a group, even releasing the bonds formed with you as a group. If you wish for a particular pet to execute a command on its own, you must direct your full attention to it by targeting the pet before issuing its command. Note that if you issue a stance command such as taunt or guard to a single pet, then issue the same command to all pets, they will harmoniously remain out of sync.
+
+> [!tip] - Check the status of those pets and the bling they're carrying!
+>
+> You can check the status of your pets, including the stats,  weapons, and armor  equipped etc. by using the command:
+/say #mystats
+
+## Maps
+
+> [!tip]- Making use of your map
+>
+> On your map, you can see a location of mobs moving around the map.  Some MQ2 functionality was imported into THJ, one of these being the /mapfilter command.  You can do /mapfilter named and it will filter out other mobs, you can also do /mapfilter custom to enter the name of a specific named mob "(/mapfilter custom Slate)"  Now, when I'm in east commons, I can open my map and track Seargent Slate in real time.  In addition, if the mob is within range to you, you can right click it on map to target it as well making it a very handy tool for pacify and the sort!
+
+Note, when you make a new character, go to your skills tab and open the "track" window one time, and you will be able to see the names of the mobs on your map within range of your track skill as normal, with increased range for higher skill ranks.
+
+
+## AA's
+
+> [!tip]- AA's that stack
+>
+>We always want to look for synergy with our AA's, but we also can't ignore the little, yet arguably more important.  Everyone gets Run 5 as an AA, and that gets you up to Spirit of the Wolf speed.  Bard gets to additional ranks of run with Fleet of Foot.  Monk gets 3 additional ranks via Weightless Steps.  You get a combined Run 10, which is on par with Selo's using Naggy drums.  Keep an eye out for class AA's that stack in that way.
