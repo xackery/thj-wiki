@@ -1,7 +1,6 @@
 ---
 title: Kunark Guide
 weight: 1
-bookCollapseSection: true
 ---
 
 Kunark introduces the first expansion ever released to EverQuest. In The Heroes Journey, here's a list of things worth noting about Kunark that are unique to other servers:
