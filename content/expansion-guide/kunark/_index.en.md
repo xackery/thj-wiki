@@ -11,5 +11,5 @@ Kunark introduces the first expansion ever released to EverQuest. In The Heroes 
 - Veeshan's Peak is 1.0 version, making it in line with Kunark era loot
 - Legacy of Ykesha zones are unlocked with Kunark, as well as Stonebrunt Mountains, Jaggedpine Forest, ChardokB, and Veksar.
 - Legacy of Ykesha gear was reduced to put it more in line with Kunark era loot
-- Charms are obtainable in Legacy of Ykesha zones
+- Charms are obtainable in Legacy of Ykesha zones. (They are not amazing, but you can fill the slot now at least)
 - You can view items and NPCs found in Kunark inside the [ret allaclone](<https://retributioneq.com/allaclone/?a=zone_era&era=kunark>). This is up to date and in sync with the latest on THJ.
