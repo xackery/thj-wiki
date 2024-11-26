@@ -4,7 +4,7 @@ weight: 1
 description: Learn more about what to expect when The Heroes' Journey releases
 ---
 
-Classic introduces zones that released with EverQuest. In The Heroes Journey, here's a list of things worth noting about Kunark that are unique to other servers:
+Classic introduces zones that released with EverQuest. In The Heroes Journey, here's a list of things worth noting about Classic that are unique to other servers:
 
 - Iksar and Vah Shir are unlocked
 - Berserker and Beastlord are unlocked
