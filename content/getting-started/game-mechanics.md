@@ -94,6 +94,11 @@ These macros can be copy pasted in game by setting the Paste From Clipboard hotk
     - Next, go into ALT+O, Keys, Commands, and rebind Use centerscreen from 'u' to 'CTRL+Z'
     - Now, you can automate the give button by: `/hotbutton Give /notify GiveWnd GVW_Give_Button leftmouseup`
     - So in summary, hold CTRL, left click TurnIn hotbutton, press Z (with ctrl still hand), repeat until give window is full, then press Give hotbutton
+- Accept items from parcel:
+    - `/hotbutton Parcel /notify MerchantWnd MW_MerchantSubwindows tabselect 2`
+    - Then, you'll write manually in next line
+    - `/notify MerchantWnd MW_ItemlistMail listselect 1`
+    - `/notify MerchantWnd MW_Retrieve_Button leftmouseup`
 
 ## Pet Mechanics
 
