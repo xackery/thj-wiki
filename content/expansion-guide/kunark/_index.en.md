@@ -1,6 +1,6 @@
 ---
-title: Kunark Guide
-weight: 1
+title: Kunark
+weight: 2
 description: Learn more about what to expect when Kunark releases in The Heroes' Journey
 ---
 
