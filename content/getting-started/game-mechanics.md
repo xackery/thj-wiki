@@ -133,3 +133,26 @@ Note, when you make a new character, go to your skills tab and open the "track" 
 > [!tip]- AA's that stack
 >
 >We always want to look for synergy with our AA's, but we also can't ignore the little, yet arguably more important.  Everyone gets Run 5 as an AA, and that gets you up to Spirit of the Wolf speed.  Bard gets to additional ranks of run with Fleet of Foot.  Monk gets 3 additional ranks via Weightless Steps.  You get a combined Run 10, which is on par with Selo's using Naggy drums.  Keep an eye out for class AA's that stack in that way.
+
+## Resists
+
+- 2 resists equates to roughly 1% chance to resist
+- player resists go up to 750
+- spells can have min resists and max resists fields set to modify final resist checks
+- a dice is rolled of 0 to 200 to determine if a spell lands, and returns partial landings as well. The enemy's natural resists, and factors noted below, among some other edge cases are used
+
+### Outgoing damage spell landing
+
+When you cast a spell on an NPC:
+
+- an enemy with a level greater than yours adds a +1 to all resists with a cap of +9
+- an enemy with a level lower than yours adds a -1 to all resists until the cap of -9
+- an enemy with a level lower than 20 levels of yours adds -1000 to all resist checks
+- each point of heroic charisma adds -1 to resist check
+
+### Incoming damage spell landing
+
+When an NPC casts on you:
+
+- an enemy with a level greater than yours adds -1 to all resists with a cap of -15
+
