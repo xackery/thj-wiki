@@ -21,8 +21,8 @@ weight: 1
     - if you have higher INT or WIS, they take precedence over STR and have a -15% penalty to skillup probability
     - tradeskill gains are a two roll system. Stats impact the first roll only, and the second roll is based on your tradeskill level
 - 40 STR increases **endurance** by about 1
-    - formula deminishes at 100 STR
-    - formula deminishes again at 202 STR
+    - formula diminishes at 100 STR
+    - formula diminishes again at 202 STR
 
 # STA
 
@@ -30,14 +30,14 @@ weight: 1
     - first 255 points of STA increases health by 255 (1 STA for 1 health)
     - class also impacts this formula
 - 40 STA increases **endurance** by about 1
-    - formula deminishes at 100 STA
-    - formula deminishes again at 202 STA
+    - formula diminishes at 100 STA
+    - formula diminishes again at 202 STA
 
 # AGI
 
 - 40 AGI increases **endurance** by about 1
-    - formula deminishes at 100 AGI
-    - formula deminishes again at 202 AGI
+    - formula diminishes at 100 AGI
+    - formula diminishes again at 202 AGI
 - 5 AGI increases **defense** by 1
     - first 40 points of AGI are not affected
 - 20 AGI increases **ac** by 1
@@ -68,8 +68,8 @@ weight: 1
 - 15 DEX increases **weapon proc chance** by 1%
     - this is a rough estimate, there's more factors into this such as procs per minute and weapon speed that influence %
 - 40 DEX increases **endurance** by about 1
-    - formula deminishes at 100 DEX
-    - formula deminishes again at 202 DEX
+    - formula diminishes at 100 DEX
+    - formula diminishes again at 202 DEX
 - 50 DEX increases **headshot chance** by 1%
 - 50 DEX increases **backstab assassinate chance** by 1%
 - 255 DEX increases **throwing assassinate chance** by 26%
