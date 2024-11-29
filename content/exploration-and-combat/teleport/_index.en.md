@@ -5,7 +5,7 @@ description: Tearel in the bazaar can be used to teleport to various destination
 aliases: [/teleport]
 ---
 
-![Teleport](images/teleport.png)
+![Teleport](/images/teleport.webp)
 
 Tearel in the bazaar can be used to teleport to various destinations. You unlock them account wide by visiting certain areas within each zone.
 
@@ -21,17 +21,17 @@ The list of locations Tearel can teleport to are:
 
 {{<expand "Ak'Anon (akanon) - Starting City - Antonica" "..." >}}
 North East corner of the zone.
-![akanon](akanon.png)
+![akanon](/images/teleport/akanon.png)
 {{</expand>}}
 
 ### Classic
 {{< expand "Lake Rathetear (lakerathe) - Antonica" "..." >}}
  near zoneline to Arena
- ![lakerathe](lakerathe.png)
+ ![lakerathe](/images/teleport/lakerathe.png)
  {{</expand>}}
 {{<expand "Blackburrow (blackburrow) (Discoverable)" "..." >}}
 Across the waterfall from QHills zoneline.
- ![blackburrow](blackburrow.png)
+ ![blackburrow](/images/teleport/blackburrow.png)
  {{</expand>}}
 {{<expand "Castle Mistmoore (mistmoore) (Discoverable)" "..." >}}
 ## Castle Mistmoore (mistmoore) (Discoverable)

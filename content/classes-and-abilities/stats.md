@@ -4,7 +4,7 @@ summary: "Learn about Stats in The Heroes' Journey"
 weight: 1
 ---
 
-![Stats](stats.png)
+![Stats](/images/stats.png)
 
 # STR
 

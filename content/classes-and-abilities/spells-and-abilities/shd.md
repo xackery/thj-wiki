@@ -4,7 +4,7 @@ images: [spells/images/shd.png]
 bookHidden: true
 description: Shadowknight Spells.
 ---
-![Shadowknight Spells](images/shd-banner.png)
+![Shadowknight Spells](/images/spells-and-abilities/shd-banner.png)
 
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC

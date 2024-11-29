@@ -4,7 +4,7 @@ images: [spells/images/bst.png]
 bookHidden: true
 description: Beastlord Spells.
 ---
-![Beastlord Spells](images/bst-banner.png)
+![Beastlord Spells](/images/spells-and-abilities/bst-banner.png)
 
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC

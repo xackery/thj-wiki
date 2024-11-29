@@ -7,7 +7,7 @@ images: [images/classes.png]
 bookCollapseSection: true
 ---
 
-![Classes](images/classes.png)
+![Classes](/images/classes.png)
 
 
 ## Bard

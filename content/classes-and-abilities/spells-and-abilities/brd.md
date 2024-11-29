@@ -4,7 +4,7 @@ images: [spells/images/brd.png]
 bookHidden: true
 description: Bard Songs.
 ---
-![Bard Songs](images/brd-banner.png)
+![Bard Songs](/images/spells-and-abilities/brd-banner.png)
 
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC|Note

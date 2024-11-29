@@ -4,7 +4,7 @@ images: [spells/images/enc.png]
 bookHidden: true
 description: Enchanter Spells.
 ---
-![Enchanter Spells](images/enc-banner.png)
+![Enchanter Spells](/images/spells-and-abilities/enc-banner.png)
 
 This was auto generated and likely buggy. Expect issues!
 

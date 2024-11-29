@@ -4,7 +4,7 @@ images: [spells/images/ber.png]
 bookHidden: true
 description: Berserker Disciplines.
 ---
-![Berserker Disciplines](images/ber-banner.png)
+![Berserker Disciplines](/images/spells-and-abilities/ber-banner.png)
 
 
 This was auto generated and likely buggy. Expect issues!

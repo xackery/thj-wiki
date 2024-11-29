@@ -5,7 +5,7 @@ images: [spells/images/spells.png]
 bookCollapseSection: true
 ---
 
-![Spells](images/spells-banner.png)
+![Spells](/images/spells-and-abilities/spells-banner.png)
 
 
 This was auto generated and likely buggy

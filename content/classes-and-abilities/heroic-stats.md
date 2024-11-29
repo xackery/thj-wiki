@@ -5,7 +5,7 @@ weight: 1
 aliases: [/heroic-stats]
 ---
 
-![Heroic Stats](heroic-stats.png)
+![Heroic Stats](/images/heroic-stats.png)
 
 Heroic Stats are special stats you'll find on gear, in orange with a + sign after main stats.
 

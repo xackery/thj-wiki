@@ -4,7 +4,7 @@ images: [spells/images/war.png]
 bookHidden: true
 description: Warrior Disciplines.
 ---
-![Warrior Disciplines](images/war-banner.png)
+![Warrior Disciplines](/images/spells-and-abilities/war-banner.png)
 
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC

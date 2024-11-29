@@ -5,7 +5,7 @@ weight: 3
 description: "Discover how to get from zone A to B."
 ---
 
-![Zone Guide](zone-guide.png)
+![Zone Guide](/images/zone-guide.png)
 
 {{<rawhtml>}}
 <div class="container">

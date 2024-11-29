@@ -8,7 +8,7 @@ aliases: [/procs]
 ---
 
 
-![Procs](images/proc.png)
+![Procs](/images/proc.png)
 
 
 Stats are based on regular form. Legendary links are in clicked details.

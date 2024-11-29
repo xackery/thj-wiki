@@ -4,7 +4,7 @@ images: [spells/images/rng.png]
 bookHidden: true
 description: Ranger Spells.
 ---
-![Ranger Spells](images/rng-banner.png)
+![Ranger Spells](/images/spells-and-abilities/rng-banner.png)
 
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC

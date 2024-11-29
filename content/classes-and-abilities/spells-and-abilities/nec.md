@@ -4,7 +4,7 @@ images: [spells/images/nec.png]
 bookHidden: true
 description: Necromancer Spells.
 ---
-![Necromancer Spells](images/nec-banner.png)
+![Necromancer Spells](/images/spells-and-abilities/nec-banner.png)
 
 This was auto generated and likely buggy. Expect issues!
 Name|Lvl|Era|Zone|NPC
