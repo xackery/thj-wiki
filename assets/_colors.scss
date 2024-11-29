@@ -1,17 +1,17 @@
 :root {
     --light: #faf8f8;
     --dark: #141021;
-    --secondary: #7c00ce;
-    --tertiary: #ff38e4;
+    --secondary: #ce0000;
+    --tertiary: #ce0000;
     --visited: #afbfc9;
     --primary: #f28482;
     --gray: #3f3f3f;
     --lightgray: #f0f0f0;
     --outlinegray: #dadada;
     --million-progress-bar-color: var(--secondary);
-    --highlighted: #8446ff88;
-    --header: #bca1ff;
-    --title: rgb(134, 42, 232);
+    --highlighted: #3b82f6;
+    --header: #3b82f6;
+    --title: #ce0000;
     --scrollbar: gray;
     --scrollbar-track: #DDD;
 }
@@ -19,10 +19,10 @@
 [saved-theme="dark"] {
     --light: #111827 !important;
     --dark: #f7f2fa !important;
-    --secondary: #3b82f6 !important;
+    --secondary: #e7e7b0 !important;
     --visited: #3b82f6 !important;
     --tertiary: #3b82f6 !important;
-    --primary: #f58382 !important;
+    --primary: #e7e7b0 !important;
     --gray: #d4d4d4 !important;
     --lightgray: #292633 !important;
     --outlinegray: #343434 !important;

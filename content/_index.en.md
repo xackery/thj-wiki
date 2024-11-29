@@ -15,15 +15,8 @@ Welcome to the Heroes' Journey Wiki
 
 - [Discord](https://discord.gg/VZJBmC9ycw)
 - [Getting Started](/new-players)
-- Magelo
-- Echoes of Memory
-- [Class Information](/classes)
-- Allaclone
-- ZEM Values
-- [Progression Guide](/progression)
-- Bazaar
-- Recommended Leveling Paths
+- Echoes of Memory - Coming Soon
+- Allaclone - Coming Soon
+- [ZEM Values](/content/exploration-and-combat/zem.md)
+- [Progression Guide](/content/progression/progression.md)
 - [Epic Quests](/epics)
-- Character Mover
-- Recommended Builds
-- Fast Travel How To
