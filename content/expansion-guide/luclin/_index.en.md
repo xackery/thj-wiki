@@ -1,7 +1,6 @@
 ---
-title: Luclin Guide
-weight: 0
-bookCollapseSection: true
+title: Luclin
+weight: 4
 ---
 
 - [Vex Thal Key](vt-key.md)

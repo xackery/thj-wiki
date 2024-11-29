@@ -12,7 +12,7 @@ Progression is broken into expansions, with key mobs needing to be killed to unl
 # Classic
 
 {{<details title="List of Classic Zones">}}
-TODO: list every classic zone available, for quick search/unlock reference
+Not yet available
 {{</details>}}
 
 ## Classic Bosses to kill for Kunark Unlock
@@ -21,9 +21,6 @@ Found in Soluseks Eye, this is a Dragon that will challenge you with his Fire Br
 {{</details>}}
 {{<details title="Lady Vox">}}
 Found in Permafrost, Lady Vox is a challenging dragon fight to not only get to, but also compete with her Complete Heal
-{{</details>}}
-{{<details title="Phinigel Autoropos">}}
-Found in Kedge Keep, Phinigel will require waterbreathing and strategies to overcome his seahorse guards and wizard spells.
 {{</details>}}
 
 
@@ -48,7 +45,7 @@ To unlock Luclin, you must kill:
 - Nanzata the Warder
 - Tukaarak the Warder
 - Ventani the Warder
-  
+
 ## Luclin
 
 To unlock PoP, you must kill:
