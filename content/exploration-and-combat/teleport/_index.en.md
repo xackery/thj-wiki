@@ -152,11 +152,19 @@ Starting Portal
 ### Kunark
 
 {{<expand "Burning Woods (burningwood) (Discoverable)" "..." >}}
-## Burning Woods (burningwood) (Discoverable)
  outside of Chardok, NW corner of room.
  {{</expand>}}
+
+
+{{<expand "Chardok (chardok) (Discoverable)" "..." >}}
+ Just inside zone line
+{{</expand>}}
+
+{{<expand "Chardok Halls of Betrayal (chardokb) (Discoverable)" "..." >}}
+ At zone in
+{{</expand>}}
+
 {{<expand "City of Mist (citymist) (Discoverable)" "..." >}}
-## City of Mist (citymist) (Discoverable)
  at the temple to the right of entrance.
  {{</expand>}}
 {{<expand "Dreadlands (dreadlands) (Discoverable)" "..." >}}
@@ -164,8 +172,8 @@ Starting Portal
  at wizard spires.
  {{</expand>}}
 {{<expand "East Cabilis (cabeast)" "..." >}}
-## East Cabilis (cabeast)
-Starting Portal.
+## East Cabilis (cabeast) - Starting City
+Near the shaman guild master building
 {{</expand>}}
 {{<expand "Field of Bone (fieldofbone) (Discoverable)" "..." >}}
 ## Field of Bone (fieldofbone) (Discoverable)
