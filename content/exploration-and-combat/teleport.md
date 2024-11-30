@@ -187,6 +187,11 @@ Near the shaman guild master building
 ## Frontier Mountains (frontiermtns)
 west of giant fort.
 {{</expand>}}
+
+{{<expand "Karnor's Castle (karnor)" "..." >}}
+After entering, go left right before the water, you'll see the teleporter in the corner
+{{</expand>}}
+
 {{<expand "Lake of Ill Omen (lakeofillomen) (Discoverable)" "..." >}}
 ## Lake of Ill Omen (lakeofillomen) (Discoverable)
  north of where the lake and river meet.
