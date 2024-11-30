@@ -3,7 +3,7 @@ title: Druid
 description: Overview of the Druid Class
 ---
 
-![Header Image](/content/images/classes.webp)
+![Header Image](/images/classes.webp)
 
 Key differences for the Druid class on THJ compared to live or other servers:
 
@@ -97,7 +97,6 @@ Begging|1|300
 Bind Wound|1|325
 Sense Heading|1|200
 Swimming|1|300
-
 
 **Tradeskill Specific**
 Class Skill Descriptions|Level Attained|Cap at 60

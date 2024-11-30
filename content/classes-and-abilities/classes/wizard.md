@@ -3,7 +3,7 @@ title: Wizard
 description: Overview of the Wizard Class
 ---
 
-![Header Image](/content/images/classes.webp)
+![Header Image](/images/classes.webp)
 
 Key differences for the Wizard class on THJ compared to live or other servers:
 

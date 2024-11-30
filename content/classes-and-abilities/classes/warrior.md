@@ -3,7 +3,7 @@ title: Warrior
 description: Overview of the Warrior Class
 ---
 
-![Header Image](/content/images/classes.webp)
+![Header Image](/images/classes.webp)
 
 Key differences for the Warrior class on THJ compared to live or other servers:
 

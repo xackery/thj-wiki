@@ -7,7 +7,7 @@ images: [images/aa.png]
 aliases: [/aa]
 ---
 
-![AAs](/images/aa.png)
+![AAs](/images/exp.webp)
 
 ## Filter
 

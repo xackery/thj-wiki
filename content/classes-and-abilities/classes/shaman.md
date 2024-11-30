@@ -3,7 +3,7 @@ title: Shaman
 description: Overview of the Shaman Class
 ---
 
-![Header Image](/content/images/classes.webp)
+![Header Image](/images/classes.webp)
 
 Key differences for the Shaman class on THJ compared to live or other servers:
 

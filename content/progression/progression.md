@@ -5,7 +5,7 @@ images: [images/progression.png]
 description: Progression guide through the heroes journey.
 ---
 
-![Progression](/images/progression.png)
+![Progression](/images/progression.webp)
 
 Progression is broken into expansions, with key mobs needing to be killed to unlock the next.
 

@@ -3,13 +3,13 @@ title: Beastlord
 description: Overview of the Beastlord Class
 ---
 
-![Header Image](/content/images/classes.webp)
+![Header Image](/images/classes.webp)
 
 Key differences for the Beastlord class on THJ compared to live or other servers:
 
 - As a pet class, your summoned pet can be buffed by not only your own beneficial spells and abilities but also by your other chosen classes beneficial spells and abilities (including bard songs).
 Some buff spells do not fully stack their effects when they overlap. i.e. the haste portion of Necromancer Intensify Death, Magician Burnout
-- Custom Berserker Epic 1.0 {{<item id="20542" name="Claw of the Savage Spirit" link="/equipment-guide/epics/bst-epic/">}}, available for completion once Kunark is released
+- Custom Beastlord Epic 1.0 {{<item id="20542" name="Claw of the Savage Spirit" link="/equipment-guide/epics/bst-epic/">}}, available for completion once Kunark is released
 
 ## Beastlord Level 1 Autogranted AAs
 

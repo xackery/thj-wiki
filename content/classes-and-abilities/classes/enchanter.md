@@ -3,7 +3,7 @@ title: Enchanter
 description: Overview of the Enchanter Class
 ---
 
-![Header Image](/content/images/classes.webp)
+![Header Image](/images/classes.webp)
 
 ### Enchanters in *The Heroes Journey*
 

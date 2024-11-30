@@ -3,7 +3,7 @@ title: Rogue
 description: Overview of the Rogue Class
 ---
 
-![Header Image](/content/images/classes.webp)
+![Header Image](/images/classes.webp)
 
 Key differences for the Rogue class on THJ compared to live or other servers:
 

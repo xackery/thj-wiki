@@ -3,7 +3,7 @@ title: Ranger
 description: Overview of the Ranger Class
 ---
 
-![Header Image](/content/images/classes.webp)
+![Header Image](/images/classes.webp)
 
 Key differences for the Ranger class on THJ compared to live or other servers:
 

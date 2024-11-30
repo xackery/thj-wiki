@@ -3,7 +3,7 @@ title: Necromancer
 description: Overview of the Necromancer Class
 ---
 
-![Header Image](/content/images/classes.webp)
+![Header Image](/images/classes.webp)
 
 Key differences for the Necromancer class on THJ compared to live or other servers:
 

@@ -3,7 +3,7 @@ title: Paladin
 description: Overview of the Paladin Class
 ---
 
-![Header Image](/content/images/classes.webp)
+![Header Image](/images/classes.webp)
 
 Key differences for the Paladin class on THJ compared to live or other servers:
 

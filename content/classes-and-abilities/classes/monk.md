@@ -3,7 +3,7 @@ title: Monk
 description: Overview of the Monk Class
 ---
 
-![Header Image](/content/images/classes.webp)
+![Header Image](/images/classes.webp)
 
 Key differences for the Monk class on THJ compared to live or other servers:
 

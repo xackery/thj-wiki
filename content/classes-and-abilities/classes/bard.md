@@ -3,7 +3,7 @@ title: Bard
 description: Overview of the Bard Class
 ---
 
-![Header Image](/content/images/classes.webp)
+![Header Image](/images/classes.webp)
 
 Key differences for the Bard class on THJ compared to live or other servers:
 

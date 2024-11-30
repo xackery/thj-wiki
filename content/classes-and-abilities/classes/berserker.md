@@ -3,7 +3,7 @@ title: Berserker
 description: Overview of the Berserker Class
 ---
 
-![Header Image](/content/images/classes.webp)
+![Header Image](/images/classes.webp)
 
 Key differences for the Berserker class on THJ compared to live or other servers:
 

@@ -3,7 +3,7 @@ title: Shadow Knight
 description: Overview of the Shadow Knight Class
 ---
 
-![Header Image](/content/images/classes.webp)
+![Header Image](/images/classes.webp)
 
 Key differences for the Shadow Knight class on THJ compared to live or other servers:
 

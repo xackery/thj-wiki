@@ -3,7 +3,7 @@ title: Cleric
 description: Overview of the Cleric Class
 ---
 
-![Header Image](/content/images/classes.webp)
+![Header Image](/images/classes.webp)
 
 Key differences for the Cleric class on THJ compared to live or other servers:
 

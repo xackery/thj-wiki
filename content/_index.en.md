@@ -5,18 +5,14 @@ weight: 0
 
 <!--more-->
 
-Welcome to the Heroes' Journey Wiki
+![Logo](/images/wikihome.webp)
 
-[![Logo](images/logo.png)
+# Welcome to the Heroes' Journey Wiki - Quick Start Links
 
-
-> [!note]
-> The site is a work in progress, stay tuned
-
-- [Discord](https://discord.gg/VZJBmC9ycw)
-- [Getting Started](/new-players)
+- [THJ Main Site](https://heroesjourneyemu.com/)
+- [Discord](https://discord.gg/heroesjourney)
+- [Getting Started](/getting-started/)
 - Echoes of Memory - Coming Soon
 - Allaclone - Coming Soon
-- [ZEM Values](/content/exploration-and-combat/zem.md)
-- [Progression Guide](/content/progression/progression.md)
-- [Epic Quests](/epics)
+- [Progression Guide](/progression/progression.md)
+- [Epic Quests](/equipment-guide/epics)

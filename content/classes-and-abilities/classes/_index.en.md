@@ -9,7 +9,6 @@ bookCollapseSection: true
 
 ![Classes](/images/classes.png)
 
-
 ## Bard
 
 

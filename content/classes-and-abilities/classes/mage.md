@@ -3,7 +3,7 @@ title: Magician
 description: Overview of the Magician Class
 ---
 
-![Header Image](/content/images/classes.webp)
+![Header Image](/images/classes.webp)
 
 Key differences for the Magician class on THJ compared to live or other servers:
 
