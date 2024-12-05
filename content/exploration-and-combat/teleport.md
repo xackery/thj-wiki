@@ -124,6 +124,9 @@ Near zone in by Toxxula Forest
 ## Plane of Hate (hateplaneb)
 Default unlocked upon reaching 46.
 {{</expand>}}
+{{<expand "Plane of Fear (fearplane)" "..." >}}
+Run there manually from Oggok -> Feerrott, when you enter Plane of Fear, head directly south to find the teleport and Echo of Memory.
+{{</expand>}}
 {{<expand "Rathe Mountains (rathemtn)" "..." >}}
 ## Rathe Mountains (rathemtn)
 near arena
