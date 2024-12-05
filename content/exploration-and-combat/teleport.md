@@ -29,20 +29,20 @@ North East corner of the zone.
  near zoneline to Arena
  ![lakerathe](/images/teleport/lakerathe.png)
  {{</expand>}}
-{{<expand "Blackburrow (blackburrow) (Discoverable)" "..." >}}
+{{<expand "Blackburrow (blackburrow)" "..." >}}
 Across the waterfall from QHills zoneline.
  ![blackburrow](/images/teleport/blackburrow.png)
  {{</expand>}}
-{{<expand "Castle Mistmoore (mistmoore) (Discoverable)" "..." >}}
-## Castle Mistmoore (mistmoore) (Discoverable)
+{{<expand "Castle Mistmoore (mistmoore)" "..." >}}
+## Castle Mistmoore (mistmoore)
  near the Lesser Faydark zone out.
  {{</expand>}}
 {{<expand "Cazic Thule (cazicthule)" "..." >}}
 ## Cazic Thule (cazicthule)
 Suspected Removed.
 {{</expand>}}
-{{<expand "Dagnor's Cauldron (cauldron) (Discoverable)" "..." >}}
-## Dagnor's Cauldron (cauldron) (Discoverable)
+{{<expand "Dagnor's Cauldron (cauldron)" "..." >}}
+## Dagnor's Cauldron (cauldron)
  near the Unrest zone in.
  {{</expand>}}
 {{<expand "Erud's Crossing (erudsxing)" "..." >}}
@@ -53,8 +53,8 @@ Suspected Removed.
 ## Erudin (erudnext)
 Starting Portal
 {{</expand>}}
-{{<expand "Everfrost (everfrost) (Discoverable)" "..." >}}
-## Everfrost (everfrost) (Discoverable)
+{{<expand "Everfrost (everfrost)" "..." >}}
+## Everfrost (everfrost)
  not too far up the tunnel heading north from permafrost.
  {{</expand>}}
 {{<expand "Felwithe (felwithea)" "..." >}}
@@ -73,20 +73,20 @@ Starting Portal
 ## Halas (halas)
 Starting Portal
 {{</expand>}}
-{{<expand "High Keep (highkeep) (Discoverable)" "..." >}}
-## High Keep (highkeep) (Discoverable)
+{{<expand "High Keep (highkeep)" "..." >}}
+## High Keep (highkeep)
  courtyard upon entering zone.
  {{</expand>}}
-{{<expand "Hole (hole) (Discoverable)" "..." >}}
-## Hole (hole) (Discoverable)
+{{<expand "Hole (hole)" "..." >}}
+## Hole (hole)
  near the drop cliff near entrance.
  {{</expand>}}
 {{<expand "Kaladim (kaladima)" "..." >}}
 ## Kaladim (kaladima)
 Starting Portal
 {{</expand>}}
-{{<expand "Lavastorm (lavastorm) (Discoverable)" "..." >}}
-## Lavastorm (lavastorm) (Discoverable)
+{{<expand "Lavastorm (lavastorm)" "..." >}}
+## Lavastorm (lavastorm)
  at the druid ring.
  {{</expand>}}
 {{<expand "Nagafen's Lair (soldungb)" "..." >}}
@@ -97,20 +97,20 @@ Suspected Removed.
 ## Neriak Commons (neriakb)
 near Neriak Foreign Quarter exit
 {{</expand>}}
-{{<expand "North Karana (northkarana) (Discoverable)" "..." >}}
-## North Karana (northkarana) (Discoverable)
+{{<expand "North Karana (northkarana)" "..." >}}
+## North Karana (northkarana)
  at gypsy camp.
  {{</expand>}}
 {{<expand "North Qeynos (qeynos2) - Starting City - Antonica" "..." >}}
 Near pool to qeynos catacombs
 ![qeynos](qeynos2.png)
 {{</expand>}}
-{{<expand "Oasis of Marr (oasis) (Discoverable)" "..." >}}
-## Oasis of Marr (oasis) (Discoverable)
+{{<expand "Oasis of Marr (oasis)" "..." >}}
+## Oasis of Marr (oasis)
  near the gypsy merchant.
  {{</expand>}}
-{{<expand "Ocean of Tears (oot) (Discoverable)" "..." >}}
-## Ocean of Tears (oot) (Discoverable)
+{{<expand "Ocean of Tears (oot)" "..." >}}
+## Ocean of Tears (oot)
 {{<expand "Oggok (oggok)" "..." >}}
 {{</expand>}}
 ## Oggok (oggok)
@@ -138,12 +138,12 @@ near arena
 ## Rivervale (rivervale)
 Starting Portal.
 {{</expand>}}
-{{<expand "South Karana (southkarana) (Discoverable)" "..." >}}
-## South Karana (southkarana) (Discoverable)
+{{<expand "South Karana (southkarana)" "..." >}}
+## South Karana (southkarana)
  at aviak treehouse
  {{</expand>}}
-{{<expand "Surefall Glade (qrg) (Discoverable)" "..." >}}
-## Surefall Glade (qrg) (Discoverable)
+{{<expand "Surefall Glade (qrg)" "..." >}}
+## Surefall Glade (qrg)
  next to the building in the pond
  {{</expand>}}
 {{<expand "West Commonlands (commons) -" "..." >}}
@@ -157,75 +157,68 @@ Starting Portal
 
 ### Kunark
 
-{{<expand "Burning Woods (burningwood) (Discoverable)" "..." >}}
+{{<expand "Burning Woods (burningwood)" "..." >}}
  outside of Chardok, NW corner of room.
  {{</expand>}}
 
 
-{{<expand "Chardok (chardok) (Discoverable)" "..." >}}
- Just inside zone line
+{{<expand "Burning Woods (Near Chardok) (burningwoods)" "..." >}}
+ Go towards chardok entrance in burning woods, and on the NW side of the room outside the zone in area, you'll see the rune in the corner.
 {{</expand>}}
 
-{{<expand "Chardok Halls of Betrayal (chardokb) (Discoverable)" "..." >}}
- At zone in
+{{<expand "Chardok Halls of Betrayal (chardokb)" "..." >}}
+ When near the Bridge Keeper on the way to Royals, you'll see a number of waterfalls. Jumping down, and swimming through a waterfall you'll see a lever, touching it enters ChardokB.
+ Once inside ChardokB, you'll immediately get the rune at zone in
 {{</expand>}}
 
-{{<expand "City of Mist (citymist) (Discoverable)" "..." >}}
+{{<expand "City of Mist (citymist)" "..." >}}
  at the temple to the right of entrance.
  {{</expand>}}
-{{<expand "Dreadlands (dreadlands) (Discoverable)" "..." >}}
-## Dreadlands (dreadlands) (Discoverable)
+{{<expand "Dreadlands (dreadlands)" "..." >}}
  at wizard spires.
  {{</expand>}}
 {{<expand "East Cabilis (cabeast)" "..." >}}
-## East Cabilis (cabeast) - Starting City
 Near the shaman guild master building
 {{</expand>}}
-{{<expand "Field of Bone (fieldofbone) (Discoverable)" "..." >}}
-## Field of Bone (fieldofbone) (Discoverable)
+{{<expand "Field of Bone (fieldofbone)" "..." >}}
  at noob ramp.
  {{</expand>}}
-{{<expand "Firiona Vie (firiona) (Discoverable)" "..." >}}
-## Firiona Vie (firiona) (Discoverable)
+{{<expand "Firiona Vie (firiona)" "..." >}}
  slightly east of the bridge to FV city.
  {{</expand>}}
 {{<expand "Frontier Mountains (frontiermtns)" "..." >}}
-## Frontier Mountains (frontiermtns)
 west of giant fort.
+{{</expand>}}
+{{<expand "Gulf of Gunthak (gunthak)" "..." >}}
+ For your first time to legacy of ykesha, go to Warrens, then Stonebrunt Mountains, then to the boat and you'll enter Gulf of Gunthak. From there, go to the city on the opposite side of the docks, you'll see the rune as the bridge enters the small fort area to the left.
 {{</expand>}}
 
 {{<expand "Karnor's Castle (karnor)" "..." >}}
 After entering, go left right before the water, you'll see the teleporter in the corner
 {{</expand>}}
-
-{{<expand "Lake of Ill Omen (lakeofillomen) (Discoverable)" "..." >}}
-## Lake of Ill Omen (lakeofillomen) (Discoverable)
- north of where the lake and river meet.
+{{<expand "Lake of Ill Omen (lakeofillomen)" "..." >}}
+ Just a bit west to where the river and the lake meet.
  {{</expand>}}
-{{<expand "Overthere (overthere) (Discoverable)" "..." >}}
-## Overthere (overthere) (Discoverable)
+{{<expand "Overthere (overthere)" "..." >}}
  at crossroads by FM zoneline.
  {{</expand>}}
  {{<expand "Skyfire Mountains (skyfire)" "..." >}}
 At the wizard teleport destination
 {{</expand>}}
-{{<expand "Trakanon's Tooth (trakanon) (Discoverable)" "..." >}}
-## Trakanon's Tooth (trakanon) (Discoverable)
+{{<expand "Trakanon's Tooth (trakanon)" "..." >}}
  near the Sebilis zone orb.
  {{</expand>}}
 
 ### Velious
 
-{{<expand "Cobalt Scar (Discoverable)" "..." >}}
-## Cobalt Scar (Discoverable)
+{{<expand "Cobalt Scar" "..." >}}
  wizard / druid port in.
  {{</expand>}}
-{{<expand "Eastern Wastes (Disoverable)(Discoverable)" "..." >}}
-### Eastern Wastes (Disoverable)
+{{<expand "Eastern Wastes" "..." >}}
 orc fort.
 {{</expand>}}
-{{<expand "Wakening Land  (Discoverable)" "..." >}}
-## Wakening Land  (Discoverable)
+{{<expand "Wakening Land " "..." >}}
+## Wakening Land
  near the druid ring.
  {{</expand>}}
 
