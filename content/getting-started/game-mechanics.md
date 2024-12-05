@@ -99,6 +99,15 @@ These macros can be copy pasted in game by setting the Paste From Clipboard hotk
     - Then, you'll write manually in next line
     - `/notify MerchantWnd MW_ItemlistMail listselect 1`
     - `/notify MerchantWnd MW_Retrieve_Button leftmouseup`
+- Donate to Tribute Merchant:
+    - `/hotbutton Donate /notify TributeMasterWnd TMW_DonateButton leftmouseup`
+- Set trader prices
+    - To use this optimally, hotkey the "Set" hotkey to 1. hotkey the "Save" to 2. Then, click an item in your trader bag, press 1, type price, enter, press 2 to save. Click next item
+    - `/hotbutton Set /notify BazaarWnd BZW_Clear_Button leftmouseup`
+    - then edit button, second line:
+    - `/notify BazaarWnd BZW_Money0 leftmouseup`
+    - after pressing Set, you can hotkey saving the price with this:
+    - `/hotbutton Save /notify BazaarWnd BZW_SetPrice_Button leftmouseup`
 
 ## Pet Mechanics
 
