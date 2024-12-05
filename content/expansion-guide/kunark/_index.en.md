@@ -6,6 +6,8 @@ description: Learn more about what to expect when Kunark releases in The Heroes'
 
 Kunark introduces the first expansion ever released to EverQuest. In The Heroes Journey, here's a list of things worth noting about Kunark that are unique to other servers:
 
+In order to access Kunark content, you must finish the [progression requirements](/progression/)
+
 - No new AAs are introduced in Kunark
 - No keys are required for Howling Stones (charasis) or Sebilis (this includes zoning INTO these zones, as well as accessing areas inside them)
 - To Access Veeshan's Peak, you must kill the 4 dragons of Kunark
