@@ -200,6 +200,9 @@ After entering, go left right before the water, you'll see the teleporter in the
 ## Overthere (overthere) (Discoverable)
  at crossroads by FM zoneline.
  {{</expand>}}
+ {{<expand "Skyfire Mountains (skyfire)" "..." >}}
+At the wizard teleport destination
+{{</expand>}}
 {{<expand "Trakanon's Tooth (trakanon) (Discoverable)" "..." >}}
 ## Trakanon's Tooth (trakanon) (Discoverable)
  near the Sebilis zone orb.
