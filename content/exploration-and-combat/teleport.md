@@ -17,88 +17,72 @@ Tearel in the bazaar can be used to teleport to various destinations. You unlock
 
 The list of locations Tearel can teleport to are:
 
-## Unlocked At Creation
+# Unlocked At Creation
 
 {{<expand "Ak'Anon (akanon) - Starting City - Antonica" "..." >}}
 North East corner of the zone.
 ![akanon](/images/teleport/akanon.png)
 {{</expand>}}
 
-### Classic
-{{< expand "Lake Rathetear (lakerathe) - Antonica" "..." >}}
+# Classic
+{{<expand "Lake Rathetear (lakerathe) - Antonica" "..." >}}
  near zoneline to Arena
  ![lakerathe](/images/teleport/lakerathe.png)
- {{</expand>}}
+{{</expand>}}
+
 {{<expand "Blackburrow (blackburrow)" "..." >}}
 Across the waterfall from QHills zoneline.
  ![blackburrow](/images/teleport/blackburrow.png)
  {{</expand>}}
 {{<expand "Castle Mistmoore (mistmoore)" "..." >}}
-## Castle Mistmoore (mistmoore)
  near the Lesser Faydark zone out.
  {{</expand>}}
 {{<expand "Cazic Thule (cazicthule)" "..." >}}
-## Cazic Thule (cazicthule)
 Suspected Removed.
 {{</expand>}}
 {{<expand "Dagnor's Cauldron (cauldron)" "..." >}}
-## Dagnor's Cauldron (cauldron)
  near the Unrest zone in.
  {{</expand>}}
 {{<expand "Erud's Crossing (erudsxing)" "..." >}}
-## Erud's Crossing (erudsxing)
 Suspected Removed.
 {{</expand>}}
 {{<expand "Erudin (erudnext)" "..." >}}
-## Erudin (erudnext)
 Starting Portal
 {{</expand>}}
 {{<expand "Everfrost (everfrost)" "..." >}}
-## Everfrost (everfrost)
  not too far up the tunnel heading north from permafrost.
  {{</expand>}}
 {{<expand "Felwithe (felwithea)" "..." >}}
-## Felwithe (felwithea)
 Starting Portal
 {{</expand>}}
 {{<expand "Greater Faydark (gfaydark)" "..." >}}
-## Greater Faydark (gfaydark)
 Starting Portal
 {{</expand>}}
 {{<expand "Grobb (grobb)" "..." >}}
-## Grobb (grobb)
 Starting Portal
 {{</expand>}}
 {{<expand "Halas (halas)" "..." >}}
-## Halas (halas)
 Starting Portal
 {{</expand>}}
 {{<expand "High Keep (highkeep)" "..." >}}
-## High Keep (highkeep)
  courtyard upon entering zone.
  {{</expand>}}
 {{<expand "Hole (hole)" "..." >}}
-## Hole (hole)
  near the drop cliff near entrance.
  {{</expand>}}
 {{<expand "Kaladim (kaladima)" "..." >}}
-## Kaladim (kaladima)
 Starting Portal
 {{</expand>}}
 {{<expand "Lavastorm (lavastorm)" "..." >}}
-## Lavastorm (lavastorm)
  at the druid ring.
  {{</expand>}}
 {{<expand "Nagafen's Lair (soldungb)" "..." >}}
-## Nagafen's Lair (soldungb)
 Suspected Removed.
 {{</expand>}}
 {{<expand "Neriak Commons (neriakb)" "..." >}}
-## Neriak Commons (neriakb)
 near Neriak Foreign Quarter exit
 {{</expand>}}
 {{<expand "North Karana (northkarana)" "..." >}}
-## North Karana (northkarana)
  at gypsy camp.
  {{</expand>}}
 {{<expand "North Qeynos (qeynos2) - Starting City - Antonica" "..." >}}
@@ -106,22 +90,17 @@ Near pool to qeynos catacombs
 ![qeynos](qeynos2.png)
 {{</expand>}}
 {{<expand "Oasis of Marr (oasis)" "..." >}}
-## Oasis of Marr (oasis)
  near the gypsy merchant.
  {{</expand>}}
 {{<expand "Ocean of Tears (oot)" "..." >}}
-## Ocean of Tears (oot)
 {{<expand "Oggok (oggok)" "..." >}}
 {{</expand>}}
-## Oggok (oggok)
 Starting Portal
 {{</expand>}}
 {{<expand "Paineel (paineel)" "..." >}}
-## Paineel (paineel)
 Near zone in by Toxxula Forest
 {{</expand>}}
 {{<expand "Plane of Hate (hateplaneb)" "..." >}}
-## Plane of Hate (hateplaneb)
 Default unlocked upon reaching 46.
 {{</expand>}}
 {{<expand "Plane of Fear (fearplane)" "..." >}}
@@ -131,31 +110,23 @@ Run there manually from Oggok -> Feerrott, when you enter Plane of Fear, head di
 {{<expand "Plane of Sky (airplane)" "..." >}}
 Default unlocked upon reaching 46.
 {{</expand>}}
-{{<expand "Rathe Mountains (rathemtn)" "..." >}}
-near arena
-{{</expand>}}
 {{<expand "Rivervale (rivervale)" "..." >}}
-## Rivervale (rivervale)
 Starting Portal.
 {{</expand>}}
 {{<expand "South Karana (southkarana)" "..." >}}
-## South Karana (southkarana)
  at aviak treehouse
  {{</expand>}}
 {{<expand "Surefall Glade (qrg)" "..." >}}
-## Surefall Glade (qrg)
  next to the building in the pond
  {{</expand>}}
 {{<expand "West Commonlands (commons) -" "..." >}}
-## West Commonlands (commons)
 
 {{</expand>}}
 {{<expand "West Freeport (freportw)" "..." >}}
-## West Freeport (freportw)
 Starting Portal
 {{</expand>}}
 
-### Kunark
+# Kunark
 
 {{<expand "Burning Woods (burningwood)" "..." >}}
  outside of Chardok, NW corner of room.
@@ -209,7 +180,7 @@ At the wizard teleport destination
  near the Sebilis zone orb.
  {{</expand>}}
 
-### Velious
+# Velious
 
 {{<expand "Cobalt Scar" "..." >}}
  wizard / druid port in.
@@ -218,19 +189,16 @@ At the wizard teleport destination
 orc fort.
 {{</expand>}}
 {{<expand "Wakening Land " "..." >}}
-## Wakening Land
  near the druid ring.
  {{</expand>}}
 
 {{<expand "Western Wastes" "..." >}}
-## Western Wastes
 Near Dragon Necropolis entrance
 {{</expand>}}
 
 
-### Luclin
+# Luclin
 
 {{<expand "Dawnshroud Peaks" "..." >}}
-## Dawnshroud Peaks
  (Near Maiden's Eye in a hut)
 {{</expand>}}
