@@ -148,6 +148,9 @@ Starting Portal
 {{<expand "Dreadlands (dreadlands)" "..." >}}
  at wizard spires.
  {{</expand>}}
+ {{<expand "Dulak Harbor (dulak)" "..." >}}
+ by the eastern storage bags
+ {{</expand>}}
 {{<expand "East Cabilis (cabeast)" "..." >}}
 Near the shaman guild master building
 {{</expand>}}
