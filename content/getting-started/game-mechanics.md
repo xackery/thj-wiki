@@ -179,7 +179,7 @@ This is just to bring to attention a trend I've seen about bards being able to d
 - if the level_diff is < 0, level_diff is multiplied by 2.
 - if dispel_chance is greater than 100, return success
 - if dispel_chance is less than 10, set to 10
-- roll a d100 vs the final value, return true if value is less or equal to dice
+- roll a d100 vs the final value, return true if value is greater or equal to dice
 
 
 A quick reference of dispel spells and their level mods:
