@@ -185,22 +185,35 @@ This is just to bring to attention a trend I've seen about bards being able to d
 To show this in action, if I'm level 60, non-bard and fight Innoruuk (who is level 70)
 
 dispel_chance = 32 // baseline 32% chance
-level_diff = 60-70 = -10 // i'm 10 levels below Innoruuk
-dispel_chance += level_diff * 2 = 12 // since it's lower than 0, we lower chance by x2 of diff, 12% chance
+my_level = 60 // my level is 60
+my_level += 1 // add cancel magic level mod 1
+level_diff = my_level-70 = -9 // i'm 9 levels below Innoruuk with cancel magic bonus 1
+dispel_chance += level_diff * 2 = 18 // since it's lower than 0, we lower chance by x2 of diff
 
-so any time I use cancel magic, I have a 12% chance to land vs innoruuk
+so any time I use cancel magic, I have a 18% chance to land vs innoruuk
 ```
 
 ```
 If I'm a level 60, bard with Jamfest max, and fight Innoruuk (who is level 70)
 
 dispel_chance = 32 // baseline 32% chance
-level_diff = 66-70 =  -4 // i'm 4 levels below Innoruuk with the jamfest +6
-dispel_chance += level_diff * 2 = 24 // since it's lower than 0, we lower chance by x2 of diff, 24% chance
+my_level = 60 // my level is 60
+my_level += 6 // add jamfest level mod 6
+my_level += 1 // add cancel magic level mod 1
+level_diff = 67-70 =  -3 // i'm 4 levels below Innoruuk with the jamfest +6
+dispel_chance += level_diff * 2 = 26 // since it's lower than 0, we lower chance by x2 of diff
 
-so any time a bard uses cancel magic, they have a 24% chance to land vs innoruuk
+so any time a bard uses cancel magic, they have a 26% chance to land vs innoruuk
 ```
 
+- Cancel Magic +1 level, 1 try
+- Syvelian's Anti-Magic Aria +4 level, 1 try
+- Nullify Magic +4 level, 2 tries
+- Annul Magic +9 level, 2 tries
+- Abolish Magic +9 level, 3 tries
+- Purge Magic +9 level, 2 tries
+- Recant Magic +9 level, 4 tries
+- Pillage Magic +9 level, 4 tries
 
-- If an ally puts a debuff on a mob, it has a 32% chance to be dispelled, since they're equal level to you
+- If an ally puts a debuff on a mob, it has a ~32% chance to be dispelled, since they're equal level to you
 - Using higher levels of cancel magic give you multiple rolls per cast, look at the SPA data and how many slots have cancel magic, and that's how many times you are rolling vs each buff/debuff on a target
