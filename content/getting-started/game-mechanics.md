@@ -181,6 +181,7 @@ This is just to bring to attention a trend I've seen about bards being able to d
 - if dispel_chance is less than 10, set to 10
 - roll a d100 vs the final value, return true if value is less or equal to dice
 
+Scenario 1: Non-bard Cancel Magic
 ```
 To show this in action, if I'm level 60, non-bard and fight Innoruuk (who is level 70)
 
@@ -193,6 +194,7 @@ dispel_chance += level_diff * 2 = 18 // since it's lower than 0, we lower chance
 so any time I use cancel magic, I have a 18% chance to land vs innoruuk
 ```
 
+Scenario 2: Bard with Jamfest uses Cancel Magic
 ```
 If I'm a level 60, bard with Jamfest max, and fight Innoruuk (who is level 70)
 
@@ -205,6 +207,19 @@ dispel_chance += level_diff * 2 = 26 // since it's lower than 0, we lower chance
 
 so any time a bard uses cancel magic, they have a 26% chance to land vs innoruuk
 ```
+
+
+Scenario 3: Non-bard Annul Magic
+```
+dispel_chance = 32 // baseline 32% chance
+my_level = 60 // my level is 60
+my_level += 9 // add annul magic level mod 9
+level_diff = my_level-70 = -1 // i'm 1 level below Innoruuk with annul magic bonus 9
+dispel_chance += level_diff * 2 = 30 // since it's lower than 0, we lower chance by x2 of diff
+
+so any time I use annul magic, I have a 30% chance to land vs innoruuk, but two rolls, so roughly ~ 51% chance to land (2x30%)
+```
+
 
 - Cancel Magic +1 level, 1 try
 - Syvelian's Anti-Magic Aria +4 level, 1 try
