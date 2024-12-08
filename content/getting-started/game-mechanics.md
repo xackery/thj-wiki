@@ -174,7 +174,7 @@ This is just to bring to attention a trend I've seen about bards being able to d
 - When you try to dispel a mob, the server iterates all buffs on the target mob, and rolls a d100 vs every buff
 - start with a dispel chance of 32%
 - take your caster level, and subtract the enemy's level to get a level_diff
-- the only ways to modify your caster level is with Jamfest AA, which gives +6 caster level for this check
+- there are two ways to modify your caster level, one is is with Jamfest AA, which gives +6 caster level for this check, and the other is with the spell's level mod, I listed below the values of commonly used each spell
 - if the level_diff is > 0, level_diff is multiplied by 7 for dispel chance
 - if the level_diff is < 0, level_diff is multiplied by 2.
 - if dispel_chance is greater than 100, return success
@@ -207,7 +207,6 @@ dispel_chance += level_diff * 2 = 26 // since it's lower than 0, we lower chance
 
 so any time a bard uses cancel magic, they have a 26% chance to land vs innoruuk
 ```
-
 
 Scenario 3: Non-bard Annul Magic
 ```
