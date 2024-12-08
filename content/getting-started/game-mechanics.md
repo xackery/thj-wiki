@@ -181,6 +181,18 @@ This is just to bring to attention a trend I've seen about bards being able to d
 - if dispel_chance is less than 10, set to 10
 - roll a d100 vs the final value, return true if value is less or equal to dice
 
+
+A quick reference of dispel spells and their level mods:
+
+- Cancel Magic +1 level, 1 try
+- Syvelian's Anti-Magic Aria +4 level, 1 try
+- Nullify Magic +4 level, 2 tries
+- Annul Magic +9 level, 2 tries
+- Abolish Magic +9 level, 3 tries
+- Purge Magic +9 level, 2 tries
+- Recant Magic +9 level, 4 tries
+- Pillage Magic +9 level, 4 tries
+
 Scenario 1: Non-bard Cancel Magic
 ```
 To show this in action, if I'm level 60, non-bard and fight Innoruuk (who is level 70)
@@ -220,14 +232,6 @@ so any time I use annul magic, I have a 30% chance to land vs innoruuk, but two 
 ```
 
 
-- Cancel Magic +1 level, 1 try
-- Syvelian's Anti-Magic Aria +4 level, 1 try
-- Nullify Magic +4 level, 2 tries
-- Annul Magic +9 level, 2 tries
-- Abolish Magic +9 level, 3 tries
-- Purge Magic +9 level, 2 tries
-- Recant Magic +9 level, 4 tries
-- Pillage Magic +9 level, 4 tries
 
 - If an ally puts a debuff on a mob, it has a ~32% chance to be dispelled, since they're equal level to you
 - Using higher levels of cancel magic give you multiple rolls per cast, look at the SPA data and how many slots have cancel magic, and that's how many times you are rolling vs each buff/debuff on a target
