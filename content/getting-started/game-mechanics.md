@@ -176,10 +176,10 @@ This is just to bring to attention a trend I've seen about bards being able to d
 The formula for dispel is as follows:
 - start with a dispel chance of 32%
 - take your caster level, and subtract the enemy's level to get a level_diff
-- there are two ways to modify your caster level, one is is with Jamfest AA, which gives +6 caster level for this check, and the other is with the spell's level mod, I listed below the values of commonly used each spell
-- if the level_diff is > 0, level_diff is multiplied by 7 for dispel chance. (Basically every level_diff below a target is a -7% chance)
-- if the level_diff is < 0, level_diff is multiplied by 2. (Basically every level_diff above a target is a +2% chance)
-- if dispel_chance is greater than 100, return success
+    - there are two ways to modify your caster level, one is is with Jamfest AA, which gives +6 caster level for this check, and the other is with the spell's level mod, I listed below the values of commonly used spells
+- if the level_diff is > 0, level_diff is multiplied by 7 for dispel chance. (Basically every level_diff below a target is a 7% penalty chance)
+- if the level_diff is < 0, level_diff is multiplied by 2. (Basically every level_diff above a target is a 2% bonus chance)
+- if dispel_chance is greater than or equal to 100, return success
 - if dispel_chance is less than 10, set to 10
 - roll a d100 vs the final value, return true if value is greater or equal to dice
 
