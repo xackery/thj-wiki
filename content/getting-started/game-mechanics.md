@@ -165,7 +165,7 @@ When an NPC casts on you:
 
 - an enemy with a level greater than yours adds -1 to all resists with a cap of -15
 
-### Dispelling Mobs
+## Dispelling Mobs
 
 This is just to bring to attention a trend I've seen about bards being able to dispel Innoruuk DS vs others, and a deep dive into how Cancel Magic works as a whole.
 
@@ -181,6 +181,7 @@ This is just to bring to attention a trend I've seen about bards being able to d
 - if dispel_chance is less than 10, set to 10
 - roll a d100 vs the final value, return true if value is less or equal to dice
 
+```
 To show this in action, if I'm level 60, non-bard and fight Innoruuk (who is level 70)
 
 dispel_chance = 32 // baseline 32% chance
@@ -188,7 +189,9 @@ level_diff = 60-70 = -10 // i'm 10 levels below Innoruuk
 dispel_chance += level_diff * 2 = 12 // since it's lower than 0, we lower chance by x2 of diff, 12% chance
 
 so any time I use cancel magic, I have a 12% chance to land vs innoruuk
----------
+```
+
+```
 If I'm a level 60, bard with Jamfest max, and fight Innoruuk (who is level 70)
 
 dispel_chance = 32 // baseline 32% chance
@@ -196,7 +199,7 @@ level_diff = 66-70 =  -4 // i'm 4 levels below Innoruuk with the jamfest +6
 dispel_chance += level_diff * 2 = 24 // since it's lower than 0, we lower chance by x2 of diff, 24% chance
 
 so any time a bard uses cancel magic, they have a 24% chance to land vs innoruuk
----------
+```
 
 
 - If an ally puts a debuff on a mob, it has a 32% chance to be dispelled, since they're equal level to you
