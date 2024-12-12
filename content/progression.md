@@ -25,8 +25,32 @@ Found in Permafrost, Lady Vox is a challenging dragon fight to not only get to, 
 
 
 ## Kunark
+Unlocks the following zones and epic weapon quests.
+{{<details title="Kunark zones">}}
+-  Burning Wood
+-  Chardok
+-  City of Mist
+-  Dalnir
+-  Dreadlands
+-  Emerald Jungle
+-  Firiona Vie
+-  Frontier Mountains
+-  Howling Stones (Charasis)
+-  Kaesora
+-  Karnor's Castle
+-  Kurn's Tower
+-  Mines of Nurga
+-  Old Sebilis
+-  Skyfire Mountains
+-  Swamp of No Hope
+-  Temple of Droga
+-  The Overthere
+-  Timorous Deep
+-  Trakanon's Teeth
+-  Veeshan's Peak
+{{</details>}}
 
-To unlock Velious, you must kill:
+## Kill the following bosses to progress.:
 
 {{<details title="Gorenaire">}}
 This dragon can normally be found wandering the snow-capped mountains of the dreadlands.
