@@ -17,7 +17,7 @@ Tearel in the bazaar can be used to teleport to various destinations. You unlock
 
 The list of locations Tearel can teleport to are:
 
-# Classic - Antonica
+## Classic - Antonica
 {{<expand "Blackburrow (blackburrow)" "..." >}}
 Across the waterfall from QHills zoneline.
 
@@ -167,7 +167,7 @@ At aviak treehouse
 ![southkarana](/images/teleport/southkarana.png)
 {{</expand>}}
 
-# Classic - Faydwer
+## Classic - Faydwer
 
 {{<expand "Ak'Anon (akanon)" "..." >}}
 North East corner of the zone.
@@ -191,7 +191,7 @@ Starting Portal
  near the Lesser Faydark zone out.
  {{</expand>}}
 
-# Classic - Odus
+## Classic - Odus
 
 {{<expand "Erudin (erudnext)" "..." >}}
 Starting Portal
@@ -245,7 +245,7 @@ Default unlocked upon reaching 46.
 {{</expand>}}
 
 
-# Kunark - Kunark
+## Kunark - Kunark
 
 {{<expand "Burning Woods (Near Chardok) (burningwoods)" "..." >}}
  Go towards chardok entrance in burning woods, and on the NW side of the room outside the zone in area, you'll see the rune in the corner.
@@ -286,7 +286,7 @@ At the wizard teleport destination
 {{</expand>}}
 
 
-# Kunark - Odus
+## Kunark - Odus
 
 {{<expand "Stonebrunt Mountains (stonebrunt)" "..." >}}
 {{</expand>}}
@@ -298,7 +298,7 @@ At the wizard teleport destination
  For your first time to legacy of ykesha, go to Warrens, then Stonebrunt Mountains, then to the boat and you'll enter Gulf of Gunthak. From there, go to the city on the opposite side of the docks, you'll see the rune as the bridge enters the small fort area to the left.
 {{</expand>}}
 
-# Velious - Velious
+## Velious - Velious
 
 {{<expand "Cobalt Scar (cobaltscar)" "..." >}}
  wizard / druid port in.
@@ -320,7 +320,7 @@ Near Temple of Veeshan zone in
 {{<expand "Siren's Grotto (sirens)" "..." >}}
 {{</expand>}}
 
-# Luclin - Luclin
+## Luclin - Luclin
 
 {{<expand "Dawnshroud Peaks (dawnshroud)" "..." >}}
 Near Maiden's Eye in a hut
@@ -339,7 +339,7 @@ Near Maiden's Eye in a hut
 {{</expand>}}
 
 
-# Planes of Power - The Planes
+## Planes of Power - The Planes
 
 {{<expand "The Plane of Knowledge (poknowledge)" "..." >}}
 {{</expand>}}
