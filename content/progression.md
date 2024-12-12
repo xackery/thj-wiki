@@ -82,6 +82,29 @@ Hidden in the depths of Old Sebilis behind an army of Sebilite protectors.
 {{</details>}}
 
 ## Velious
+The following zones are now unlocked.
+{{<details title="Velious zones">}}
+-  Cobalt Scar
+-  Crystal Caverns
+-  Dragon Necropolis
+-  Eastern Wastes
+-  Iceclad Ocean
+-  Icewell Keep
+-  Kael Drakkal
+-  Plane of Growth
+-  Plane of Mischief
+-  Siren's Grotto
+-  Skyshrine
+-  Sleeper's Tomb
+-  Temple of Veeshan
+-  Thurgadin
+-  Tower of Frozen Shadow
+-  Velketor's Labyrinth
+-  Wakening Land
+-  Western Wastes
+{{</details>}}
+
+## Kill the following bosses to progress.:
 
 To unlock Luclin, you must kill:
 {{<details title="Wuoshi">}}
