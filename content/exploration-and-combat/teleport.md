@@ -207,7 +207,7 @@ Near zone in by Toxxula Forest
 
 {{<expand "The Toxxulia Forest (tox)" "..." >}}
 Near wizard spires
-{{</expand}}
+{{</expand>}}
 
 
 ## Classic - Kunark
