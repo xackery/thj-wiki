@@ -84,15 +84,30 @@ Hidden in the depths of Old Sebilis behind an army of Sebilite protectors.
 ## Velious
 
 To unlock Luclin, you must kill:
-
-- Wuoshi
-- Zlandicar
-- Klandicar
-- Lord Yelinak
-- Hraasha the Warder
-- Nanzata the Warder
-- Tukaarak the Warder
-- Ventani the Warder
+{{<details title="Wuoshi">}}
+This lady dragon guards the Dragon Portal in the Wakening Lands. Casts Ceticious Cloud ((poison) 600 PB AE DD and 8-second stun) and Dragon Roar ((magic) PB AE 18-second fear).
+{{</details>}}
+{{<details title="Zlandicar">}}
+Zlandicar is one of the final members of the first brood, he has been banished to the Dragon Necropolis
+{{</details>}}
+{{<details title="Klandicar">}}
+Klandicar is another one of the few remaining first brood, he resides in the western wastes and serves as the sentinel keeping his banished cousin contained.
+{{</details>}}
+{{<details title="Lord Yelinak">}}
+Lord Yelinak is the leader of the Claws of Veeshan and one of the few remaining first brood, located in Skyshrine.
+{{</details>}}
+{{<details title="Hraasha the Warder">}}
+One of the 4 warders in Sleepers Tomb.
+{{</details>}}
+{{<details title="Nanzata the Warder">}}
+One of the 4 warders in Sleepers Tomb.
+{{</details>}}
+{{<details title="Tukaarak the Warder">}}
+One of the 4 warders in Sleepers Tomb.
+{{</details>}}
+{{<details title="Ventani the Warder">}}
+One of the 4 warders in Sleepers Tomb.
+{{</details>}}
 
 ## Luclin
 
