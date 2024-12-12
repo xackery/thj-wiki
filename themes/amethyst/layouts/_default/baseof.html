@@ -5,6 +5,17 @@
   {{ partial "docs/inject/head" . }}
   {{ partial "quartz/head" . }}
 </head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Q4X84X0LE3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Q4X84X0LE3');
+</script>
+
 {{ partial "quartz/search" . }}
 {{partial "quartz/header" . }}
 <body dir="{{ default "ltr" .Site.Language.LanguageDirection }}">
@@ -23,8 +34,8 @@
       {{ partial "docs/inject/content-before" . }}
       {{ template "main" . }} <!-- Page Content -->
       {{ partial "docs/inject/content-after" . }}
-      
-      
+
+
       {{ template "comments" . }} <!-- Comments block -->
 
       <label for="menu-control" class="hidden book-menu-overlay"></label>
