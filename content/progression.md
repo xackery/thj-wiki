@@ -15,7 +15,7 @@ Progression is broken into expansions, with key mobs needing to be killed to unl
 Not yet available
 {{</details>}}
 
-## Classic Bosses to kill for Kunark Unlock
+## Classic Bosses to kill for Kunark/Legacy of Ykesha Unlock
 {{<details title="Lord Nagafen">}}
 Found in Soluseks Eye, this is a Dragon that will challenge you with his Fire Breath attack.
 {{</details>}}
@@ -24,8 +24,8 @@ Found in Permafrost, Lady Vox is a challenging dragon fight to not only get to, 
 {{</details>}}
 
 
-## Kunark
-Unlocks the following zones and epic weapon quests.
+## Kunark / Legacy of Ykesha
+The following zones and epic quests are now unlocked.
 {{<details title="Kunark zones">}}
 -  Burning Wood
 -  Chardok
@@ -49,6 +49,22 @@ Unlocks the following zones and epic weapon quests.
 -  Trakanon's Teeth
 -  Veeshan's Peak
 {{</details>}}
+
+{{<details title="Legacy of Ykesha zones">}}
+-  Crypt of Nadox
+-  Dulak's Harbor
+-  Gulf of Gunthak
+-  Hate's Fury, The Scorned Maiden
+-  Torgiran Mines
+{{</details>}}
+
+{{<details title="Other zones">}}
+-  ChardokB (Halls of Betrayal)
+-  Jaggedpine Forest
+-  Stonebrunt Mountains
+-  Veksar
+{{</details>}}
+
 
 ## Kill the following bosses to progress.:
 
