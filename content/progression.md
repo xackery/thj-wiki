@@ -28,10 +28,18 @@ Found in Permafrost, Lady Vox is a challenging dragon fight to not only get to, 
 
 To unlock Velious, you must kill:
 
-- Gorenaire
-- Severilous
-- Talendor
-- Trakanon
+{{<details title="Gorenaire">}}
+This dragon can normally be found wandering the snow-capped mountains of the dreadlands.
+{{</details>}}
+{{<details title="Severilous">}}
+Found wandering the North-West corner of the Emerald Jungle.
+{{</details>}}
+{{<details title="Talendor">}}
+Found wandering the northern area of Skyfire Mountains.
+{{</details>}}
+{{<details title="Trakanon">}}
+Hidden in the depths of Old Sebilis behind an army of Sebilite protectors.
+{{</details>}}
 
 ## Velious
 
