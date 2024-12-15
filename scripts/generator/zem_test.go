@@ -15,8 +15,9 @@ var (
 )
 
 type Zem struct {
-	Short string  `db:"short_name"`
-	Zem   float32 `db:"zone_exp_multiplier"`
+	Short    string  `db:"short_name"`
+	Zem      float32 `db:"zone_exp_multiplier"`
+	LongName string  `db:"long_name"`
 }
 
 func TestZEM(t *testing.T) {
@@ -55,7 +56,7 @@ Found an error on this page? Check tracked issues and [report new ones in the di
 How this is calculated:
 - The base ZEM of most zones is 2.0
 - All ZEMs are subjected by 1.0, making average 1.0
-- I multiply the ZEM by 100 to make it a percent, so all zones untouched are at 100%
+- I multiply the ZEM by 100 to make it a percent, so all zones untouched are at 100%%
 - So a zone with 150%% ZEM is 50%% more experience than average
 
 `, context, context, context, context, context, time.Now().Format("2006-01-02")))
@@ -112,12 +113,12 @@ How this is calculated:
 			return fmt.Errorf("zonesByZoneShort: %w", err)
 		}
 
-		wZem.WriteString("Zone | ZEM\n")
-		wZem.WriteString("---- | ---\n")
+		wZem.WriteString("Zone | ZEM | Name\n")
+		wZem.WriteString("---- | --- | ---\n")
 		for _, zem := range zems {
 			zemPercent := (zem.Zem - 1) * 100
 
-			wZem.WriteString(fmt.Sprintf("%s | %d%%\n", zem.Short, int(zemPercent)))
+			wZem.WriteString(fmt.Sprintf("%s | %d%% | %s\n", zem.Short, int(zemPercent), zem.LongName))
 		}
 		wZem.WriteString("\n\n")
 
@@ -130,7 +131,7 @@ func zonesByZoneShort(db *sqlx.DB, zones []string) ([]Zem, error) {
 
 	zems := []Zem{}
 
-	query, args, err := sqlx.In("SELECT short_name, zone_exp_multiplier FROM zone WHERE short_name IN (?) ORDER BY zone_exp_multiplier DESC, short_name ASC", zones)
+	query, args, err := sqlx.In("SELECT short_name, long_name, zone_exp_multiplier FROM zone WHERE short_name IN (?) ORDER BY zone_exp_multiplier DESC, short_name ASC", zones)
 	if err != nil {
 		return nil, fmt.Errorf("sqlx.In: %w", err)
 	}
