@@ -66,7 +66,7 @@ The following zones and epic quests are now unlocked.
 {{</details>}}
 
 
-## Kill the following bosses to progress.:
+## Kill the following bosses to progress:
 
 {{<details title="Gorenaire">}}
 This dragon can normally be found wandering the snow-capped mountains of the dreadlands.
