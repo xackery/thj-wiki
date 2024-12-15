@@ -15,7 +15,7 @@ Progression is broken into expansions, with key mobs needing to be killed to unl
 Not yet available
 {{</details>}}
 
-## Classic Bosses to kill for Kunark Unlock
+## Classic Bosses to kill for Kunark/Legacy of Ykesha Unlock
 {{<details title="Lord Nagafen">}}
 Found in Soluseks Eye, this is a Dragon that will challenge you with his Fire Breath attack.
 {{</details>}}
@@ -24,27 +24,113 @@ Found in Permafrost, Lady Vox is a challenging dragon fight to not only get to, 
 {{</details>}}
 
 
-## Kunark
+## Kunark / Legacy of Ykesha
+The following zones and epic quests are now unlocked.
+{{<details title="Kunark zones">}}
+-  Burning Wood
+-  Chardok
+-  City of Mist
+-  Dalnir
+-  Dreadlands
+-  Emerald Jungle
+-  Firiona Vie
+-  Frontier Mountains
+-  Howling Stones (Charasis)
+-  Kaesora
+-  Karnor's Castle
+-  Kurn's Tower
+-  Mines of Nurga
+-  Old Sebilis
+-  Skyfire Mountains
+-  Swamp of No Hope
+-  Temple of Droga
+-  The Overthere
+-  Timorous Deep
+-  Trakanon's Teeth
+-  Veeshan's Peak
+{{</details>}}
 
-To unlock Velious, you must kill:
+{{<details title="Legacy of Ykesha zones">}}
+-  Crypt of Nadox
+-  Dulak's Harbor
+-  Gulf of Gunthak
+-  Hate's Fury, The Scorned Maiden
+-  Torgiran Mines
+{{</details>}}
 
-- Gorenaire
-- Severilous
-- Talendor
-- Trakanon
+{{<details title="Other zones">}}
+-  ChardokB (Halls of Betrayal)
+-  Jaggedpine Forest
+-  Stonebrunt Mountains
+-  Veksar
+{{</details>}}
+
+
+## Kill the following bosses to progress.:
+
+{{<details title="Gorenaire">}}
+This dragon can normally be found wandering the snow-capped mountains of the dreadlands.
+{{</details>}}
+{{<details title="Severilous">}}
+Found wandering the North-West corner of the Emerald Jungle.
+{{</details>}}
+{{<details title="Talendor">}}
+Found wandering the northern area of Skyfire Mountains.
+{{</details>}}
+{{<details title="Trakanon">}}
+Hidden in the depths of Old Sebilis behind an army of Sebilite protectors.
+{{</details>}}
 
 ## Velious
+The following zones are now unlocked.
+{{<details title="Velious zones">}}
+-  Cobalt Scar
+-  Crystal Caverns
+-  Dragon Necropolis
+-  Eastern Wastes
+-  Iceclad Ocean
+-  Icewell Keep
+-  Kael Drakkal
+-  Plane of Growth
+-  Plane of Mischief
+-  Siren's Grotto
+-  Skyshrine
+-  Sleeper's Tomb
+-  Temple of Veeshan
+-  Thurgadin
+-  Tower of Frozen Shadow
+-  Velketor's Labyrinth
+-  Wakening Land
+-  Western Wastes
+{{</details>}}
+
+## Kill the following bosses to progress.:
 
 To unlock Luclin, you must kill:
-
-- Wuoshi
-- Zlandicar
-- Klandicar
-- Lord Yelinak
-- Hraasha the Warder
-- Nanzata the Warder
-- Tukaarak the Warder
-- Ventani the Warder
+{{<details title="Wuoshi">}}
+This lady dragon guards the Dragon Portal in the Wakening Lands. Casts Ceticious Cloud ((poison) 600 PB AE DD and 8-second stun) and Dragon Roar ((magic) PB AE 18-second fear).
+{{</details>}}
+{{<details title="Zlandicar">}}
+Zlandicar is one of the final members of the first brood, he has been banished to the Dragon Necropolis
+{{</details>}}
+{{<details title="Klandicar">}}
+Klandicar is another one of the few remaining first brood, he resides in the western wastes and serves as the sentinel keeping his banished cousin contained.
+{{</details>}}
+{{<details title="Lord Yelinak">}}
+Lord Yelinak is the leader of the Claws of Veeshan and one of the few remaining first brood, located in Skyshrine.
+{{</details>}}
+{{<details title="Hraasha the Warder">}}
+One of the 4 warders in Sleepers Tomb.
+{{</details>}}
+{{<details title="Nanzata the Warder">}}
+One of the 4 warders in Sleepers Tomb.
+{{</details>}}
+{{<details title="Tukaarak the Warder">}}
+One of the 4 warders in Sleepers Tomb.
+{{</details>}}
+{{<details title="Ventani the Warder">}}
+One of the 4 warders in Sleepers Tomb.
+{{</details>}}
 
 ## Luclin
 
