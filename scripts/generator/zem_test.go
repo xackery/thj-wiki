@@ -51,6 +51,8 @@ images: [images/%s.png]
 
 This page was last updated on %s.
 
+ZEM stands for Zone Experience Modifier. This is a zone-wide buff to experience that improves gains.
+
 Found an error on this page? Check tracked issues and [report new ones in the discord](<https://discord.com/channels/1204418766318862356/1307331696693350501/1307331696693350501>)
 
 
