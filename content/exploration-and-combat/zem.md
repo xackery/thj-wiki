@@ -24,6 +24,72 @@ Zone | ZEM | Name
 ---- | --- | ---
 fearplane | 150% | The Plane of Fear
 kedge | 150% | Kedge Keep
+
+
+## Kunark
+Zone | ZEM | Name
+---- | --- | ---
+charasis | 150% | The Howling Stones
+chardok | 125% | Chardok
+chardokb | 125% | Chardok: The Halls of Betrayal
+veeshan | 125% | Veeshan's Peak
+
+
+## Velious
+Zone | ZEM | Name
+---- | --- | ---
+necropolis | 175% | Dragon Necropolis
+growthplane | 150% | The Plane of Growth
+sirens | 150% | Siren's Grotto
+templeveeshan | 150% | The Temple of Veeshan
+kael | 125% | Kael Drakkel
+thurgadinb | 125% | Icewell Keep
+
+
+## Luclin
+Zone | ZEM | Name
+---- | --- | ---
+vexthal | 175% | Vex Thal
+akheva | 150% | The Akheva Ruins
+acrylia | 125% | The Acrylia Caverns
+thedeep | 125% | The Deep
+
+
+## Planes of Power
+Zone | ZEM | Name
+---- | --- | ---
+powater | 300% | The Plane of Water
+poair | 200% | The Plane of Air
+poeartha | 200% | The Plane of Earth
+poearthb | 200% | The Plane of Earth
+pofire | 200% | The Plane of Fire
+bothunder | 175% | Bastion of Thunder
+hohonora | 175% | The Halls of Honor
+hohonorb | 175% | The Temple of Marr
+potactics | 175% | Drunder, the Fortress of Zek
+potimeb | 175% | The Plane of Time
+povalor | 175% | The Plane of Valor
+solrotower | 175% | The Tower of Solusek Ro
+codecay | 150% | The Crypt of Decay
+nightmareb | 150% | The Lair of Terris Thule
+podisease | 150% | The Plane of Disease
+poinnovation | 150% | The Plane of Innovation
+pojustice | 150% | The Plane of Justice
+ponightmare | 150% | The Plane of Nightmares
+postorms | 150% | The Plane of Storms
+potimea | 150% | The Plane of Time
+potorment | 150% | Torment, the Plane of Pain
+
+
+## Gates of Discord
+Zone | ZEM | Name
+---- | --- | ---
+kodtaz | 150% | Kod'Taz, Broken Trial Grounds
+
+
+## Classic No ZEM
+Zone | ZEM | Name
+---- | --- | ---
 airplane | 100% | The Plane of Sky
 akanon | 100% | Ak'Anon
 arena | 100% | The Arena
@@ -113,13 +179,9 @@ unrest | 100% | The Estate of Unrest
 warslikswood | 100% | The Warsliks Woods
 
 
-## Kunark
+## Kunark No ZEM
 Zone | ZEM | Name
 ---- | --- | ---
-charasis | 150% | The Howling Stones
-chardok | 125% | Chardok
-chardokb | 125% | Chardok: The Halls of Betrayal
-veeshan | 125% | Veeshan's Peak
 burningwood | 100% | The Burning Wood
 citymist | 100% | The City of Mist
 dalnir | 100% | The Crypt of Dalnir
@@ -146,15 +208,9 @@ trakanon | 100% | Trakanon's Teeth
 veksar | 100% | Veksar
 
 
-## Velious
+## Velious No ZEM
 Zone | ZEM | Name
 ---- | --- | ---
-necropolis | 175% | Dragon Necropolis
-growthplane | 150% | The Plane of Growth
-sirens | 150% | Siren's Grotto
-templeveeshan | 150% | The Temple of Veeshan
-kael | 125% | Kael Drakkel
-thurgadinb | 125% | Icewell Keep
 cobaltscar | 100% | Cobaltscar
 crystal | 100% | The Crystal Caverns
 eastwastes | 100% | Eastern Wastes
@@ -168,13 +224,9 @@ wakening | 100% | The Wakening Land
 westwastes | 100% | The Western Wastes
 
 
-## Luclin
+## Luclin No ZEM
 Zone | ZEM | Name
 ---- | --- | ---
-vexthal | 175% | Vex Thal
-akheva | 150% | The Akheva Ruins
-acrylia | 125% | The Acrylia Caverns
-thedeep | 125% | The Deep
 dawnshroud | 100% | The Dawnshroud Peaks
 echo | 100% | The Echo Caverns
 fungusgrove | 100% | The Fungus Grove
@@ -192,38 +244,16 @@ twilight | 100% | The Twilight Sea
 umbral | 100% | The Umbral Plains
 
 
-## Planes of Power
+## Planes of Power No ZEM
 Zone | ZEM | Name
 ---- | --- | ---
-powater | 300% | The Plane of Water
-poair | 200% | The Plane of Air
-poeartha | 200% | The Plane of Earth
-poearthb | 200% | The Plane of Earth
-pofire | 200% | The Plane of Fire
-bothunder | 175% | Bastion of Thunder
-hohonora | 175% | The Halls of Honor
-hohonorb | 175% | The Temple of Marr
-potactics | 175% | Drunder, the Fortress of Zek
-potimeb | 175% | The Plane of Time
-povalor | 175% | The Plane of Valor
-solrotower | 175% | The Tower of Solusek Ro
-codecay | 150% | The Crypt of Decay
-nightmareb | 150% | The Lair of Terris Thule
-podisease | 150% | The Plane of Disease
-poinnovation | 150% | The Plane of Innovation
-pojustice | 150% | The Plane of Justice
-ponightmare | 150% | The Plane of Nightmares
-postorms | 150% | The Plane of Storms
-potimea | 150% | The Plane of Time
-potorment | 150% | Torment, the Plane of Pain
 poknowledge | 100% | The Plane of Knowledge
 potranquility | 100% | The Plane of Tranquility
 
 
-## Gates of Discord
+## Gates of Discord No ZEM
 Zone | ZEM | Name
 ---- | --- | ---
-kodtaz | 150% | Kod'Taz, Broken Trial Grounds
 barindu | 100% | Barindu, Hanging Gardens
 ferubi | 100% | Ferubi, Forgotten Temple of Taelosia
 ikkinz | 100% | Ikkinz, Chambers of Transcendence

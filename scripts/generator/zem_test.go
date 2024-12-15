@@ -1,6 +1,7 @@
 package generator
 
 import (
+	"bytes"
 	"fmt"
 	"os"
 	"testing"
@@ -66,6 +67,7 @@ How this is calculated:
 		return fmt.Errorf("EQ_DB not set")
 	}
 
+	noZemBuf := &bytes.Buffer{}
 	db, err = sqlx.Open("mysql", eqDB)
 	if err != nil {
 		return fmt.Errorf("sql.Open: %w", err)
@@ -79,27 +81,35 @@ How this is calculated:
 		switch i {
 		case 0:
 			fmt.Fprintf(wZem, "## Classic\n")
+			fmt.Fprintf(noZemBuf, "## Classic No ZEM\n")
 			fmt.Printf("Classic Zones: %d\n", len(zones))
 		case 1:
 			fmt.Fprintf(wZem, "## Kunark\n")
+			fmt.Fprintf(noZemBuf, "## Kunark No ZEM\n")
 			fmt.Printf("Kunark Zones: %d\n", len(zones))
 		case 2:
 			fmt.Fprintf(wZem, "## Velious\n")
+			fmt.Fprintf(noZemBuf, "## Velious No ZEM\n")
 			fmt.Printf("Velious Zones: %d\n", len(zones))
 		case 3:
 			fmt.Fprintf(wZem, "## Luclin\n")
+			fmt.Fprintf(noZemBuf, "## Luclin No ZEM\n")
 			fmt.Printf("Luclin Zones: %d\n", len(zones))
 		case 4:
 			fmt.Fprintf(wZem, "## Planes of Power\n")
+			fmt.Fprintf(noZemBuf, "## Planes of Power No ZEM\n")
 			fmt.Printf("Planes of Power Zones: %d\n", len(zones))
 		case 5:
 			fmt.Fprintf(wZem, "## Gates of Discord\n")
+			fmt.Fprintf(noZemBuf, "## Gates of Discord No ZEM\n")
 			fmt.Printf("Gates of Discord Zones: %d\n", len(zones))
 		case 6:
 			fmt.Fprintf(wZem, "## Omens of War\n")
+			fmt.Fprintf(noZemBuf, "## Omens of War\n")
 			fmt.Printf("Omens of War Zones: %d\n", len(zones))
 		case 7:
 			fmt.Fprintf(wZem, "## Dragons of Norrath\n")
+			fmt.Fprintf(noZemBuf, "## Dragons of Norrath No ZEM\n")
 			fmt.Printf("Dragons of Norrath Zones: %d\n", len(zones))
 		}
 
@@ -115,14 +125,24 @@ How this is calculated:
 
 		wZem.WriteString("Zone | ZEM | Name\n")
 		wZem.WriteString("---- | --- | ---\n")
+		noZemBuf.WriteString("Zone | ZEM | Name\n")
+		noZemBuf.WriteString("---- | --- | ---\n")
 		for _, zem := range zems {
 			zemPercent := (zem.Zem - 1) * 100
+
+			if zemPercent == 100 {
+				noZemBuf.WriteString(fmt.Sprintf("%s | %d%% | %s\n", zem.Short, int(zemPercent), zem.LongName))
+				continue
+			}
 
 			wZem.WriteString(fmt.Sprintf("%s | %d%% | %s\n", zem.Short, int(zemPercent), zem.LongName))
 		}
 		wZem.WriteString("\n\n")
+		noZemBuf.WriteString("\n\n")
 
 	}
+
+	wZem.WriteString(noZemBuf.String())
 
 	return nil
 }
