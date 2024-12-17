@@ -89,12 +89,8 @@ description: Learn more about what to expect when The Heroes' Journey releases
 
 # Notable bosses
  ## Classic Bosses to kill for Kunark/Legacy of Ykesha Unlock
- {{<details title="Lord Nagafen">}}
- Found in Soluseks Eye, this is a Dragon that will challenge you with his Fire Breath attack.
- {{</details>}}
- {{<details title="Lady Vox">}}
- Found in Permafrost, Lady Vox is a challenging dragon fight to not only get to, but also compete with her Complete Heal
- {{</details>}}
+- [Lord Nagafen](https://wiki.project1999.com/Lord_Nagafen)
+- [Lady Vox](https://wiki.project1999.com/Lady_Vox)
  ## Raid bosses
 #### Kedge Keep
 - [Phinigel Autropos](https://wiki.project1999.com/Phinigel_Autropos)

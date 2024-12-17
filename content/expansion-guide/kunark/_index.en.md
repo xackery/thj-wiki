@@ -55,3 +55,44 @@ In order to access Kunark content, you must finish the [progression requirements
 -  Stonebrunt Mountains
 -  Veksar
 {{</details>}}
+
+# Notable bosses
+ ## Bosses to kill for Velious Unlock
+- [Severilous](https://wiki.project1999.com/Severilous)
+- [Talendor](https://wiki.project1999.com/Talendor)
+- [Gorenaire](https://wiki.project1999.com/Gorenaire)
+- [Trakanon](https://wiki.project1999.com/Trakanon)
+ ## Raid bosses
+#### Chardok
+- [Prince Selrach Di'zok](https://wiki.project1999.com/Prince_Selrach_Di%27zok)
+- [Overking Bathezid](https://wiki.project1999.com/Overking_Bathezid)
+- [Queen Velazul Di'zok](https://wiki.project1999.com/Queen_Velazul_Di%27zok)
+#### Karnor's Castle
+- [Venril Sathir](https://wiki.project1999.com/Venril_Sathir)
+#### Timorous Deep
+- [Faydedar](https://wiki.project1999.com/Faydedar)
+#### Veeshan's Peak
+- [Druushk](https://wiki.project1999.com/Druushk)
+- [Hoshkar](https://wiki.project1999.com/Hoshkar)
+- [Nexona](https://wiki.project1999.com/Nexona)
+- [Phara Dar](https://wiki.project1999.com/Phara_Dar)
+- [Silverwing](https://wiki.project1999.com/Silverwing)
+- [Xygoz](https://wiki.project1999.com/Xygoz)
+
+## Other bosses by level
+#### 10-20
+
+#### 20-30
+
+#### 30-40
+
+#### 40-50
+
+#### 50-60
+
+
+
+
+# Notable Quests
+[Epic Quests](\equipment-guide\epics)
+# Notable items
