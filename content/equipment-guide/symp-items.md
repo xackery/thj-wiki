@@ -1,6 +1,5 @@
 ---
 title: Sympathetic Items
-bookCollapseSection: true
 alias: [/symp]
 ---
 
