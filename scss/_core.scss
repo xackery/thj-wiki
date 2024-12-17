@@ -19,6 +19,19 @@ $xa-css-prefix:       xa !default;
 }
 
 
+
+.filter-container {
+  margin-bottom: 20px;
+}
+.filter-container label {
+  margin-right: 10px;
+}
+.details-section {
+  margin-bottom: 10px;
+}
+
+
+
 .item-description {
   .user-select-none {
     user-select: none;
