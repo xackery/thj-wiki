@@ -95,7 +95,39 @@ description: Learn more about what to expect when The Heroes' Journey releases
  {{<details title="Lady Vox">}}
  Found in Permafrost, Lady Vox is a challenging dragon fight to not only get to, but also compete with her Complete Heal
  {{</details>}}
- ## Other bosses
+ ## Raid bosses
+#### Kedge Keep
+- [Phinigel Autropos](https://wiki.project1999.com/Phinigel_Autropos)
+#### Plane of Sky
+##### [P99 Guide to Plane of Sky](https://wiki.project1999.com/Plane_of_Sky)
+- [Protector of Sky](https://wiki.project1999.com/Protector_of_Sky)
+- [Noble Dojorn](https://wiki.project1999.com/Noble_Dojorn)
+- [Gorgalosk](https://wiki.project1999.com/Gorgalosk)
+- [Keeper of Souls](https://wiki.project1999.com/Keeper_of_Souls)
+- [Overseer of Air](https://wiki.project1999.com/Overseer_of_Air)
+- [The Spiroc Lord](https://wiki.project1999.com/The_Spiroc_Lord)
+- [Bazzt Zzzt](https://wiki.project1999.com/Bazzt_Zzzt)
+- [Sister of the Spire](https://wiki.project1999.com/Sister_of_the_Spire)
+- [The Hand of Veeshan](https://wiki.project1999.com/The_Hand_of_Veeshan)
+- [Eye of Veeshan](https://wiki.project1999.com/Eye_of_Veeshan)
+#### Plane of Hate
+- [Maestro of Rancor](https://wiki.project1999.com/Maestro_of_Rancor)
+- [Innoruuk](https://wiki.project1999.com/Innoruuk_(God))
+#### Plane of Fear
+- [Cazic Thule](https://wiki.project1999.com/Cazic_Thule_(God))
+- [a Dracoliche](https://wiki.project1999.com/Dracoliche)
+## Other bosses by level
+#### 10-20
+
+#### 20-30
+
+#### 30-40
+- [King Xorbb](https://wiki.project1999.com/King_Xorbb)
+- [an Evil Eye](https://wiki.project1999.com/An_Evil_Eye_(Lower_Guk))
+#### 40-50+
+
+
+
 
 # Notable Quests
 
