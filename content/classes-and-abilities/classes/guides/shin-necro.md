@@ -4,7 +4,7 @@ bookHidden: true
 description: A comprehensive guide on necro stuff
 ---
 
-![Shin-Necro](/images/shin-necro.webp)
+![Shin-Necro](/images/guides/shin-necro.webp)
 
 ## Introduction
 
