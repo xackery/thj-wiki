@@ -1,9 +1,14 @@
 ---
 title: Sympathetic Items
 alias: [/symp]
+description: A comprehensive list on Sympathetic Items
 ---
 
-All items need to be Legendary to have the click effect
+
+![Symp-Items](/images/symp-items.webp)
+
+
+All items need to be Legendary to have the click effect.
 
 ## Sympathetic Strike I
 
