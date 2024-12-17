@@ -11,7 +11,7 @@ Key differences for the Bard class on THJ compared to live or other servers:
 - Bard detrimental songs can be twisted or used with the 'Melody' system like usual
 - Bards start level 1 with the following AAs: 'Fading Memories', 'Dance of Blades', 'Jam Fest', 'Harmonious Attack Rank 5', 'Eyes Wide Open Rank 8', 'Mystical Attuning Rank 5', 'Bazaar and Back Gate', 'Consume Item'
 - All instrument modifiers are higher than on live
-- Custom Bard Epic 1.0 {{<item id="20542" name="Singing Short Sword" link="/equipment-guide/epics/brd-epic/">}}, available for completion once Kunark is released
+- Custom Bard Epic 1.0 {{<item id="2020542" name="Singing Short Sword" link="/equipment-guide/epics/brd-epic/">}}, available for completion once Kunark is released
 
 ## Bard Level 1 Autogranted AAs
 
