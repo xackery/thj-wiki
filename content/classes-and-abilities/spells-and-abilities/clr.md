@@ -1,6 +1,6 @@
 ---
 title: Cleric Spells
-images: [spells/images/clr.png]
+images: [/images/spells-and-abilities/clr-banner.png]
 bookHidden: true
 description: Cleric Spells.
 ---
