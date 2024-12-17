@@ -1,6 +1,7 @@
 ---
 title: Sympathetic Items
 alias: [/symp]
+images: [/images/symp-items.webp]
 description: A comprehensive list on Sympathetic Items
 ---
 
