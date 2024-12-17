@@ -17,3 +17,18 @@ $xa-css-prefix:       xa !default;
 #logo {
   background-image: linear-gradient(to left, gray, black);
 }
+
+
+.item-description {
+  .user-select-none {
+    user-select: none;
+  }
+  visibility: hidden;
+  position: absolute;
+  z-index: 1;
+  color: white;
+  font-size: 12px;
+  background-color: #192733;
+  //border-radius: 10px;
+  padding: none;
+}
