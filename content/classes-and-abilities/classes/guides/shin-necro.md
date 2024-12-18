@@ -30,6 +30,12 @@ Normally seen as the self sufficient, soloing powerhouse of EverQuest. Necromanc
 - No competitive AE damage spells
 - Not the most powerful pet in comparison to other pet classes
 
+## Item Buy List
+
+- Shai`Din Revenant Bauble: Bobbing Corpse: Stacks with Dead man floating for a ton of PR
+- Shissar Deathspeaker Staff: Soul Well: Lifetap dot that stacks on unlimited targets
+
+
 ## Low AA and Early Game Mechanic Tricks
 
 When you start with necro in your kit, the first super useful spell you'll obtain is **Lifetap**. This spell, as well as all lifetaps, are positively impacted by Spell Damage.
@@ -41,6 +47,7 @@ Spell Damage can be obtained by collecting items with intelligence on them, once
 If you find yourself struggling to exp and you have necro in your kit, arguably one of the cheapest sources of damage for AA cost is **Cascade of Decay**.
 - Costs 6 AA points
 - Can be guaranteed landed on a mob by using a duration lifetap spell (Leech, Vampiric Curse are my go to examples).
+
 
 
 ## High AA and Late Game  Mechanic Trickss
