@@ -124,6 +124,11 @@ Every 5 minutes, This ability, when active, will increase the damage you do at t
 
 ## Cleric
 
+### Cleric overview
+
+
+### Cleric synergies
+
 {{<details title="Divine Arbitration (Active)">}}
 Every 3 minutes, Using this ability balances the health of your group such that all group members end up with the same amount of damage taken.  The first rank does so at a 20 percent penalty to the average.
 {{</details>}}
@@ -138,6 +143,7 @@ This passive ability will give you a small innate chance to perform a twincast e
 {{</details>}}
 
 
+### Cleric epic and spells
 - Epic: [Water Sprinkler of the Nem Ankh](epics/clr-epic.md)
 
 - [Cleric Spells](spells/clr.md)
