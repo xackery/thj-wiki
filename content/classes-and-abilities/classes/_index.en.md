@@ -55,12 +55,13 @@ Bard is unique in that it adds something to pretty much any other class, but som
 
 ### Beastlord overview
 Beastlord traditionally comes with a strong pet, baby Shaman buffs/slows/heals, and some melee damage. On THJ, it also provides the following unique things:
-* Bloodlust: This ability makes it so every swing you do, your weapons proc their on-proc abilities. Procs are very strong on THJ, and this gives you an insane cooldown to take advantage of them.
+* Bloodlust: This ability makes it so every swing you do, your weapons proc their on-proc abilities. Procs are very strong on THJ, and this gives you an insane cooldown to take advantage of them. While this only lasts 12 seconds, it can be extended with Spell Casting Reinforcement.
 * Pet buffs: You can have multiple pets (from multiple classes) in THJ, so your pet buffs gain more value as they affect all of your pets.
 
 ### Beastlord synergies
 Some strong Beastlord synergies to think of are:
-* Warrior: Warrior gets access to some great proc weapons to make use of Bloodlust, is tanky, and brings it's own AA similar to Bloodlust (Rage of Rallos Zek). Combined with Cleric, this composition can make huge pulls and mow them all down by proccing lifetaps/aoe damage on every swing, based on the weapons you're using.
+* Warrior: Warrior gets access to some great proc weapons to make use of Bloodlust, is tanky, and brings it's own AA similar to Bloodlust (Rage of Rallos Zek).
+* Cleric: Cleric gets Battle Frenzy, which makes every single one of your spells (and procs!) crit for a short time. It also has Divine Avatar, which increases your damage and gives you a short HoT. These things combined with the combined proc chance of Bloodlust make for a very strong composition base.
 * Mag + Enc/Nec: As mentioned earlier, Beastlord pet buffs and heals hit every one of your pets, and in turn, other classes abilities do the same. So naturally, pairing Beastlord with other pet classes makes for a strong composition.
 
 ### Key Beastlord AAs
@@ -105,16 +106,17 @@ Some strong Berserker synergies to think of are:
 
 
 {{<details title="Rampage (Active)">}}
-Every 30 seconds, Strikes all targets around you within melee range for moderate damage with a chance to trigger a localized Earthquake.
+**Granted at level 1**: Every 30 seconds, Strikes all targets around you within melee range for moderate damage with a chance to trigger a localized Earthquake.
 {{</details>}}
 
 
-{{<details title="Killing Spree (Passive)">}}After slaying a non-trivial con enemy, you have a 10% chance per rank to enter a battle frenzy that instantly boosts your endurance slightly as well as increases your offensive damage for the next 30 seconds.
+{{<details title="Killing Spree (Passive)">}}
+**Granted at level 1**: After slaying a non-trivial con enemy, you have a 10% chance per rank to enter a battle frenzy that instantly boosts your endurance slightly as well as increases your offensive damage for the next 30 seconds.
 {{</details>}}
 
 
 {{<details title="Vehement Rage (Active)">}}
-Every 5 minutes, This ability, when active, will increase the damage you do at the cost of having heals that hit you be less effective.
+**Granted at level 1**: Every 5 minutes, This ability, when active, will increase the damage you do at the cost of having heals that hit you be less effective.
 {{</details>}}
 
 ### Berserker epic and spells
@@ -125,18 +127,33 @@ Every 5 minutes, This ability, when active, will increase the damage you do at t
 ## Cleric
 
 ### Cleric overview
-
+In THJ, Cleric really embodies the "Battle Cleric" persona. It comes with the typical heals and plate armor, but it also comes with some solid DPS additions, namely:
+* Divine Avatar: An AA cooldown that increases all damage done, and adds a HoT.
+* Battle Frenzy: An AA cooldown that makes all of your spells automatically crit for a short time.
+* Summoned hammers: On THJ, the summoned Cleric hammers are quite strong with strong procs, which can be strong for yourself, or given to pets.
+* Cures, and invulnerabilities: These things are great for tackling tough boss mechanics.
 
 ### Cleric synergies
+Some strong Cleric synergies to think of are:
+* Beastlord/Warrior: Beastlord and Warrior both get a cooldown that provides automatic proc chance on swing. Combined with guaranteed crit chance (Battle Frenzy) and damage (Divine Avatar) from Cleric, the combination can be devastating in damage, but also great in survivability if one or more of the procs is a lifetap.
+* Spell casters: Battle Frenzy and Divine Avatar can make you pump some big numbers on classes that use spells for damage.
+* White damage users: Divine Avatar is a great damage increase cooldown to pump up your white damage.
+
+It may look like Cleric is strong with everything, and that's probably because it is.
 
 {{<details title="Divine Arbitration (Active)">}}
-Every 3 minutes, Using this ability balances the health of your group such that all group members end up with the same amount of damage taken.  The first rank does so at a 20 percent penalty to the average.
+**Granted at level 1**: Every 3 minutes, Using this ability balances the health of your group such that all group members end up with the same amount of damage taken.  The first rank does so at a 20 percent penalty to the average.
 {{</details>}}
 
 
 {{<details title="Divine Avatar (Active)">}}
-Every 10 minutes, This ability infuses you with a divine spirit, greatly increasing your physical prowess for a short period of time.
+**Granted at level 1**: Every 10 minutes, This ability infuses you with a divine spirit, greatly increasing your physical prowess for a short period of time.
 {{</details>}}
+
+{{<details title="Battle Frenzy">}}
+Every 5 minutes, this ability will cause you to score a critical damage nuke for each nuke you cast for a short time at the cost of additional mana.
+{{</details>}}
+
 
 {{<details title="Twinheal (Passive)">}}
 This passive ability will give you a small innate chance to perform a twincast each time you cast a healing spell. Each rank gives you a 1 percent chance to twincast.
