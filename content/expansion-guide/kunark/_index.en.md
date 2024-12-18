@@ -94,5 +94,5 @@ In order to access Kunark content, you must finish the [progression requirements
 
 
 # Notable Quests
-[Epic Quests](\equipment-guide\epics)
+[Epic Quests](/equipment-guide/epics)
 # Notable items
