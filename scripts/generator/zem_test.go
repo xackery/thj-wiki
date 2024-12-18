@@ -56,12 +56,6 @@ ZEM stands for Zone Experience Modifier. This is a zone-wide buff to experience 
 Found an error on this page? Check tracked issues and [report new ones in the discord](<https://discord.com/channels/1204418766318862356/1307331696693350501/1307331696693350501>)
 
 
-How this is calculated:
-- The base ZEM of most zones is 2.0
-- All ZEMs are subjected by 1.0, making average 1.0
-- I multiply the ZEM by 100 to make it a percent, so all zones untouched are at 100%%
-- So a zone with 150%% ZEM is 50%% more experience than average
-
 `, context, context, context, context, context, time.Now().Format("2006-01-02")))
 
 	eqDB := os.Getenv("EQ_DB")
@@ -130,14 +124,13 @@ How this is calculated:
 		noZemBuf.WriteString("Zone | ZEM | Name\n")
 		noZemBuf.WriteString("---- | --- | ---\n")
 		for _, zem := range zems {
-			zemPercent := (zem.Zem - 1) * 100
 
-			if zemPercent == 100 {
-				noZemBuf.WriteString(fmt.Sprintf("%s | %d%% | %s\n", zem.Short, int(zemPercent), zem.LongName))
+			if zem.Zem == 2.0 {
+				noZemBuf.WriteString(fmt.Sprintf("%s | %0.1f | %s\n", zem.Short, zem.Zem, zem.LongName))
 				continue
 			}
 
-			wZem.WriteString(fmt.Sprintf("%s | %d%% | %s\n", zem.Short, int(zemPercent), zem.LongName))
+			wZem.WriteString(fmt.Sprintf("%s | %0.1f | %s\n", zem.Short, zem.Zem, zem.LongName))
 		}
 		wZem.WriteString("\n\n")
 		noZemBuf.WriteString("\n\n")
