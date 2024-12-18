@@ -16,7 +16,7 @@ description: Progression guide through the heroes journey.
 - Kill specific bosses.
 
 ### Adventurer
-- Gather specific items.
+- Gather specific items. These items need to be of Legendary quality.
 
 
 # Classic
@@ -32,10 +32,10 @@ Found in Permafrost, Lady Vox is a challenging dragon fight to not only get to, 
 {{</expand>}}
 {{<expand "Explorer" "..." >}}
 ## Gather the following items and hand them to the NPC located in the Bazaar:
-- Elemental Binder
-- Djarn's Amethyst Ring
-- Crown of the Froglok Kings
-- Scalp of the Ghoul Lord
+- Elemental Binder (legendary)
+- Djarn's Amethyst Ring (legendary)
+- Crown of the Froglok Kings (legendary)
+- Scalp of the Ghoul Lord (legendary)
 {{</expand>}}
 
 <h1 style="background-color:DodgerBlue;">Hello World</h1>
@@ -57,10 +57,10 @@ Hidden in the depths of Old Sebilis behind an army of Sebilite protectors.
 
 {{<expand "Explorer" "..." >}}
 ## Gather the following items and hand them to the NPC located in the Bazaar:
-- Mask of Secrets
-- Sebilite Scale Mask
-- Helot Skull Helm
-- Helm of Rile
+- Mask of Secrets (legendary)
+- Sebilite Scale Mask (legendary)
+- Helot Skull Helm (legendary)
+- Helm of Rile (legendary)
 
 {{</expand>}}
 
