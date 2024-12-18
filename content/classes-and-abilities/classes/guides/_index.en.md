@@ -9,7 +9,7 @@ images: [images/guides.png]
 
 ## Class Highlight Guides
 
-Class Highlight Guides focus on a specific class and talk about what they offer to your other picks, as well as specializations catered for that class.
+Class Highlight Guides focus on a specific class and talk about what they offer to compared to other picks, as well as specializations catered for that class.
 
 - Bard
 
