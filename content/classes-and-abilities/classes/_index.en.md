@@ -91,6 +91,19 @@ This ability, when activated, allows your weapons to proc with every swing for u
 
 ## Berserker
 
+### Berserker overview
+Berserker is still a two-handed behemoth. It will bring AAs and abilities that help your class do more white damage. Some unique things to note:
+* Frenzy: Frenzy is a single-target ability with a short cooldown, similar to Kick and Backstab.. HOWEVER, on THJ, Frenzy hits like a truck. With a weapon with big damage and some AAs into crit damage and frenzy damage, you can easily crit in the 10000s, 20000s, and even 30000s.. at level 50!
+* Scaling: As spell damage gets capped, and weapons get stronger and stronger, a white damage class such as Berserker should see a rise in effectiveness as the server ages.
+* Potential weaknesses: There are two potential weaknesses with Berserker: you are pretty much limited to 2H weapons, and there aren't many AAs that help with proc or spell damage, which is strong in THJ..at least in the early stages of the server.
+
+### Berserker synergies
+Some strong Berserker synergies to think of are:
+* Knights: Warrior and Paladin get some solid AAs that benefit 2H weapon users, which is nice for DPS. Also the Killing Spree passive heal (MNK and ROG also get this) helps tanking, as you get a chance to do a burst of healing and DPS after killing mobs.
+* White damage folks: Frenzy is such a strong CD in this game, that something like Rogue, Monk, or even Ranger could benefit from having a Berserker in their composition, for a really strong single target hitter on a short cooldown.
+* Bard: Overhaste and double attack chance are going to benefit Berserker's white damage greatly.
+
+
 {{<details title="Rampage (Active)">}}
 Every 30 seconds, Strikes all targets around you within melee range for moderate damage with a chance to trigger a localized Earthquake.
 {{</details>}}
@@ -104,7 +117,7 @@ Every 30 seconds, Strikes all targets around you within melee range for moderate
 Every 5 minutes, This ability, when active, will increase the damage you do at the cost of having heals that hit you be less effective.
 {{</details>}}
 
-
+### Berserker epic and spells
 - Epic: [Kerasian Axe of Rage](epics/ber-epic.md)
 
 - [Berserker Spells](spells/ber.md)
