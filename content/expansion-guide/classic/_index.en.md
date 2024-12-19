@@ -128,3 +128,4 @@ description: Learn more about what to expect when The Heroes' Journey releases
 # Notable Quests
 
 # Notable items
+[P99 clicky list](https://wiki.project1999.com/Clickies)
