@@ -116,3 +116,4 @@ In order to access Velious content, you must finish the [progression requirement
 - [Coldain Prayer Shawl Quests](https://wiki.project1999.com/Coldain_Prayer_Shawl_Quests)
 - [Velious Class Armor](https://wiki.project1999.com/Velious_Class_Armor)
 # Notable items
+- [P99 clicky list](https://wiki.project1999.com/Clickies)
