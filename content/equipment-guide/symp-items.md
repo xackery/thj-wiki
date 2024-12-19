@@ -11,27 +11,28 @@ description: A comprehensive list on Sympathetic Items
 
 All items need to be Legendary to have the click effect.
 
+If you're a newcomer and only have access to classic expansions, but let's say that Velious is unlocked server wide, you can use the bazaar to search for an item from Kunark, or Velious, even non-legendary, and as long as you can equip it, you can place it in your power source, and level it up to legendary to gain the Symp Strike buff. Note that clicking these items REQUIRE you to be the class listed on the item.
+
 ## Sympathetic Strike I
 
 Name|Expansion|Classes|Notes
 --|--|--|--|--
-Summoned: Dagger|Classic|WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST|Summoned by MAG at Level 1
-Warped Great Staff|Classic|WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER|
-Ice Crystal Staff|Classic|BRD NEC WIZ MAG ENC
-Summoned: Staff of Runes|Classic|All|Summoned by MAG at Level 24
-Charred Dagger|Classic|WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
+{{<item id="7305" name="Summoned: Dagger">}}|Classic|WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST|Summoned by MAG at Level 1
+{{<item id="2001234" name="Warped Great Staff">}}|Classic|WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER|12% chance from Yovik_Splegle in West Freeport
+{{<item id="2006323" name="Ice Crystal Staff">}}|Classic|BRD NEC WIZ MAG ENC|25% chance from a goblin scryer in Permafrost Keep
+{{<item id="1234" name="Summoned: Staff of Runes">}}|Classic|All|Summoned by MAG at Level 24
+{{<item id="1234" name="Charred Dagger">}}|Classic|WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 
 ## Sympathetic Strike II
 
 Name|Expansion|Classes|Notes
 --|--|--|--|--
-Slime Crystal Staff|Classic|BRD NEC WIZ MAG ENC
+Slime Crystal Staff|Classic|BRD NEC WIZ MAG ENC|
 Stein of Moggok|Classic|WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST
 Runewood Great Staff|Classic|WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
 Sacrificial Dagger|Classic|WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Mithril Quill|Classic|BRD NEC WIZ MAG ENC BST
 Ancient Sensate Eye|Classic|All
-Stein of Moggok|Classic|All
 
 ## Sympathetic Strike III
 
@@ -40,26 +41,25 @@ Name|Expansion|Classes|Notes
 Enchanted Teir`Dal Great Staff|Classic|WAR CLR PAL SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
 Fire Crystal Staff|Classic|BRD NEC WIZ MAG ENC
 Staff of Writhing|Classic|BRD NEC WIZ MAG ENC
-RukGus' Sticker|Kunark|WAR RNG SHD BRD ROG SHM NEC WIZ MAG ENC BST
-Sarnak Ceremonial Dagger|Classic|BRD ROG NEC WIZ MAG ENC BST
-Black Tome with Silver Runes|Classic|NEC WIZ MAG ENC
-Gnoll Hide Tome|Classic|NEC WIZ MAG ENC
+RukGus' Sticker|Kunark|WAR RNG SHD BRD ROG SHM NEC WIZ MAG ENC BST|50% chance from Chief RokGus in Temple of Droga or Frontier Mountains
+Sarnak Ceremonial Dagger|Classic|BRD ROG NEC WIZ MAG ENC BST|25% chance drop from a Sarnak gem oracle in Lake of the Ill Omen
+Black Tome with Silver Runes|Classic|NEC WIZ MAG ENC|
+Gnoll Hide Tome|Classic|NEC WIZ MAG ENC|
 
 ## Sympathetic Strike IV
 
 Name|Expansion|Classes|Notes
 --|--|--|--|--
-Di`zok Sceptre of Authority|Kunark|CLR DRU SHM NEC WIZ MAG ENC
-Darksight Dagger|Kunark|NEC WIZ MAG ENC
+Di`zok Sceptre of Authority|Kunark|CLR DRU SHM NEC WIZ MAG ENC|50% chance from Arch Inspector Nibi`zi in Chardok
+Darksight Dagger|Kunark|NEC WIZ MAG ENC|40% chance from Sarnak Collective Auditor in Chardok
 Rod of Oblations|Kunark|CLR DRU SHM NEC WIZ MAG ENC
-Staff of Discord|Kunark|All
-Lasnik's Staff|Kunark|MNK WIZ BER
-Cone of the Mystics|Kunark|All
-Velium Crystal Staff|Velious|CLR MNK NEC WIZ MAG ENC
-Chetari Wardstaff|Velious|CLR DRU SHM NEC WIZ MAG ENC BST BER
-Crystallized Shadow Dagger|Velious|WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
-Thunder Runed Dagger|Velious|NEC WIZ MAG ENC
-
+Staff of Discord|Classic|All|Not obtainable, no Priests are killable
+Lasnik's Staff|Kunark|MNK WIZ BER|
+Cone of the Mystics|Kunark|All|
+Velium Crystal Staff|Velious|CLR MNK NEC WIZ MAG ENC|23% chance from The Brood Mother in Velketor's Labyrinth
+Chetari Wardstaff|Velious|CLR DRU SHM NEC WIZ MAG ENC BST BER|2% chance from various Chetari mobs in Dragon Necropolis
+Crystallized Shadow Dagger|Velious|WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST|1% chance from various mobs in Tower of Frozen Shadow
+Thunder Runed Dagger|Velious|NEC WIZ MAG ENC|1% chance from various mobs (Troopers etc) in Kael Drakkel
 
 ## Sympathetic Strike V
 
