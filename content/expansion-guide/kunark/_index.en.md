@@ -96,3 +96,4 @@ In order to access Kunark content, you must finish the [progression requirements
 # Notable Quests
 [Epic Quests](/equipment-guide/epics)
 # Notable items
+[P99 clicky list](https://wiki.project1999.com/Clickies)
