@@ -9,7 +9,7 @@ aliases: [/heroic-stats]
 
 ### Heroic Stats are special stats you'll find on gear, in orange with a + sign after main stats.
 
-# Heroic Strength
+# Heroic Strength (HSTR)
 
 - 1 point increases **Strength cap** by 1
 - 1 point increases **Strength** by 1
@@ -20,7 +20,7 @@ aliases: [/heroic-stats]
 - 25 points increases **endurance regen cap** by 1
 - 200 points increases **endurance regen** by 1
 
-# Heroic Stamina
+# Heroic Stamina (HSTA)
 
 - 1 point increases **Stamina cap** by 1
 - 1 point increases **Stamina** by 1
@@ -31,7 +31,7 @@ aliases: [/heroic-stats]
 - 25 points increases **hitpoint regen cap** by 1
 - 200 points increases **endurance regen** by 1
 
-# Heroic Agility
+# Heroic Agility (HAGI)
 
 - 1 point increases **Agility cap** by 1
 - 1 point increases **Agility** by 1
@@ -45,7 +45,7 @@ aliases: [/heroic-stats]
 - 25 points increases **endurance regen cap** by 1
 - 200 points increases **endurance regen** by 1
 
-# Heroic Dexterity
+# Heroic Dexterity (HDEX)
 
 - 1 point increases **Dexterity cap** by 1
 - 1 point increases **Dexterity** by 1
@@ -70,7 +70,7 @@ aliases: [/heroic-stats]
 - 25 points increases **endurance regen cap** by 1
 - 200 points increases **endurance regen** by 1
 
-# Heroic Wisdom
+# Heroic Wisdom (HWIS)
 
 - 1 point increases **Wisdom cap** by 1
 - 1 point increases **Wisdom** by 1
@@ -82,7 +82,7 @@ aliases: [/heroic-stats]
     - must be CLR/DRU/SHM/PAL/BST/RNG
 - 100 points increases **beneficial spells values** by 1%
 
-# Heroic Intelligence
+# Heroic Intelligence (HINT)
 
 - 1 point increases **Intelligence cap** by 1
 - 1 point increases **Intelligence** by 1
@@ -106,27 +106,27 @@ aliases: [/heroic-stats]
     - if a mob is scowls, this value is calculated and can decrease it down to glares threatening aggro radius if enough faction impact
 
 
-# Heroic Cold Resist
+# Heroic Cold Resist (HCR)
 
 - 1 point increases **Cold Resist cap** by 1
 - 1 point increases **Cold Resist** by 1
 
-# Heroic Fire Resist
+# Heroic Fire Resist (HFR)
 
 - 1 point increases **Fire Resist cap** by 1
 - 1 point increases **Fire Resist** by 1
 
-# Heroic Magic Resist
+# Heroic Magic Resist (HMR)
 
 - 1 point increases **Magic Resist cap** by 1
 - 1 point increases **Magic Resist** by 1
 
-# Heroic Poison Resist
+# Heroic Poison Resist (HPR)
 
 - 1 point increases **Poison Resist cap** by 1
 - 1 point increases **Poison Resist** by 1
 
-# Heroic Disease  Resist
+# Heroic Disease  Resist (HDR)
 
 - 1 point increases **Disease Resist cap** by 1
 - 1 point increases **Disease Resist** by 1
