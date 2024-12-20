@@ -9,7 +9,7 @@ aliases: [/heroic-stats]
 
 ### Heroic Stats are special stats you'll find on gear, in orange with a + sign after main stats.
 
-# Heroic Strength
+# Heroic Strength (HSTR)
 
 
 - 1 Heroic Strength increases **Strength cap** by 1
@@ -21,7 +21,7 @@ aliases: [/heroic-stats]
 - 25 Heroic Strength increases **endurance regen cap** by 1
 - 200 Heroic Strength increases **endurance regen** by 1
 
-# Heroic Stamina
+# Heroic Stamina (HSTA)
 
 - 1 Heroic Stamina increases **Stamina cap** by 1
 - 1 Heroic Stamina increases **Stamina** by 1
@@ -32,7 +32,7 @@ aliases: [/heroic-stats]
 - 25 Heroic Stamina increases **hitpoint regen cap** by 1
 - 200 Heroic Stamina increases **endurance regen** by 1
 
-# Heroic Agility
+# Heroic Agility (HAGI)
 
 - 1 Heroic Agility increases **Agility cap** by 1
 - 1 Heroic Agility increases **Agility** by 1
@@ -46,7 +46,7 @@ aliases: [/heroic-stats]
 - 25 Heroic Agility increases **endurance regen cap** by 1
 - 200 Heroic Agility increases **endurance regen** by 1
 
-# Heroic Dexterity
+# Heroic Dexterity (HDEX)
 
 - 1 Heroic Dexterity increases **Dexterity cap** by 1
 - 1 Heroic Dexterity increases **Dexterity** by 1
@@ -71,7 +71,7 @@ aliases: [/heroic-stats]
 - 25 Heroic Dexterity increases **endurance regen cap** by 1
 - 200 Heroic Dexterity increases **endurance regen** by 1
 
-# Heroic Wisdom
+# Heroic Wisdom (HWIS)
 
 - 1 Heroic Wisdom increases **Wisdom cap** by 1
 - 1 Heroic Wisdom increases **Wisdom** by 1
@@ -83,7 +83,7 @@ aliases: [/heroic-stats]
     - must be CLR/DRU/SHM/PAL/BST/RNG
 - 100 Heroic Wisdom increases **beneficial spells values** by 1%
 
-# Heroic Intelligence
+# Heroic Intelligence (HINT)
 
 - 1 Heroic Intelligence increases **Intelligence cap** by 1
 - 1 Heroic Intelligence increases **Intelligence** by 1
@@ -95,7 +95,8 @@ aliases: [/heroic-stats]
     - must be NEC/WIZ/MAG/ENC/SHD
 - 100 Heroic Intelligence increases **detrimental spells values** by 1%
 
-# Heroic Charisma
+# Heroic Charisma (HCHA)
+
 - 1 Heroic Charisma increases **Charisma cap** by 1
 - 1 Heroic Charisma increases **Charisma** by 1
 - 1 Heroic Charisma changes **resist modifier** by -1
@@ -106,27 +107,27 @@ aliases: [/heroic-stats]
     - if the % value plus faction hit is divisible by 0, you'll get a static increase in faction hits both positive and negative
     - if the % value plus faction hit is not divisible by 0, you'll get a random d100 roll vs your % and if you win roll, doubles faction hit
 
-# Heroic Cold Resist
+# Heroic Cold Resist (HCR)
 
 - 1 Heroic Cold Resist increases **Cold Resist cap** by 1
 - 1 Heroic Cold Resist increases **Cold Resist** by 1
 
-# Heroic Fire Resist
+# Heroic Fire Resist (HFR)
 
 - 1 Heroic Fire Resist increases **Fire Resist cap** by 1
 - 1 Heroic Fire Resist increases **Fire Resist** by 1
 
-# Heroic Magic Resist
+# Heroic Magic Resist (HMR)
 
 - 1 Heroic Magic Resist increases **Magic Resist cap** by 1
 - 1 Heroic Magic Resist increases **Magic Resist** by 1
 
-# Heroic Poison Resist
+# Heroic Poison Resist (HPR)
 
 - 1 Heroic Poison Resist increases **Poison Resist cap** by 1
 - 1 Heroic Poison Resist increases **Poison Resist** by 1
 
-# Heroic Disease  Resist
+# Heroic Disease  Resist (HDR)
 
 - 1 Heroic Disease  Resist increases **Disease Resist cap** by 1
 - 1 Heroic Disease  Resist increases **Disease Resist** by 1
