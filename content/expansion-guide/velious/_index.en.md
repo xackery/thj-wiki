@@ -42,11 +42,11 @@ In order to access Velious content, you must finish the [progression requirement
 - [Wuoshi](https://wiki.project1999.com/Wuoshi)
 - [Klandicar](https://wiki.project1999.com/Klandicar)
 - [Zlandicar](https://wiki.project1999.com/Zlandicar)
+- [Lord Koi'Doken](https://wiki.project1999.com/Lord_Koi%27Doken)
+#### And One of the Following
 - [Lord Yelniak](https://wiki.project1999.com/Lord_Yelinak)
-- [Hraasha the Warder](https://wiki.project1999.com/Hraashna_the_Warder)
-- [Nanzata the Warder](https://wiki.project1999.com/Nanzata_the_Warder)
-- [Tukaarak the Warder](https://wiki.project1999.com/Tukaarak_the_Warder)
-- [Ventani the Warder](https://wiki.project1999.com/Ventani_the_Warder)
+- [Dain Frostreaver IV](https://wiki.project1999.com/Dain_Frostreaver_IV)
+- [King Tormax](https://wiki.project1999.com/King_Tormax)
 ## Raid bosses
 
 ### Western Wastes
@@ -97,6 +97,10 @@ In order to access Velious content, you must finish the [progression requirement
 - [The Progenitor](https://wiki.project1999.com/The_Progenitor)
 - [Master of the Guard](https://wiki.project1999.com/Master_of_the_Guard)
 - [The Final Arbiter](https://wiki.project1999.com/The_Final_Arbiter)
+- [Hraasha the Warder](https://wiki.project1999.com/Hraashna_the_Warder)
+- [Nanzata the Warder](https://wiki.project1999.com/Nanzata_the_Warder)
+- [Tukaarak the Warder](https://wiki.project1999.com/Tukaarak_the_Warder)
+- [Ventani the Warder](https://wiki.project1999.com/Ventani_the_Warder)
 ## Other bosses by level
 #### 10-20
 
