@@ -71,20 +71,18 @@ Hidden in the depths of Old Sebilis behind an army of Sebilite protectors.
 [Full Guide to Velious](/expansion-guide/velious/)
 {{<expand "Hero" "..." >}}
 ## Kill the following bosses to progress:
-## Wuoshi
+## [Wuoshi](https://wiki.project1999.com/Wuoshi)
 - This lady dragon guards the Dragon Portal in the Wakening Lands. Casts Ceticious Cloud ((poison) 600 PB AE DD and 8-second stun) and Dragon Roar ((magic) PB AE 18-second fear).
-## Zlandicar
+## [Zlandicar](https://wiki.project1999.com/Zlandicar)
 - Zlandicar is one of the final members of the first brood, he has been banished to the Dragon Necropolis
-## Klandicar
+## [Klandicar](https://wiki.project1999.com/Klandicar)
 - Klandicar is another one of the few remaining first brood, he resides in the western wastes and serves as the sentinel keeping his banished cousin contained.
-## Lord Yelinak
-- Lord Yelinak is the leader of the Claws of Veeshan and one of the few remaining first brood, located in Skyshrine.
-## 4 warders in Sleepers Tomb
-- Hraasha the Warder
-- Nanzata the Warder
-- Tukaarak the Warder
-- Ventani the Warder
-
+## [Lord Koi'Doken](https://wiki.project1999.com/Lord_Koi%27Doken)
+- Located in Temple of Veeshan.
+### And one of the following
+- [Lord Yelniak](https://wiki.project1999.com/Lord_Yelinak)
+- [Dain Frostreaver IV](https://wiki.project1999.com/Dain_Frostreaver_IV)
+- [King Tormax](https://wiki.project1999.com/King_Tormax)
 
 {{</expand>}}
 

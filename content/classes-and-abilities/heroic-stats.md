@@ -9,124 +9,124 @@ aliases: [/heroic-stats]
 
 ### Heroic Stats are special stats you'll find on gear, in orange with a + sign after main stats.
 
-# HSTR
+# Heroic Strength (HSTR)
 
-
-- 1 HSTR increases **STR cap** by 1
-- 1 HSTR increases **STR** by 1
-- 1 HSTR increases **maximum endurance** by 2.5
-- 10 HSTR increases **hard AC** by 1
+- 1 point increases **Strength cap** by 1
+- 1 point increases **Strength** by 1
+- 1 point increases **maximum endurance** by 2.5
+- 10 points increases **hard AC** by 1
     - hard AC bypasses soft cap
-- 10 HSTR increases **minimum melee damage** by 1
-- 25 HSTR increases **endurance regen cap** by 1
-- 200 HSTR increases **endurance regen** by 1
+- 10 points increases **minimum melee damage** by 1
+- 25 points increases **endurance regen cap** by 1
+- 200 points increases **endurance regen** by 1
 
-# HSTA
+# Heroic Stamina (HSTA)
 
-- 1 HSTA increases **STA cap** by 1
-- 1 HSTA increases **STA** by 1
-- 1 HSTA increases **maximum hitpoints** by 10
-- 1 HSTA increases **maximum endurance** by 2.5
-- 20 HSTA increases **hitpoint regeneration** by 1
-- 25 HSTA increases **endurance regen cap** by 1
-- 25 HSTA increases **hitpoint regen cap** by 1
-- 200 HSTA increases **endurance regen** by 1
+- 1 point increases **Stamina cap** by 1
+- 1 point increases **Stamina** by 1
+- 1 point increases **maximum hitpoints** by 10
+- 1 point increases **maximum endurance** by 2.5
+- 20 points increases **hitpoint regeneration** by 1
+- 25 points increases **endurance regen cap** by 1
+- 25 points increases **hitpoint regen cap** by 1
+- 200 points increases **endurance regen** by 1
 
-# HAGI
+# Heroic Agility (HAGI)
 
-- 1 HAGI increases **AGI cap** by 1
-- 1 HAGI increases **AGI** by 1
-- 1 HAGI increases **maximum endurance** by 2.5
-- 10 HAGI increases **avoidance** by 1
+- 1 point increases **Agility cap** by 1
+- 1 point increases **Agility** by 1
+- 1 point increases **maximum endurance** by 2.5
+- 10 points increases **avoidance** by 1
     - this stat is rolled against accuracy, impacts ToHit chance, a different roll to dodge
-- 25 HAGI increases **dodge** by 1%
+- 25 points increases **dodge** by 1%
     - must have 1 skill point of dodge
     - must be facing mob, monk bypasses this requirement
     - strikethrough negates this dodge bonus
-- 25 HAGI increases **endurance regen cap** by 1
-- 200 HAGI increases **endurance regen** by 1
+- 25 points increases **endurance regen cap** by 1
+- 200 points increases **endurance regen** by 1
 
-# HDEX
+# Heroic Dexterity (HDEX)
 
-- 1 HDEX increases **DEX cap** by 1
-- 1 HDEX increases **DEX** by 1
-- 1 HDEX increases **maximum endurance** by 2.5
-- 1 HDEX increases **backstab assasination** by 1%
-    - throwing assasination is not affected by HDEX
-- 10 HDEX increases **minimum archery and throwing damage** by 1
-- 25 HDEX increases **headshot** by 1%
-- 25 HDEX increases **riposte** by 1%
+- 1 point increases **Dexterity cap** by 1
+- 1 point increases **Dexterity** by 1
+- 1 point increases **maximum endurance** by 2.5
+- 1 point increases **backstab assasination** by 1%
+    - throwing assasination is not affected by Heroic Dexterity
+- 10 points increases **minimum archery and throwing damage** by 1
+- 25 points increases **headshot** by 1%
+- 25 points increases **riposte** by 1%
     - must have 1 skill point of riposte
     - must be facing mob
     - strikethrough negates this riposte bonus
-- 25 HDEX increases **parry** by 1%
+- 25 points increases **parry** by 1%
     - must have 1 skill point of parry
     - must be facing mob
     - strikethrough negates this parry bonus
-- 25 HDEX increases **block** by 1%
+- 25 points increases **block** by 1%
     - must have a class with the block skill (shield block from AA does NOT fall into this category)
     - must be facing mob
     - some AAs/items let you have a chance to block from behind
     - strikethrough negates this block bonus
-- 25 HDEX increases **endurance regen cap** by 1
-- 200 HDEX increases **endurance regen** by 1
+- 25 points increases **endurance regen cap** by 1
+- 200 points increases **endurance regen** by 1
 
-# HWIS
+# Heroic Wisdom (HWIS)
 
-- 1 HWIS increases **WIS cap** by 1
-- 1 HWIS increases **WIS** by 1
-- 1 HWIS increases **heal amount** by 1
+- 1 point increases **Wisdom cap** by 1
+- 1 point increases **Wisdom** by 1
+- 1 point increases **heal amount** by 1
     - disabled on THJ
-- 1 HWIS increases **maximum mana** by 10
+- 1 point increases **maximum mana** by 10
     - must be CLR/DRU/SHM/PAL/BST/RNG
-- 25 HWIS increases **mana regen** by 1
+- 25 points increases **mana regen** by 1
     - must be CLR/DRU/SHM/PAL/BST/RNG
-- 100 HWIS increases **beneficial spells values** by 1%
+- 100 points increases **beneficial spells values** by 1%
 
-# HINT
+# Heroic Intelligence (HINT)
 
-- 1 HINT increases **INT cap** by 1
-- 1 HINT increases **INT** by 1
-- 1 HINT increases **spell damage** by 1
+- 1 point increases **Intelligence cap** by 1
+- 1 point increases **Intelligence** by 1
+- 1 point increases **spell damage** by 1
     - disabled on THJ
-- 1 HINT increases **maximum mana** by 10
+- 1 point increases **maximum mana** by 10
     - must be NEC/WIZ/MAG/ENC/SHD
-- 25 HINT increases **mana regen** by 1
+- 25 points increases **mana regen** by 1
     - must be NEC/WIZ/MAG/ENC/SHD
-- 100 HINT increases **detrimental spells values** by 1%
+- 100 points increases **detrimental spells values** by 1%
 
-# HCHA
-- 1 HCHA increases **CHA cap** by 1
-- 1 HCHA increases **CHA** by 1
-- 1 HCHA changes **resist modifier** by -1
-    - resist modifier can be treated the equivalent of casting a chromatic (all resists) tash on the mob based on your HCHA value, but just affecting your spells
-- 25 HCHA increases **faction de-aggression** by 1
-    - if a mob is scowls, this value is calculated and can decrease it down to glares threatening aggro radius if enough faction impact
-- 5 HCHA increases **faction mod** by 1%
+# Heroic Charisma
+- 1 point increases **Charisma cap** by 1
+- 1 point increases **Charisma** by 1
+- 1 point changes **resist modifier** by -1
+    - resist modifier can be treated the equivalent of casting a chromatic (all resists) tash on the mob based on your Heroic Charisma value, but just affecting your spells
+- 5 points increases **faction mod** by 1%
     - if the % value plus faction hit is divisible by 0, you'll get a static increase in faction hits both positive and negative
     - if the % value plus faction hit is not divisible by 0, you'll get a random d100 roll vs your % and if you win roll, doubles faction hit
+- 25 points increases **faction de-aggression** by 1
+    - if a mob is scowls, this value is calculated and can decrease it down to glares threatening aggro radius if enough faction impact
 
-# HCR
 
-- 1 HCR increases **Cold Resist cap** by 1
-- 1 HCR increases **Cold Resist** by 1
+# Heroic Cold Resist (HCR)
 
-# HFR
+- 1 point increases **Cold Resist cap** by 1
+- 1 point increases **Cold Resist** by 1
 
-- 1 HFR increases **Fire Resist cap** by 1
-- 1 HFR increases **Fire Resist** by 1
+# Heroic Fire Resist (HFR)
 
-# HMR
+- 1 point increases **Fire Resist cap** by 1
+- 1 point increases **Fire Resist** by 1
 
-- 1 HMR increases **Magic Resist cap** by 1
-- 1 HMR increases **Magic Resist** by 1
+# Heroic Magic Resist (HMR)
 
-# HPR
+- 1 point increases **Magic Resist cap** by 1
+- 1 point increases **Magic Resist** by 1
 
-- 1 HPR increases **Poison Resist cap** by 1
-- 1 HPR increases **Poison Resist** by 1
+# Heroic Poison Resist (HPR)
 
-# HDR
+- 1 point increases **Poison Resist cap** by 1
+- 1 point increases **Poison Resist** by 1
 
-- 1 HDR increases **Disease Resist cap** by 1
-- 1 HDR increases **Disease Resist** by 1
+# Heroic Disease  Resist (HDR)
+
+- 1 point increases **Disease Resist cap** by 1
+- 1 point increases **Disease Resist** by 1
