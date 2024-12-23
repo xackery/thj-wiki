@@ -79,6 +79,7 @@ Game Mechanics
     - ranged attack procs -> timer (procs that only work with archery/throwing)
     - aa melee procs -> timer (things like rabid bear or dance of the blade)
     - one shot poison/apply poison junk (just removes no timer) (things that use apply poison and old school poison system)
+- When you hit a buff proc on a single attack and succeed to proc, it increments a counter by 1. Once you hit 4 total successful spell procs, it breaks out of the spell proc loop
 - How procs are prioritized for weapons is:
     - attempt to proc built in weapon
     - if weapon proc fails roll, try to proc slot 1 aug
