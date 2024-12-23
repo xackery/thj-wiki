@@ -18,6 +18,10 @@ header {
     margin-top: $header-height;
 }
 
+.book-icon {
+    filter: invert(1);
+}
+
 .book-header {
     display: flex;
     padding: 30px;
