@@ -17,20 +17,20 @@ If you're a newcomer and only have access to classic expansions, but let's say t
 
 Name|Expansion|Classes|Notes
 --|--|--|--|--
+{{<item id="1234" name="Charred Dagger">}}|Classic|WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST|40% chance from a carrion ghoul in The Estate of Unrest
 {{<item id="7305" name="Summoned: Dagger">}}|Classic|WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST|Summoned by MAG at Level 1
 {{<item id="2001234" name="Warped Great Staff">}}|Classic|WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER|12% chance from Yovik_Splegle in West Freeport
 {{<item id="2006323" name="Ice Crystal Staff">}}|Classic|BRD NEC WIZ MAG ENC|25% chance from a goblin scryer in Permafrost Keep
 {{<item id="1234" name="Summoned: Staff of Runes">}}|Classic|All|Summoned by MAG at Level 24
-{{<item id="1234" name="Charred Dagger">}}|Classic|WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 
 ## Sympathetic Strike II
 
 Name|Expansion|Classes|Notes
 --|--|--|--|--
+Sacrificial Dagger|Classic|WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST|50% chance from an imp familiar in The Castle of Mistmoore
 Slime Crystal Staff|Classic|BRD NEC WIZ MAG ENC|
 Stein of Moggok|Classic|WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC BST
 Runewood Great Staff|Classic|WAR CLR PAL RNG SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
-Sacrificial Dagger|Classic|WAR RNG SHD BRD ROG NEC WIZ MAG ENC BST
 Mithril Quill|Classic|BRD NEC WIZ MAG ENC BST
 Ancient Sensate Eye|Classic|All
 
@@ -38,9 +38,9 @@ Ancient Sensate Eye|Classic|All
 
 Name|Expansion|Classes|Notes
 --|--|--|--|--
+Staff of Writhing|Classic|BRD NEC WIZ MAG ENC|75% chance from kobold noble in Nagafen's Lair
 Enchanted Teir`Dal Great Staff|Classic|WAR CLR PAL SHD DRU MNK SHM NEC WIZ MAG ENC BST BER
 Fire Crystal Staff|Classic|BRD NEC WIZ MAG ENC
-Staff of Writhing|Classic|BRD NEC WIZ MAG ENC
 RukGus' Sticker|Kunark|WAR RNG SHD BRD ROG SHM NEC WIZ MAG ENC BST|50% chance from Chief RokGus in Temple of Droga or Frontier Mountains
 Sarnak Ceremonial Dagger|Classic|BRD ROG NEC WIZ MAG ENC BST|25% chance drop from a Sarnak gem oracle in Lake of the Ill Omen
 Black Tome with Silver Runes|Classic|NEC WIZ MAG ENC|
