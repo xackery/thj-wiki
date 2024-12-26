@@ -126,7 +126,7 @@ Note, when you make a new character, go to your skills tab and open the "track" 
 ## Resists
 
 - 2 resists equates to roughly 1% chance to resist
-- player resists go up to 750
+- player resists go up to 550. If you're above this number, subtract your heroic resists (the gold +#) from the total, and if that's less than 550, you get benefit from normal resists
 - spells can have min resists and max resists fields set to modify final resist checks
 - a dice is rolled of 0 to 200 to determine if a spell lands, and returns partial landings as well. The enemy's natural resists, and factors noted below, among some other edge cases are used
 

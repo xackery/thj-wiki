@@ -6,6 +6,8 @@ weight: 1
 
 ![Stats](/images/stats.webp)
 
+- All stats, with every AA related obtained (planar power etc), gets you to 380 stat cap. (Heroic goes over, if you subtract the +# from the base value, if it's less than 380, normal stats improve you)
+
 # STR
 
 - 3 STR increases **offense** by 1
