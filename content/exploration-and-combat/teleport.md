@@ -311,7 +311,7 @@ orc fort, at crystal caverns entrance.
     {{</expand>}}
 
 {{<expand "Wakening Land (wakening)" "..." >}}
- near the druid ring.
+ Near entrance to Skyshrine.
 {{</expand>}}
 {{<expand "The Western Wastes (Temple of Veeshan) (westwastes)" "..." >}}
 Near Temple of Veeshan zone in
