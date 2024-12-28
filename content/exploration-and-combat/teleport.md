@@ -304,7 +304,7 @@ At the wizard teleport destination
  wizard / druid port in.
  {{</expand>}}
 {{<expand "Eastern Wastes (eastwastes)" "..." >}}
-orc fort.
+orc fort, at crystal caverns entrance.
 {{</expand>}}
 {{<expand "Great Divide (Velketor's Labrynth) (greatdivide) " "..." >}}
     near the Velketor's Labrynth zone in.
