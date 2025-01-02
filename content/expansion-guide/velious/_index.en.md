@@ -43,10 +43,7 @@ In order to access Velious content, you must finish the [progression requirement
 - [Klandicar](https://wiki.project1999.com/Klandicar)
 - [Zlandicar](https://wiki.project1999.com/Zlandicar)
 - [Kelorak`Dar](https://wiki.project1999.com/Kelorek%60Dar)
-#### And One of the Following
-- [Lord Yelniak](https://wiki.project1999.com/Lord_Yelinak)
-- [Dain Frostreaver IV](https://wiki.project1999.com/Dain_Frostreaver_IV)
-- [King Tormax](https://wiki.project1999.com/King_Tormax)
+- [Dozekar the Cursed](https://wiki.project1999.com/Dozekar_the_Cursed)
 ## Raid bosses
 
 ### Western Wastes

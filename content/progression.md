@@ -79,10 +79,8 @@ Hidden in the depths of Old Sebilis behind an army of Sebilite protectors.
 - Klandicar is another one of the few remaining first brood, he resides in the western wastes and serves as the sentinel keeping his banished cousin contained.
 ## [Kelorak`Dar](https://wiki.project1999.com/Kelorek%60Dar)
 - Located in Cobalt Scar.
-### And one of the following
-- [Lord Yelniak](https://wiki.project1999.com/Lord_Yelinak)
-- [Dain Frostreaver IV](https://wiki.project1999.com/Dain_Frostreaver_IV)
-- [King Tormax](https://wiki.project1999.com/King_Tormax)
+## [Dozekar the Cursed](https://wiki.project1999.com/Dozekar_the_Cursed)
+- Located in Temple of Veeshan
 
 {{</expand>}}
 
