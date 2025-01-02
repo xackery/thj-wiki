@@ -47,9 +47,9 @@ bookHidden: true
 
 ### Fist of Water
 
-1. OPTIONAL Find dark elf named Deep in underwater caverns of Lake Rathetear and turn in the Head. She will give it back then despawn.
+1. Find dark elf named Deep in underwater caverns of Lake Rathetear and turn in the Head. She will give it back then despawn.
 1. Go to Overthere and locate a monk named Astral Projection (Overthere). Hand him Trunt's Head and receive Eye of Kaiaren.
-1. In Lake of Ill Omen (It's not on the platform, but on the shore, loc neg 1900 neg 950), give an Astral Projection (LOIO) the Eye of Kaiaren to spawn Vorash and Deep. Once Vorash dies, Xenevorash will spawn. Kill Xenevorash and loot Demon Fangs.
+1. On a platfrom in Lake of Ill Omen give an Astral Projection (LOIO) the Eye of Kaiaren to spawn Vorash and Deep. Once Vorash dies, Xenevorash will spawn. Kill Xenevorash and loot Demon Fangs.
 
 ### Final Turn-in
 
