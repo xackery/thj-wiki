@@ -8,12 +8,12 @@ weight: 0
 > [!question]
 > Can I reroll my classes if I dont like them?
 
-Yes! For 10 Echos of Memory this service is available in the bazaar
+Yes! For Echoes of Memory this service is available with a 7-day lockout, talk to the Vision of Ayonae in the Bazaar for more information.
 
 > [!question]
 > Some of my skills arent trainable, but still show up in the GM list with no level restriction?
 
-All skills get automatically trained when you learn them, so no need to use a trainer, except for tradeskills, and you'll notice in the cases above it's a visual bug and can be safely ignored
+All skills get automatically trained when you learn them, so no need to use a trainer, except for tradeskills, and you'll notice in the cases above it's a visual bug and can be safely ignored.
 
 
 > [!question]
