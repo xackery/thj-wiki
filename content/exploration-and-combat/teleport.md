@@ -37,7 +37,7 @@ At tunnel
 {{</expand>}}
 
 {{<expand "The Feerrott (feerrott)" "..." >}}
- In the secret tunnel north, right by permafrost zone in
+ Near druid rings.
 
 ![feerrott](/images/teleport/feerrott.png)
  {{</expand>}}
