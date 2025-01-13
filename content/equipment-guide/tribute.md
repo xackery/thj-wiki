@@ -1,12 +1,12 @@
 ---
 title: Tribute
 alias: [/tribute]
-images: [/images/tribute.webp]
+images: [/images/tribute.png]
 description: Tribute guide
 ---
 
 
-![Symp-Items](/images/tribute.webp)
+![Tribute](/images/tribute.png)
 
 Tribute is a system you can access in game via the `ALT+U` hotkey.
 
