@@ -36,7 +36,7 @@ Name|Effect
 {{<item id="56318" name="Expeditious Aid">}}|Enhancement Haste IV
 {{<item id="56489" name="Eyes of the Hunter">}}|Accuracy I
 {{<item id="56487" name="Fury of Combat">}}|Flurry II (+4% Flurry Chance - This is odd, if you have triple attack gives a chance to attack twice more)
-{{<item id="56487" name="Gift of the Enchanter">}}|Faerune (See Invisible)
+{{<item id="56487" name="Gift of the Enchanter">}}|Faerune (See Invisible, Water Breathing)
 {{<item id="56487" name="Gills of the Bass">}}|Enduring Breath
 {{<item id="56487" name="Glowing Beauty">}}|12 CHA Increase
 {{<item id="56318" name="Harmony of Drums">}}|Percussion Instruments 16 (Epic is 36, making this tribute useless if equipped)
