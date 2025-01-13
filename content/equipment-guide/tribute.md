@@ -10,11 +10,11 @@ description: Tribute guide
 
 Tribute is a system you can access in game via the `ALT+U` hotkey.
 
-These are focus effects that use a currency called tribute. Tribute Merchants can be found in bazaar, east commonlands, and various other towns that let you donate items for a favor value.
+These are focus effects that use a currency called favor. You gain favor by donating items to Tribute Merchants. They can be found in bazaar, east commonlands, and various towns.
 
-Every 10 minutes while tribute is active, the favor will be subtracted from your current favor total. You can activate and deactivate tribute via ALT+U's window.
+Every 10 minutes while tribute is active, the Active Cost of favor will be subtracted from your current favor. You can activate and deactivate tribute via ALT+U's window, but are penalized by 10 minute durations.
 
-Note that tributes are really just items being equipped, so they don't "stack" in any different way to normal items. So, HP tribute effects will stack, but focus effects, instrument masteries, haste, etc will not stack, only take best of your tribute or equipped items with an effect.
+Note that tributes are really just items being equipped into invisible slots, so they don't "stack" in any different way to normal items. So, HP tribute effects will stack, but focus effects, instrument masteries, haste, etc will not stack, only take best of your tribute or equipped items with an effect.
 
 Name|Effect
 ---|---
