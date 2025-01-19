@@ -75,7 +75,7 @@ Go back to Lake Rathetear. Give Prepared Reagent Box to Kazen Fecae to receive T
  
 # Step 14
 
-Go to Plane of Sky again. On the first island you will find a thunder spirit princess. Give her 1 platinum. Doing so will spawn Gkzzallk on Island 3. Go up to him. He is inside the hut in the middle of the island. Other mobs should not aggro as long as you’re inside. Give Gkzzallk Tome of Instruction to receive Gkzzallk in a Box.
+Go to Plane of Sky again. On the first island you will find a thunder spirit princess. Give her 10 gold. Doing so will spawn Gkzzallk on Island 3. Go up to him. He is inside the hut in the middle of the island. Other mobs should not aggro as long as you’re inside. Give Gkzzallk Tome of Instruction to receive Gkzzallk in a Box.
 
 Final Turn In
 
