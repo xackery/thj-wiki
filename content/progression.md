@@ -86,7 +86,10 @@ Hidden in the depths of Old Sebilis behind an army of Sebilite protectors.
 
 {{<expand "Explorer" "..." >}}
 ## Gather the following items and hand them to the NPC located in the Bazaar:
-- TBD
+- Stronghorn's Horn (Legendary)
+- Shackle of Auctoririas (Legendary)
+- Sword of Pain (Legendary)
+- Siren Hair Earring (Legendary)
 
 {{</expand>}}
 

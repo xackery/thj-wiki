@@ -10,7 +10,7 @@ Velious introduces the second expansion ever released to EverQuest. In The Heroe
 In order to access Velious content, you must finish the [progression requirements](/progression/)
 
 - No new AAs are introduced in Velious
-- Sleeper's Key is required in order to access Sleeper's Tomb via the quest given by Jaled Dar`s Shade. Check the [progression page](/progression/) for more information.
+- Sleeper's Key is required in order to access Sleeper's Tomb via the quest given by Jaled Dar`s Shade.
 - Plane of Mischief is closer to the 2.0 version where Bristlebane and other creatures are a significant threat and drop noteworthy loot
 # How do I get there
  - [P99 Velious Guide](https://wiki.project1999.com/The_Missing_Velious_Guide)
