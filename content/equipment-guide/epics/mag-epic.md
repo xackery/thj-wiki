@@ -57,10 +57,10 @@ bookHidden: true
 
 ### Element of Wind
 
-1. Kill mobs on the 7th island on the Plane of Air. Loot the Crown of Elemental Mastery.
+1. Kill mobs on the 7th island on the Plane of Sky. Loot the Crown of Elemental Mastery.
 1. Kill mobs in the Hole. Loot the Elemental Binder.
 1. Kill Quillmane in South Karana. Loot the Pegasus Feather Cloak.
-1. Give these items to Kihun Solstin in the Plane of Air and receive the Element of Wind.
+1. Give these items to Kihun Solstin in the Plane of Sky and receive the Element of Wind.
 
 ### Spell Summon Orb
 
