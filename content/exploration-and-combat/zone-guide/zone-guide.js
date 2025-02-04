@@ -264,6 +264,11 @@ w.addZone("nurga", "Mines of Nurga"); // Kunark
 w.addZone("veeshan", "Veeshan's Peak"); // Kunark
 w.addZone("veksar", "Veksar"); // Kunark
 w.addZone("chardokb", "The Halls of Betrayal"); // Kunark
+w.addZone("gunthak", "Gulf of Gunthak"); // LoY
+w.addZone("dulak", "Dulak's Harbor"); // LoY
+w.addZone("torgiran", "Torgiran Mines"); // LoY
+w.addZone("nadox", "Crypt of Nadox"); // LoY
+w.addZone("hatesfury", "Hate's Fury, The Scorned Maiden"); // LoY
 w.addZone("iceclad", "Iceclad Ocean"); // Scars of Velious
 w.addZone("frozenshadow", "Tower of Frozen Shadow"); // Scars of Velious
 w.addZone("velketor", "Velketor's Labyrinth"); // Scars of Velious
