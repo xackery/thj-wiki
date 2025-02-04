@@ -13,6 +13,7 @@ weight: 0
 - [Discord](https://discord.gg/heroesjourney)
 - [Getting Started](/getting-started/)
 - Echoes of Memory - Coming Soon
-- Allaclone - Coming Soon
+- [Official THJ Database Interface (items, spells, and AAs)](https://info.heroesjourneyemu.com/)
+- [Fan-made THJ Database Interface (items, npcs, spells, and AAs)](https://www.thjdi.cc/)
 - [Progression Guide](/progression/progression.md)
 - [Epic Quests](/equipment-guide/epics)
