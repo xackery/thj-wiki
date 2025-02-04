@@ -3,10 +3,9 @@ title: ZEM
 weight: 5
 chapter: true
 description: ZEM items
-images: [images/ZEM.png]
 ---
 
-![ZEM](images/ZEM.png)
+![ZEM](/images/zem-banner.png)
 
 This page was last updated on 2024-12-22.
 
@@ -267,6 +266,6 @@ tipt | 2.0 | Tipt, Treacherous Crags
 txevu | 2.0 | Txevu, Lair of the Elite
 uqua | 2.0 | Uqua, the Ocean God Chantry
 vxed | 2.0 | Vxed, the Crumbling Caverns
-yxtta | 2.0 | Yxtta, Pulpit of Exiles 
+yxtta | 2.0 | Yxtta, Pulpit of Exiles
 
 
