@@ -6,7 +6,7 @@ bookCollapseSection: false
 
 **Welcome to the Heroes' Journey!**
 
-[![Main Site](https://heroesjourneyemu.com/)](/images/logo.webp)
+[![Main Site](/images/logo2small.webp)](https://heroesjourneyemu.com/)
 
 ##  GETTING STARTED / FIRST STEPS
 
