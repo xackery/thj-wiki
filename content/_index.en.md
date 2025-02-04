@@ -15,5 +15,5 @@ weight: 0
 - Echoes of Memory - Coming Soon
 - [Official THJ Database Interface (items, spells, and AAs)](https://info.heroesjourneyemu.com/)
 - [Fan-made THJ Database Interface (items, npcs, spells, and AAs)](https://www.thjdi.cc/)
-- [Progression Guide](/progression/progression.md)
+- [Progression Guide](/progression/)
 - [Epic Quests](/equipment-guide/epics)
