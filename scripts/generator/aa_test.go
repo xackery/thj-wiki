@@ -12,6 +12,7 @@ import (
 
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/jmoiron/sqlx"
+	"github.com/xackery/thj-wiki/scripts/database/dbspell"
 	"github.com/xackery/thj-wiki/scripts/dbstr"
 	"github.com/xackery/thj-wiki/scripts/spdat"
 )
@@ -70,6 +71,11 @@ func runAA() error {
 		return fmt.Errorf("sql.Open: %w", err)
 	}
 
+	err = dbspell.Load(db)
+	if err != nil {
+		return fmt.Errorf("dbspell.Load: %w", err)
+	}
+
 	w, err = os.Create("../../content/classes-and-abilities/aa/_index.en.md")
 	if err != nil {
 		return fmt.Errorf("os.Create: %w", err)
@@ -82,6 +88,7 @@ weight: 5
 chapter: true
 description: AA Breakdown
 images: [images/aa.png]
+aliases: [/aa]
 ---
 
 ![AAs](images/aa.png)
@@ -114,7 +121,8 @@ Select which classes to include on AA list
         <label><input type="checkbox" value="WAR" class="filter-checkbox"> WAR</label>
 		<label><input type="checkbox" value="WIZ" class="filter-checkbox"> WIZ</label>
     </div>
-{{</rawhtml>}}`, time.Now().Format("2006-01-02")))
+{{</rawhtml>}}
+`, time.Now().Format("2006-01-02")))
 
 	abilities, err := abilitiesByName(db, "all")
 	if err != nil {
@@ -233,11 +241,11 @@ func dumpRankData(ability *ability, abilityID int, db *sqlx.DB) error {
 		//		return fmt.Errorf("no title for ability %d %s", ability.FirstRankID, ability.Name)
 	}
 
-	if totalCost == 0 {
+	/* if totalCost == 0 {
 		return nil
 	}
-
-	printWriterf("{{<details title=\"%s (%s)\">}}\n", strings.TrimSpace(title), classes)
+	*/
+	printWriterf(`{{<details title="%s (%s)">}}%s`, strings.TrimSpace(title), classes, "\n")
 	printWriterf("%s\n\n", description)
 	printWriterf("Ability ID: %d has %d ranks and costs %d total", abilityID, len(ranks), totalCost)
 	if minRecastTime > 0 || maxRecastTime > 0 {
@@ -271,7 +279,7 @@ func dumpRankData(ability *ability, abilityID int, db *sqlx.DB) error {
 			printWriterf(" %s", spdat.EffectName(effect.EffectID))
 			if effect.Base1 != 0 {
 				if effect.EffectID == 85 {
-					printWriterf(" [Spell %d](https://retributioneq.com/allaclone/?a=spell&id=%d)", effect.Base1, effect.Base1)
+					printWriterf(" [Spell %d](https://www.thjdi.cc/spell/%d)", effect.Base1, effect.Base1)
 				} else {
 					printWriterf(" %d", effect.Base1)
 				}
@@ -303,11 +311,18 @@ func dumpRankData(ability *ability, abilityID int, db *sqlx.DB) error {
 		for j, effect := range effects[i] {
 			baseDelta := effect.Base1 - lastBase
 			baseDelta2 := effect.Base2 - lastBase2
+
 			printWriterf("\n    - Effect %d: %s", j+1, spdat.EffectName(effect.EffectID))
 
 			if effect.Base1 != 0 {
 				if effect.EffectID == 85 {
-					printWriterf(" [Spell %d](https://retributioneq.com/allaclone/?a=spell&id=%d)", effect.Base1, effect.Base1)
+					printWriterf(" [Spell %d](https://www.thjdi.cc/spell/%d)\n", effect.Base1, effect.Base1)
+					spell, ok := dbspell.SpellByID(int32(effect.Base1))
+					if !ok {
+						return fmt.Errorf("dbspell.SpellByID %d not found", effect.Base1)
+					}
+					printWriterf("      - %s\n", spell.Name.String)
+					printWriterf(spdat.SpDatInfo(spell, 8))
 				} else {
 					printWriterf(" %d", effect.Base1)
 				}
