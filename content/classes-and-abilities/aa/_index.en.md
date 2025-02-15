@@ -7,7 +7,7 @@ images: [images/aa.png]
 aliases: [/aa]
 ---
 
-![AAs](images/aa.png)
+![AAs](/images/classes.webp)
 
 This page was last updated on 2025-02-07.
 
@@ -3059,7 +3059,7 @@ Ability ID: 462 has 6 ranks and costs 25 total with a recast time of 900 seconds
 {{</details>}}
 {{<details title="Azure Mind Crystal (ENC)">}}
 (ENC)
-Through this ability, an enchanter learns to channel and congeal his mana into sapphire crystals. These crystals can later be harvested to recover lost mana. 
+Through this ability, an enchanter learns to channel and congeal his mana into sapphire crystals. These crystals can later be harvested to recover lost mana.
 
 Ability ID: 633 has 1 ranks and costs 7 total with a recast time of 300 seconds
 - Rank 1 (ID 4935) costs 7 AAs with effect:
@@ -3844,7 +3844,7 @@ Ability ID: 531 has 1 ranks and costs 12 total with a recast time of 7 seconds
 {{</details>}}
 {{<details title="Coat of Thistles (RNG)">}}
 (RNG)
-This ability intensifies the overall effect of damage shields that are cast on you. Additional ranks increase the effectiveness of this ability. 
+This ability intensifies the overall effect of damage shields that are cast on you. Additional ranks increase the effectiveness of this ability.
 
 Ability ID: 288 has 5 ranks and costs 25 total
 - Rank 1 (ID 867) costs 5 AAs with effect: DamageShield -3
@@ -4098,7 +4098,7 @@ Ability ID: 505 has 1 ranks and costs 12 total with a recast time of 1800 second
 While active, the wizard focuses his mastery over ice to cause any ice-based direct damage spell they cast to have a chance to cause the targeted creature to enter a cryogenic stasis, slowing their movement rate and becoming more susceptible to ice-based attacks. Additionally a small amount of damage is done to the creature and additional ranks increase this damage. Ranks 1 through 3 work on spells between level 1 and 75, Ranks 4 through 6 work on spells between level 1 and 80 and Ranks 7 through 12 work on spells between level 1 and 85. Ranks 13 through 15 work on spells between level 1 and 90. Ranks 16, 17, and 18 work on spells up to level 91, 93 and 95 respectively. Ranks 18, 19, and 20 work on levels 96, 98, and 100 respectively while increasing the proc chance as well as the damage inflicted.
 
 Ability ID: 640 has 3 ranks and costs 18 total with a recast time of 1 seconds
-- Rank 1 (ID 4944) costs 3 AAs with effect:- Description: While active, the wizard focuses his mastery over ice to cause any ice-based direct damage spell they cast to have a chance to cause the targeted creature to enter a cryogenic stasis, slowing their movement rate and becoming more susceptible to ice-based 
+- Rank 1 (ID 4944) costs 3 AAs with effect:- Description: While active, the wizard focuses his mastery over ice to cause any ice-based direct damage spell they cast to have a chance to cause the targeted creature to enter a cryogenic stasis, slowing their movement rate and becoming more susceptible to ice-based
 
 - Effect 2: LimitSpellType
 - Effect 3: LimitResist base 3
@@ -4106,7 +4106,7 @@ Ability ID: 640 has 3 ranks and costs 18 total with a recast time of 1 seconds
 - Effect 7: LimitManaMin base 10
 - Effect 8: LimitTarget base -6
 - Effect 9: TriggerOnCast base 5 limit 11107
-- Rank 2 (ID 4945) costs 6 AAs with effect:- Description: While active, the wizard focuses his mastery over ice to cause any ice-based direct damage spell they cast to have a chance to cause the targeted creature to enter a cryogenic stasis, slowing their movement rate and becoming more susceptible to ice-based 
+- Rank 2 (ID 4945) costs 6 AAs with effect:- Description: While active, the wizard focuses his mastery over ice to cause any ice-based direct damage spell they cast to have a chance to cause the targeted creature to enter a cryogenic stasis, slowing their movement rate and becoming more susceptible to ice-based
 
 - Effect 2: LimitSpellType
 - Effect 3: LimitResist base 3
@@ -4114,7 +4114,7 @@ Ability ID: 640 has 3 ranks and costs 18 total with a recast time of 1 seconds
 - Effect 7: LimitManaMin base 10
 - Effect 8: LimitTarget base -6
 - Effect 9: TriggerOnCast base 10 limit 12817
-- Rank 3 (ID 4946) costs 9 AAs with effect:- Description: While active, the wizard focuses his mastery over ice to cause any ice-based direct damage spell they cast to have a chance to cause the targeted creature to enter a cryogenic stasis, slowing their movement rate and becoming more susceptible to ice-based 
+- Rank 3 (ID 4946) costs 9 AAs with effect:- Description: While active, the wizard focuses his mastery over ice to cause any ice-based direct damage spell they cast to have a chance to cause the targeted creature to enter a cryogenic stasis, slowing their movement rate and becoming more susceptible to ice-based
 
 - Effect 2: LimitSpellType
 - Effect 3: LimitResist base 3
@@ -4365,7 +4365,7 @@ Ability ID: 317 has 1 ranks and costs 9 total with a recast time of 900 seconds
 {{</details>}}
 {{<details title="Dirty Fighting (ROG)">}}
 (ROG)
-While this ability is active, you periodically attempt to throw dirt into your opponent's eyes. If successful, your opponent will be temporarily blinded and will be less able to make accurate attacks. Each rank in this ability increases the chance that you will be able to find an opening to throw dirt in your opponent's eyes. 
+While this ability is active, you periodically attempt to throw dirt into your opponent's eyes. If successful, your opponent will be temporarily blinded and will be less able to make accurate attacks. Each rank in this ability increases the chance that you will be able to find an opening to throw dirt in your opponent's eyes.
 
 Ability ID: 671 has 3 ranks and costs 18 total with a recast time of 600 seconds
 - Rank 1 (ID 5022) costs 3 AAs with effect:- Lasts 60s
@@ -4811,7 +4811,7 @@ Ability ID: 173 has 8 ranks and costs 34 total with a recast time of 600 seconds
 {{</details>}}
 {{<details title="Elemental Agility (MAG)">}}
 (MAG)
-This ability increases your elemental's ability to avoid melee damage. 
+This ability increases your elemental's ability to avoid melee damage.
 
 Ability ID: 268 has 3 ranks and costs 18 total
 - Rank 1 (ID 800) costs 3 AAs with effect: PetAvoidance 2 (0.67 ratio)
@@ -6721,7 +6721,7 @@ This ability allows you to absorb the pure essence of elemental ice into your so
 
 Ability ID: 623 has 1 ranks and costs 9 total with a recast time of 900 seconds
 - Rank 1 (ID 4909) costs 9 AAs with effect:- Lasts 120s
-- Description: This ability allows you to absorb the pure essence of elemental ice into your soul.  While this ability is active, you will take less damage from spells.  This ability lasts slightly longer than Heart of Ice (assuming it is not stripped by excess damage) 
+- Description: This ability allows you to absorb the pure essence of elemental ice into your soul.  While this ability is active, you will take less damage from spells.  This ability lasts slightly longer than Heart of Ice (assuming it is not stripped by excess damage)
 
 - Effect 2: MitigateSpellDamage base 50 max 7000
 {{</details>}}
@@ -6911,7 +6911,7 @@ Ability ID: 90 has 4 ranks and costs 27 total
 {{</details>}}
 {{<details title="Intense Hatred (SHD)">}}
 (SHD)
-This ability intensifies the overall effect of damage shields that are cast on you. Additional ranks increase the effectiveness of this ability. 
+This ability intensifies the overall effect of damage shields that are cast on you. Additional ranks increase the effectiveness of this ability.
 
 Ability ID: 296 has 5 ranks and costs 25 total
 - Rank 1 (ID 895) costs 5 AAs with effect: DamageShield -3
@@ -7955,23 +7955,23 @@ Ability ID: 452 has 3 ranks and costs 15 total with a recast time of 1800 second
 {{</details>}}
 {{<details title="Protection of the Spirit Wolf (RNG)">}}
 (RNG)
-When activated, Protection of the Spirit Wolf summons a spirit wolf which will protect you from danger. Each rank in this ability increases the amount of damage that can be averted by the spirit wolf. 
+When activated, Protection of the Spirit Wolf summons a spirit wolf which will protect you from danger. Each rank in this ability increases the amount of damage that can be averted by the spirit wolf.
 
 Ability ID: 778 has 3 ranks and costs 18 total with a recast time of 900 seconds
 - Rank 1 (ID 5007) costs 3 AAs with effect:- Lasts 60s
-- Description: When activated, Protection of the Spirit Wolf summons a spirit wolf which will protect you from danger. Each rank in this ability increases the amount of damage that can be averted by the spirit wolf. 
+- Description: When activated, Protection of the Spirit Wolf summons a spirit wolf which will protect you from danger. Each rank in this ability increases the amount of damage that can be averted by the spirit wolf.
 
 - Effect 2: MitigateMeleeDamage base 25 max 2000
 - Effect 3: MitigateSpellDamage base 25 max 2000
 - Effect 4: ResistMagic base 20
 - Rank 2 (ID 5008) costs 6 AAs with effect:- Lasts 60s
-- Description: When activated, Protection of the Spirit Wolf summons a spirit wolf which will protect you from danger. Each rank in this ability increases the amount of damage that can be averted by the spirit wolf. 
+- Description: When activated, Protection of the Spirit Wolf summons a spirit wolf which will protect you from danger. Each rank in this ability increases the amount of damage that can be averted by the spirit wolf.
 
 - Effect 2: MitigateMeleeDamage base 27 max 4000
 - Effect 3: MitigateSpellDamage base 27 max 4000
 - Effect 4: ResistMagic base 40
 - Rank 3 (ID 5009) costs 9 AAs with effect:- Lasts 60s
-- Description: When activated, Protection of the Spirit Wolf summons a spirit wolf which will protect you from danger. Each rank in this ability increases the amount of damage that can be averted by the spirit wolf. 
+- Description: When activated, Protection of the Spirit Wolf summons a spirit wolf which will protect you from danger. Each rank in this ability increases the amount of damage that can be averted by the spirit wolf.
 
 - Effect 2: MitigateMeleeDamage base 29 max 6000
 - Effect 3: MitigateSpellDamage base 29 max 6000
@@ -8514,7 +8514,7 @@ Ability ID: 396 has 1 ranks and costs 12 total with a recast time of 4320 second
 {{</details>}}
 {{<details title="Sanguine Mind Crystal (ENC)">}}
 (ENC)
-Through this ability, an enchanter learns to channel and congeal his mana into ruby crystals. These crystals can later be harvested to heal the enchanter's wounds. 
+Through this ability, an enchanter learns to channel and congeal his mana into ruby crystals. These crystals can later be harvested to heal the enchanter's wounds.
 
 Ability ID: 632 has 1 ranks and costs 7 total with a recast time of 300 seconds
 - Rank 1 (ID 4934) costs 7 AAs with effect:
@@ -8593,7 +8593,7 @@ Ability ID: 405 has 1 ranks and costs 7 total with a recast time of 600 seconds
 {{</details>}}
 {{<details title="Seized Opportunity (ROG)">}}
 (ROG)
-Through experience, skilled rogues can take advantage of openings in their opponents' defenses to land deadly strikes even from the front. 
+Through experience, skilled rogues can take advantage of openings in their opponents' defenses to land deadly strikes even from the front.
 
 Ability ID: 790 has 9 ranks and costs 57 total
 - Rank 1 (ID 878) costs 0 AAs with effect: FrontalBackstabChance 100 (+Inf ratio)
@@ -8803,7 +8803,7 @@ Ability ID: 118 has 4 ranks and costs 27 total
 {{</details>}}
 {{<details title="Sinister Strikes (WAR RNG MNK BRD ROG BST)">}}
 (WAR RNG MNK BRD ROG BST)
-This ability increases the damage you cause when attacking with a weapon in your secondary hand. 
+This ability increases the damage you cause when attacking with a weapon in your secondary hand.
 
 Ability ID: 270 has 1 ranks and costs 12 total
 - Rank 1 (ID 806) costs 12 AAs with effect: SecondaryDmgInc 5 (0.42 ratio)
@@ -9300,7 +9300,7 @@ Ability ID: 667 has 1 ranks and costs 3 total
 {{</details>}}
 {{<details title="Surreality (ENC)">}}
 (ENC)
-Surreality decreases the reuse timer of Mind Over Matter by 2 minutes per rank. 
+Surreality decreases the reuse timer of Mind Over Matter by 2 minutes per rank.
 
 Ability ID: 615 has 3 ranks and costs 18 total
 - Rank 1 (ID 4887) costs 6 AAs with effect: HastenedAASkill 120 413 (20.00 ratio)
@@ -9339,11 +9339,11 @@ Ability ID: 213 has 9 ranks and costs 39 total
 {{</details>}}
 {{<details title="Taste of Blood (BST)">}}
 (BST)
-Taste of Blood gives your pet a chance to enter a blood frenzy when it gets credit for a successful kill. Blood frenzy increases your pet's damage and chance to frenzy upon a successful triple attack. 
+Taste of Blood gives your pet a chance to enter a blood frenzy when it gets credit for a successful kill. Blood frenzy increases your pet's damage and chance to frenzy upon a successful triple attack.
 
 Ability ID: 666 has 1 ranks and costs 5 total with a recast time of 900 seconds
 - Rank 1 (ID 5015) costs 5 AAs with effect:- Lasts 720s
-- Description: Taste of Blood gives your pet a chance to enter a blood frenzy when it gets credit for a successful kill. Blood frenzy increases your pet's damage and chance to frenzy upon a successful triple attack. 
+- Description: Taste of Blood gives your pet a chance to enter a blood frenzy when it gets credit for a successful kill. Blood frenzy increases your pet's damage and chance to frenzy upon a successful triple attack.
 
 - Effect 1: ProcOnKillShot base 75 limit 11339
 {{</details>}}
@@ -9437,7 +9437,7 @@ Ability ID: 372 has 3 ranks and costs 18 total with a recast time of 900 to 1500
 {{</details>}}
 {{<details title="Total Domination (ENC)">}}
 (ENC)
-This ability adds strength to your charm spells.  Victims of your charm spells are less likely to break out of their charms early.  
+This ability adds strength to your charm spells.  Victims of your charm spells are less likely to break out of their charms early.
 
 Ability ID: 221 has 3 ranks and costs 12 total
 - Rank 1 (ID 649) costs 2 AAs with effect: CharmBreakChance 15 (7.50 ratio)
