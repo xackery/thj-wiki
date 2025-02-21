@@ -6,7 +6,7 @@ weight: 1
 
 # Assumptions and Information
 
-This guide is written from the perspective of a new user on a fresh-ish installation of [Pop!_OS](https://pop.system76.com/), and will use [Lutris](https://www.lutris.net/) to manage the game. Your mileage may vary based on other distros and system environments.
+*This guide is written from the perspective of a new user on a fresh-ish installation of [Pop!_OS](https://pop.system76.com/), and will use [Lutris](https://www.lutris.net/) to manage the game. Your mileage may vary based on other distros and system environments.*
 
 # Obtain the client files
 
@@ -16,8 +16,10 @@ This guide is written from the perspective of a new user on a fresh-ish installa
 
 2. Enter `download_depot 205710 205711 1926608638440811669` into the console. The expected output is:
 
-    * ```] download_depot 205710 205711 1926608638440811669
-    Downloading depot 205711 (8204 MB) ...```
+    ```
+    ] download_depot 205710 205711 1926608638440811669
+    Downloading depot 205711 (8204 MB) ...
+    ```
 
 3. This download may take a significant period of time and will not report any progress. Downloaded files can be found at `~/.steam/debian-installation/ubuntu12_32/steamapps/content/app_205710/depot_205711`, or located with `find ~/ -type d -name "depot_205711"`
 
