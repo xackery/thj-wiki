@@ -16,26 +16,25 @@ bookHidden: true
 - Step 10B – Loot Decrepit Hide from an ashenbone drake in PoHate
 
 # Step 1
-Step 1 can take a long time as the drops are rare.
-
 You’ll first need to quest for 3 pieces of Darkforge Armor: Darkforge Helm, Darkforge Greaves, and Darkforge Breastplate. Each item requires multiple drops. Once you have the necessary drops, you’ll turn them into an undead knight NPC in Temple of Solusek Ro to receive the Armor. There are 2 an undead knight NPC’s in the same room, so make sure to hand in your items to the correct one (outlined below).
+Each of the Decayed items below drop in the Temple of Cazic Thule off most any lizardman.  You should be able to get them all quickly.
 
-The resulting Darkforge Armor items are tradable so you can potentially buy them from someone else. The drops are pretty rare though, so expect that you’ll have to do it yourself in most cases.
+The resulting Darkforge Armor items are tradable so you can potentially buy them from someone else.
 - Darkforge Helm
-  - 1x Decayed Helm – a Tae Ew crusader and a Tae Ew Spiritualist in Feerrott, Rare Spawn and Drop
-  - 1x Decayed Visor – a Tae Ew crusader and a Tae Ew Spiritualist in Feerrott, Rare Spawn and Drop
+  - 1x Decayed Helm
+  - 1x Decayed Visor
   - 2x Damaged Militia Helm – Drops from Guards in Freeport, Common Drop
   – Turn into an undead knight in Temple of Solusek Ro (North skeleton)
 
 - Darkforge Greaves
-  - 1x Decayed Left Legplate – a Tae Ew crusader and a Tae Ew Spiritualist in Feerrott, Rare Spawn and Drop
-  - 1x Decayed Right Legplate – a Tae Ew crusader and a Tae Ew Spiritualist in Feerrott, Rare Spawn and Drop
-  - 2x Melatite – Drops from “CWG” gnomes in SolA, Uncommon Drop
+  - 1x Decayed Left Legplate
+  - 1x Decayed Right Legplate
+  - 2x Melatite – Drops from certain “CWG” gnomes in SolA, Uncommon Drop
   – Turn into an undead knight in Temple of Solusek Ro (South skeleton)
 
 - Darkforge Breastplate
-  - 1x Decayed Breastplate – a Tae Ew crusader and a Tae Ew Spiritualist in Feerrott, Rare Spawn and Drop
-  - 1x Decayed Chainmail – a Tae Ew crusader and a Tae Ew Spiritualist in Feerrott, Rare Spawn and Drop
+  - 1x Decayed Breastplate
+  - 1x Decayed Chainmail
   - 2x Enchanted Platinum Bar – Created by Enchanters
   – Turn into an undead knight in Temple of Solusek Ro (North skeleton)
 
