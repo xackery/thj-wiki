@@ -21,7 +21,10 @@ weight: 1
     Downloading depot 205711 (8204 MB) ...
     ```
 
-3. This download may take a significant period of time and will not report any progress. Downloaded files can be found at `~/.steam/debian-installation/ubuntu12_32/steamapps/content/app_205710/depot_205711`, or located with `find ~/ -type d -name "depot_205711"`
+3. This download may take a significant period of time and will not report any progress.
+    * Downloaded files can be found at `~/.steam/debian-installation/ubuntu12_32/steamapps/content/app_205710/depot_205711`
+    * If you are running some configuration other than the supported one, try locating these files with `find ~/ -type d -name "depot_205711"`
+    * You can check download progress with `ls -lhat ~/.steam/debian-installation/ubuntu12_32/steamapps/content/app_205710/depot_205711 | grep total`; this will show the total size of the downloads. This can also be used to check to see if the download was completed successfully.
 
 ⚠ **Important**: *Do not start any other downloads or games through Steam while this is in progress, or it will be aborted silently.*
 
