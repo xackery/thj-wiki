@@ -1,5 +1,5 @@
 ---
-title: "Linux Installtion Guide"
+title: "Linux Installation Guide"
 summary: "Complete Client Installation for Linux"
 weight: 1
 ---
@@ -35,6 +35,7 @@ There should be no errors during that last command.
 2. Now install WINE.
 ```
 sudo apt install --install-recommends winehq-stable dxvk winetricks
+```
 ```
 wine --version
 ```
