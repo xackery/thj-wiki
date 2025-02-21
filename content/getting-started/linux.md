@@ -93,4 +93,23 @@ weight: 1
 2. Configure Lutris
     * Game Info: This is mostly cosmetic, but make sure you set the Runner to 'Wine'. (*The images can be found in /Resources/ in your game directory after you patch*)
     ![Game Info](/images/lutris1.png)
-    *
+    * Game Options: The demonstrated paths are consistent with the previous guide, but will obviously not be exactly correct for you. Adjust as needed!
+    ![Game Options](/images/lutris2.png)
+    * Runner Options:
+        * Enabled 'dgvoodoo2'
+        * Disabled 'AMD FidelityFX Super Resolution'
+        * Disabled 'Enable BattlEye Anti-Cheat`
+        * Disabled 'Enable Easy Anti-Cheat'
+        * Enable 'Mouse Warp Override'
+        * **Add dinput8 DLL Override** -> `n,b`
+    ![Runner Options](/images/lutris3.png)
+    * System Options:
+        * Enable 'Gamescope'
+            * Enable 'Relative Mouse Mode'
+            * Set 'Output Resolution' (Your Desktop Resolution),
+            * Set 'Game Resolution' (The larger this resolution, the smaller the UI will be)
+            * Set 'Window Mode' (Dealer's choice)
+        * Enable 'Resture resolution on game exit'
+        * Enable 'Restore gamma on game exist'
+        * Enable 'Use discrete graphics'
+    ![Runner Options](/images/lutris4.png)
