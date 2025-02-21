@@ -16,12 +16,10 @@ This guide is written from the perspective of a new user on a fresh-ish installa
 
 2. Enter `download_depot 205710 205711 1926608638440811669` into the console. The expected output is:
 
-```
-] download_depot 205710 205711 1926608638440811669
-Downloading depot 205711 (8204 MB) ...
-```
+    * ```] download_depot 205710 205711 1926608638440811669
+    Downloading depot 205711 (8204 MB) ...```
 
-3. This download may take a significant period of time and will not report any progress. Downloaded files can be found at `~/.steam/debian-installation/ubuntu12_32/steamapps/content/app_205710/depot_205711`, or located with `$ find ~/ -type d -name "depot_205711"`
+3. This download may take a significant period of time and will not report any progress. Downloaded files can be found at `~/.steam/debian-installation/ubuntu12_32/steamapps/content/app_205710/depot_205711`, or located with `find ~/ -type d -name "depot_205711"`
 
 ⚠ **Important**: *Do not start any other downloads or games through Steam while this is in progress, or it will be aborted silently.*
 
