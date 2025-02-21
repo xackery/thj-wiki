@@ -10,7 +10,7 @@ This guide is written from the perspective of a new user on a fresh-ish installa
 
 # Obtain the client files
 
-        *Note: It is recommended that you DO NOT use a flatpak distribution of Steam, for a variety of reasons. You should still be able to get this to work, but some details, such as paths, may vary.*
+*Note: It is recommended that you DO NOT use a flatpak distribution of Steam, for a variety of reasons. You should still be able to get this to work, but some details, such as paths, may vary.*
 
 1. Invoke the steam console with `$ steam steam://open/console`. This should open up Steam and provide a console interface.
 
@@ -23,7 +23,7 @@ Downloading depot 205711 (8204 MB) ...
 
 3. This download may take a significant period of time and will not report any progress. Downloaded files can be found at `~/.steam/debian-installation/ubuntu12_32/steamapps/content/app_205710/depot_205711`, or located with `$ find ~/ -type d -name "depot_205711"`
 
-        ⚠ **Important**: *Do not start any other downloads or games through Steam while this is in progress, or it will be aborted silently.*
+⚠ **Important**: *Do not start any other downloads or games through Steam while this is in progress, or it will be aborted silently.*
 
 4. Once the files are fully downloaded, copy them to your intended installation directory; `mkdir -p ~/Games/eqemu_thj/rof2 && cp -r ~/.steam/debian-installation/ubuntu12_32/steamapps/content/app_205710/depot_205711 ~/Games/eqemu_thj_rof2`
 
@@ -67,7 +67,7 @@ WINEPREFIX=$(pwd)/.wine winetricks -q corefonts d3dcompiler_43 d3dcompiler_47 dx
 wget https://github.com/The-Heroes-Journey-EQEMU/eqemupatcher/releases/latest/download/heroesjourneyeq.exe
 ```
 
-7. Test to make sure everything works so far; the patcher should launch and allow you to enter the game. The game should launch and run, but may have some issues still.
+7. Test to make sure everything works so far; the patcher should launch and allow you to enter the game. The game should launch and run, but may have some issues still. Notably, you will not be able to stay connected to THJ in particular.
 
 ```
 WINEPREFIX=$(pwd)/.wine wine heroesjourneyeq.exe
