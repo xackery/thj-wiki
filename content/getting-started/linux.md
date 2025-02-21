@@ -1,6 +1,7 @@
 ---
 title: "Linux Installation Guide"
 summary: "Complete Client Installation for Linux"
+images: [images/lutris1.png]
 weight: 1
 ---
 
@@ -83,3 +84,11 @@ weight: 1
     ```
     WINEPREFIX=$(pwd)/.wine wine heroesjourneyeq.exe
     ```
+
+# Configure Lutris
+
+1. Install Lutris
+    * (*Recommended*) Use the software center (Pop!_Shop for Pop!_OS) to install Lutris. **Make sure you use the .deb verison instead of the Flatpak.**
+
+2. Configure Lutris
+    * ![Game Info](images/lutris1.png)
