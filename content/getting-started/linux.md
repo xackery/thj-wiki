@@ -91,4 +91,6 @@ weight: 1
     * (*Recommended*) Use the software center (Pop!_Shop for Pop!_OS) to install Lutris. **Make sure you use the .deb verison instead of the Flatpak.**
 
 2. Configure Lutris
-    * ![Game Info](images/lutris1.png)
+    * Game Info: This is mostly cosmetic, but make sure you set the Runner to 'Wine'. (*The images can be found in /Resources/ in your game directory after you patch*)
+    ![Game Info](/images/lutris1.png)
+    *
