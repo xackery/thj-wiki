@@ -22,34 +22,39 @@ weight: 1
     ```
 
 3. This download may take a significant period of time and will not report any progress.
+    * ⚠ **Important**: *Do not start any other downloads or games through Steam while this is in progress, or it will be aborted silently.*
     * Downloaded files can be found at `~/.steam/debian-installation/ubuntu12_32/steamapps/content/app_205710/depot_205711`
     * If you are running some configuration other than the supported one, try locating these files with `find ~/ -type d -name "depot_205711"`
-    * You can check download progress with `ls -lhat ~/.steam/debian-installation/ubuntu12_32/steamapps/content/app_205710/depot_205711 | grep total`; this will show the total size of the downloads. This can also be used to check to see if the download was completed successfully.
+    * You can check download progress with `ls -lhat ~/.steam/debian-installation/ubuntu12_32/steamapps/content/app_205710/depot_205711 | grep total`; this will show the total size of the downloads. This can also be used to check to see if the download was completed successfully (I got 7.4GB when completed).
+    * TODO: Provide a directory checksum here (`tar cf - ~/.steam/debian-installation/ubuntu12_32/steamapps/content/app_205710/depot_205711 --sort=name --mtime='1970-01-01' --owner=0 --group=0 --numeric-owner | sha256sum`)
 
-⚠ **Important**: *Do not start any other downloads or games through Steam while this is in progress, or it will be aborted silently.*
-
-4. Once the files are fully downloaded, copy them to your intended installation directory; `mkdir -p ~/Games/eqemu_thj/rof2 && cp -r ~/.steam/debian-installation/ubuntu12_32/steamapps/content/app_205710/depot_205711 ~/Games/eqemu_thj_rof2`
+4. Once the files are fully downloaded, copy them to your intended installation directory.
+    * For example `mkdir -p ~/Games/eqemu_thj/rof2 && cp -r ~/.steam/debian-installation/ubuntu12_32/steamapps/content/app_205710/depot_205711 ~/Games/eqemu_thj_rof2`
 
 # Prepare your system
 
-1. We are first going to go ahead and install the latest versions of WINE. As of the time of this writing, that is version 10.0
-```
-sudo dpkg --add-architecture i386
-sudo mkdir -pm755 /etc/apt/keyrings
-sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
-sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/jammy/winehq-jammy.sources
-sudo apt update
-```
+1. The version of WINE that ships with Ubuntu & Pop!_OS is positively ancient. Let's update it.
 
-There should be no errors during that last command.
+    * Start by adding the upstream WINE ppa and updating apt.
 
-2. Now install WINE.
-```
-sudo apt install --install-recommends winehq-stable dxvk winetricks
-```
-```
-wine --version
-```
+    ```
+    sudo dpkg --add-architecture i386
+    sudo mkdir -pm755 /etc/apt/keyrings
+    sudo wget -O /etc/apt/keyrings/winehq-archive.key https://dl.winehq.org/wine-builds/winehq.key
+    sudo wget -NP /etc/apt/sources.list.d/ https://dl.winehq.org/wine-builds/ubuntu/dists/jammy/winehq-jammy.sources
+    sudo apt update
+    ```
+
+    * Install WINE
+
+    ```
+    sudo apt install --install-recommends winehq-stable dxvk winetricks
+    ```
+
+    * You should have WINE version 10
+    ```
+    wine --version
+    ```
 
 3. Gamescope (This is a secret tool that we will use later). This one sucks to get, but the best way I found was [this github repo](https://github.com/akdor1154/gamescope-pkg)
 
