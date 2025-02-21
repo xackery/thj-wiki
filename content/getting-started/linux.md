@@ -70,7 +70,9 @@ weight: 1
     ```
     * Install the winetricks verbs we need for RoF2 and the patcher
     ```
-    WINEPREFIX=$(pwd)/.wine winetricks -q corefonts d3dcompiler_43 d3dcompiler_47 dxvk vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun6 vcrun6sp6 vcrun2012 vcrun2013 vcrun2015 oleaut32 dotnet48
+    WINEPREFIX=$(pwd)/.wine winetricks -q corefonts d3dcompiler_43 d3dcompiler_47 \
+    dxvk vcrun2003 vcrun2005 vcrun2008 vcrun2010 vcrun6 vcrun6sp6 \
+    vcrun2012 vcrun2013 vcrun2015 oleaut32 dotnet48
     ```
     * *Note: At the time of this writing, winetricks has a bug which prevents correct installation of the dotnet48 verb, which breaks the patcher.*
 
