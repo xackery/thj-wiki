@@ -78,3 +78,7 @@ To use this optimally, hotkey the "Set" hotkey to 1. hotkey the "Save" to 2. The
 - `/notify BazaarWnd BZW_Money0 leftmouseup` "Set" hotkey line 2
 
 - `/notify BazaarWnd BZW_SetPrice_Button leftmouseup` "Save" hotkey
+
+## Center Map Window
+
+- `/notify mapviewwnd mvw_panresetbutton leftmouseup`
