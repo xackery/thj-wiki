@@ -1,5 +1,5 @@
 VERSION ?= 1.0.0
-NAME := shinwiki.com
+NAME := shinthj.com
 
 .PHONY: server
 server:
@@ -7,7 +7,7 @@ server:
 .PHONY: build
 build:
 	@#rm -rf public/*
-	@hugo -b https://shinwiki.com/
+	@hugo -b https://shinthj.com/
 relogin:
 	firebase logout
 	firebase login

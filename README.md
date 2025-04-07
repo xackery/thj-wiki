@@ -1,6 +1,6 @@
-# shinwiki.com
+# shinthj.com
 
-Source code to shinwiki.com
+Source code to shinthj.com
 
 Theme is based on https://github.com/64bitpandas/amethyst but heavily modified.
 

@@ -8,7 +8,7 @@ theme = "amethyst"
 [params]
 title = "THJ-Wiki"
 logo = "images/thj-weblogo.webp"
-description = "thj-wiki.web.app"
+description = "shinthj"
 enableFooter = false
 enableGitHubEdit = true
 gitHubLink = "https://github.com/xackery/thj-wiki"
