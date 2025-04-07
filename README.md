@@ -1,6 +1,6 @@
-# thj-wiki.web.app
+# shinwiki.com
 
-Source code to thj-wiki.web.app
+Source code to shinwiki.com
 
 Theme is based on https://github.com/64bitpandas/amethyst but heavily modified.
 

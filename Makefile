@@ -1,5 +1,5 @@
 VERSION ?= 1.0.0
-NAME := thj-wiki.web.app
+NAME := shinwiki.com
 
 .PHONY: server
 server:
@@ -7,7 +7,7 @@ server:
 .PHONY: build
 build:
 	@#rm -rf public/*
-	@hugo -b https://thj-wiki.web.app/
+	@hugo -b https://shinwiki.com/
 relogin:
 	firebase logout
 	firebase login
@@ -55,3 +55,5 @@ proc:
 aa:
 	go run scripts/aas/main.go "all" > content/aa/_index.en.md
 
+sql:
+	cd scripts/database && sqlc generate
