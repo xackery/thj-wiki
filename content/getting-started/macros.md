@@ -12,6 +12,7 @@ This is handy when you are going to be selling a bunch to a merchant.
 
 - `/hotbutton Sell /notify MerchantWND MW_Sell_Button leftmouseup` Press sell button
 - `/notify QuantityWnd QTYW_Accept_Button leftmouseup` Accept the max (default) quantity on stacks
+- `/notify ConfirmationDialogBox CD_Yes_Button leftmouseup` I had to add this line to have it confirm selling stacks automatically
 
 ## Auto Bank
 
