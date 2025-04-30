@@ -17,12 +17,12 @@ Start off by heading to Ocean of Tears. Find Captain Surestout on Cyclops Island
 Alternatively, you can spawn a lesser spirit by killing Peg Leg in Butcherblock Mountains, an iksar manslayer in Field of Bone, or Blinde the Cutpurse  in Rathe Mountains. The idea is to get a Tiny Gem from any of these a lesser spirits. You only need one.
 
 # Step 2
-Go to West Freeport and locate Bondl Felligan. He is behind a fake wall out in the field area. Give him Tiny Gem (100 faction increase). He will start pathing. Follow him, when he stops, say “you can buy booze“.
+Go to North Freeport and locate Bondl Felligan. He is behind a fake wall out in the field area. Give him Tiny Gem (100 faction increase). He will start pathing. Follow him, when he stops, say “you can buy booze“.
 
-He will then continue pathing to the basement of The Jade Tiger’s Den. Once he arrives, you will then see a greater spirit to his right.
+He will then continue pathing to the upstairs of The Jade Tiger’s Den. Once he arrives, you will then see a greater spirit to his right.
 
-Say”Heyokah” to a greater spirit receive Opaque Gem
-Say”Walk the path“. a greater spirit will despawn.
+Say ”Heyokah” to a greater spirit receive Opaque Gem
+Say ”I will walk the path“. a greater spirit will despawn.
 
 # Step 3
 Make sure you have Enduring Breath. This part of the epic can be slow. Head to Erud’s Crossing and find Ooglyn (-920, +1630). Give her Opaque Gem. She will instantly repop and after about 10 seconds will start moving.  Be patient and just keep following. She should swim to approx. (-1580, +4160) underwater in the western side of the zone.  Eventually, she will say “Ok, here Is place for you to for waiting. Hab fun shaman!“. At this point Ooglyn will swim off. Stay put and wait for Srafen the Soaked for spawn.
