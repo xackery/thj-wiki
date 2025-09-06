@@ -113,7 +113,10 @@ Hidden in the depths of Old Sebilis behind an army of Sebilite protectors.
 
 {{<expand "Explorer" "..." >}}
 ## Gather the following items and hand them to the NPC located in the Bazaar:
-- TBD
+- Burning Ring (Legendary)
+- Shadel Bandit Ring (Legendary)
+- Zekha's Katar (Legendary)
+- Blade of Insanity (Legendary)
 
 {{</expand>}}
 
