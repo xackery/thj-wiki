@@ -32,10 +32,10 @@ Found in Permafrost, Lady Vox is a challenging dragon fight to not only get to, 
 {{</expand>}}
 {{<expand "Explorer" "..." >}}
 ## Gather the following items and hand them to the NPC located in the Bazaar:
-- Elemental Binder (legendary)
-- Djarn's Amethyst Ring (legendary)
-- Crown of the Froglok Kings (legendary)
-- Scalp of the Ghoul Lord (legendary)
+- [Elemental Binder (legendary)](https://eqdb.net/item/detail/2028043)
+- [Djarn's Amethyst Ring (legendary)](https://eqdb.net/item/detail/2010366)
+- [Crown of the Froglok Kings (legendary)](https://eqdb.net/item/detail/2010142)
+- [Scalp of the Ghoul Lord (legendary)](https://eqdb.net/item/detail/2026997)
 {{</expand>}}
 
 <h1 style="background-color:DodgerBlue;">Hello World</h1>
@@ -57,10 +57,10 @@ Hidden in the depths of Old Sebilis behind an army of Sebilite protectors.
 
 {{<expand "Explorer" "..." >}}
 ## Gather the following items and hand them to the NPC located in the Bazaar:
-- Mask of Secrets (legendary)
-- Sebilite Scale Mask (legendary)
-- Helot Skull Helm (legendary)
-- Helm of Rile (legendary)
+- [Mask of Secrets (legendary)](https://eqdb.net/item/detail/2005772)
+- [Sebilite Scale Mask (legendary)](https://eqdb.net/item/detail/2003201)
+- [Helot Skull Helm (legendary)](https://eqdb.net/item/detail/2001414)
+- [Helm of Rile (legendary)](https://eqdb.net/item/detail/2004578)
 
 {{</expand>}}
 
@@ -86,10 +86,10 @@ Hidden in the depths of Old Sebilis behind an army of Sebilite protectors.
 
 {{<expand "Explorer" "..." >}}
 ## Gather the following items and hand them to the NPC located in the Bazaar:
-- Stronghorn's Horn (Legendary)
-- Shackle of Auctoririas (Legendary)
-- Sword of Pain (Legendary)
-- Siren Hair Earring (Legendary)
+- [Stronghorn's Horn (Legendary)](https://eqdb.net/item/detail/2027200)
+- [Shackle of Auctoritias (Legendary)](https://eqdb.net/item/detail/2004189)
+- [Sword of Pain (Legendary)](https://eqdb.net/item/detail/2025319)
+- [Siren Hair Earring (Legendary)](https://eqdb.net/item/detail/2024741)
 
 {{</expand>}}
 
@@ -113,7 +113,10 @@ Hidden in the depths of Old Sebilis behind an army of Sebilite protectors.
 
 {{<expand "Explorer" "..." >}}
 ## Gather the following items and hand them to the NPC located in the Bazaar:
-- TBD
+- [Blade of Insanity (Legendary)](https://eqdb.net/item/detail/2061227)
+- [Shadel Bandit Ring (Legendary)](https://eqdb.net/item/detail/2028708)
+- [Zekhas' Katar (Legendary)](https://eqdb.net/item/detail/2026826)
+- [Burning Ring (Legendary)](https://eqdb.net/item/detail/2008121)
 
 {{</expand>}}
 
